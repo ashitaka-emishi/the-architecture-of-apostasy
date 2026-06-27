@@ -1,0 +1,55 @@
+---
+title: "The Architecture of Apostasy"
+subtitle: "A collective archive of theological discussion, images, songs, and essays"
+---
+
+This archive gathers theological writing, visual material, drafts, and future song or discussion resources into a public-facing library.
+
+The project currently centers on corrupted worship, institutional religion, sacred time, embodied disorder, political liturgy, and the deeper cosmological conflict behind the inversion of the Imago Dei.
+
+::: {.callout-note appearance="simple"}
+This site is organized for general readers. The Markdown pages are reading copies; the `raw/` folder preserves source PDFs, original drafts, and OCR output.
+:::
+
+## Explore
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Essays
+
+Read the main theological essays and drafts organized by topic.
+
+[Browse essays](essays.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Images
+
+View the gallery of theological diagrams and symbolic images.
+
+[Open the gallery](images.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Songs
+
+A placeholder collection for songs, hymns, lyrics, chants, or other musical material.
+
+[View songs](songs.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Discussions
+
+A home for conversations, notes, debate records, and collected theological exchanges.
+
+[View discussions](discussions.qmd)
+:::
+:::
+
+## Featured Paths
+
+- Start with [Introduction Draft](markdown/introduction-draft.md) for the project’s methodological frame.
+- Read [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the archive’s title essay.
+- Visit [The Gallery](images.qmd) for diagrams and visual theology.
+- Use the [Full Archive](archive.qmd) when looking for a specific document.

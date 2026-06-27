@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+**The Architecture of Apostasy** is a collective archive for theological discussion, images, songs, and essays.
+
+The archive is meant to serve two audiences:
+
+- Readers who want a public, navigable presentation of the material.
+- Editors and contributors who need access to raw sources, drafts, PDFs, OCR output, and images.
+
+## Editorial Posture
+
+The materials are organized as a living archive. Categories are provisional, documents may overlap, and future additions can include songs, dialogues, visual essays, discussion notes, or new theological drafts.
+
+## Repository Structure
+
+- `markdown/`: public reading copies.
+- `raw/`: original files, PDFs, drafts, and OCR.
+- `gallery/`: image assets.
+- `_site/`: generated Quarto site output, ignored by Git.

@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "markdown/*.md"
+  resources:
+    - "gallery/**"
+    - "raw/**/*.pdf"
+    - "raw/images/**/*.txt"
+
+website:
+  title: "The Architecture of Apostasy"
+  description: "A collective archive of theological discussion, images, songs, and essays."
+  site-url: "https://ashitaka-emishi.github.io/the-architecture-of-apostasy"
+  navbar:
+    title: "The Architecture of Apostasy"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: archive.qmd
+        text: Archive
+      - href: essays.qmd
+        text: Essays
+      - href: images.qmd
+        text: Images
+      - href: songs.qmd
+        text: Songs
+      - href: discussions.qmd
+        text: Discussions
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "The Architecture of Apostasy"
+    right: "A public-facing theological archive."
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true

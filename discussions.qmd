@@ -1,0 +1,13 @@
+---
+title: "Discussions"
+---
+
+This section is reserved for theological conversations, notes, disputes, responses, and collective commentary.
+
+No discussion records have been added yet.
+
+## Suggested Future Structure
+
+- Edited discussion summaries for public reading.
+- Raw transcripts or source notes in `raw/`.
+- Topic tags for doctrine, scripture, liturgy, embodiment, politics, images, and sacred time.

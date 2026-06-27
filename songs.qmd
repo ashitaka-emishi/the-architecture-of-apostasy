@@ -1,0 +1,13 @@
+---
+title: "Songs"
+---
+
+This section is reserved for songs, hymns, chants, lyrics, recordings, and other musical or liturgical material.
+
+No song materials have been added yet.
+
+## Suggested Future Structure
+
+- Lyrics or hymn texts as Markdown reading copies.
+- Source files, recordings, drafts, or scans in `raw/`.
+- Public-facing notes about theme, scriptural references, meter, usage, and authorship.

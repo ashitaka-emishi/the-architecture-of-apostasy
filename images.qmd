@@ -1,0 +1,95 @@
+---
+title: "Images"
+---
+
+The image collection contains symbolic theology, visual metaphors, and diagrammatic material. The canonical catalog is also available as [Gallery Catalog](markdown/gallery.md).
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![Starry Road to the Church](gallery/starry-road-to-the-church.jpg)
+
+### Starry Road to the Church
+
+A painted night landscape with travelers moving toward a lit church under a cross-filled sky.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![The Trinitarian Structural Model](gallery/trinitarian-structural-model-of-creation-spirit-and-power.jpg)
+
+### The Trinitarian Structural Model
+
+A dense theological diagram of creation, symbolic order, fallen principalities, redemption, and restoration.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Divine Ordering, Human Response, and Structural Forms](gallery/divine-ordering-human-response-and-structural-forms.jpg)
+
+### Divine Ordering and Human Response
+
+A theological systems diagram linking divine ordering, human response, ecclesia, structural forms, and distortion archetypes.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Dark Mirror with Crown of Thorns](gallery/dark-mirror-with-crown-of-thorns.jpg)
+
+### Dark Mirror with Crown of Thorns
+
+A shadowed hand holds a dark reflective sphere containing a faint face crowned with thorns.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Via Dolorosa, Christ Carrying the Cross](gallery/via-dolorosa-christ-carrying-the-cross.jpg)
+
+### Via Dolorosa
+
+Christ carries the cross through a barren road under storm clouds, surrounded by soldiers and mourning followers.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Cracked Idol with Red Void](gallery/cracked-idol-with-red-void.jpg)
+
+### Cracked Idol with Red Void
+
+A cracked statue-like figure stands among ruins with a dark red hollow in its chest.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Burning Mask and Shadow Figure](gallery/burning-mask-and-shadow-figure.jpg)
+
+### Burning Mask and Shadow Figure
+
+A distressed figure tears at a fractured mask as red flames rise around them.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Crucifixion Under Storm Clouds](gallery/crucifixion-under-storm-clouds.jpeg)
+
+### Crucifixion Under Storm Clouds
+
+A solitary crucifix rises from cracked stone beneath heavy storm clouds.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Three Crosses at Calvary](gallery/three-crosses-at-calvary.jpg)
+
+### Three Crosses at Calvary
+
+A graphic depiction of the crucifixion with three crosses, storm clouds, an INRI inscription, and red streams.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Hammer and Knife with Blood](gallery/hammer-and-knife-with-blood.jpg)
+
+### Hammer and Knife with Blood
+
+Two hands grip a hammer and knife in a stark black, white, and red composition.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Blood-Drenched Crowned Cross](gallery/blood-drenched-crowned-cross.jpg)
+
+### Blood-Drenched Crowned Cross
+
+A crown of thorns hangs on a wooden cross in a dark garden-like setting.
+:::
+:::

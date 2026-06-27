@@ -1,0 +1,44 @@
+:root {
+  --archive-ink: #202124;
+  --archive-muted: #5f6368;
+  --archive-line: #d7d2c8;
+  --archive-warm: #f7f4ee;
+  --archive-accent: #7b2e2f;
+}
+
+body {
+  color: var(--archive-ink);
+}
+
+.navbar {
+  border-bottom: 1px solid var(--archive-line);
+}
+
+.quarto-title-banner {
+  background: var(--archive-warm);
+  color: var(--archive-ink);
+  border-bottom: 1px solid var(--archive-line);
+}
+
+a {
+  color: var(--archive-accent);
+}
+
+.callout-note {
+  border-left-color: var(--archive-accent);
+}
+
+.grid img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border: 1px solid var(--archive-line);
+}
+
+.grid h3 {
+  margin-top: 0.75rem;
+}
+
+.page-footer {
+  border-top: 1px solid var(--archive-line);
+}
