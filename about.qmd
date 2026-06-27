@@ -19,3 +19,7 @@ The materials are organized as a living archive. Categories are provisional, doc
 - `raw/`: original files, PDFs, drafts, and OCR.
 - `gallery/`: image assets.
 - `_site/`: generated Quarto site output, ignored by Git.
+
+## Contributor Information
+
+See the [GitHub and Publishing](github.qmd) page and the repository README for development commands, publishing notes, and source organization.

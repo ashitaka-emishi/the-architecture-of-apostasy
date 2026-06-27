@@ -15,6 +15,22 @@ This site is organized for general readers. The Markdown pages are reading copie
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
+### Core Concepts
+
+Learn the recurring vocabulary that organizes the archive.
+
+[Review core concepts](core-concepts.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Reading Paths
+
+Follow curated entry points through the archive.
+
+[Choose a reading path](reading-paths.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ### Essays
 
 Read the main theological essays and drafts organized by topic.
@@ -51,5 +67,7 @@ A home for conversations, notes, debate records, and collected theological excha
 
 - Start with [Introduction Draft](markdown/introduction-draft.md) for the project’s methodological frame.
 - Read [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the archive’s title essay.
+- Use [Core Concepts](core-concepts.qmd) to learn the recurring vocabulary.
+- Use [Reading Paths](reading-paths.qmd) to choose an entry point.
 - Visit [The Gallery](images.qmd) for diagrams and visual theology.
 - Use the [Full Archive](archive.qmd) when looking for a specific document.

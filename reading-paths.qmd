@@ -1,0 +1,55 @@
+---
+title: "Reading Paths"
+---
+
+Use these paths depending on what kind of entry point you want.
+
+## Public Orientation
+
+Start here for the broadest introduction to the project.
+
+1. [Introduction Draft](markdown/introduction-draft.md)
+2. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+3. [Gallery Catalog](markdown/gallery.md)
+
+## Apostasy and Religious Systems
+
+This path follows the critique of corrupted worship, institutional religion, and externalized holiness.
+
+1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+2. [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
+3. [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
+4. [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
+
+## Logos, Disease, and the Body
+
+This path follows the archive's embodied theology of disorder, addiction, hypocrisy, care, and restoration.
+
+1. [Disease Logos](markdown/disease-logos.md)
+2. [Disease Logos and Care for the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
+3. [From Hypocrisy to Disease Logos](markdown/from-hypocrisy-to-disease-logos.md)
+4. [The Chemical Temple](markdown/the-chemical-temple.md)
+
+## Sacred Time and Christian Liberty
+
+This path focuses on Christmas, biblical feasts, Protestant critique, and the passage from calendar shadow to Christological substance.
+
+1. [Pagan Origins of Christmas](markdown/pagan-origins-of-christmas.md)
+2. [Protestantism and Christmas](markdown/protestantism-and-christmas.md)
+3. [The True Timeline of Messiah](markdown/the-true-timeline-of-messiah.md)
+4. [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
+
+## Cosmology and the Antediluvian Frame
+
+This path follows the archive's most mythic and cosmological material.
+
+1. [Introduction Draft](markdown/introduction-draft.md)
+2. [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md)
+3. [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md)
+4. [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md)
+
+## Public Liturgy and Politics
+
+This path reads national polarization through the language of fallen ritual, speech, desire, and political worship.
+
+1. [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)

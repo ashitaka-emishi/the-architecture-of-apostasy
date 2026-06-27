@@ -20,6 +20,10 @@ website:
         text: Home
       - href: archive.qmd
         text: Archive
+      - href: core-concepts.qmd
+        text: Core Concepts
+      - href: reading-paths.qmd
+        text: Reading Paths
       - href: essays.qmd
         text: Essays
       - href: images.qmd
@@ -30,6 +34,8 @@ website:
         text: Discussions
       - href: about.qmd
         text: About
+      - href: github.qmd
+        text: GitHub
   page-footer:
     left: "The Architecture of Apostasy"
     right: "A public-facing theological archive."

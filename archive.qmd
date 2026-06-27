@@ -6,6 +6,8 @@ This page is the public index of available reading copies and source collections
 
 ## Primary Collections
 
+- [Core concepts](core-concepts.qmd)
+- [Reading paths](reading-paths.qmd)
 - [Essays and drafts](essays.qmd)
 - [Images and visual theology](images.qmd)
 - [Songs](songs.qmd)
