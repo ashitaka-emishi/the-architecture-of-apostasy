@@ -1,0 +1,74 @@
+volumes:
+  - id: volume-1
+    title: The Architecture of Apostasy
+    purpose: Establish the historical and theological pattern by which holy gifts become idols.
+    status: active
+    chapters:
+      - Nehushtan and the Transmutation of the Token
+      - Israel and the Church as Mirrored Timelines
+      - Law as Mirror and Tutor
+      - Laodicea and Institutional Pruning
+      - Grace at the End of Self-Justification
+  - id: volume-2
+    title: The Grammar of Apostasy
+    purpose: Define the ontology, method, canonical terms, agent workflow, schemas, and validation rules.
+    status: scaffolded
+    chapters:
+      - Constitutional Authority
+      - Formal Ontology
+      - Theological Methodology
+      - Agent Specifications
+      - Validation and Versioning
+  - id: volume-3
+    title: The Logos and the Powers
+    purpose: Examine spiritual and institutional powers as created governors and fallen claimants.
+    status: planned
+    chapters:
+      - Powers in Scripture
+      - Powers in Historical Theology
+      - Institutional Embodiment
+      - Political and Technological Powers
+      - Christ Disarming the Powers
+  - id: volume-4
+    title: Fallen Liturgies
+    purpose: Map concrete social rituals that form people into false worship.
+    status: planned
+    chapters:
+      - War as a Fallen Liturgy
+      - Politics as a Fallen Liturgy
+      - Consumerism as Worship
+      - Entertainment as Formation
+      - Technology as Liturgy
+      - Money and Mammon
+  - id: volume-5
+    title: The Chemical Temple
+    purpose: Develop the embodied theology of desire, addiction, trauma, attention, and healing.
+    status: active
+    chapters:
+      - Body as Temple
+      - Attention and Desire
+      - Addiction and Counterfeit Comfort
+      - Hypocrisy and Divided Embodiment
+      - Care for the Long Afflicted
+      - Spirit-Led Re-Formation
+  - id: volume-6
+    title: Sacred Time and Shadow
+    purpose: Study feast, calendar, Sabbath, Christmas, Christian liberty, and the movement from shadow to substance in Christ.
+    status: active
+    chapters:
+      - Biblical Feasts
+      - Christmas Debates
+      - Protestant Liberty
+      - Sacred Time as Formation
+      - Christ as Substance
+  - id: volume-7
+    title: Restoration
+    purpose: Develop the constructive vision of true worship, healed bodies, restored institutions, and resurrection hope.
+    status: planned
+    chapters:
+      - Christ the True Sacrifice
+      - Church as True Liturgy
+      - Marriage and Household as Holy Liturgy
+      - Discernment
+      - Repentance and Mercy
+      - New Creation

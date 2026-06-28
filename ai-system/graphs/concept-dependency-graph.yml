@@ -1,0 +1,68 @@
+nodes:
+  - id: god
+    type: concept
+    label: God
+  - id: logos
+    type: concept
+    label: Logos
+  - id: creation
+    type: concept
+    label: Creation
+  - id: created-good
+    type: concept
+    label: Created Good
+  - id: principalities
+    type: concept
+    label: Principalities
+  - id: fall-of-the-powers
+    type: concept
+    label: Fall of the Powers
+  - id: disease-logos
+    type: concept
+    label: Disease Logos
+  - id: fallen-liturgy
+    type: concept
+    label: Fallen Liturgy
+  - id: chemical-temple
+    type: concept
+    label: Chemical Temple
+  - id: sacrifice
+    type: concept
+    label: Sacrifice
+  - id: restoration
+    type: concept
+    label: Restoration
+edges:
+  - source: god
+    target: logos
+    type: defines
+  - source: logos
+    target: creation
+    type: defines
+  - source: creation
+    target: created-good
+    type: defines
+  - source: created-good
+    target: principalities
+    type: depends_on
+  - source: principalities
+    target: fall-of-the-powers
+    type: depends_on
+  - source: fall-of-the-powers
+    target: disease-logos
+    type: defines
+  - source: disease-logos
+    target: fallen-liturgy
+    type: embodies
+  - source: fallen-liturgy
+    target: chemical-temple
+    type: forms
+  - source: chemical-temple
+    target: sacrifice
+    type: depends_on
+  - source: restoration
+    target: sacrifice
+    type: restores
+  - source: restoration
+    target: created-good
+    type: restores
