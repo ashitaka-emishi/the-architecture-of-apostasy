@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/chapter.schema.json",
+  "title": "Grammar of Apostasy Chapter Metadata",
+  "type": "object",
+  "required": [
+    "title",
+    "status",
+    "volume",
+    "canonical_terms",
+    "created_good",
+    "governing_power",
+    "disease_logos",
+    "fallen_liturgies",
+    "christological_resolution",
+    "claim_types",
+    "sources",
+    "validation"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": ["stub", "draft", "review", "canonical", "deprecated"]
+    },
+    "volume": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_terms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "created_good": {
+      "type": "string",
+      "minLength": 1
+    },
+    "governing_power": {
+      "type": "string",
+      "minLength": 1
+    },
+    "disease_logos": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fallen_liturgies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "chemical_temple_formation": {
+      "type": "string"
+    },
+    "sacrificial_system": {
+      "type": "string"
+    },
+    "christological_resolution": {
+      "type": "string",
+      "minLength": 1
+    },
+    "claim_types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "biblical",
+          "doctrinal",
+          "historical",
+          "interpretive",
+          "synthetic",
+          "speculative",
+          "pastoral"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "kind", "locator"],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": ["scripture", "primary", "secondary", "contemporary", "internal"]
+          },
+          "locator": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "validation": {
+      "type": "object",
+      "required": ["ontology", "citations", "christological_resolution", "human_editor"],
+      "properties": {
+        "ontology": {
+          "type": "boolean"
+        },
+        "citations": {
+          "type": "boolean"
+        },
+        "christological_resolution": {
+          "type": "boolean"
+        },
+        "human_editor": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,147 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/agent-output.schema.json",
+  "title": "Grammar of Apostasy Agent Output",
+  "type": "object",
+  "required": [
+    "agent",
+    "task",
+    "inputs",
+    "summary",
+    "findings",
+    "claim_classifications",
+    "citations",
+    "risks",
+    "open_questions",
+    "recommended_next_action"
+  ],
+  "properties": {
+    "agent": {
+      "type": "string",
+      "enum": [
+        "biblical",
+        "historical_theology",
+        "philosophy",
+        "psychology",
+        "anthropology",
+        "systems_mapping",
+        "diagram",
+        "critique",
+        "editorial",
+        "canonical_integration"
+      ]
+    },
+    "task": {
+      "type": "string",
+      "minLength": 1
+    },
+    "inputs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["kind", "reference"],
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": ["chapter", "concept", "source", "passage", "question", "file", "other"]
+          },
+          "reference": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["claim", "support", "confidence"],
+        "properties": {
+          "claim": {
+            "type": "string",
+            "minLength": 1
+          },
+          "support": {
+            "type": "string",
+            "minLength": 1
+          },
+          "confidence": {
+            "type": "string",
+            "enum": ["low", "medium", "high"]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "claim_classifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["claim", "classification"],
+        "properties": {
+          "claim": {
+            "type": "string",
+            "minLength": 1
+          },
+          "classification": {
+            "type": "string",
+            "enum": [
+              "biblical",
+              "doctrinal",
+              "historical",
+              "interpretive",
+              "synthetic",
+              "speculative",
+              "pastoral"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "locator"],
+        "properties": {
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "risks": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recommended_next_action": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": false
+}
