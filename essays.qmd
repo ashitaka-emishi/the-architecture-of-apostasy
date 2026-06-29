@@ -36,6 +36,8 @@ The categories below are provisional. Many essays belong in more than one catego
 ## Political Theology
 
 - [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
+- [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
+- [Gettysburg National Military Park as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
 
 ## Literary and Mythopoetic Theology
 
