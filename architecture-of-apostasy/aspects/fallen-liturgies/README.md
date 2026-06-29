@@ -12,3 +12,7 @@ Initial topics:
 5. Education.
 6. Technology.
 7. Money and Mammon.
+
+## Cross-Aspect Drafts
+
+- [Gettysburg National Military Park as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)

@@ -9,3 +9,7 @@ Initial questions:
 2. What patterns repeat across Israel and Church history?
 3. How do religious institutions use grace as material for self-justification?
 4. How does pruning function as mercy?
+
+## Cross-Aspect Drafts
+
+- [Gettysburg National Military Park as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)
