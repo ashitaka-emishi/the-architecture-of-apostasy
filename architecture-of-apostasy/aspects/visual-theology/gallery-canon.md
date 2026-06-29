@@ -77,6 +77,7 @@ An image is ready for public-canonical use when:
 | Dark Mirror with Crown of Thorns | symbolic-art | Apostasy and Religious Systems | Scapegoat, false reflection, Christological exposure |
 | Via Dolorosa, Christ Carrying the Cross | devotional-image | Restoration | Christological Resolution, Sacrifice, Restoration |
 | Cracked Idol with Red Void | warning-image | Apostasy and Religious Systems | Idolatry, Nehushtan, Disease Logos |
+| The Ungraspable Light | chapter-illustration | Apostasy and Religious Systems | Beatific Vision, Idolatry, Representation, Uncreated Light |
 | Burning Mask and Shadow Figure | warning-image | Chemical Temple | Hypocrisy, Chemical Temple, false self |
 | Crucifixion Under Storm Clouds | devotional-image | Restoration | Sacrifice, Judgment, Mercy |
 | Three Crosses at Calvary | devotional-image | Restoration | Cross, Sacrifice, Christological Resolution |

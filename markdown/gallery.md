@@ -54,6 +54,15 @@
 - Notes: No readable OCR text detected.
 - Comments:
 
+## The Ungraspable Light
+
+![The Ungraspable Light](../gallery/the-ungraspable-light.jpg)
+
+- File: `the-ungraspable-light.jpg`
+- Description: A stained-glass composition centered on radiant white light, with human figures reaching upward, an idol below, and a monk-like theologian in surrender before the uncreated light.
+- Notes: Source and inspection notes are available in `../raw/images/the-ungraspable-light.txt`.
+- Comments: Visual companion for "The Ungraspable Light," connecting John 1:5, idolatry, Aquinas's silence, and the failure of human representation before divine glory.
+
 ## Burning Mask and Shadow Figure
 
 ![Burning Mask and Shadow Figure](../gallery/burning-mask-and-shadow-figure.jpg)

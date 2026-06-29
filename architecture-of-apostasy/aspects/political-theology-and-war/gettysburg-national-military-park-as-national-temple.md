@@ -3,7 +3,6 @@
 Status: Draft
 Aspect: Political Theology and War
 Related aspects: Fallen Liturgies, Logos and Powers, Apostasy and Religious Systems, The Chemical Temple, Visual Theology
-Source note: Adapted from `gettysburg_national_temple_deconstruction.md`.
 
 ## Scripture
 
@@ -12,10 +11,13 @@ Primary texts for development:
 - Isaiah 2:2-4
 - Micah 4:1-5
 - John 15:13
+- John 19:31-42
 - Romans 13:1-7
 - 1 Corinthians 1:18-25
+- 1 Corinthians 11:23-26
 - Colossians 2:13-15
 - Hebrews 13:11-14
+- Revelation 5:6-14
 - Revelation 13:1-10
 - Revelation 21:22-27
 
@@ -44,6 +46,15 @@ visitor becomes pilgrim.
 The central work of the national temple is to transform broken bodies into
 national meaning.
 
+Scripture gives both the reason this matters and the limit that must be placed
+around it. The prophets imagine the nations streaming toward the Lord's mountain
+only when war itself is judged and swords are beaten into plowshares (Isaiah
+2:2-4; Micah 4:1-5). The New Testament recognizes public authority as a real
+created order (Romans 13:1-7), but it also unmasks beastly political power when
+the state demands worship and consumes the saints (Revelation 13:1-10). A
+national temple must therefore be read with double attention: gratitude for real
+goods, and vigilance against political worship.
+
 ## Created Good
 
 The created goods at stake are real and must be named before the corruption is
@@ -61,6 +72,13 @@ The problem is not that Gettysburg remembers. The problem emerges when memory
 becomes a liturgy that can honor the dead while hiding what was done to their
 bodies, and when national rebirth becomes a sacred meaning strong enough to
 absorb the victim.
+
+Biblical memory is never merely decorative. Israel is commanded to remember
+deliverance, judgment, wilderness, exile, and mercy in ways that tell the truth
+about both God and human unfaithfulness. Christian memory reaches its center in
+the Eucharistic remembrance of the body given and blood poured out, where the
+victim is not hidden beneath the community's meaning but remains the center of
+its worship (1 Corinthians 11:23-26).
 
 ## Disease Logos
 
@@ -80,6 +98,12 @@ Its claims may include:
 This Disease Logos does not have to be cynical. It can be morally serious,
 historically informed, and genuinely reverent. Its danger is subtler: it
 transforms the body into symbol before the body has finished testifying.
+
+Revelation 13 is the necessary warning here. Beastly power does not only coerce;
+it produces public imagination, loyalty, fear, imitation, and worship. The
+Disease Logos of the national temple becomes beast-like whenever the nation's
+continuing life is treated as the sacred object that justifies the absorption of
+broken bodies into its story.
 
 ## Fallen Liturgy
 
@@ -111,6 +135,13 @@ The temple may honor the dead while hiding what was done to them. It may
 preserve sacrifice while obscuring mutilation. It may sanctify war by making its
 consequences emotionally manageable.
 
+The prophets refuse this kind of management. Isaiah and Micah do not imagine
+the final sanctification of war memory, but the Lord's judgment of war's
+instruments and the conversion of weapons into tools of cultivation (Isaiah
+2:4; Micah 4:3). Any liturgy of national memory that cannot be interrupted by
+that prophetic horizon risks teaching reverence for sacrifice without longing
+for the end of the sacrificial system.
+
 ## Place in the Architecture of Apostasy
 
 Gettysburg belongs in the architecture of apostasy as a case study in political
@@ -136,6 +167,12 @@ The pattern can be mapped this way:
 The national temple becomes apostate when it allows the nation's symbolic body
 to outshine the wounded persons from whom its sacredness is drawn.
 
+Colossians identifies the cross as the place where the rulers and authorities
+are exposed and disarmed (Colossians 2:13-15). That matters for Gettysburg
+because political powers are not judged only when they are obviously wicked.
+They are also judged when their most solemn and beautiful forms make victims
+disappear into the honor of the whole.
+
 ## The Battlefield as Sacred Ground
 
 The battlefield is treated as hallowed land because blood was shed there.
@@ -155,6 +192,12 @@ grow. Roads organize movement. Fences are rebuilt. Cannon are arranged. The
 field becomes visitable.
 
 Sanitizing movement: battlefield slaughter becomes sacred ground.
+
+The prophetic vision of holy ground moves in the opposite direction: nations are
+taught by God when they cease learning war (Isaiah 2:3-4). Gettysburg may be
+hallowed by blood, but Christian interpretation cannot let bloodshed itself
+become the source of holiness. The ground can be honored only if it also
+testifies against the necessity of such ground.
 
 ## The Cemetery as Crypt and Inner Sanctum
 
@@ -178,6 +221,12 @@ peacefully beneath the earth.
 
 Sanitizing movement: scattered human fragments become ordered national graves.
 
+Christian burial honors the body because the body is not disposable material for
+the meaning of the state. John lingers over the burial of Jesus after the
+piercing of his body, refusing to let the crucified one remain an abstraction
+(John 19:31-42). The cemetery's ordered rows are therefore truthful only when
+they remain accountable to the bodily reality they cover.
+
 ## The Monument as Icon, Reliquary, and Doctrinal Marker
 
 The monuments at Gettysburg identify regiments, states, commanders, and places
@@ -198,6 +247,12 @@ The monument idealizes the soldier. It recovers him from mutilation by
 presenting him in symbolic wholeness.
 
 Sanitizing movement: mutilated bodies become heroic figures in stone and bronze.
+
+The danger is not honor itself. Scripture can honor courage and self-giving
+love; Jesus says there is no greater love than laying down one's life for one's
+friends (John 15:13). The danger comes when that saying is detached from the
+crucified Lord who exposes the powers. Self-giving love must not become a
+general permission slip for the systems that spend the bodies of the young.
 
 ## The Gettysburg Address as Consecrating Scripture
 
@@ -221,6 +276,12 @@ transformation carries a cost: the destroyed body disappears behind the redeemed
 national body.
 
 Sanitizing movement: bodily destruction becomes consecrating sacrifice.
+
+Here John 15:13 must be handled with fear and trembling. The verse can illuminate
+real courage, but it can also be conscripted by national myth if the friend's
+love is transferred too quickly to the state's project. In the Gospel, the one
+who lays down his life also exposes the world's hatred and calls his disciples
+out of its logic (John 15:18-25).
 
 ## The Park Route as Pilgrimage
 
@@ -261,6 +322,12 @@ The map makes the battle intelligible by turning flesh into geometry.
 Sanitizing movement: wounded and dying bodies become lines, arrows, and tactical
 diagrams.
 
+This is the temptation of a view from above. Revelation exposes imperial power
+not by accepting its map of history, but by showing the Lamb who was slain at
+the center of reality (Revelation 5:6-14). A Christian reading of the map must
+therefore keep returning from tactical order to the wounded bodies hidden inside
+the arrows.
+
 ## The Museum as Catechesis
 
 The museum teaches the visitor how to understand the site. It provides causes,
@@ -282,6 +349,11 @@ educational, contained, lit, labeled, and safe.
 Sanitizing movement: instruments of bodily destruction become historical
 artifacts.
 
+This curation should be judged by whether it teaches lament. The cross does not
+permit the instruments of death to become neutral objects. It reveals what
+imperial tools do to flesh and how God judges the powers through the victim they
+condemn (Colossians 2:13-15; Hebrews 13:11-13).
+
 ## The Flag as Sacred Emblem of the Collective Body
 
 The flag represents the collective body of the nation. It is cloth, but it is
@@ -299,6 +371,12 @@ The flag gathers the scattered dead into one symbolic organism.
 
 Sanitizing movement: perforated individual bodies become the immortal body of
 the nation.
+
+Revelation's critique of empire is especially sharp at this point. Beastly power
+requires a visible mark of belonging and treats refusal as a threat to public
+order (Revelation 13:16-17). The flag is not therefore evil in itself, but it
+becomes liturgically dangerous when the national body asks for the loyalty that
+belongs only to God.
 
 ## Cannon, Walls, Fences, and Terrain as Relic-Forms
 
@@ -394,6 +472,12 @@ partial remains.
 
 Sanitizing movement: the killing field becomes protected sacred landscape.
 
+Preservation becomes truthful when it preserves not only land and sightlines,
+but also moral interruption. Hebrews calls the faithful outside the camp to the
+place of reproach (Hebrews 13:11-14). A preserved battlefield should not only
+bring the visitor into national inheritance; it should also bring the visitor
+outside the camp, toward the shame and cost hidden beneath inheritance.
+
 ## The Anniversary Ceremony as Liturgy
 
 Anniversary ceremonies renew the sacred meaning of the site. Through speeches,
@@ -412,6 +496,12 @@ wholeness.
 The ceremony renews reverence. It also renews the veil.
 
 Sanitizing movement: mutilation becomes solemn public remembrance.
+
+The biblical test of ceremony is whether it produces truth, justice, repentance,
+and hope. The prophets repeatedly reject solemn assemblies when they preserve
+public reverence without righteousness. A ceremony at Gettysburg can honor the
+dead, but it becomes a fallen liturgy if it renews sacred feeling without
+renewing judgment against the violence that made the ceremony necessary.
 
 ## The Souvenir as Portable Relic
 
@@ -459,6 +549,11 @@ judge them.
 Sanitizing movement: the broken body becomes "the fallen," "the honored dead,"
 and "national rebirth."
 
+The crucified Christ is the decisive counter-form. He suffers outside the gate,
+not in the center of imperial honor (Hebrews 13:11-13). He is pierced, buried,
+and raised without being absorbed into the meaning system that condemned him
+(John 19:31-42). The victim remains visible enough to judge the city.
+
 ## The Chemical Temple
 
 Gettysburg trains the Chemical Temple by giving the visitor a bodily script for
@@ -478,6 +573,12 @@ allowing lament to interrupt solemn beauty. The visitor would feel the field not
 only as sacred ground, but as a killing field; not only as national inheritance,
 but as the place where persons were torn apart and then translated into meaning.
 
+Such a pilgrimage would train the Chemical Temple toward prophetic peace. The
+body would learn not only gratitude, but also the longing of Isaiah and Micah:
+that nations would come under God's instruction and stop learning war (Isaiah
+2:4; Micah 4:3). The nervous system would be formed not by managed reverence
+alone, but by lament moving toward the peace of Christ.
+
 ## Relation to the Monumental Cross
 
 Gettysburg is an essential analogue for the monumental cross.
@@ -494,6 +595,12 @@ sign after the wound beneath it has been made manageable.
 
 The crucified cross judges the national temple by refusing to let the victim be
 absorbed into the sacred order that required him.
+
+This is why the link between Gettysburg and the monumental cross matters. Paul
+does not preach a useful death absorbed into a stable order. He preaches Christ
+crucified as the scandal that exposes false wisdom and false power (1
+Corinthians 1:18-25). The crucified cross interrupts every temple, including
+national temples, that turns the broken body into a necessary offering.
 
 ## Concluding Thesis
 
@@ -532,6 +639,11 @@ violence beautiful.
 
 The resurrection is not the final success of the monument. It is God's
 vindication of the one whom the powers attempted to convert into a useful death.
+
+Revelation's holy city has no temple because God and the Lamb are its temple
+(Revelation 21:22-27). That final vision relativizes every national temple. No
+state, battlefield, cemetery, speech, or monument can bear ultimate sacredness.
+All memory must pass through the Lamb who was slain and raised.
 
 To remember Gettysburg truthfully is therefore to let Christ keep the mutilated
 body visible inside the national temple: not to desecrate the dead, but to

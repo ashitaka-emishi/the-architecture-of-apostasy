@@ -23,6 +23,16 @@ The monumental cross is the cross after power has buried the body beneath meanin
 The crucified cross is what returns when the wounded body of Christ is allowed to
 interrupt the monument.
 
+This distinction begins with Scripture's refusal to make the cross merely
+decorative. Mark's passion narrative does not present an emblem but a public
+execution: Jesus is mocked by soldiers, stripped, crowned in parody, exposed
+between criminals, and watched by bystanders who turn his suffering into
+religious taunt (Mark 15:16-32). John keeps the same bodily realism before the
+reader: thirst, pierced flesh, blood and water, and a mother standing near the
+place of death (John 19:25-37). Paul then insists that this event remains a
+scandal to religious wisdom and political power, not a symbol easily absorbed
+into either (1 Corinthians 1:18-25).
+
 War monuments often sanitize the broken and mutilated body of the soldier by
 placing it under stone, bronze, flags, inscriptions, and heroic poses. The dead
 soldier is not denied. He is translated. His torn body is converted into public
@@ -65,6 +75,13 @@ It is not false simply because it is beautiful, public, or crafted. Beauty can
 witness truly. Public signs can honor the Lord. The danger is more specific: the
 monumental cross becomes false when its beauty learns to hide the body.
 
+The New Testament does not let the cross become a placeless religious object.
+Hebrews says Jesus suffered outside the gate and calls the faithful to go to him
+there, bearing his reproach (Hebrews 13:11-13). The cross is therefore not only
+a sign to be installed at the center of respectable life. It is also the place
+outside the camp, where holiness appears among the shamed, the condemned, and
+the excluded.
+
 The monumental cross:
 
 - preserves the sign while managing the wound
@@ -85,6 +102,14 @@ The crucified cross is the cross restored to the event it signifies: a condemned
 body, public torture, religious complicity, imperial spectacle, failed
 discipleship, maternal grief, and divine presence among the disposed-of.
 
+The Gospels force all of these elements into view. Pilate represents Roman order
+and imperial competence. The soldiers represent the machinery of state violence.
+The chief priests and scribes represent religious speech turned against the one
+it should have recognized. The disciples' flight reveals the failure of the
+community around Jesus. The women at the cross and the mother of Jesus preserve
+the grief that public theology often tries to manage (Mark 15:40-41; John
+19:25-27).
+
 The crucified cross is not merely a more graphic object. It is not solved by
 adding blood, bruises, and agony as aesthetic intensity. It is the cross before
 the wound has been translated into safe meaning.
@@ -104,6 +129,13 @@ The crucified cross does not say, "Look how meaningful suffering is."
 
 It says: this is what the world does to God when God appears among the
 disposable.
+
+The crucified cross also says that God does not abandon the disposable to the
+systems that consume them. Colossians names the cross as the place where God
+disarms the rulers and authorities (Colossians 2:13-15). Revelation shows the
+enthroned victor as a Lamb who still appears as slain (Revelation 5:6-14). The
+wound is not erased by glory. Glory reveals the wound as the judgment of the
+powers and the beginning of restoration.
 
 ## War Monuments as Analogy
 
@@ -126,6 +158,12 @@ The monumental cross works by a similar grammar. The body of Christ is not
 necessarily denied. It is translated into a sign that can be hosted by the same
 forms of power Christ exposes.
 
+This is why Paul refuses to let the cross become another token of religious
+prestige or civic wisdom. The word of the cross is folly to the age's systems of
+honor precisely because it reveals God's power in the place those systems mark
+as defeat (1 Corinthians 1:18-25). When a culture can display the cross without
+being disturbed by the crucified, the sign has begun to function monumentally.
+
 ## Disease Logos
 
 The Disease Logos of the monumental cross is the false story that sacred violence
@@ -146,6 +184,12 @@ It can speak fluent Christian language: sacrifice, atonement, glory, victory,
 peace, obedience, and love. But these words become diseased when they detach the
 cross from the tortured body and from the powers that performed the torture.
 
+Isaiah's servant song helps guard this distinction. The servant is not honored
+because violence is beautiful. He is despised, rejected, wounded, and numbered
+with transgressors; the text does not let the reader bypass disfigurement on the
+way to meaning (Isaiah 52:13-53:12). Christian interpretation may speak of
+atonement, but it may not do so by making the suffering body disappear.
+
 The monumental cross is therefore a Nehushtan-pattern: a holy sign detached from
 the living God and treated as a controllable object of power.
 
@@ -154,6 +198,13 @@ the living God and treated as a controllable object of power.
 The monumental cross belongs near the center of the architecture of apostasy
 because it permits the church to keep the sign of the murdered God while making
 peace with the murderers.
+
+Colossians makes this compromise impossible. The cross is not only the place
+where sins are forgiven; it is the place where the powers are exposed and
+disarmed (Colossians 2:13-15). A church that uses the cross to bless domination,
+war, coercive order, or respectable cruelty has not merely misunderstood a
+symbol. It has attempted to recruit the sign of Christ's victory into the
+service of the powers Christ judged.
 
 The pattern can be mapped this way:
 
@@ -208,6 +259,13 @@ the body. It asks the body to remain present before:
 To face the crucified cross is to let the nervous system be trained by truth
 rather than by managed reverence.
 
+This is not a demand for morbid fascination. The Gospels do not linger over
+gore, but neither do they permit spiritualized avoidance. They give enough
+bodily detail to prevent abstraction: thirst, naked exposure, mocking,
+abandonment, piercing, blood, water, burial (Mark 15:24-39; John 19:28-42). The
+body learns truthful worship by remaining present to what love endured and what
+power did.
+
 ## Visual Theology
 
 The visual question is not simply whether a cross has a corpus or whether the
@@ -217,6 +275,12 @@ A crucifix can become monumental if the body is aestheticized into pious
 distance. An empty cross can witness truly if it remains accountable to the
 crucified and risen body of Christ. The issue is not one visual formula. The
 issue is whether the image allows the wound to accuse, reveal, and restore.
+
+Revelation's vision of the Lamb is decisive for visual theology. The victorious
+one is worshiped as the one who was slain (Revelation 5:6-14). Christian art is
+therefore not required to reproduce violence graphically, but it is required to
+remain accountable to the slain Lamb. An image fails when it makes glory
+available without the wound or makes the wound available without resurrection.
 
 Questions for visual discernment:
 
@@ -229,9 +293,9 @@ Questions for visual discernment:
 
 ## What It Means to Face the Crucified Cross
 
-The conclusion of the essay should not be a question about why the cross has
-been made pretty. That question matters, but it remains diagnostic. The deeper
-question is constructive and penitential:
+The question is not only why the cross has been made pretty. That question
+matters, but it remains diagnostic. The deeper question is constructive and
+penitential:
 
 What does it look like to face and accept the crucified cross?
 
@@ -259,27 +323,42 @@ sacrifice is exposed, where the powers are disarmed, where the victim forgives
 without beautifying the violence, and where God begins the restoration of the
 world from inside the wound.
 
-## Draft Lines to Develop
+## Toward a Crucified Imagination
 
-The monumental cross is the cross after power has buried the body beneath
-meaning.
+A church that accepts the crucified cross must recover a crucified imagination.
+It must learn to recognize the difference between reverence and concealment,
+between beauty and anesthesia, between atonement and abstraction. It must ask
+whether its architecture, preaching, politics, national symbols, and devotional
+habits allow the body of Jesus to interrupt them.
 
-The crucified cross is what returns when the body is allowed to interrupt the
-monument.
+This begins with Scripture's own grammar. The cross is shame before it is
+ornament, exposure before it is emblem, judgment before it is cultural identity.
+Jesus is led outside the gate; the faithful are called to meet him there
+(Hebrews 13:11-13). The condemned one becomes the revelation of God's wisdom
+against the wisdom of the age (1 Corinthians 1:18-25). The powers are disarmed
+not by being flattered but by being exposed at the place where they appear most
+competent (Colossians 2:13-15).
 
-The monumental cross does not abolish the crucifixion. It curates it.
+To face the crucified cross is therefore to refuse every liturgy that turns
+victims into usable meaning too quickly. It is to stand near Mary, the beloved
+disciple, the watching women, and the condemned body of Jesus without rushing to
+make the scene useful (John 19:25-27). It is to receive forgiveness without
+letting forgiveness become a veil over the violence being forgiven. It is to
+worship the Lamb who was slain without turning the slain Lamb into a monument
+for the powers (Revelation 5:6-14).
 
-Apostasy does not have to remove the cross. It can polish it.
+The monumental cross does not abolish the crucifixion. It curates it. Apostasy
+does not have to remove the cross. It can polish it.
 
-The symbol is precisely what has been too easily recovered.
+The crucified cross returns when the body is allowed to interrupt the monument.
 
-The question is what it would mean to face the crucified cross: to let the
-tortured body of God interrupt our theology, our politics, our nervous systems,
-and our ceremonies of innocence.
+What does it look like to accept a cross that has not yet been made useful? It
+looks like repentance before the tortured body of Christ. It looks like refusing
+to bless the systems that require disposable bodies. It looks like worship
+formed by the slain and risen Lamb, where glory does not erase the wound and the
+wound does not end in despair.
 
-What does it look like to accept a cross that has not yet been made useful?
-
-## Research and Development Notes
+## Further Development Notes
 
 Potential conversation partners:
 

@@ -34,6 +34,7 @@ This page is the public index of available reading copies and source collections
 - [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
 - [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
 - [The True Timeline of Messiah](markdown/the-true-timeline-of-messiah.md)
+- [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 - [Gallery Catalog](markdown/gallery.md)
 
