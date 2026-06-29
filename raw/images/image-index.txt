@@ -9,3 +9,5 @@
 ../../gallery/three-crosses-at-calvary.jpg	Three Crosses at Calvary
 ../../gallery/hammer-and-knife-with-blood.jpg	Hammer and Knife with Blood
 ../../gallery/blood-drenched-crowned-cross.jpg	Blood-Drenched Crowned Cross
+../../gallery/monumental-cross.png	Monumental Cross
+../../gallery/crucified-cross.png	Crucified Cross

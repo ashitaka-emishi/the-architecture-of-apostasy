@@ -1,0 +1,22 @@
+Title: Monumental Cross
+Public file: ../../gallery/monumental-cross.png
+Generated: 2026-06-29
+Source: AI-generated concept image for "The Monumental Cross and the Crucified Cross"
+
+Prompt:
+
+Use case: stylized-concept
+Asset type: theological essay concept image
+Primary request: Create an image representing "the monumental cross."
+Scene/backdrop: A vast civic plaza at dusk, with a towering polished stone cross integrated into a war memorial. The cross stands on a high plinth, surrounded by carved soldier reliefs, flags, wreaths, eternal-flame-like light, and formal symmetrical architecture. Human bodies and wounds are absent, hidden beneath monumentality.
+Subject: The cross as public monument, clean, monumental, solemn, beautiful, controlled, and politically ceremonial.
+Style/medium: cinematic painterly realism, high-detail editorial concept art, dignified and serious.
+Composition/framing: wide vertical composition, low angle looking up at the cross, strong central symmetry, small distant figures for scale, no readable text.
+Lighting/mood: cool dusk light with warm ceremonial uplighting; reverent but uneasy, beautiful yet emotionally managed.
+Color palette: gray stone, bronze, muted flags, cold blue dusk, restrained gold highlights.
+Materials/textures: polished stone, bronze relief, marble steps, ceremonial wreaths.
+Constraints: No readable text, no logos, no modern brand marks, no graphic violence. The image should communicate the cross made into civic monument and sanitized public memory.
+
+Inspection notes:
+
+No readable text detected. Image depicts a polished cross as a civic war memorial with ceremonial lighting, wreaths, soldier reliefs, and formal public architecture.

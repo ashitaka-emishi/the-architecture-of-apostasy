@@ -1,0 +1,22 @@
+Title: Crucified Cross
+Public file: ../../gallery/crucified-cross.png
+Generated: 2026-06-29
+Source: AI-generated concept image for "The Monumental Cross and the Crucified Cross"
+
+Prompt:
+
+Use case: stylized-concept
+Asset type: theological essay concept image
+Primary request: Create an image representing "the crucified cross."
+Scene/backdrop: Golgotha outside the city under a darkening sky, rough earth, scattered tools of execution, distant Roman silhouettes, and a small group of grieving witnesses at the edge of the scene. No heroic architecture, no monument, no polished stone.
+Subject: A rough wooden cross with the crucified Christ present as an exposed, suffering human body. The scene should emphasize public shame, vulnerability, abandonment, and divine presence among the condemned.
+Style/medium: reverent painterly realism, serious theological concept art, historically grounded but not archaeological, emotionally direct.
+Composition/framing: vertical composition, the rough cross slightly off-center, low eye-level viewpoint close enough to feel embodied but not sensational; witnesses and soldiers secondary and subdued.
+Lighting/mood: storm-darkened daylight breaking faintly around the horizon, severe and tender, morally interruptive rather than triumphant.
+Color palette: raw wood, earth, muted linen, bruised gray sky, restrained dark red accents.
+Materials/textures: splintered wood, dust, torn cloth, weathered rope, rough ground.
+Constraints: No gore, no excessive blood, no sensational horror, no readable text, no halos as decorative glow, no polished monumentality. The image should communicate the crucified cross as exposed wound, judgment on the powers, and the place where God is present with the disposable.
+
+Inspection notes:
+
+No readable text detected. Image depicts a rough crucifixion scene under storm clouds with grieving witnesses, distant soldiers, exposed wood, earth, and restrained blood.

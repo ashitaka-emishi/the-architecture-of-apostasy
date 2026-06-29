@@ -92,4 +92,20 @@ Two hands grip a hammer and knife in a stark black, white, and red composition.
 
 A crown of thorns hangs on a wooden cross in a dark garden-like setting.
 :::
+
+::: {.g-col-12 .g-col-md-6}
+![Monumental Cross](gallery/monumental-cross.png)
+
+### Monumental Cross
+
+A polished stone cross rises from a civic war memorial, surrounded by wreaths, soldier reliefs, flags, and ceremonial light.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Crucified Cross](gallery/crucified-cross.png)
+
+### Crucified Cross
+
+A rough wooden cross stands on Golgotha under storm-darkened skies, with Christ exposed before grieving witnesses and distant soldiers.
+:::
 :::

@@ -12,6 +12,10 @@ classified, validated, and connected to the Grammar of Apostasy.
 
 - [Gallery Canon](gallery-canon.md)
 
+## Cross-Aspect Drafts
+
+- [The Monumental Cross and the Crucified Cross](../political-theology-and-war/the-monumental-cross-and-the-crucified-cross.md)
+
 ## Initial Questions
 
 1. What theological role does each image serve?

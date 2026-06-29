@@ -82,6 +82,8 @@ An image is ready for public-canonical use when:
 | Three Crosses at Calvary | devotional-image | Restoration | Cross, Sacrifice, Christological Resolution |
 | Hammer and Knife with Blood | warning-image | Political Theology and War | Violence, Sacrifice, Fallen Liturgy |
 | Blood-Drenched Crowned Cross | devotional-image | Restoration | Cross, Sacrifice, Restoration |
+| Monumental Cross | chapter-illustration | Political Theology and War | Monumental Cross, Fallen Liturgy, Political Worship |
+| Crucified Cross | devotional-image | Political Theology and War | Crucified Cross, Sacrifice, Christological Exposure |
 
 ## Required Public Catalog Note
 

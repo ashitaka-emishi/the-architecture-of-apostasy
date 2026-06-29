@@ -6,6 +6,7 @@ public liturgy, propaganda, and the sacrificial demands of finite powers.
 ## Current Scaffolds
 
 - [War as a Fallen Liturgy](war-as-fallen-liturgy.md)
+- [The Monumental Cross and the Crucified Cross](the-monumental-cross-and-the-crucified-cross.md)
 
 Initial questions:
 

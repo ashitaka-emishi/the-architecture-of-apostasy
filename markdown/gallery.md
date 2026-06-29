@@ -98,3 +98,21 @@
 - Description: A crown of thorns hangs on a wooden cross in a dark garden-like setting, with red blood-like streams flowing down the beam beneath dramatic light.
 - Notes: No readable OCR text detected.
 - Comments:
+
+## Monumental Cross
+
+![Monumental Cross](../gallery/monumental-cross.png)
+
+- File: `monumental-cross.png`
+- Description: A polished stone cross rises from a civic war memorial in a formal plaza, surrounded by wreaths, soldier reliefs, flags, ceremonial lighting, and monumental architecture.
+- Notes: Source prompt and inspection notes are available in `../raw/images/monumental-cross.txt`.
+- Comments: Chapter illustration for the monumental cross as sanitized public memory and political liturgy.
+
+## Crucified Cross
+
+![Crucified Cross](../gallery/crucified-cross.png)
+
+- File: `crucified-cross.png`
+- Description: A rough wooden cross stands on Golgotha beneath storm-darkened skies, with Christ exposed on the cross, grieving witnesses nearby, distant soldiers, and scattered tools of execution.
+- Notes: Source prompt and inspection notes are available in `../raw/images/crucified-cross.txt`.
+- Comments: Chapter illustration for the crucified cross as exposed wound, judgment on the powers, and Christological restoration.
