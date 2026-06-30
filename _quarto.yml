@@ -8,6 +8,7 @@ project:
     - "gallery/**"
     - "raw/**/*.pdf"
     - "raw/images/**/*.txt"
+    - "site-assets/**"
 
 website:
   title: "The Architecture of Apostasy"
@@ -26,6 +27,12 @@ website:
         text: The Church
       - text: Library
         menu:
+          - href: readers-guide.qmd
+            text: Reader's Guide
+          - href: method.qmd
+            text: Method
+          - href: faithful-institutions.qmd
+            text: Faithful Institutions
           - href: archive.qmd
             text: Archive
           - href: core-concepts.qmd
@@ -55,6 +62,7 @@ format:
   html:
     theme: darkly
     css: styles.css
+    include-after-body: site-assets/image-viewer.html
     toc: true
     toc-depth: 3
     smooth-scroll: true

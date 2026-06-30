@@ -1,0 +1,74 @@
+---
+title: "Method"
+---
+
+This project reads Scripture, history, institutions, symbols, and contemporary culture through a Christian theological lens. It is not detached religious studies, and it should not pretend to be more certain than its evidence allows.
+
+The aim is discernment and repentance: to see how holy gifts can become idols, how false embodiment takes shape, and how Christ calls the whole person and the whole body back into truth.
+
+## Claim Types
+
+The archive uses several kinds of claims. Readers should be able to tell which kind is being made.
+
+### Doctrine
+
+Doctrine names claims the project receives as Christian confession: Christ is Lord, the Logos became flesh, sin deforms the person, repentance is necessary, and redemption is found in Christ.
+
+Doctrinal claims should be grounded in Scripture and accountable to the historic Christian faith.
+
+### Exegesis
+
+Exegesis asks what a biblical passage says in its literary, canonical, and theological context.
+
+When the project reads Numbers 21, 2 Kings 18, Romans 3, Romans 11, or Revelation 2-3, it should distinguish the text itself from the later pattern the text helps illuminate.
+
+### Typology And Analogy
+
+Typology and analogy are the project's main tools for reading patterns across time.
+
+The Nehushtan pattern is not a claim that every church, institution, or historical moment repeats Israel in a mechanically identical way. It is an interpretive proposal: holy gifts can become idols when detached from repentance, humility, and living communion with God.
+
+Analogies can clarify, but they can also flatten history. They should be handled as invitations to discernment rather than shortcuts around evidence.
+
+### Historical Judgment
+
+Historical claims require sourcing, proportion, and humility.
+
+When the project names Constantine, the Great Schism, the Reformation, modern missionary movements, church-growth models, or Western consumer religion, it should not treat complex histories as if they were settled by a single theological sentence.
+
+The public essays are currently uneven in visible sourcing. The goal is to keep improving them with notes, bibliographies, rival readings, and clearer distinctions between evidence, interpretation, and warning.
+
+### Prophetic Warning
+
+Prophetic warning names the project's strongest register. It is the language of diagnosis, repentance, pruning, and return.
+
+That register can be necessary. It can also become careless if it turns every pattern into an absolute verdict. The project should speak urgently without confusing urgency with omniscience.
+
+## Revelation And Modern Application
+
+Readings of Philadelphia, Laodicea, or other biblical images applied to modern church history should be treated as typological warnings unless an essay explicitly provides historical argument for a stronger claim.
+
+That means such readings ask, "What does this biblical warning expose in us?" before they claim, "This period of history definitively maps onto that church."
+
+## Rival Readings
+
+Readers from Catholic, Orthodox, Protestant, Anabaptist, Pentecostal, secular historical, or other traditions may contest parts of the interpretation. Those objections matter.
+
+The project is stronger when it faces rival readings rather than treating disagreement as blindness.
+
+## Source Development
+
+The archive preserves PDFs, drafts, prompts, and image notes under `raw/`, but public-facing essays need more visible citations.
+
+Priority areas for future annotation are tracked in `raw/source-roadmap.md` and `raw/recommended-improvements.md`.
+
+## How To Read The Project
+
+Read the essays as theological arguments with a prophetic edge. They are meant to provoke repentance and discernment. They are not final scholarly monographs.
+
+The right response is neither passive agreement nor easy dismissal. The better response is testing:
+
+1. What kind of claim is being made?
+2. What evidence supports it?
+3. What rival reading should be considered?
+4. What would repentance or faithful embodiment look like here?

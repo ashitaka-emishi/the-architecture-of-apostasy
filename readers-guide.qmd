@@ -1,0 +1,57 @@
+---
+title: "Reader's Guide"
+---
+
+This site is for readers who want to discern how apostasy takes flesh and how Christ calls the whole person back into truthful embodiment.
+
+It is also for readers who may not share every premise of the project but are willing to test its claims carefully.
+
+## Pastors And Church Leaders
+
+Read for the pastoral questions: What forms of preservation have become fear? Where has the church accepted a body from Caesar, donors, careerism, or respectability? What would repentance look like without theatrical reaction?
+
+Start with [The Church and False Embodiment](church.qmd), then read [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md).
+
+## Lay Readers
+
+Read for self-examination first. The project is not mainly a weapon for diagnosing other people. It asks what our loves, habits, fears, rituals, and loyalties have made visible in the body.
+
+Start with [The Path of Re-Embodiment](path-of-re-embodiment.qmd), then [Core Concepts](core-concepts.qmd).
+
+## Readers Wounded By Institutions
+
+Read slowly. The project names institutional corruption, but it should not baptize contempt, isolation, or permanent suspicion.
+
+The church can be diseased. The church can also be a place of mercy, sacrament, discipline, care, and restored belonging.
+
+Start with [Faithful Institutions](faithful-institutions.qmd), then [The Church and False Embodiment](church.qmd).
+
+## Catholic, Orthodox, Protestant, And Anabaptist Readers
+
+Some essays make broad claims about church history and institutional development. Those claims should be tested against your tradition's own sources and best arguments.
+
+The project is strongest when it identifies patterns of idolatry that can afflict every tradition. It is weakest when it compresses complex histories too quickly.
+
+Start with [Method](method.qmd), then read the essays with the distinction between doctrine, exegesis, analogy, historical judgment, and prophetic warning in mind.
+
+## Artists And Image Readers
+
+The gallery is not decoration. It is a visual theology lab for symbols, wounds, warning images, devotional images, and chapter illustrations.
+
+Start with [Images](images.qmd) and [Gallery Catalog](markdown/gallery.md).
+
+## Theological Critics
+
+The project welcomes hard questions about sourcing, overstatement, historical compression, and rival readings.
+
+Read [Method](method.qmd) first. Then use the public essays as arguments to test, not slogans to consume.
+
+## Reading Posture
+
+Bring three questions to each page:
+
+1. What kind of claim is being made?
+2. What evidence supports it?
+3. What would repentance or faithful embodiment look like here?
+
+The goal is not to master the architecture from outside. The goal is to walk the path of return in truth.
