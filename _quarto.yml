@@ -11,39 +11,49 @@ project:
 
 website:
   title: "The Architecture of Apostasy"
-  description: "A collective archive of theological discussion, images, songs, and essays."
+  description: "A Christian path of return from false embodiment into Christ."
   site-url: "https://ashitaka-emishi.github.io/the-architecture-of-apostasy"
   navbar:
-    title: "The Architecture of Apostasy"
+    title: false
+    logo: gallery/aoa-logo-cropped.jpg
+    logo-alt: "The Architecture of Apostasy"
     left:
       - href: index.qmd
         text: Home
-      - href: archive.qmd
-        text: Archive
-      - href: core-concepts.qmd
-        text: Core Concepts
-      - href: reading-paths.qmd
-        text: Reading Paths
-      - href: essays.qmd
-        text: Essays
-      - href: images.qmd
-        text: Images
-      - href: songs.qmd
-        text: Songs
-      - href: discussions.qmd
-        text: Discussions
+      - href: path-of-re-embodiment.qmd
+        text: The Path
+      - href: church.qmd
+        text: The Church
+      - text: Library
+        menu:
+          - href: archive.qmd
+            text: Archive
+          - href: core-concepts.qmd
+            text: Core Concepts
+          - href: reading-paths.qmd
+            text: Reading Paths
+          - href: essays.qmd
+            text: Essays
+          - href: images.qmd
+            text: Images
+          - href: songs.qmd
+            text: Songs
+          - href: discussions.qmd
+            text: Discussions
       - href: about.qmd
         text: About
-      - href: github.qmd
-        text: GitHub
+    right:
+      - icon: github
+        href: https://github.com/ashitaka-emishi/the-architecture-of-apostasy
+        aria-label: GitHub repository
   page-footer:
     left: "The Architecture of Apostasy"
-    right: "A public-facing theological archive."
+    right: "A path of return from false embodiment into Christ."
   search: true
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
     toc-depth: 3

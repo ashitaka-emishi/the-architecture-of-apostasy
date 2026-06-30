@@ -2,24 +2,29 @@
 title: "About"
 ---
 
-**The Architecture of Apostasy** is a collective archive for theological discussion, images, songs, and essays.
+**The Architecture of Apostasy** is written from within Christian faith. It is not neutral religious theory, and it is not an academic distance from the wound it describes.
 
-The archive is meant to serve two audiences:
+This site names apostasy as false embodiment. A false logos does not remain an idea. It becomes a body: a habit, a ritual, an institution, a church board, a political order, a sacrifice, a way of speaking, a way of fearing, a way of preserving the self.
 
-- Readers who want a public, navigable presentation of the material.
-- Editors and contributors who need access to raw sources, drafts, PDFs, OCR output, and images.
+Redemption is therefore not merely intellectual correction. Redemption is the painful re-embodiment of the whole person in Christ.
 
-## Editorial Posture
+## The Work
 
-The materials are organized as a living archive. Categories are provisional, documents may overlap, and future additions can include songs, dialogues, visual essays, discussion notes, or new theological drafts.
+The project diagnoses false embodiment in the person, the church, the institution, and the nation.
 
-## Repository Structure
+It asks how holy gifts become tools of pride, how religious bodies receive their form from another sovereign, how political orders demand sacrifice, how diseased patterns take root in flesh, and how Christ calls the whole person back into obedience.
+
+## The Reader
+
+The archive is for readers seeking the fullness of the Christian walk: not only correct doctrine, but truthful embodiment.
+
+The reader is not invited to stand outside the architecture as an observer. The first application is always ourselves: what we love, what we practice, what we protect, what we fear losing, and what our bodies have learned to obey.
+
+## The Archive
 
 - `markdown/`: public reading copies.
-- `raw/`: original files, PDFs, drafts, and OCR.
-- `gallery/`: image assets.
-- `_site/`: generated Quarto site output, ignored by Git.
-
-## Contributor Information
+- `raw/`: original files, PDFs, drafts, planning notes, and OCR.
+- `gallery/`: image assets used by the site.
+- `architecture-of-apostasy/`: internal theological canon, aspect notes, and project grammar.
 
 See the [GitHub and Publishing](github.qmd) page and the repository README for development commands, publishing notes, and source organization.
