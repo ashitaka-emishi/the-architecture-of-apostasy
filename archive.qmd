@@ -7,6 +7,8 @@ This page is the public index of available reading copies and source collections
 ## Primary Collections
 
 - [Core concepts](core-concepts.qmd)
+- [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
+- [The Church and False Embodiment](church.qmd)
 - [Reading paths](reading-paths.qmd)
 - [Essays and drafts](essays.qmd)
 - [Images and visual theology](images.qmd)

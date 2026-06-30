@@ -175,6 +175,139 @@ Possible visual motifs:
 * bone, flesh, breath, and spirit
 * the cross as the place where false embodiment is exposed and true embodiment begins
 
+The logo reads as **dark theological-classical**, with a palette built around black stone, tarnished gold, parchment, and bone-white marble.
+
+#### Color Palette
+
+| Role | Color | Hex | Use |
+|---|---:|---:|---|
+| Abyss Black | almost black | `#020203` | Main site background |
+| Charcoal Stone | deep warm charcoal | `#110F0C` | Secondary background, cards |
+| Ruined Brown | dark stone-brown | `#262018` | Borders, shadow panels |
+| Weathered Stone | muted taupe | `#3D3426` | Subtle dividers, icon lines |
+| Old Bronze | muted bronze-gold | `#544834` | Accent borders, muted headings |
+| Tarnished Gold | antique gold | `#7E6C50` | Primary accent |
+| Lit Gold | brighter gold | `#957F62` | Hover states, key emphasis |
+| Marble Beige | warm stone | `#AD9B7E` | Body highlights, secondary text |
+| Parchment Cream | aged parchment | `#CBB99C` | Main title text, readable contrast |
+
+#### Recommended Website Fonts
+
+The logo typography looks like a **Roman inscriptional serif**: wide capitals, high contrast, classical, monumental.
+
+Primary display font: **Cinzel**
+
+Use for:
+
+```css
+h1, h2, .site-title, .logo-text {
+  font-family: "Cinzel", Georgia, serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+```
+
+Cinzel is the closest practical match to the title style: carved, Roman, ceremonial.
+
+Secondary heading font: **Cormorant Garamond**
+
+Use for essays, subtitles, theological section headers:
+
+```css
+h3, blockquote, .subtitle {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+```
+
+Body font: **EB Garamond** or **Spectral**
+
+For a serious theological-literary site, use:
+
+```css
+body {
+  font-family: "EB Garamond", Georgia, serif;
+}
+```
+
+For a slightly more modern academic feel:
+
+```css
+body {
+  font-family: "Spectral", Georgia, serif;
+}
+```
+
+#### CSS Variables
+
+```css
+:root {
+  --aoa-black: #020203;
+  --aoa-charcoal: #110F0C;
+  --aoa-brown-black: #262018;
+  --aoa-stone-dark: #3D3426;
+  --aoa-bronze-muted: #544834;
+  --aoa-gold: #7E6C50;
+  --aoa-gold-light: #957F62;
+  --aoa-marble: #AD9B7E;
+  --aoa-parchment: #CBB99C;
+
+  --font-display: "Cinzel", Georgia, serif;
+  --font-heading: "Cormorant Garamond", Georgia, serif;
+  --font-body: "EB Garamond", Georgia, serif;
+}
+```
+
+#### Suggested Site Styling
+
+```css
+body {
+  background: var(--aoa-black);
+  color: var(--aoa-parchment);
+  font-family: var(--font-body);
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+h1, h2, .site-title {
+  font-family: var(--font-display);
+  color: var(--aoa-parchment);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+h3, h4 {
+  font-family: var(--font-heading);
+  color: var(--aoa-marble);
+}
+
+a {
+  color: var(--aoa-gold-light);
+  text-decoration-color: var(--aoa-bronze-muted);
+}
+
+.card, article, section.panel {
+  background: var(--aoa-charcoal);
+  border: 1px solid var(--aoa-bronze-muted);
+  box-shadow: 0 0 40px rgba(126, 108, 80, 0.12);
+}
+
+blockquote {
+  border-left: 3px solid var(--aoa-gold);
+  color: var(--aoa-marble);
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+}
+```
+
+#### Google Fonts Import
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Cormorant+Garamond:wght@400;500;600;700&family=EB+Garamond:wght@400;500;600;700&display=swap');
+```
+
+For **The Architecture of Apostasy**, use **Cinzel** for the title/logo, **Cormorant Garamond** for section headings and pull quotes, and **EB Garamond** for the essay body. This keeps the site solemn, liturgical, ruined, and architectural without becoming fantasy-themed.
+
 ## Tone Shift
 
 The site should become more serious, direct, and prophetic.

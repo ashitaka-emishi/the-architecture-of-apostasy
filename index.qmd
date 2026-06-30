@@ -1,31 +1,50 @@
----
-title: "The Architecture of Apostasy"
-subtitle: "A collective archive of theological discussion, images, songs, and essays"
----
+::: {.aoa-hero}
+![](gallery/aoa-logo-home.jpg){.aoa-hero-logo fig-alt="The Architecture of Apostasy logo"}
 
-This archive gathers theological writing, visual material, drafts, and future song or discussion resources into a public-facing library.
+## The Architecture of Apostasy is not a theory to be mastered. It is a path to be walked.
 
-The project currently centers on corrupted worship, institutional religion, sacred time, embodied disorder, political liturgy, and the deeper cosmological conflict behind the inversion of the Imago Dei.
+Every human life gives flesh to a spirit. Every habit embodies a logos. Every institution incarnates a way of being. No one stands outside this architecture. We are all becoming the embodiment of something.
 
-::: {.callout-note appearance="simple"}
-This site is organized for general readers. The Markdown pages are reading copies; the `raw/` folder preserves source PDFs, original drafts, and OCR output.
+The question is not whether we believe correctly in abstraction. The question is whether our spirit and flesh are being conformed to Christ or to a false logos.
+
+**Apostasy is not merely the abandonment of doctrine. It is the embodiment of another lord.**
 :::
 
-## Explore
+## The Path
+
+Apostasy becomes visible when a false spirit takes flesh: in the self, the church, the institution, the nation, the crowd, the ideology, the ritual, and the sacrifice.
+
+The way back is not detached observation. It is repentance, suffering, death to the false self, and re-embodiment in Christ.
+
+::: {.path-line}
+False logos -> false desire -> repeated bodily practice -> spiritual deformation -> institutional embodiment -> sacrifice -> suffering -> repentance -> death to the false self -> re-embodiment in Christ
+:::
+
+[Walk the path of re-embodiment](path-of-re-embodiment.qmd)
+
+## Entry Points
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
 ### Core Concepts
 
-Learn the recurring vocabulary that organizes the archive.
+Discern the vocabulary of spirit, flesh, false logos, apostasy, suffering, repentance, and redemption.
 
 [Review core concepts](core-concepts.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+### The Church
+
+Face the church as an embodied institution that is loved by Christ, fallen in history, and called to repentance.
+
+[Read the church page](church.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ### Reading Paths
 
-Follow curated entry points through the archive.
+Follow curated routes through the archive, beginning with diagnosis and moving toward return.
 
 [Choose a reading path](reading-paths.qmd)
 :::
@@ -33,7 +52,7 @@ Follow curated entry points through the archive.
 ::: {.g-col-12 .g-col-md-6}
 ### Essays
 
-Read the main theological essays and drafts organized by topic.
+Read the theological essays as witnesses along the way, not as material for detached mastery.
 
 [Browse essays](essays.qmd)
 :::
@@ -41,33 +60,23 @@ Read the main theological essays and drafts organized by topic.
 ::: {.g-col-12 .g-col-md-6}
 ### Images
 
-View the gallery of theological diagrams and symbolic images.
+See the symbolic and devotional images that expose false embodiment and gesture toward Christic restoration.
 
 [Open the gallery](images.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### Songs
+### Archive
 
-A placeholder collection for songs, hymns, lyrics, chants, or other musical material.
+Find every public reading copy, image catalog, and source collection.
 
-[View songs](songs.qmd)
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### Discussions
-
-A home for conversations, notes, debate records, and collected theological exchanges.
-
-[View discussions](discussions.qmd)
+[Open the full archive](archive.qmd)
 :::
 :::
 
-## Featured Paths
+## First Readings
 
-- Start with [Introduction Draft](markdown/introduction-draft.md) for the project’s methodological frame.
-- Read [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the archive’s title essay.
-- Use [Core Concepts](core-concepts.qmd) to learn the recurring vocabulary.
-- Use [Reading Paths](reading-paths.qmd) to choose an entry point.
-- Visit [The Gallery](images.qmd) for diagrams and visual theology.
-- Use the [Full Archive](archive.qmd) when looking for a specific document.
+- Begin with [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the title essay.
+- Continue with [State-Dressed Religion](markdown/state-dressed-religion.md) for apostasy by incorporation.
+- Read [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md) for the pastoral call inside compromised institutions.
+- Use [The Path of Re-Embodiment](path-of-re-embodiment.qmd) to keep the archive ordered toward return.

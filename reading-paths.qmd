@@ -8,9 +8,11 @@ Use these paths depending on what kind of entry point you want.
 
 Start here for the broadest introduction to the project.
 
-1. [Introduction Draft](markdown/introduction-draft.md)
-2. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-3. [Gallery Catalog](markdown/gallery.md)
+1. [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
+2. [Core Concepts](core-concepts.qmd)
+3. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+4. [The Church and False Embodiment](church.qmd)
+5. [Gallery Catalog](markdown/gallery.md)
 
 ## Apostasy and Religious Systems
 
