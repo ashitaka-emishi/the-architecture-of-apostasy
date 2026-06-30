@@ -269,3 +269,123 @@ code {
   border-top: 1px solid var(--aoa-bronze-muted);
   color: var(--aoa-marble);
 }
+
+.image-viewer-target {
+  cursor: zoom-in;
+}
+
+.image-viewer-target:focus-visible {
+  outline: 2px solid var(--aoa-gold-light);
+  outline-offset: 4px;
+}
+
+.image-viewer-open {
+  overflow: hidden;
+}
+
+.image-viewer[hidden] {
+  display: none;
+}
+
+.image-viewer {
+  align-items: center;
+  background: rgba(2, 2, 3, 0.92);
+  backdrop-filter: blur(6px);
+  display: flex;
+  inset: 0;
+  justify-content: center;
+  padding: 5.5rem 1.25rem 1.25rem;
+  position: fixed;
+  z-index: 2000;
+}
+
+.image-viewer__bar {
+  align-items: center;
+  background: rgba(17, 15, 12, 0.94);
+  border-bottom: 1px solid var(--aoa-bronze-muted);
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  left: 0;
+  padding: 0.8rem 1rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.image-viewer__caption {
+  color: var(--aoa-marble);
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  line-height: 1.25;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.image-viewer__controls {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.45rem;
+}
+
+.image-viewer__controls button {
+  background: var(--aoa-brown-black);
+  border: 1px solid var(--aoa-bronze-muted);
+  color: var(--aoa-parchment);
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  min-height: 2.25rem;
+  padding: 0.35rem 0.75rem;
+  text-transform: uppercase;
+}
+
+.image-viewer__controls button:hover,
+.image-viewer__controls button:focus {
+  background: var(--aoa-stone-dark);
+  color: var(--aoa-gold-light);
+}
+
+.image-viewer__stage {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  overflow: hidden;
+  width: 100%;
+}
+
+.image-viewer__stage img {
+  border: 1px solid var(--aoa-bronze-muted);
+  box-shadow: 0 0 60px rgba(126, 108, 80, 0.2);
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  transform-origin: center center;
+  transition: transform 120ms ease-out;
+  user-select: none;
+}
+
+.image-viewer__stage img.is-zoomed {
+  cursor: grab;
+}
+
+.image-viewer__stage img.is-zoomed:active {
+  cursor: grabbing;
+}
+
+@media (max-width: 640px) {
+  .image-viewer {
+    padding-top: 7.5rem;
+  }
+
+  .image-viewer__bar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .image-viewer__controls {
+    flex-wrap: wrap;
+  }
+}
