@@ -14,6 +14,14 @@ A painted night landscape with travelers moving toward a lit church under a cros
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+![Ceaseless Prayer](gallery/ceaseless-prayer.jpg)
+
+### Ceaseless Prayer
+
+A prayerful figure rests beneath descending light, evoking the soul's continuous orientation toward God.
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ![The Trinitarian Structural Model](gallery/trinitarian-structural-model-of-creation-spirit-and-power.jpg)
 
 ### The Trinitarian Structural Model

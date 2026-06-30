@@ -18,9 +18,11 @@ This path follows the critique of corrupted worship, institutional religion, and
 
 1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 2. [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
-3. [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
-4. [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
-5. [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
+3. [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md)
+4. [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
+5. [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
+6. [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
+7. [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 
 ## Logos, Disease, and the Body
 
@@ -30,6 +32,7 @@ This path follows the archive's embodied theology of disorder, addiction, hypocr
 2. [Disease Logos and Care for the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
 3. [From Hypocrisy to Disease Logos](markdown/from-hypocrisy-to-disease-logos.md)
 4. [The Chemical Temple](markdown/the-chemical-temple.md)
+5. [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
 
 ## Sacred Time and Christian Liberty
 

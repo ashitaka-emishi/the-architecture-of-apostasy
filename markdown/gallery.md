@@ -9,6 +9,15 @@
 - Notes: No readable OCR text detected.
 - Comments:
 
+## Ceaseless Prayer
+
+![Ceaseless Prayer](../gallery/ceaseless-prayer.jpg)
+
+- File: `ceaseless-prayer.jpg`
+- Description: A prayerful figure sits beneath descending light, one hand over the heart and one hand open, rendered as a devotional meditation on continuous communion with God.
+- Notes: Source and inspection notes are available in `../raw/images/ceaseless-prayer.txt`.
+- Comments: Visual companion for "The Shape of the Unbroken Soul," especially its account of ceaseless prayer as an ongoing posture rather than a discrete scheduled act.
+
 ## The Trinitarian Structural Model of Creation, Spirit, and Power
 
 ![The Trinitarian Structural Model of Creation, Spirit, and Power](../gallery/trinitarian-structural-model-of-creation-spirit-and-power.jpg)

@@ -1,0 +1,15 @@
+Title: Architecture of Apostasy Logo
+
+File: gallery/aoa-logo.jpg
+
+Source: proposed branding asset from `new-files/`.
+
+Asset type: site identity / logo draft
+
+Description: A circular emblem showing architectural columns, fractured stone, radiating light, and a thorn-like arc around the words "The Architecture of Apostasy."
+
+Visible text: "The Architecture of Apostasy."
+
+Theological use: Held as a future site identity asset connected to the planned website reframing around embodiment, apostasy, fracture, and return to Christ.
+
+Constraints: This asset has been placed in the public image folder for later use, but it has not been activated in the site header, homepage, or visual system. Apply it only when the broader website update is implemented.

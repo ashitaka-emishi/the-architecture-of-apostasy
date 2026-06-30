@@ -16,6 +16,8 @@ The categories below are provisional. Many essays belong in more than one catego
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 - [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
 - [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
+- [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md)
+- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
 - [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 
@@ -26,6 +28,7 @@ The categories below are provisional. Many essays belong in more than one catego
 - [From Hypocrisy to Disease Logos](markdown/from-hypocrisy-to-disease-logos.md)
 - [Hypocrisy Chapter Draft](markdown/hypocrisy-chapter-draft.md)
 - [The Chemical Temple](markdown/the-chemical-temple.md)
+- [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
 
 ## Calendar, Feasts, and Sacred Time
 

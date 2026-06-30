@@ -13,3 +13,8 @@ Initial questions:
 ## Cross-Aspect Drafts
 
 - [Gettysburg National Military Park as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)
+
+## Public Reading Copies
+
+- [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](../../../markdown/state-dressed-religion.md)
+- [The Pastor Inside the Apostate Architecture](../../../markdown/the-pastor-inside-the-apostate-architecture.md)
