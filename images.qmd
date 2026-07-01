@@ -124,4 +124,12 @@ A polished stone cross rises from a civic war memorial, surrounded by wreaths, s
 
 A rough wooden cross stands on Golgotha under storm-darkened skies, with Christ exposed before grieving witnesses and distant soldiers.
 :::
+
+::: {.g-col-12 .g-col-md-6}
+![The Light Breaking Between the Crowds](gallery/the-light-breaking-between-the-crowds.jpg)
+
+### The Light Breaking Between the Crowds
+
+A classical painted scene of radiant light and lightning bursting over a valley and river, with two crowds on opposite banks recoiling and gesturing toward the light.
+:::
 :::
