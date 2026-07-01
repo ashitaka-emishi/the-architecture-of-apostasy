@@ -12,6 +12,7 @@ This page is the public index of available reading copies and source collections
 - [The Church and False Embodiment](church.qmd)
 - [Reader's Guide](readers-guide.qmd)
 - [Method](method.qmd)
+- [Document Intake Covenant](document-intake-covenant.qmd)
 - [Faithful Institutions](faithful-institutions.qmd)
 - [Reading paths](reading-paths.qmd)
 - [Essays and drafts](essays.qmd)

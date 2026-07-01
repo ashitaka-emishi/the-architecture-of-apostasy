@@ -33,6 +33,8 @@ website:
             text: Reader's Guide
           - href: method.qmd
             text: Method
+          - href: document-intake-covenant.qmd
+            text: Document Intake
           - href: faithful-institutions.qmd
             text: Faithful Institutions
           - href: archive.qmd
