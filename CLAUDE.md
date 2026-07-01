@@ -12,6 +12,17 @@ When the user types `sdlc`, `sldc`, or `$sdlc-workflow` — with or without a fo
 - Open PRs as ready, not draft. Do not merge or close issues without explicit user instruction.
 - Squash merge only.
 
+## Format Ingestion Skill
+
+When the user asks to ingest, process, or import a staging/drop folder (default `newfiles/` at the repo root — images, essay drafts, PDFs), read and follow `.agents/skills/format-ingestion/SKILL.md` in full before taking any action. That file is the authoritative workflow definition, shared with Codex (Codex is the primary consumer; this file is Claude's pointer to the same skill). Key points from it:
+
+- View every image and read every document before deciding placement — never guess from a staging filename alone.
+- Follow this repo's actual placement conventions (images → `gallery/` + `markdown/gallery.md` + `images.qmd` + `raw/images/`; essays → `markdown/` + `essays.qmd` with sources preserved in `raw/`; other PDFs/sources → `raw/`).
+- Never edit the body of an existing essay or page as a side effect of ingestion.
+- Run the Validation Pipeline below before declaring ingestion complete.
+- Only delete the staging folder (or the successfully placed portion of it) after validation passes.
+- Do not `git add`, commit, or push as part of ingestion unless the user explicitly asks.
+
 ## Repository
 
 **GitHub:** `ashitaka-emishi/the-architecture-of-apostasy`
@@ -39,6 +50,7 @@ Full placement rules live in `CONTRIBUTING.md` and `architecture-of-apostasy/gra
 | `architecture-of-apostasy/` | Canonical theological workspace and Grammar of Apostasy constitution |
 | `ai-system/` | AI-facing prompts, schemas, scripts, and validation tooling |
 | `.agents/skills/sdlc-workflow/` | SDLC workflow skill (shared with Codex) |
+| `.agents/skills/format-ingestion/` | Staging-folder ingestion skill (shared with Codex) |
 
 ## Branch Naming
 

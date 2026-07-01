@@ -1,0 +1,4 @@
+interface:
+  display_name: "Format Ingestion"
+  short_description: "Ingest dropped files (images, essay drafts, PDFs) from a staging folder into the correct project locations and site pages."
+  default_prompt: "Use $format-ingestion to process the newfiles/ staging folder: classify each item, place it in the correct project location, integrate it into the relevant site/index pages, validate, and delete the staging folder once everything lands correctly."
