@@ -7,6 +7,7 @@ This page is the public index of available reading copies and source collections
 ## Primary Collections
 
 - [Foundations](foundations.qmd)
+- [Archive taxonomy](archive-taxonomy.qmd)
 - [Core concepts](core-concepts.qmd)
 - [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
 - [The Church and False Embodiment](church.qmd)
