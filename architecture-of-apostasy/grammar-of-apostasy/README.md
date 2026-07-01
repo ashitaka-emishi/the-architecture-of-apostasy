@@ -16,6 +16,7 @@ this grammar.
 - [Agent Contracts](agent-contracts.md)
 - [Human Review Rubric](human-review-rubric.md)
 - [Christological Resolution Examples](christological-resolution-examples.md)
+- [Aru Vaen And The Grammar](aru-vaen-and-the-grammar.md)
 - [Conversation Summary](conversation-summary.md)
 
 ## Operating Artifacts
