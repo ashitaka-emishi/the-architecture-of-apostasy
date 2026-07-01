@@ -134,3 +134,12 @@
 - Description: A rough wooden cross stands on Golgotha beneath storm-darkened skies, with Christ exposed on the cross, grieving witnesses nearby, distant soldiers, and scattered tools of execution.
 - Notes: Source prompt and inspection notes are available in `../raw/images/crucified-cross.txt`.
 - Comments: Chapter illustration for the crucified cross as exposed wound, judgment on the powers, and Christological restoration.
+
+## The Light Breaking Between the Crowds
+
+![The Light Breaking Between the Crowds](../gallery/the-light-breaking-between-the-crowds.jpg)
+
+- File: `the-light-breaking-between-the-crowds.jpg`
+- Description: A classical painted scene of a radiant burst of light and lightning over a valley and river, with two crowds of figures on opposite banks recoiling and gesturing toward the light.
+- Notes: Source and inspection notes are available in `../raw/images/the-light-breaking-between-the-crowds.txt`.
+- Comments: Visual companion for "Repentance: The Biblical Mandate for Radical Reorientation," picturing both crowds arrested in the same instant of turning.

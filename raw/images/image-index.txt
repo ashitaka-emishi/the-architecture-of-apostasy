@@ -11,3 +11,4 @@
 ../../gallery/blood-drenched-crowned-cross.jpg	Blood-Drenched Crowned Cross
 ../../gallery/monumental-cross.png	Monumental Cross
 ../../gallery/crucified-cross.png	Crucified Cross
+../../gallery/the-light-breaking-between-the-crowds.jpg	The Light Breaking Between the Crowds

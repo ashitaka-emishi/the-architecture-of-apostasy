@@ -20,6 +20,7 @@ The categories below are provisional. Many essays belong in more than one catego
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
 - [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
+- [The Alchemy of False Prophecy: A Rebuke of Modern Galatian Heresy](markdown/the-alchemy-of-false-prophecy.md)
 
 ## Logos, Disease, and Embodied Restoration
 
@@ -29,6 +30,7 @@ The categories below are provisional. Many essays belong in more than one catego
 - [Hypocrisy Chapter Draft](markdown/hypocrisy-chapter-draft.md)
 - [The Chemical Temple](markdown/the-chemical-temple.md)
 - [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
+- [Repentance: The Biblical Mandate for Radical Reorientation](markdown/repentance-the-biblical-mandate-for-radical-reorientation.md)
 
 ## Calendar, Feasts, and Sacred Time
 
