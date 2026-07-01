@@ -4,53 +4,61 @@ title: "Archive"
 
 This page is the public index of available reading copies and source collections.
 
+Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd).
+
 ## Primary Collections
 
-- [Foundations](foundations.qmd)
-- [Archive taxonomy](archive-taxonomy.qmd)
-- [Core concepts](core-concepts.qmd)
-- [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
-- [The Church and False Embodiment](church.qmd)
-- [Reader's Guide](readers-guide.qmd)
-- [Method](method.qmd)
-- [Document Intake Covenant](document-intake-covenant.qmd)
-- [Faithful Institutions](faithful-institutions.qmd)
-- [Reading paths](reading-paths.qmd)
-- [Essays and drafts](essays.qmd)
-- [Images and visual theology](images.qmd)
-- [Songs](songs.qmd)
-- [Discussions](discussions.qmd)
+| Entry | Category | Status | Summary |
+|---|---|---|---|
+| [Foundations](foundations.qmd) | Core Foundation | Foundation | Identifies the diagnostic and embodied foundation documents that govern the archive. |
+| [Archive taxonomy](archive-taxonomy.qmd) | Supporting Essay | Working Note | Defines the categories and status labels used by this archive index. |
+| [Core concepts](core-concepts.qmd) | Core Foundation | Foundation | Names the recurring vocabulary of logos, embodiment, apostasy, repentance, and redemption. |
+| [The Path of Re-Embodiment](path-of-re-embodiment.qmd) | Core Foundation | Foundation | Orders the archive around return from false embodiment into Christ. |
+| [The Church and False Embodiment](church.qmd) | Major Essay | Public Essay | Frames the church as loved by Christ while still vulnerable to false institutional embodiment. |
+| [Reader's Guide](readers-guide.qmd) | Supporting Essay | Public Essay | Orients different readers toward careful, repentant, non-triumphal engagement. |
+| [Method](method.qmd) | Supporting Essay | Public Essay | Explains the project's claim types, typology, analogies, warnings, and limits. |
+| [Document Intake Covenant](document-intake-covenant.qmd) | Supporting Essay | Public Essay | Describes how raw material becomes public, canonical, or held in reserve. |
+| [Faithful Institutions](faithful-institutions.qmd) | Supporting Essay | Public Essay | Keeps institutional critique ordered toward truthful and restorative forms of common life. |
+| [Reading paths](reading-paths.qmd) | Supporting Essay | Public Essay | Offers routes through the archive by theme and reader need. |
+| [Essays and drafts](essays.qmd) | Supporting Essay | Public Essay | Groups public essays and adds claim-type reading notes for intense works. |
+| [Images and visual theology](images.qmd) | Image | Public Essay | Indexes the public visual-theology gallery and image resources. |
+| [Songs](songs.qmd) | Song | Public Essay | Gathers devotional or poetic song material in the public archive. |
+| [Discussions](discussions.qmd) | Discussion | Public Essay | Collects public discussion artifacts and conversation-oriented material. |
 
 ## All Markdown Reading Copies
 
-- [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
-- [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
-- [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md)
-- [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md)
-- [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md)
-- [Disease Logos](markdown/disease-logos.md)
-- [Disease Logos and Care for the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
-- [From Hypocrisy to Disease Logos](markdown/from-hypocrisy-to-disease-logos.md)
-- [Gettysburg National Military Park as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
-- [Hypocrisy Chapter Draft](markdown/hypocrisy-chapter-draft.md)
-- [Introduction Draft](markdown/introduction-draft.md)
-- [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
-- [Pagan Origins of Christmas](markdown/pagan-origins-of-christmas.md)
-- [Protestantism and Christmas](markdown/protestantism-and-christmas.md)
-- [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md)
-- [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-- [The Chemical Temple](markdown/the-chemical-temple.md)
-- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
-- [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
-- [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
-- [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
-- [The True Timeline of Messiah](markdown/the-true-timeline-of-messiah.md)
-- [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
-- [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
-- [Gallery Catalog](markdown/gallery.md)
+| Entry | Category | Status | Summary |
+|---|---|---|---|
+| [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md) | Major Essay | Public Essay, Needs Citation | Compares religious monopoly patterns and warns against institutionalized faithlessness. |
+| [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md) | Core Foundation | Foundation, Devotional/Mythic | Provides the mythic-devotional foundation for faithful keeping before the Shepherd. |
+| [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md) | Supporting Essay | Canonical Draft, Needs Review | Develops early cosmological and antediluvian material for the wider project. |
+| [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md) | Supporting Essay | Canonical Draft, Needs Review | Extends the primordial narrative frame for creation, rebellion, and deformation. |
+| [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md) | Supporting Essay | Canonical Draft, Needs Review | Continues the cosmological draft sequence around corruption and boundary failure. |
+| [Disease Logos](markdown/disease-logos.md) | Major Essay | Public Essay, Needs Review | Introduces the embodied-disorder framework used across addiction, hypocrisy, and care essays. |
+| [Disease Logos and Care for the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md) | Supporting Essay | Public Essay, Needs Review | Applies the disease-logos frame to long affliction and pastoral care. |
+| [From Hypocrisy to Disease Logos](markdown/from-hypocrisy-to-disease-logos.md) | Supporting Essay | Public Essay, Needs Review | Reframes hypocrisy through embodied disorder and formative practice. |
+| [Gettysburg National Military Park as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md) | Major Essay | Public Essay, Needs Citation | Reads civic memory, sacred space, and national sacrifice through political theology. |
+| [Hypocrisy Chapter Draft](markdown/hypocrisy-chapter-draft.md) | Supporting Essay | Canonical Draft, Needs Review | Drafts a chapter-level treatment of hypocrisy and embodied disorder. |
+| [Introduction Draft](markdown/introduction-draft.md) | Supporting Essay | Canonical Draft, Needs Review | Introduces the broader cosmological and theological architecture in draft form. |
+| [Mormonism and Christianity](markdown/mormonism-and-christianity.md) | Major Essay | Public Essay, Needs Citation | Draws doctrinal boundaries and invites careful distinction between history, doctrine, and pastoral posture. |
+| [Pagan Origins of Christmas](markdown/pagan-origins-of-christmas.md) | Supporting Essay | Public Essay, Needs Citation | Examines contested claims about Christmas, sacred time, and Christian liberty. |
+| [Protestantism and Christmas](markdown/protestantism-and-christmas.md) | Supporting Essay | Public Essay, Needs Citation | Considers Protestant critique, calendar practice, and faithful reception of feast traditions. |
+| [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md) | Major Essay | Public Essay, Needs Citation | Applies the architecture of apostasy to incorporation, state power, and institutional religion. |
+| [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) | Core Foundation | Foundation, Public Essay | Establishes the diagnostic pattern of holy gifts becoming idols when detached from God. |
+| [The Chemical Temple](markdown/the-chemical-temple.md) | Major Essay | Public Essay, Needs Review | Reads addiction, embodiment, and suffering through a theological account of false temple formation. |
+| [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md) | Major Essay | Public Essay | Addresses pastoral faithfulness within compromised institutional structures. |
+| [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md) | Major Essay | Public Essay, Needs Citation | Interprets political ritual, speech, and sacrifice as forms of public liturgy. |
+| [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md) | Supporting Essay | Public Essay | Contrasts symbolic monumentality with the cruciform meaning of Christian witness. |
+| [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md) | Supporting Essay | Public Essay | Reflects devotionally on prayer, endurance, and the soul ordered toward God. |
+| [The True Timeline of Messiah](markdown/the-true-timeline-of-messiah.md) | Supporting Essay | Public Essay, Needs Citation | Works through messianic chronology, sacred time, and interpretive questions. |
+| [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md) | Major Essay | Public Essay, Needs Review | Develops symbolic theology around representation, idolatry, and divine ungraspability. |
+| [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md) | Supporting Essay | Public Essay | Reads shadow and substance language toward Christological fulfillment. |
+| [Gallery Catalog](markdown/gallery.md) | Image | Public Essay, Working Note | Catalogs public images and their visual-theology functions. |
 
 ## Source Collections
 
-- Source PDFs and original drafts: `raw/`
-- Raw image OCR: `raw/images/`
-- Image assets: `gallery/`
+| Entry | Category | Status | Summary |
+|---|---|---|---|
+| `raw/` | Raw Source | Source Material, Needs Review | Preserves original PDFs, drafts, source notes, and held material before public or canonical decisions. |
+| `raw/images/` | Raw Source | Source Material, Working Note | Stores image prompts, OCR records, and source notes behind public gallery assets. |
+| `gallery/` | Image | Source Material, Public Essay | Contains public image files used by the Quarto site and gallery pages. |
