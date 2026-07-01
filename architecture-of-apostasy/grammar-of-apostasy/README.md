@@ -14,6 +14,7 @@ this grammar.
 - [Canonical Ontology](canonical-ontology.md)
 - [Editorial Style Guide](editorial-style-guide.md)
 - [Agent Contracts](agent-contracts.md)
+- [Human Review Rubric](human-review-rubric.md)
 - [Conversation Summary](conversation-summary.md)
 
 ## Operating Artifacts
