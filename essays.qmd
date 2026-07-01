@@ -4,6 +4,54 @@ title: "Essays"
 
 The categories below are provisional. Many essays belong in more than one category, especially where apostasy, Logos, embodied disorder, and public liturgy overlap.
 
+## Reading Notes And Claim Types
+
+These notes help readers approach the archive's more intense essays without treating prophetic force as the same thing as settled proof. Claim labels are approximate guides, not a substitute for reading the argument carefully.
+
+- [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+  Claim types: biblical, doctrinal, interpretive, synthetic, pastoral.
+  How to read this: begin here for the diagnostic pattern, but test its typological claims through [Method](method.qmd) rather than consuming the essay as a final map of every institution.
+
+- [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md)
+  Claim types: historical, interpretive, synthetic, pastoral.
+  How to read this: read as a warning about incorporation and false embodiment; distinguish the historical claims from the theological pattern being proposed.
+
+- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
+  Claim types: pastoral, doctrinal, interpretive.
+  How to read this: read for repentance and discernment inside compromised institutions, not as permission for contempt toward pastors or churches.
+
+- [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
+  Claim types: historical, interpretive, synthetic.
+  How to read this: watch for broad historical synthesis and ask what evidence, rival readings, and local qualifications would strengthen the warning.
+
+- [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
+  Claim types: doctrinal, historical, interpretive, pastoral.
+  How to read this: read as theological boundary work; keep doctrine, historical description, and pastoral posture distinct.
+
+- [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
+  Claim types: biblical, doctrinal, interpretive, speculative.
+  How to read this: read slowly as symbolic theology; separate the biblical and doctrinal anchors from the more speculative extensions.
+
+- [The Alchemy of False Prophecy: A Rebuke of Modern Galatian Heresy](markdown/the-alchemy-of-false-prophecy.md)
+  Claim types: biblical, doctrinal, interpretive, pastoral.
+  How to read this: receive the rebuke as a call to test teaching by Christ and the gospel, not as a tool for theatrical accusation.
+
+- [Disease Logos](markdown/disease-logos.md)
+  Claim types: interpretive, synthetic, pastoral, speculative.
+  How to read this: read as a framework for embodied disorder and care; avoid turning the framework into a diagnosis of persons without humility and pastoral judgment.
+
+- [The Chemical Temple](markdown/the-chemical-temple.md)
+  Claim types: interpretive, synthetic, pastoral, speculative.
+  How to read this: read with special care for addiction, embodiment, and suffering; do not turn theological interpretation into medical or psychological certainty.
+
+- [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
+  Claim types: historical, interpretive, synthetic, pastoral.
+  How to read this: read as a critique of public ritual and political worship; test examples carefully and resist using the essay to baptize partisan superiority.
+
+- [Gettysburg National Military Park as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
+  Claim types: historical, interpretive, synthetic, speculative.
+  How to read this: read as symbolic and civic-theological interpretation, not as a denial of complex historical memory or grief.
+
 ## Core Theological Cosmology
 
 - [Introduction Draft](markdown/introduction-draft.md)
