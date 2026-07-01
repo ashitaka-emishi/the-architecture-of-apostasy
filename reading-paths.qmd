@@ -8,14 +8,16 @@ Use these paths depending on what kind of entry point you want.
 
 Start here for the broadest introduction to the project.
 
-1. [Reader's Guide](readers-guide.qmd)
-2. [Method](method.qmd)
+1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+2. [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
 3. [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
-4. [Core Concepts](core-concepts.qmd)
-5. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-6. [The Church and False Embodiment](church.qmd)
-7. [Faithful Institutions](faithful-institutions.qmd)
-8. [Gallery Catalog](markdown/gallery.md)
+4. [Method](method.qmd)
+5. [Faithful Institutions](faithful-institutions.qmd)
+6. [Foundations](foundations.qmd)
+7. [Reader's Guide](readers-guide.qmd)
+8. [Core Concepts](core-concepts.qmd)
+9. [The Church and False Embodiment](church.qmd)
+10. [Gallery Catalog](markdown/gallery.md)
 
 ## Apostasy and Religious Systems
 

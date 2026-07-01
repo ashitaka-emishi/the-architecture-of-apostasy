@@ -26,6 +26,14 @@ False logos -> false desire -> repeated bodily practice -> spiritual deformation
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
+### Foundations
+
+Begin with the project's diagnostic and embodied foundations: the architecture that exposes false worship, and the keeping that answers the cry before the Shepherd.
+
+[Read the foundations](foundations.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ### Core Concepts
 
 Discern the vocabulary of spirit, flesh, false logos, apostasy, suffering, repentance, and redemption.
@@ -76,7 +84,7 @@ Find every public reading copy, image catalog, and source collection.
 
 ## First Readings
 
-- Begin with [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the title essay.
-- Continue with [State-Dressed Religion](markdown/state-dressed-religion.md) for apostasy by incorporation.
-- Read [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md) for the pastoral call inside compromised institutions.
+- Begin with [Foundations](foundations.qmd) to see how the diagnostic and embodied foundations belong together.
+- Continue with [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the title essay.
+- Read [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md) as the archive's mythic and devotional discipline of faithful keeping.
 - Use [The Path of Re-Embodiment](path-of-re-embodiment.qmd) to keep the archive ordered toward return.

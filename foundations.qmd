@@ -1,0 +1,43 @@
+---
+title: "Foundations"
+---
+
+This project rests on two foundation documents. One gives the diagnostic grammar for apostasy. The other gives the embodied posture of faithful keeping.
+
+This is a public orientation page, not a new essay or source document.
+
+Together they keep the archive from becoming only an instrument of critique.
+
+> The archive must not merely diagnose apostasy; it must practice faithful keeping.
+
+## The Diagnostic Foundation
+
+[*The Architecture of Apostasy*](markdown/the-architecture-of-apostasy.md) names the central pattern: holy gifts, symbols, institutions, rituals, laws, and structures can become idols when detached from living dependence on God.
+
+It asks how a gift meant to turn the heart toward God can become Nehushtan: a preserved object, system, or ritual that receives trust for its own sake. Its work is diagnostic because it exposes false embodiment in persons, churches, institutions, nations, and religious systems.
+
+Read it as a warning against mastery. The point is not to stand outside apostasy as an analyst, but to become truthful before Christ about the forms of worship, protection, and sacrifice that have taken flesh.
+
+## The Embodied Foundation
+
+[*Aru vaen: A Keeping of the Troth*](markdown/aru-vaen-a-keeping-of-the-troth.md) gives the project its embodied counterweight.
+
+Its language is mythic and devotional rather than analytic. It teaches that faithfulness is not purity, conquest, control, or detached comprehension. Faithfulness is wounded keeping before the Shepherd: answering the cry without looking away.
+
+Read it as a discipline for the archive's tone. Diagnosis without faithful keeping hardens into superiority. Keeping without diagnosis can become sentimentality. The project needs both.
+
+## How They Belong Together
+
+The diagnostic foundation asks what false lord has taken flesh.
+
+The embodied foundation asks what faithful response must be practiced in the body.
+
+Held together, they order the site toward repentance, discernment, restoration, and re-embodiment in Christ. The archive should therefore serve the path of return, not the enlargement of a theological monument.
+
+## Read Next
+
+1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+2. [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+3. [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
+4. [Method](method.qmd)
+5. [Faithful Institutions](faithful-institutions.qmd)
