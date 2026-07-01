@@ -27,6 +27,8 @@ website:
         text: The Church
       - text: Library
         menu:
+          - href: foundations.qmd
+            text: Foundations
           - href: readers-guide.qmd
             text: Reader's Guide
           - href: method.qmd
