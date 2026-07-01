@@ -15,6 +15,7 @@ this grammar.
 - [Editorial Style Guide](editorial-style-guide.md)
 - [Agent Contracts](agent-contracts.md)
 - [Human Review Rubric](human-review-rubric.md)
+- [Christological Resolution Examples](christological-resolution-examples.md)
 - [Conversation Summary](conversation-summary.md)
 
 ## Operating Artifacts
