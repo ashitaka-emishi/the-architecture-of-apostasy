@@ -6,6 +6,12 @@ This site is for readers who want to discern how apostasy takes flesh and how Ch
 
 It is also for readers who may not share every premise of the project but are willing to test its claims carefully.
 
+## What Not To Do With The Archive
+
+Do not consume the archive as aesthetic doom, theological superiority, or anti-institutional confirmation bias.
+
+The project names apostasy so that repentance, discernment, restoration, and Christic re-embodiment can become possible. If a page leaves you feeling merely more certain of other people's corruption, read more slowly.
+
 ## Pastors And Church Leaders
 
 Read for the pastoral questions: What forms of preservation have become fear? Where has the church accepted a body from Caesar, donors, careerism, or respectability? What would repentance look like without theatrical reaction?
@@ -24,13 +30,17 @@ Read slowly. The project names institutional corruption, but it should not bapti
 
 The church can be diseased. The church can also be a place of mercy, sacrament, discipline, care, and restored belonging.
 
+The critique of corrupted systems does not cancel Christ's love for the Church. Institutional wounds should be heard truthfully without making suspicion the final form of faithfulness.
+
 Start with [Faithful Institutions](faithful-institutions.qmd), then [The Church and False Embodiment](church.qmd).
 
-## Catholic, Orthodox, Protestant, And Anabaptist Readers
+## Traditioned Readers
 
 Some essays make broad claims about church history and institutional development. Those claims should be tested against your tradition's own sources and best arguments.
 
 The project is strongest when it identifies patterns of idolatry that can afflict every tradition. It is weakest when it compresses complex histories too quickly.
+
+Catholic, Orthodox, Protestant, Anabaptist, Pentecostal, and non-denominational readers should bring tradition-specific objections and rival readings. Those objections are not interruptions of the work; they are part of how the work becomes more truthful.
 
 Start with [Method](method.qmd), then read the essays with the distinction between doctrine, exegesis, analogy, historical judgment, and prophetic warning in mind.
 
