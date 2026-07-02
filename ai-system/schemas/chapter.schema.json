@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/chapter.schema.json",
+  "$id": "https://architecture-of-apostasy.faith/schemas/chapter.schema.json",
   "title": "Grammar of Apostasy Chapter Metadata",
   "type": "object",
   "required": [

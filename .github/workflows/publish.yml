@@ -25,7 +25,10 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render site
-        run: quarto render
+        run: |
+          quarto render
+          python3 ai-system/scripts/seo_postprocess.py
+          python3 ai-system/scripts/seo_postprocess.py --check
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -3,7 +3,7 @@
 A collective archive of theological discussion, images, songs, and essays, published as a Quarto site.
 
 - Repository: <https://github.com/ashitaka-emishi/the-architecture-of-apostasy>
-- Public site: <https://ashitaka-emishi.github.io/the-architecture-of-apostasy/>
+- Public site: <https://architecture-of-apostasy.faith/>
 
 ## Repository Structure
 
@@ -72,6 +72,13 @@ Render the site:
 
 ```bash
 quarto render
+python3 ai-system/scripts/seo_postprocess.py
+```
+
+Check rendered SEO metadata:
+
+```bash
+python3 ai-system/scripts/seo_postprocess.py --check
 ```
 
 Preview the site:

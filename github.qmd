@@ -7,7 +7,7 @@ This repository is published as a Quarto website through GitHub Pages and GitHub
 ## Public Links
 
 - Repository: <https://github.com/ashitaka-emishi/the-architecture-of-apostasy>
-- Published site: <https://ashitaka-emishi.github.io/the-architecture-of-apostasy/>
+- Published site: <https://architecture-of-apostasy.faith/>
 
 ## Publishing Flow
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/status-metadata.schema.json",
+  "$id": "https://architecture-of-apostasy.faith/schemas/status-metadata.schema.json",
   "title": "Public Markdown Status Metadata",
   "description": "Optional front matter fields used to mark public Markdown review state, claim kinds, source needs, canonical terms, and Christological resolution status.",
   "type": "object",

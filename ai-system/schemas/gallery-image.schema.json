@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/gallery-image.schema.json",
+  "$id": "https://architecture-of-apostasy.faith/schemas/gallery-image.schema.json",
   "title": "Visual Theology Gallery Image Metadata",
   "description": "Machine-readable metadata for gallery images governed by the Visual Theology gallery canon.",
   "type": "object",

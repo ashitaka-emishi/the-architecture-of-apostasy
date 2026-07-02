@@ -141,12 +141,19 @@ use plain H1 headings and are skipped.
 `scripts/intake_consistency_check.py` reports citation, canonical-resolution,
 archive-listing, and raw-PDF source-note intake gaps.
 
+`scripts/seo_postprocess.py` applies page titles, descriptions, canonical URLs,
+Open Graph tags, and Twitter card tags to the rendered Quarto output using
+`site-assets/seo-metadata.json`, then can verify those tags with `--check`.
+
 Run it locally:
 
 ```bash
 python3 ai-system/scripts/theological_consistency_check.py
 python3 ai-system/scripts/validate_public_front_matter.py
 python3 ai-system/scripts/intake_consistency_check.py
+quarto render
+python3 ai-system/scripts/seo_postprocess.py
+python3 ai-system/scripts/seo_postprocess.py --check
 ```
 
 ## How To Use
