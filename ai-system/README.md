@@ -91,6 +91,7 @@ Each prompt should include:
 - `agent-output.schema.json` defines the standard output shape for AI agents.
 - `chapter.schema.json` defines metadata expected for structured chapter work.
 - `knowledge-graph.schema.json` defines nodes and edges for project maps.
+- `status-metadata.schema.json` defines optional public Markdown status metadata.
 
 Schemas should describe structure, not theology. The theology comes from the
 constitution.
@@ -124,10 +125,15 @@ Human theological validation lives in:
 It verifies required files, parses JSON schemas, checks agent prompt headings, and
 looks for stale project-path references.
 
+`scripts/validate_public_front_matter.py` checks newly added public Markdown and
+Quarto files for front matter and validates optional status metadata fields when
+they are present.
+
 Run it locally:
 
 ```bash
 python3 ai-system/scripts/theological_consistency_check.py
+python3 ai-system/scripts/validate_public_front_matter.py
 ```
 
 ## How To Use
