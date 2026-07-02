@@ -2,11 +2,19 @@
 
 Source: `raw/State-Dressed Religion.pdf`
 
+Reader's note: this essay uses three kinds of claims. Its legal descriptions concern
+public facts about incorporation, tax exemption, donor deductibility, political-campaign
+limits, and church-state arrangements. Its theological interpretations ask what those
+arrangements may do to the Church's visible body, imagination, and courage. Its prophetic
+warnings press the reader to repentance and discernment; they should not be confused with
+a settled legal conclusion that every incorporated or tax-exempt church has necessarily
+ceased to belong to Christ.
+
 American religious pluralism is usually described as a mercy: the state does not establish one church, does
 not formally abolish rival faiths, and permits citizens to worship according to conscience. At the surface
 level, this is true. But beneath the rhetoric of liberty is a deeper architecture. The sovereign nation does not
-merely permit religions to coexist. It incorporates them into its own juridical, fiscal, administrative, and
-symbolic body. The result is not simple tolerance. It is state-dressed religion.
+merely permit religions to coexist. It also makes them legible through juridical, fiscal, administrative, and
+symbolic forms. The result is not simple tolerance. It is state-dressed religion.
 The modern American order does not usually demand that religion disappear. It does something subtler. It
 permits religion to remain visible, organized, funded, and publicly respectable, provided that religious
 bodies receive their public form from Caesar. Churches, synagogues, mosques, temples, schools, ministries,
@@ -15,6 +23,15 @@ classification, property regimes, insurance structures, employment law, donor sy
 language. They may continue to speak of God, revelation, covenant, holiness, obedience, sacrifice, and
 salvation. But institutionally, they operate inside the body of the state.
 This is the heart of the apostasy: not merely false doctrine, but false embodiment.
+
+That claim requires a distinction. State recognition is not the same thing as state capture.
+A church may own property, hold insurance, employ staff, incorporate under state law, or
+receive federal tax treatment without thereby proving that Caesar has become its lord.
+Recognition names a legal fact: the civil order can identify an entity and apply rules to it.
+Capture names a spiritual and institutional deformation: the church begins to fear the loss
+of recognition, benefit, donor confidence, or civic legitimacy more than it fears disobedience
+to Christ. This essay is concerned with capture, not with the mere existence of public records.
+
 The biblical word apostasy comes from the Greek apostasia, meaning defection, revolt, or falling away. Paul
 warns of a coming “falling away” before the day of the Lord (2 Thessalonians 2:3). This is not merely
 intellectual error. It is a transfer of allegiance. Apostasy occurs when a people who bear the language of
@@ -45,22 +62,54 @@ Christ’s answer concerns the coin bearing Caesar’s image. But the human pers
 (Genesis 1:26–27). The Church, in Christian terms, bears the body of Christ. When the Church allows another
 sovereign to give it institutional form, fiscal privilege, legal identity, speech boundaries, and public
 legitimacy, it has not merely rendered Caesar his coin. It has allowed Caesar to clothe the altar.
-In the United States, 501(c)(3) status functions as one concrete mechanism of this incorporation. The IRS
-states that churches meeting 501(c)(3) requirements are automatically considered tax-exempt and are not
-required to apply for IRS recognition; donors may also claim deductions for contributions to qualifying
-churches even if the church has not sought or received IRS recognition. This matters because the issue is
-not only whether a church filed paperwork. The deeper issue is that the religious body is situated inside a
-sovereign tax architecture that defines what counts as exempt, deductible, charitable, religious, and publicly
-legitimate.
-The state’s bargain is not neutral. To be tax-exempt under 501(c)(3), an organization must be organized and
-operated for exempt purposes; its earnings may not inure to private individuals; it may not make lobbying a
-substantial part of its activity; and it may not participate in campaigns for or against political candidates.
-The IRS also states that 501(c)(3) organizations are prohibited from directly or indirectly intervening in
-political campaigns on behalf of or in opposition to candidates, with violations risking denial or revocation
-of tax-exempt status and possible excise taxes. One may defend these rules as prudent civil limitations. But
-from the standpoint of apostasy, the crucial point is that the state has established an administrative frame
-within which religious speech, institutional survival, donor confidence, and financial privilege are
-negotiated.
+
+The legal frame is more precise than the polemical shorthand often allows. The First Amendment says
+Congress shall make no law "respecting an establishment of religion" or "prohibiting the free exercise
+thereof" ([National Archives, Bill of Rights transcript](https://www.archives.gov/founding-docs/bill-of-rights-transcript)).
+Within that constitutional order, religious bodies may be organized in several state-law forms. IRS
+Publication 1828 notes that churches and religious organizations may exist as unincorporated associations,
+nonprofit corporations, corporations sole, or charitable trusts ([IRS Publication 1828](https://www.irs.gov/pub/irs-pdf/p1828.pdf)).
+Federal tax law then places churches inside a distinct 501(c)(3) regime. Churches that meet section
+501(c)(3) requirements are automatically considered tax exempt and need not apply for IRS recognition;
+donors may claim deductions for qualifying church gifts even where the church has not sought or received
+formal IRS recognition ([IRS, Churches and integrated auxiliaries](https://www.irs.gov/charities-non-profits/churches-integrated-auxiliaries-and-conventions-or-associations-of-churches)).
+That automatic treatment is reflected in 26 U.S.C. 508, which excepts churches, their integrated
+auxiliaries, and conventions or associations of churches from the ordinary notice rules imposed on many
+new 501(c)(3) organizations ([26 U.S.C. 508](https://www.law.cornell.edu/uscode/text/26/508)).
+
+This means the legal description must be stated carefully: a church does not normally need an IRS
+determination letter in order to be a tax-exempt church, and 501(c)(3) language does not by itself mean the
+church has "applied to become a creature of the state." Still, the legal architecture is real. Section
+501(c)(3) organizations must be organized and operated for exempt purposes; earnings may not inure to
+private persons; no substantial part of their activity may be lobbying; and they may not participate or
+intervene in political campaigns for or against candidates ([IRS, Exemption requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations);
+[26 U.S.C. 501](https://www.law.cornell.edu/uscode/text/26/501)). The Supreme Court has also treated
+religious tax exemptions as part of the American church-state settlement rather than as an automatic
+establishment of religion; in *Walz v. Tax Commission*, it upheld property-tax exemptions for religious
+properties used for worship ([Walz v. Tax Commission](https://supreme.justia.com/cases/federal/us/397/664/)).
+The legal point is therefore not that American law simply abolishes the Church. The theological question is
+whether the Church's dependence on legal form, tax confidence, donor assurance, property structures, and
+public legitimacy begins to discipline its obedience.
+
+There is a serious Christian rival reading. Many Christian lawyers, pastors, accountants, and institutional
+stewards defend incorporation and tax exemption as permissible tools rather than acts of apostasy. They
+argue that incorporation can protect members and leaders from avoidable personal liability, clarify who
+holds property, establish accountable governance, and allow ministries to employ staff, feed the poor,
+operate schools, receive gifts, and steward funds transparently. Church-law resources routinely treat
+articles of incorporation, bylaws, 501(c)(3) recognition, grant agreements, and compliance practices as
+ordinary instruments of prudent ministry rather than as surrender to Caesar ([Church Law & Tax, The
+Incorporation Process](https://www.churchlawandtax.com/pastor-church-law/organization-and-administration/corporations/the-incorporation-process/);
+[Church Law & Tax, 501(c)(3) ministry guidance](https://www.churchlawandtax.com/understand-taxes/exemption/qa-establishing-a-501c3-ministry-at-church/)).
+On this reading, civil law is a servant when it protects the weak, restrains fraud, clarifies accountability,
+and lets the church act peaceably in public. A church may use Caesar's registry without worshiping
+Caesar. It may receive tax exemption without treating exemption as its life.
+
+That rival reading should be heard. It rightly warns against romanticizing disorder, exposing congregants
+to needless risk, or treating every administrative form as demonic by nature. But it does not remove the
+danger named here. A tool can remain a tool only while obedience governs its use. When the tool begins
+to set the church's speech, define its courage, govern its imagination, or make institutional preservation
+feel holier than suffering loss for Christ, state recognition has become state capture.
+
 The religious institution then learns to think in Caesar’s categories. It asks what can be said without risking
 exemption. It asks what will threaten donors. It asks what will trigger liability. It asks how to structure
 boards, bylaws, payroll, insurance, property ownership, staff policy, abuse reporting, fundraising, public
