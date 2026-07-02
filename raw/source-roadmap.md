@@ -185,9 +185,79 @@ Rival-reading notes:
 
 ## Modern Institutional Sources
 
-- Church-growth models and megachurch metrics.
-- Consumer religion and market-shaped ecclesiology.
-- 501(c)(3), nonprofit law, donor systems, church incorporation, and religious tax exemption.
+### Church-Growth Models And Megachurch Metrics
+
+Claims to support:
+
+- Modern church-growth approaches often use sociological research, numerical accountability, strategy, and institutional metrics to evaluate mission effectiveness.
+- Megachurch claims should use a clear definition and should not treat size alone as proof of spiritual corruption or faithfulness.
+- Public essays should distinguish mission strategy, pragmatic managerialism, numerical idolatry, and ordinary stewardship.
+
+Candidate sources:
+
+- Donald A. McGavran, *Understanding Church Growth* (first published 1970; later revised edition with C. Peter Wagner), for the classic church-growth movement frame.
+- C. Peter Wagner, church-growth writings and Fuller School of World Mission context, where direct claims about strategy, homogeneity, or growth principles are made.
+- Hartford Institute for Religion Research, "Megachurch Research," for definition and descriptive patterns: https://hirr.hartfordinternational.edu/research/megachurch-research/
+- Hartford Institute / Faith Communities Today, *Megachurch 2020: The Changing Reality in America's Largest Churches*, for contemporary megachurch data: https://faithcommunitiestoday.org/wp-content/uploads/2020/10/Megachurch-Survey-Report_HIRR_FACT-2020.pdf
+- Hartford Institute, "Megachurch Database," for cautions around attendance reporting and self-reported data: https://hirr.hartfordinternational.edu/research/megachurch-database/
+
+Rival-reading notes:
+
+- Supportive readings may frame church-growth tools as missional stewardship, evangelistic seriousness, and accountability.
+- Critical readings may frame the same tools as pragmatism, market capture, or numerical idolatry.
+- Avoid collapsing "large church," "megachurch," "church-growth movement," and "consumer church" into one undifferentiated accusation.
+
+### Consumer Religion And Market-Shaped Ecclesiology
+
+Claims to support:
+
+- Some modern religious practice can be analyzed through market, consumer, branding, preference, and supply/demand frameworks.
+- "Consumer religion" is a contested interpretive lens; it can describe real patterns without proving that every accessible or seeker-sensitive practice is spiritually compromised.
+- Theological critique should distinguish sociological description from pastoral or prophetic judgment.
+
+Candidate sources:
+
+- Christian Smith and Melinda Lundquist Denton, *Soul Searching: The Religious and Spiritual Lives of American Teenagers*, for "Moralistic Therapeutic Deism" and broader American religious formation research.
+- National Study of Youth and Religion / University of Notre Dame book page for *Soul Searching*: https://youthandreligion.nd.edu/announcements/soul-searching-the-religious-and-spiritual-lives-of-american-teenagers/
+- Kenda Creasy Dean, *Almost Christian: What the Faith of Our Teenagers Is Telling the American Church*, for theological/pastoral interpretation of Moralistic Therapeutic Deism and youth formation.
+- John Drane, *The McDonaldization of the Church: Consumer Culture and the Church's Future*, for a church-specific consumer-culture critique.
+- Laurence R. Iannaccone, Roger Finke, and Rodney Stark, "Deregulating Religion: The Economics of Church and State," for religious-market/economics framing: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=97408
+- Finke and Stark supply-side/religious-market scholarship where essays invoke market-shaped religious competition.
+
+Rival-reading notes:
+
+- Market-language sources may describe religious behavior without intending theological condemnation.
+- Consumer-culture critiques vary: some are theological, some sociological, some ecclesial, and some youth-ministry focused.
+- Treat "market-shaped ecclesiology" as a claim requiring examples: programming, branding, donor targeting, membership retention, metrics, or product-like spiritual offerings.
+
+### 501(c)(3), Nonprofit Law, Donor Systems, Incorporation, And Tax Exemption
+
+Claims to support:
+
+- In the United States, churches that meet section 501(c)(3) requirements are automatically considered tax exempt and are not required to apply for IRS recognition.
+- Donors may claim charitable deductions for qualifying church contributions even when the church has not sought formal IRS recognition.
+- 501(c)(3) organizations must meet organizational/operational requirements, avoid private inurement, and observe restrictions on political campaign intervention and substantial lobbying.
+- Incorporation, tax exemption, donor deductibility, insurance, employment law, and property regimes are legal/institutional structures; theological claims about deformation must be made separately and carefully.
+
+Candidate primary/legal sources:
+
+- IRS Publication 1828, *Tax Guide for Churches and Religious Organizations*: https://www.irs.gov/pub/irs-pdf/p1828.pdf
+- IRS, "Churches, integrated auxiliaries and conventions or associations of churches": https://www.irs.gov/charities-non-profits/churches-integrated-auxiliaries-and-conventions-or-associations-of-churches
+- IRS, "Churches & Religious Organizations": https://www.irs.gov/charities-non-profits/churches-religious-organizations
+- IRS, "Exemption Requirements - 501(c)(3) Organizations": https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
+- Internal Revenue Code section 501(c)(3), section 508, and relevant Treasury/IRS guidance when claims require legal precision.
+
+Candidate legal/rival-reading sources:
+
+- Nonprofit legal guides that distinguish automatic church exemption, optional determination letters, donor assurance, governance, and compliance duties.
+- Christian legal-defense or church-law sources defending incorporation/tax exemption as permissible legal tools.
+- Anabaptist, house-church, free-church, or separatist critiques of state recognition and incorporation when presenting rival ecclesiologies.
+
+Rival-reading notes:
+
+- Do not imply that 501(c)(3) application is required for every church to be tax exempt; IRS guidance says qualifying churches are automatically considered tax exempt.
+- Do not imply that legal classification alone proves apostasy. The project's stronger claim is about functional lordship, donor fear, speech discipline, and institutional self-preservation.
+- Distinguish federal tax exemption from state incorporation, property ownership, insurance, employment law, and denominational polity.
 
 ## Constructive Examples
 
