@@ -270,6 +270,11 @@ a:focus {
   object-fit: contain;
 }
 
+.grid img.gallery-full {
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
 .grid h3 {
   margin-top: 0.75rem;
 }

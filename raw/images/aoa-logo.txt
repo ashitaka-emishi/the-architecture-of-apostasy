@@ -2,13 +2,13 @@ Title: Architecture of Apostasy Logo
 
 File: gallery/aoa-logo.jpg
 
-Source: replaced from `intake/31ed70a3-d1df-4439-9e67-202056759d26.png`.
+Source: replaced from `intake/5c3ab775-fe19-42be-a762-c7fcbc3322ab.png`.
 
 Asset type: site identity / logo draft
 
-Description: A black-and-gold symbolic title image contrasting true Logos and false logos around a central divided human figure, temple forms, crown, serpent, lamb, cross, and thorn imagery.
+Description: A black-and-gold title-at-top symbolic image contrasting true Logos and false logos around a central divided Christic figure, temple forms, light, laurel, and thorn imagery.
 
-Visible text includes "The Architecture of Apostasy," "True Logos," "False Logos," "Created in His Image," "Embodiment of Another Lord," and supporting Scripture references.
+Visible text includes "The Architecture of Apostasy."
 
 Theological use: Site identity asset connected to the public framing around true Logos, false logos, embodiment, apostasy, fracture, and return to Christ.
 
