@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Hypocrisy Chapter Draft
 
 Source: `raw/Hypocrisy_Chapter_Draft.pdf`
@@ -27,4 +31,3 @@ The central argument is that hypocrisy is not the disease itself but the outward
 deeper distortion. Disordered Logos writes the false pattern of life; the Chemical Temple embodies
 and reinforces it. Christ restores humanity to participation in the true Logos through His death,
 resurrection, and the indwelling Holy Spirit.
-

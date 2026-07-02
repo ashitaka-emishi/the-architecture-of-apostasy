@@ -12,10 +12,6 @@ These notes help readers approach the archive's more intense essays without trea
   Claim types: biblical, doctrinal, interpretive, synthetic, pastoral.
   How to read this: begin here for the diagnostic pattern, but test its typological claims through [Method](method.qmd) rather than consuming the essay as a final map of every institution.
 
-- [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
-  Claim types: historical, interpretive, synthetic, pastoral.
-  How to read this: read as a warning about incorporation and false embodiment; distinguish the historical claims from the theological pattern being proposed.
-
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
   Claim types: pastoral, doctrinal, interpretive.
   How to read this: read for repentance and discernment inside compromised institutions, not as permission for contempt toward pastors or churches.
@@ -44,21 +40,9 @@ These notes help readers approach the archive's more intense essays without trea
   Claim types: biblical, historical, interpretive, pastoral.
   How to read this: read as a polemic against visible religious grandeur; distinguish the scriptural critique of images from broader claims about church history and architecture.
 
-- [Disordered Logos and the Distorted Person](markdown/disease-logos.md)
-  Claim types: interpretive, synthetic, pastoral, speculative.
-  How to read this: read as a framework for embodied disorder and care; avoid turning the framework into a diagnosis of persons without humility and pastoral judgment.
-
 - [The Chemical Temple](markdown/the-chemical-temple.md)
   Claim types: interpretive, synthetic, pastoral, speculative.
   How to read this: read with special care for addiction, embodiment, and suffering; do not turn theological interpretation into medical or psychological certainty.
-
-- [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
-  Claim types: historical, interpretive, synthetic, pastoral.
-  How to read this: read as a critique of public ritual and political worship; test examples carefully and resist using the essay to baptize partisan superiority.
-
-- [Gettysburg as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
-  Claim types: historical, interpretive, synthetic, speculative.
-  How to read this: read as symbolic and civic-theological interpretation, not as a denial of complex historical memory or grief.
 
 ## Core Theological Cosmology
 
@@ -72,7 +56,6 @@ These notes help readers approach the archive's more intense essays without trea
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 - [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
 - [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
-- [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
 - [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
@@ -80,12 +63,8 @@ These notes help readers approach the archive's more intense essays without trea
 - [The Angel of Light and the Suffering Servant](markdown/the-angel-of-light-and-the-suffering-servant.md)
 - [The Whitewashed Cathedral and the Hidden Upper Room](markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md)
 
-## Logos, Disease, and Embodied Restoration
+## Embodied Restoration
 
-- [Disordered Logos and the Distorted Person](markdown/disease-logos.md)
-- [Disordered Logos and the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
-- [From Hypocrisy to Disordered Logos](markdown/from-hypocrisy-to-disease-logos.md)
-- [Hypocrisy Chapter Draft](markdown/hypocrisy-chapter-draft.md)
 - [The Chemical Temple](markdown/the-chemical-temple.md)
 - [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
 - [Repentance: The Biblical Mandate for Radical Reorientation](markdown/repentance-the-biblical-mandate-for-radical-reorientation.md)
@@ -99,9 +78,7 @@ These notes help readers approach the archive's more intense essays without trea
 
 ## Political Theology
 
-- [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
 - [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
-- [Gettysburg as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
 
 ## Literary and Mythopoetic Theology
 

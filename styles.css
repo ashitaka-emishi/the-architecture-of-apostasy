@@ -184,16 +184,24 @@ a:focus {
   color: var(--aoa-marble);
 }
 
-main.content:has(.aoa-hero) #title-block-header {
+#title-block-header:empty {
   display: none;
+}
+
+#quarto-content:has(.aoa-hero) {
+  padding-top: 0;
 }
 
 #quarto-content:has(.aoa-hero) > * {
   padding-top: 0;
 }
 
+main.content:has(.aoa-hero) {
+  padding-top: 0;
+}
+
 .aoa-hero {
-  margin: -0.25rem auto 3rem;
+  margin: -0.8rem auto 3rem;
   max-width: 58rem;
   padding: 0 0 2rem;
   text-align: center;
@@ -205,9 +213,10 @@ main.content:has(.aoa-hero) #title-block-header {
   -webkit-mask-image: radial-gradient(ellipse at center, #000 74%, rgba(0, 0, 0, 0.9) 84%, transparent 100%);
   mask-image: radial-gradient(ellipse at center, #000 74%, rgba(0, 0, 0, 0.9) 84%, transparent 100%);
   margin: 0 auto 1.75rem;
-  max-width: min(32rem, 82vw);
+  max-height: min(38rem, calc(100vh - 5.25rem));
+  max-width: min(28rem, 76vw);
   mix-blend-mode: lighten;
-  width: 100%;
+  width: auto;
 }
 
 .aoa-hero h2 {

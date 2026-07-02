@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # State-Dressed Religion and the Fallen Church
 
 Source: `raw/State-Dressed Religion.pdf`

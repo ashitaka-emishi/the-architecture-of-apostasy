@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # The Fallen Liturgies of American Politics
 
 Source: `raw/The Fallen Liturgies of American Politics.pdf`

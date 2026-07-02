@@ -36,6 +36,5 @@ It recovers practices that Caesar cannot easily metabolize: confession, repentan
 
 ## Read Next
 
-- [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
 - [Apostasy and Religious Systems](reading-paths.qmd#apostasy-and-religious-systems)

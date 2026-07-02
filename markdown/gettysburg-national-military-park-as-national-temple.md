@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Gettysburg as National Temple
 
 Status: Draft

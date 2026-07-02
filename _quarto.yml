@@ -4,6 +4,13 @@ project:
   render:
     - "*.qmd"
     - "markdown/*.md"
+    - "!markdown/state-dressed-religion.md"
+    - "!markdown/disease-logos.md"
+    - "!markdown/gettysburg-national-military-park-as-national-temple.md"
+    - "!markdown/the-fallen-liturgies-of-american-politics.md"
+    - "!markdown/disease-logos-and-care-for-the-long-afflicted.md"
+    - "!markdown/from-hypocrisy-to-disease-logos.md"
+    - "!markdown/hypocrisy-chapter-draft.md"
   resources:
     - "CNAME"
     - "gallery/**"
