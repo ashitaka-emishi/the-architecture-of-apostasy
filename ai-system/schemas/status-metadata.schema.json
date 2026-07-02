@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/status-metadata.schema.json",
+  "title": "Public Markdown Status Metadata",
+  "description": "Optional front matter fields used to mark public Markdown review state, claim kinds, source needs, canonical terms, and Christological resolution status.",
+  "type": "object",
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": ["stub", "draft", "review", "canonical", "deprecated"]
+    },
+    "claim_types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "biblical",
+          "doctrinal",
+          "historical",
+          "interpretive",
+          "synthetic",
+          "speculative",
+          "pastoral"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "canonical_terms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "source_needs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "scripture",
+          "primary",
+          "secondary",
+          "contemporary",
+          "rival-reading",
+          "pastoral-review",
+          "none"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "review_state": {
+      "type": "string",
+      "enum": ["unreviewed", "needs-review", "reviewed", "owner-approved"]
+    },
+    "christological_resolution": {
+      "type": "string",
+      "enum": ["absent", "partial", "present", "not-applicable"]
+    }
+  },
+  "additionalProperties": true
+}

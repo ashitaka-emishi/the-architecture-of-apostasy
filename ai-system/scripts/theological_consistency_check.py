@@ -32,9 +32,11 @@ REQUIRED_FILES = [
     AI_SYSTEM / "schemas" / "agent-output.schema.json",
     AI_SYSTEM / "schemas" / "chapter.schema.json",
     AI_SYSTEM / "schemas" / "knowledge-graph.schema.json",
+    AI_SYSTEM / "schemas" / "status-metadata.schema.json",
     AI_SYSTEM / "graphs" / "concept-dependency-graph.yml",
     AI_SYSTEM / "roadmap" / "volumes.yml",
     AI_SYSTEM / "checklists" / "chapter-front-matter-template.yml",
+    AI_SYSTEM / "scripts" / "validate_public_front_matter.py",
 ]
 
 CANONICAL_TERMS = [
