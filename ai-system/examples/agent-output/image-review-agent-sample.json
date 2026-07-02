@@ -1,0 +1,43 @@
+{
+  "agent": "image_review",
+  "task": "Review a proposed warning image for gallery readiness.",
+  "inputs": [
+    {
+      "kind": "file",
+      "reference": "gallery/cracked-idol-with-red-void.jpg"
+    },
+    {
+      "kind": "file",
+      "reference": "architecture-of-apostasy/aspects/visual-theology/gallery-canon.md"
+    }
+  ],
+  "summary": "The image can function as warning imagery if its catalog note prevents spectacle and connects the broken idol to Christological exposure and restoration.",
+  "findings": [
+    {
+      "claim": "The image visually supports a warning against idolatry and hollow self-preservation.",
+      "support": "The cracked figure, broken halo, and red void communicate fracture and false interiority.",
+      "confidence": "medium"
+    }
+  ],
+  "claim_classifications": [
+    {
+      "claim": "The image belongs in the warning-image category.",
+      "classification": "interpretive"
+    }
+  ],
+  "citations": [
+    {
+      "label": "Gallery Canon",
+      "locator": "architecture-of-apostasy/aspects/visual-theology/gallery-canon.md",
+      "note": "Validation rules for warning images."
+    }
+  ],
+  "risks": [
+    "The image could end in despair if no restoration note is attached.",
+    "The red void could invite spectacle without careful catalog framing."
+  ],
+  "open_questions": [
+    "Which essay or aspect note should provide the Christological resolution?"
+  ],
+  "recommended_next_action": "Keep the image public-catalog only until the catalog note names Christological exposure and restoration."
+}

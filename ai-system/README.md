@@ -19,6 +19,7 @@ The governing theological authority for this folder is:
 - `graphs/` contains machine-readable concept maps.
 - `roadmap/` contains machine-readable volume and chapter planning.
 - `checklists/` contains agent-facing tests and machine-readable templates.
+- `examples/` contains schema-valid examples for agent outputs and similar contracts.
 - `scripts/` contains validation and consistency tooling.
 
 The GitHub Actions workflow that runs these tools must remain in
@@ -43,6 +44,7 @@ ai-system/
 ├── graphs/       # Machine-readable concept dependency maps
 ├── roadmap/      # Machine-readable volume and chapter plans
 ├── checklists/   # Agent tests and templates
+├── examples/     # Schema-valid example artifacts
 └── scripts/      # Local and CI validation tools
 ```
 
