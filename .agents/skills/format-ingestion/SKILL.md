@@ -1,15 +1,16 @@
 ---
 name: format-ingestion
-description: Ingest dropped files (images, essay drafts, PDFs, and other formats) from a staging folder — usually "newfiles" at the project root — into the correct project locations, integrate them into the relevant site/index pages, run project validation, and delete the staging folder once everything lands correctly. Use when the user says to ingest, process, import, or "deal with" a newfiles/ (or similarly named) drop folder, or asks to get new essays/images/files into the site or project.
+description: Ingest dropped files (images, essay drafts, PDFs, and other formats) from a staging folder — usually "intake" at the project root — into the correct project locations, integrate them into the relevant site/index pages, run project validation, and clear the ingested staging contents once everything lands correctly. Use when the user says to ingest, process, import, or "deal with" intake/ (or a similarly named drop folder), or asks to get new essays/images/files into the site or project.
 ---
 
 # Format Ingestion
 
-Takes whatever a user dumped into a staging folder (default `newfiles/` at the
+Takes whatever a user dumped into a staging folder (default `intake/` at the
 project root) — images, markdown drafts, PDFs, mixed formats — and moves each
 item to where it actually belongs in the project, wires it into the pages that
-list/link that kind of content, validates the result, and deletes the staging
-folder. The staging folder is a landing zone, never a final home for content.
+list/link that kind of content, validates the result, and clears the ingested
+staging contents. The staging folder is a landing zone, never a final home for
+content.
 
 This skill is project-agnostic in shape but needs project-specific placement
 rules to act correctly. Section "Project conventions" below documents the
@@ -21,7 +22,7 @@ instead, and ask the user if it's genuinely ambiguous.
 
 ## When to use
 
-- User mentions a staging/drop folder (commonly `newfiles/`) that needs sorting.
+- User mentions a staging/drop folder (commonly `intake/`) that needs sorting.
 - User has added new essays, images, or source PDFs and wants them "in the
   project" / "on the site" / "integrated."
 - User asks to clean up or process files sitting outside the normal project
@@ -35,8 +36,9 @@ instead, and ask the user if it's genuinely ambiguous.
 
 ## Workflow
 
-1. **Locate the staging folder.** Default to `newfiles/` at the project root.
-   If it doesn't exist or is empty, say so and stop — nothing to do.
+1. **Locate the staging folder.** Default to `intake/` at the project root.
+   If it doesn't exist or contains only `README.md` / `.gitkeep`, say so and
+   stop — nothing to do.
 2. **Inventory every file** in the folder (including subfolders). For each
    file, determine: file type, apparent subject/title, and whether it pairs
    with another file in the folder (e.g. a `.md` draft and a `.pdf` export of
@@ -57,23 +59,30 @@ instead, and ask the user if it's genuinely ambiguous.
    silently invent a new theological category or heading — if nothing existing
    fits, propose one and say so explicitly rather than filing it under a
    mismatched heading.
-7. **Never edit the body of an existing essay or page** while ingesting new
+7. **For new essays with companion images, add the image near the top.** If a
+   newly ingested Markdown essay has a clear companion image in the same
+   staging batch, or the source itself clearly pairs the image with the essay,
+   place the image after the `# Title` and any `Source:` line unless the essay
+   already includes it in a suitable location. Also record the pairing in the
+   image's `Comments:` line in `markdown/gallery.md`. Do not force a pairing
+   when the relationship is unclear.
+8. **Never edit the body of an existing essay or page** while ingesting new
    material — this mirrors the project's own guardrail in
    `raw/recommended-improvements.md` ("Do not modify existing essay content
    unless explicitly requested").
-8. **Validate**: run `quarto render` and
+9. **Validate**: run `python3 ai-system/scripts/intake_consistency_check.py`,
+   `quarto render`, and
    `python3 ai-system/scripts/theological_consistency_check.py` (theology site;
    substitute the target project's own build/lint/check commands elsewhere).
    Fix anything the ingestion itself broke.
-9. **Delete the staging folder** — but only after every file in it has been
-   successfully placed and validation has passed. If any file could not be
-   placed (unrecognized format, ambiguous subject, failed validation), leave
-   that file in the staging folder, tell the user why, and delete only the
-   rest of the folder's contents once resolved (or leave the whole folder if
-   most items are blocked).
-10. **Report a summary**: what arrived, where each item landed, which pages
+10. **Clear ingested staging contents** — but only after every accepted file has
+    been successfully placed and validation has passed. Preserve
+    `intake/README.md`. If any file could not be placed (unrecognized format,
+    ambiguous subject, failed validation), leave that file in the staging
+    folder and tell the user why.
+11. **Report a summary**: what arrived, where each item landed, which pages
     were updated, anything skipped and why.
-11. **Do not `git add`, commit, or push.** Leave the resulting changes in the
+12. **Do not `git add`, commit, or push.** Leave the resulting changes in the
     working tree for the user to review and commit themselves, unless they
     explicitly ask you to commit in this conversation.
 
@@ -107,6 +116,9 @@ in this repo.
    say so in the `Comments:` line of `markdown/gallery.md`, mirroring how
    `ceaseless-prayer.jpg` and `the-ungraspable-light.jpg` reference their
    companion essays. Don't force a tie-in that isn't there.
+8. If the companion essay is newly ingested in the same batch, add the image
+   near the top of that essay's public Markdown copy after the title/source
+   block unless it is already present.
 
 ### Essay drafts (`.md`, and prose extracted from `.docx`/`.pdf`) → `markdown/` + `essays.qmd`
 
@@ -167,4 +179,6 @@ and why you're not sure where it goes, and ask.
 - Always run `quarto render` and the theological consistency check before
   declaring ingestion complete, and before deleting the staging folder.
 - Only delete the staging folder (or the portion of it that was successfully
-  placed) after validation passes — never delete first.
+  placed) after validation passes — never delete first. For this repo's
+  permanent `intake/` folder, delete or move ingested contents but keep
+  `intake/README.md`.

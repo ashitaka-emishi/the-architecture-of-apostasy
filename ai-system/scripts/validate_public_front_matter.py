@@ -23,6 +23,7 @@ EXCLUDED_PARTS = {
     ".quarto",
     "_site",
     "ai-system",
+    "intake",
     "raw",
 }
 

@@ -20,6 +20,7 @@ The default branch is `master`.
 ## Where Things Go
 
 - Public Quarto pages: root-level `.qmd` files.
+- New unprocessed batches: `intake/`.
 - Public reading copies: `markdown/`.
 - Original PDFs, drafts, and extracted source text: `raw/`.
 - Public image files: `gallery/`.
@@ -33,6 +34,8 @@ The default branch is `master`.
 
 - Use kebab-case for new public Markdown filenames.
 - Keep `raw/` sources as faithful to the original files as possible.
+- Treat `intake/` as a temporary staging area; move accepted files into `raw/`, `markdown/`, `gallery/`, or other correct homes before publication.
+- When an ingested essay has a clear companion image, place that image near the top of the public Markdown essay after the title/source block unless the source already does so.
 - Put public explanation and navigation in Quarto pages rather than in raw source files.
 - Use the Grammar of Apostasy constitution for new canonical terms, chapter structures, agent outputs, and diagrams.
 - Keep theological docs in `architecture-of-apostasy/` and AI/code artifacts in `ai-system/`.

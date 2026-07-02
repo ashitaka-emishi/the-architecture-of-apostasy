@@ -60,5 +60,6 @@ Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd)
 | Entry | Category | Status | Summary |
 |---|---|---|---|
 | `raw/` | Raw Source | Source Material, Needs Review | Preserves original PDFs, drafts, source notes, and held material before public or canonical decisions. |
+| `intake/` | Raw Source | Working Note | Temporary staging folder for new documents and images before classification, placement, and site integration. |
 | `raw/images/` | Raw Source | Source Material, Working Note | Stores image prompts, OCR records, and source notes behind public gallery assets. |
 | `gallery/` | Image | Source Material, Public Essay | Contains public image files used by the Quarto site and gallery pages. |

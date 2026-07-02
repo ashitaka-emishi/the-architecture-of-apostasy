@@ -17,9 +17,11 @@ The goal is not to publish more material. The goal is to preserve source materia
   - [ ] Prompt
   - [ ] Canonical chapter
   - [ ] Raw archive item
+  - [ ] Intake batch
 - [ ] Identify the proposed archive category from `archive-taxonomy.qmd`.
 - [ ] Identify the proposed status labels from `archive-taxonomy.qmd`.
 - [ ] Identify the intended repository location:
+  - [ ] `intake/` staging only
   - [ ] `raw/`
   - [ ] `markdown/`
   - [ ] root `.qmd`
@@ -37,6 +39,7 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] Does the document clarify the path of return, or merely enlarge the archive?
 - [ ] Does it resolve in Christ, or only diagnose collapse?
 - [ ] Does it preserve the Anti-Nehushtan rule: tools, documents, symbols, AI, and institutions remain signs and servants?
+- [ ] If the batch includes both an essay and an image, is there a clear companion-image relationship?
 
 ## Claim Classification
 
@@ -58,6 +61,7 @@ The goal is not to publish more material. The goal is to preserve source materia
 
 - [ ] Preserve original source material in `raw/` when applicable.
 - [ ] Confirm that public reading copies do not replace or overwrite source material.
+- [ ] For files arriving through `intake/`, confirm accepted files are moved out of staging after validation.
 - [ ] Identify evidence already present.
 - [ ] Identify evidence still needed.
 - [ ] Identify rival readings or tradition-specific objections.
@@ -71,6 +75,8 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] If it develops canonical grammar, place it under `architecture-of-apostasy/`.
 - [ ] If it is an AI/code support artifact, place it under `ai-system/`.
 - [ ] If it is a public image asset, place it under `gallery/`.
+- [ ] If a public essay has a clear companion image, place the image near the top of the Markdown copy after the title/source block unless already present.
+- [ ] If an image is paired with an essay, add the relationship to `markdown/gallery.md` and include the image in `images.qmd`.
 - [ ] If it is only a working note, do not present it as public or canonical.
 
 ## Mechanical Checks
@@ -79,8 +85,10 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] Check front matter if the destination format uses it.
 - [ ] Check filenames for kebab-case where public files are created.
 - [ ] Check that public pages render with `quarto render`.
+- [ ] Run `python3 ai-system/scripts/intake_consistency_check.py`.
 - [ ] Run `python3 ai-system/scripts/theological_consistency_check.py` when touching canonical grammar, AI system files, or cross-system references.
 - [ ] Confirm no unrelated essay body content was edited.
+- [ ] Confirm `intake/README.md` remains and successfully ingested staging files were removed from `intake/`.
 
 ## Editorial Decision
 
