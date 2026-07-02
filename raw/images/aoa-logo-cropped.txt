@@ -2,14 +2,14 @@ Title: Architecture of Apostasy Logo, Cropped
 
 File: gallery/aoa-logo-cropped.jpg
 
-Source: cropped derivative of `gallery/aoa-logo.jpg`.
+Source: resized derivative of `gallery/aoa-logo-emblem.jpg`, the square circular emblem crop; no further cropping applied.
 
 Asset type: site identity / navbar logo
 
-Description: A tighter crop of the Architecture of Apostasy logo for use in the site header, reducing the surrounding black border while preserving the emblem and title text.
+Description: A compact square derivative of the Architecture of Apostasy circular emblem for use in the site header, with no title text.
 
-Visible text: "The Architecture of Apostasy."
+Visible text: none.
 
 Theological use: Site identity asset for the dark theological-classical visual system.
 
-Constraints: Use for compact header placement. Keep the fuller logo available for larger visual contexts.
+Constraints: Use for compact header placement. Keep the fuller logo (`aoa-logo.jpg`) available for larger visual contexts.

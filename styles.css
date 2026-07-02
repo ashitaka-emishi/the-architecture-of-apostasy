@@ -97,8 +97,8 @@ a:focus {
 
 .navbar-brand img,
 .navbar-logo {
-  height: 3.85rem;
-  max-height: 3.85rem;
+  height: 3.1rem;
+  max-height: 3.1rem;
   object-fit: contain;
   width: auto;
 }
@@ -193,7 +193,7 @@ a:focus {
 .aoa-hero-logo {
   display: block;
   margin: 0 auto 1.75rem;
-  max-width: min(25rem, 76vw);
+  max-width: min(32rem, 82vw);
   width: 100%;
 }
 
@@ -266,6 +266,11 @@ a:focus {
 }
 
 .grid img.path-image {
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
+.grid img.gallery-full {
   aspect-ratio: auto;
   object-fit: contain;
 }

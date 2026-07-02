@@ -1,5 +1,5 @@
 ::: {.aoa-hero}
-![](gallery/aoa-logo-home.jpg){.aoa-hero-logo fig-alt="The Architecture of Apostasy logo"}
+![](gallery/aoa-logo-home.jpg){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image"}
 
 ## The Architecture of Apostasy is not a theory to be mastered. It is a path to be walked.
 

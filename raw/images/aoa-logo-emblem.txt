@@ -1,0 +1,18 @@
+Title: Architecture of Apostasy Emblem
+
+File: gallery/aoa-logo-emblem.jpg
+
+Source: `intake/5c3ab775-fe19-42be-a762-c7fcbc3322ab.png` (text-free circular composition), square-cropped tightly around the full laurel-and-thorn ring without cutting into it.
+
+Asset type: site identity / circular emblem
+
+Description: A black-and-gold circular emblem of the central divided Christic figure between temple forms, bordered by a laurel wreath on one side and a crown of thorns on the other, with no title text.
+
+Visible text: none.
+
+Derived assets:
+- `../../gallery/aoa-logo-cropped.jpg` (navbar logo, resized)
+- `../../gallery/architecture-of-apostasy-favicon.png` (favicon, resized)
+- `../../gallery/apple-touch-icon.png` (apple touch icon, resized)
+
+Theological use: Site identity asset for the dark theological-classical visual system, used wherever a compact mark is needed without the full title wordmark.

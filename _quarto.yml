@@ -15,6 +15,7 @@ website:
   title: "The Architecture of Apostasy"
   description: "A Christian path of return from false embodiment into Christ."
   site-url: "https://architecture-of-apostasy.faith"
+  favicon: gallery/architecture-of-apostasy-favicon.png
   open-graph: true
   twitter-card: true
   navbar:
@@ -71,6 +72,7 @@ format:
   html:
     theme: darkly
     css: styles.css
+    include-in-header: site-assets/brand-icons.html
     include-after-body: site-assets/image-viewer.html
     toc: true
     toc-depth: 3

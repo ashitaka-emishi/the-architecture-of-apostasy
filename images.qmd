@@ -14,6 +14,22 @@ A visual path diagram tracing false logos, false desire, bodily practice, deform
 :::
 
 ::: {.g-col-12 .g-col-md-6}
+![The Architecture of Apostasy Brand Image](gallery/aoa-logo-home.jpg)
+
+### The Architecture of Apostasy Brand Image
+
+A black-and-gold title-at-top symbolic image contrasting true Logos and false logos around the central Architecture of Apostasy motif.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![The Architecture of Apostasy Emblem](gallery/aoa-logo-emblem.jpg){.gallery-full}
+
+### The Architecture of Apostasy Emblem
+
+A black-and-gold circular emblem of the central divided Christic figure bordered by a laurel wreath and a crown of thorns, with no title text. Source for the navbar logo and favicon.
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ![Starry Road to the Church](gallery/starry-road-to-the-church.jpg)
 
 ### Starry Road to the Church

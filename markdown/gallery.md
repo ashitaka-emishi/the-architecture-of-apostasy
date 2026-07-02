@@ -9,6 +9,24 @@
 - Notes: Source and inspection notes are available in `../raw/images/the-path.txt`.
 - Comments: Visual companion for the home page and "The Path of Re-Embodiment," presenting the path as a movement from deformation toward restoration in Christ.
 
+## The Architecture of Apostasy Brand Image
+
+![The Architecture of Apostasy Brand Image](../gallery/aoa-logo-home.jpg)
+
+- File: `aoa-logo-home.jpg`
+- Description: A black-and-gold title-at-top symbolic image contrasting true Logos and false logos around a central divided Christic figure, temple forms, light, laurel, and thorn imagery.
+- Notes: Source and inspection notes are available in `../raw/images/aoa-logo-home.txt`.
+- Comments: Home page brand image and default social preview image.
+
+## The Architecture of Apostasy Emblem
+
+![The Architecture of Apostasy Emblem](../gallery/aoa-logo-emblem.jpg)
+
+- File: `aoa-logo-emblem.jpg`
+- Description: A black-and-gold circular emblem of the central divided Christic figure between temple forms, bordered by a laurel wreath on one side and a crown of thorns on the other, with no title text.
+- Notes: Source and inspection notes are available in `../raw/images/aoa-logo-emblem.txt`.
+- Comments: Source for the derived navbar logo, favicon, and apple touch icon.
+
 ## Starry Road to the Church
 
 ![Starry Road to the Church](../gallery/starry-road-to-the-church.jpg)
