@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/gallery-image.schema.json",
+  "title": "Visual Theology Gallery Image Metadata",
+  "description": "Machine-readable metadata for gallery images governed by the Visual Theology gallery canon.",
+  "type": "object",
+  "required": [
+    "title",
+    "public_filename",
+    "source_note_filename",
+    "image_type",
+    "related_aspect",
+    "canonical_terms",
+    "short_description",
+    "theological_reading",
+    "christological_resolution",
+    "risks_or_cautions",
+    "related_essays_or_chapters",
+    "publication_status"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "public_filename": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9._-]+\\.(jpg|jpeg|png|webp|gif|svg)$"
+    },
+    "source_note_filename": {
+      "type": "string",
+      "minLength": 1
+    },
+    "image_type": {
+      "type": "string",
+      "enum": [
+        "symbolic-art",
+        "conceptual-diagram",
+        "devotional-image",
+        "warning-image",
+        "chapter-illustration",
+        "research-artifact"
+      ]
+    },
+    "related_aspect": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_terms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "short_description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "theological_reading": {
+      "type": "string",
+      "minLength": 1
+    },
+    "christological_resolution": {
+      "type": "string",
+      "minLength": 1
+    },
+    "risks_or_cautions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "related_essays_or_chapters": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "publication_status": {
+      "type": "string",
+      "enum": [
+        "raw",
+        "draft",
+        "public-catalog",
+        "public-canonical",
+        "held-in-reserve",
+        "deprecated"
+      ]
+    }
+  },
+  "additionalProperties": false
+}

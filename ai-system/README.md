@@ -71,6 +71,7 @@ Constitution
 - Anthropology Agent
 - Systems Mapping Agent
 - Diagram Agent
+- Image Review Agent
 - Critique Agent
 - Editorial Agent
 - Canonical Integration Agent
@@ -90,6 +91,7 @@ Each prompt should include:
 
 - `agent-output.schema.json` defines the standard output shape for AI agents.
 - `chapter.schema.json` defines metadata expected for structured chapter work.
+- `gallery-image.schema.json` defines metadata for Visual Theology gallery images.
 - `knowledge-graph.schema.json` defines nodes and edges for project maps.
 - `status-metadata.schema.json` defines optional public Markdown status metadata.
 
