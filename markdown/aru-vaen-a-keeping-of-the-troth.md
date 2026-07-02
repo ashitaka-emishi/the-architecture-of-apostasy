@@ -2,6 +2,60 @@
 
 Source: `raw/Aru vaen-A Keeping of the Troth.pdf`
 
+## Public Note
+
+*Aru vaen: A Keeping of the Troth* is the project's mythic and devotional
+counterweight to its analytic essays. It is not a technical doctrine, a coded
+ontology, or a one-to-one allegory. It gives embodied shape to the question that
+the rest of the archive must keep asking after it has named false worship:
+will the keeper answer the cry without looking away?
+
+Read the myth as a discipline of posture. Its wolves, sheep, Shepherd, Black
+Sun, wounds, offices, and signs should not be flattened into fixed equivalents.
+They are symbolic and devotional forms that teach attention, fear that does not
+become refusal, wounded faithfulness, and dependence on the Shepherd prior to
+every vow.
+
+## Reading Guide
+
+The cry comes before analysis. It rises from places where language is broken,
+and the keeper must learn to hear it before mastering it.
+
+Keeping is not control. The Troth is received as bond, burden, remembrance, and
+response; it does not make the keeper pure, safe, or superior.
+
+Fear is not the enemy. Fear becomes dangerous when it turns into refusal,
+hardness, or self-protection, but trembling can still bow.
+
+Wounds are not incidental. The myth treats faithfulness as scarred and
+embodied, not clean, distant, or triumphant.
+
+Faithful institutions carry rather than consume. The hall, offices, names, and
+gathered faithful matter because they remember and bind a people toward mercy;
+they become false when form exists for itself.
+
+Before the Troth, there was the Shepherd. The vow is not ultimate. The keeping
+is already held by love, grief, and mercy that the faithful did not create.
+
+## Key Terms
+
+- Troth: the old bond of faithful keeping; not mere rule or contract, but a
+  remembered vow ordered toward the cry and the Shepherd.
+- Vaelun: threshold-keepers, watchers at the border where worlds, wounds, and
+  obligations meet.
+- Vaerun: the office of crossing; the one bound to pass the veil toward what is
+  crying.
+- Hrovan: the one who bears the hall; authority understood as burden-bearing
+  remembrance rather than domination.
+- Gravane: scar-bearers and rememberers who carry and press the old signs so
+  the people do not forget what keeping costs.
+- Truvane: the gathered faithful who remain bound to the Troth and answer when
+  the call is made.
+- Aruvan: the vast body made by keeping across ages; the faithful remembered
+  together beyond any one keeper's strength.
+- Shepherd: the one who precedes, gathers, judges, and holds the Troth; the
+  myth's deepest center, not a symbol to be mastered.
+
                           Aru va'en
                        A Keeping of the Troth
 
@@ -1717,4 +1771,3 @@ An old word: small, then ember, then the last light under ash
 
 Ur va. Thar un. Veth ara. OOR VAH · THAHR OON · VETH AH- rah
 The old tongue of the calling; literal meaning lost, understood by trembling
-
