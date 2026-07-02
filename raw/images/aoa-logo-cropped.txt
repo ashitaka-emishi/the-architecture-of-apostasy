@@ -6,9 +6,9 @@ Source: resized derivative of `gallery/aoa-logo.jpg`, replaced from `intake/31ed
 
 Asset type: site identity / navbar logo
 
-Description: A compact square derivative of the Architecture of Apostasy brand image for use in the site header.
+Description: A compact square, wordless crop of the Architecture of Apostasy brand image for use in the site header.
 
-Visible text includes "The Architecture of Apostasy," though small display contexts may make the text decorative rather than fully readable.
+Visible text: none.
 
 Theological use: Site identity asset for the dark theological-classical visual system.
 

@@ -97,8 +97,8 @@ a:focus {
 
 .navbar-brand img,
 .navbar-logo {
-  height: 3.85rem;
-  max-height: 3.85rem;
+  height: 3.1rem;
+  max-height: 3.1rem;
   object-fit: contain;
   width: auto;
 }
