@@ -17,6 +17,8 @@ this grammar.
 - [Human Review Rubric](human-review-rubric.md)
 - [Christological Resolution Examples](christological-resolution-examples.md)
 - [Aru Vaen And The Grammar](aru-vaen-and-the-grammar.md)
+- [Prophetic Warning Vs Omniscient Verdict](prophetic-warning-vs-verdict.md)
+- [Faithful Institutions In The Grammar](faithful-institutions.md)
 - [Conversation Summary](conversation-summary.md)
 
 ## Operating Artifacts
