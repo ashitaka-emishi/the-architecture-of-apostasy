@@ -52,7 +52,7 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] Distinguish what the document proves from what it proposes.
 - [ ] Mark any strong claims that need visible citations.
 - [ ] Mark any contested claims that need rival readings.
-- [ ] Mark any psychological, medical, trauma-related, addiction-related, or abuse-related material that needs pastoral risk review.
+- [ ] Mark any psychological, medical, trauma-related, addiction-related, or abuse-related material that needs `ai-system/checklists/pastoral-risk-review.md`.
 
 ## Source And Evidence Review
 

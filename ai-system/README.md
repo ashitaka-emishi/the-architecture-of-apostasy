@@ -118,6 +118,10 @@ or chapter plans change.
 
 - `agent-prompt-test.md` documents a realistic prompt test.
 - `chapter-front-matter-template.yml` gives a structured metadata template.
+- `document-intake-checklist.md` routes new material through source,
+  classification, placement, and review decisions.
+- `pastoral-risk-review.md` reviews trauma, addiction, abuse, institutional,
+  and psychological-formation material before publication or integration.
 
 Human theological validation lives in:
 
