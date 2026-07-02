@@ -1,5 +1,14 @@
 # Gallery
 
+## A Path of Deformation and Return
+
+![A Path of Deformation and Return](../gallery/the-path.png){.path-image .no-lightbox}
+
+- File: `the-path.png`
+- Description: A two-row visual path diagram tracing false logos, false desire, repeated bodily practice, spiritual deformation, institutional embodiment, sacrifice, suffering, repentance, death to the false self, and re-embodiment in Christ.
+- Notes: Source and inspection notes are available in `../raw/images/the-path.txt`.
+- Comments: Visual companion for the home page and "The Path of Re-Embodiment," presenting the path as a movement from deformation toward restoration in Christ.
+
 ## Starry Road to the Church
 
 ![Starry Road to the Church](../gallery/starry-road-to-the-church.jpg)

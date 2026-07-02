@@ -5,6 +5,14 @@ title: "Images"
 The image collection contains symbolic theology, visual metaphors, and diagrammatic material. The canonical catalog is also available as [Gallery Catalog](markdown/gallery.md).
 
 ::: {.grid}
+::: {.g-col-12}
+![A Path of Deformation and Return](gallery/the-path.png){.path-image .no-lightbox}
+
+### A Path of Deformation and Return
+
+A visual path diagram tracing false logos, false desire, bodily practice, deformation, institutional embodiment, sacrifice, suffering, repentance, death to the false self, and re-embodiment in Christ.
+:::
+
 ::: {.g-col-12 .g-col-md-6}
 ![Starry Road to the Church](gallery/starry-road-to-the-church.jpg)
 

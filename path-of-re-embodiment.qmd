@@ -8,9 +8,7 @@ It begins with a simple confession: every spirit seeks flesh. Every flesh reveal
 
 ## The Movement
 
-::: {.path-line}
-False logos -> false desire -> repeated bodily practice -> spiritual deformation -> institutional embodiment -> sacrifice -> suffering -> repentance -> death to the false self -> re-embodiment in Christ
-:::
+![A Path of Deformation and Return: false logos, false desire, repeated bodily practice, spiritual deformation, institutional embodiment, sacrifice, suffering, repentance, death to the false self, and re-embodiment in Christ.](gallery/the-path.png){.path-image .no-lightbox fig-alt="A visual diagram titled A Path of Deformation and Return, showing ten stages from false logos through re-embodiment in Christ."}
 
 ## False Logos
 
