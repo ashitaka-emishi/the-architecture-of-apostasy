@@ -48,4 +48,5 @@ The project critiques institutional apostasy so that faithful embodiment can bec
 
 - [The Church and False Embodiment](church.qmd)
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
+- [Rival Readings](rival-readings.qmd)
 - [Method](method.qmd)
