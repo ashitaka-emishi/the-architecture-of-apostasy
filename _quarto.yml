@@ -5,6 +5,7 @@ project:
     - "*.qmd"
     - "markdown/*.md"
   resources:
+    - "CNAME"
     - "gallery/**"
     - "raw/**/*.pdf"
     - "raw/images/**/*.txt"
@@ -13,7 +14,9 @@ project:
 website:
   title: "The Architecture of Apostasy"
   description: "A Christian path of return from false embodiment into Christ."
-  site-url: "https://ashitaka-emishi.github.io/the-architecture-of-apostasy"
+  site-url: "https://architecture-of-apostasy.faith"
+  open-graph: true
+  twitter-card: true
   navbar:
     title: false
     logo: gallery/aoa-logo-cropped.jpg

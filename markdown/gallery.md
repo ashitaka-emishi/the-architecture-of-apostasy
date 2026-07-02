@@ -152,3 +152,21 @@
 - Description: A classical painted scene of a radiant burst of light and lightning over a valley and river, with two crowds of figures on opposite banks recoiling and gesturing toward the light.
 - Notes: Source and inspection notes are available in `../raw/images/the-light-breaking-between-the-crowds.txt`.
 - Comments: Visual companion for "Repentance: The Biblical Mandate for Radical Reorientation," picturing both crowds arrested in the same instant of turning.
+
+## The Angel of Light and the Suffering Servant
+
+![The Angel of Light and the Suffering Servant](../gallery/angel-of-light-and-suffering-servant.jpg)
+
+- File: `angel-of-light-and-suffering-servant.jpg`
+- Description: An icon-like contrast between a luminous angelic figure and the suffering Christ before the cross, set against a gold-toned background.
+- Notes: Source and inspection notes are available in `../raw/images/angel-of-light-and-suffering-servant.txt`.
+- Comments: Visual companion for "The Angel of Light and the Suffering Servant," emphasizing the contrast between deceptive splendor and cruciform glory.
+
+## The Whitewashed Cathedral and the Hidden Upper Room
+
+![The Whitewashed Cathedral and the Hidden Upper Room](../gallery/whitewashed-cathedral-and-hidden-upper-room.jpg)
+
+- File: `whitewashed-cathedral-and-hidden-upper-room.jpg`
+- Description: A split composition contrasting a bright white cathedral and public crowd with a small hidden gathering outside a weathered house under darker skies.
+- Notes: Source and inspection notes are available in `../raw/images/whitewashed-cathedral-and-hidden-upper-room.txt`.
+- Comments: Visual companion for "The Whitewashed Cathedral and the Hidden Upper Room," contrasting religious grandeur with scattered hidden faith.

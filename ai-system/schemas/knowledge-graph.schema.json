@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/knowledge-graph.schema.json",
+  "$id": "https://architecture-of-apostasy.faith/schemas/knowledge-graph.schema.json",
   "title": "Grammar of Apostasy Knowledge Graph",
   "type": "object",
   "required": ["nodes", "edges"],

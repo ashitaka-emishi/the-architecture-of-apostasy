@@ -1,0 +1,206 @@
+{
+  "default_image": "gallery/aoa-logo-home.jpg",
+  "pages": {
+    "index.html": {
+      "title": "The Architecture of Apostasy",
+      "description": "A Christian archive tracing apostasy as false embodiment and the path of return from false logos into Christ."
+    },
+    "about.html": {
+      "title": "About",
+      "description": "About The Architecture of Apostasy, a Christian project on false embodiment, apostasy, repentance, and re-embodiment in Christ."
+    },
+    "archive-taxonomy.html": {
+      "title": "Archive Taxonomy",
+      "description": "Definitions for the archive categories and status labels used across the Architecture of Apostasy site."
+    },
+    "archive.html": {
+      "title": "Archive",
+      "description": "The public index of reading copies, source collections, image resources, and supporting pages in The Architecture of Apostasy."
+    },
+    "church.html": {
+      "title": "The Church and False Embodiment",
+      "description": "A Christian account of the church as loved by Christ while vulnerable to false institutional embodiment and worldly capture."
+    },
+    "core-concepts.html": {
+      "title": "Core Concepts",
+      "description": "Key terms for logos, false logos, embodiment, apostasy, repentance, suffering, and re-embodiment in Christ."
+    },
+    "discussions.html": {
+      "title": "Discussions",
+      "description": "A reserved section for theological conversations, responses, disputes, and collective commentary around the archive."
+    },
+    "document-intake-covenant.html": {
+      "title": "Document Intake Covenant",
+      "description": "The public process for moving new documents from raw preservation into public reading, canonical review, or held reserve."
+    },
+    "essays.html": {
+      "title": "Essays",
+      "description": "A categorized index of public essays with reading notes for claim types, interpretive care, and theological emphasis."
+    },
+    "faithful-institutions.html": {
+      "title": "Faithful Institutions",
+      "description": "A constructive account of repentant institutions, faithful form, pruning, and common life ordered toward Christ."
+    },
+    "foundations.html": {
+      "title": "Foundations",
+      "description": "The diagnostic and devotional foundation documents that order the archive toward discernment, repentance, and faithful keeping."
+    },
+    "github.html": {
+      "title": "GitHub and Publishing",
+      "description": "Repository, publishing, and local development notes for the Quarto site behind The Architecture of Apostasy."
+    },
+    "images.html": {
+      "title": "Images",
+      "description": "A public visual-theology image collection for symbolic theology, diagrams, and essay companion images.",
+      "image": "gallery/the-path.png"
+    },
+    "method.html": {
+      "title": "Method",
+      "description": "The project's method for reading Scripture, history, institutions, symbols, and culture through Christian theological discernment."
+    },
+    "path-of-re-embodiment.html": {
+      "title": "The Path of Re-Embodiment",
+      "description": "A path from false logos and false desire through suffering, repentance, death to the false self, and re-embodiment in Christ.",
+      "image": "gallery/the-path.png"
+    },
+    "readers-guide.html": {
+      "title": "Reader's Guide",
+      "description": "Guidance for pastors, lay readers, wounded readers, and critics approaching the archive with care and self-examination."
+    },
+    "reading-paths.html": {
+      "title": "Reading Paths",
+      "description": "Curated reading paths through the archive by theme, reader need, and theological entry point."
+    },
+    "rival-readings.html": {
+      "title": "Rival Readings",
+      "description": "Major objections, alternative readings, and cautions for testing the archive's theological and historical claims."
+    },
+    "songs.html": {
+      "title": "Songs",
+      "description": "A reserved section for songs, hymns, chants, lyrics, and other musical or liturgical materials."
+    },
+    "markdown/ancient-and-modern-monopolies-of-faithless-religion.html": {
+      "title": "Ancient and Modern Monopolies of Faithless Religion",
+      "description": "A theological comparison of ancient and modern religious monopoly patterns and institutionalized faithlessness."
+    },
+    "markdown/aru-vaen-a-keeping-of-the-troth.html": {
+      "title": "Aru vaen: A Keeping of the Troth",
+      "description": "A mythic-devotional foundation for wounded keeping, faithfulness, and answering the cry before the Shepherd."
+    },
+    "markdown/chapter-1-the-architecture-of-pandemonium.html": {
+      "title": "Chapter 1: The Architecture of Pandemonium",
+      "description": "A canonical draft on the inversion of the imago Dei, antediluvian retrogression, and early cosmological corruption."
+    },
+    "markdown/chapter-2-the-primordial-narrative.html": {
+      "title": "Chapter 2: The Primordial Narrative",
+      "description": "A canonical draft extending the primordial narrative frame for creation, rebellion, deformation, and false order."
+    },
+    "markdown/chapter-3-the-broken-quarantine.html": {
+      "title": "Chapter 3: The Broken Quarantine",
+      "description": "A canonical draft on corruption, boundary failure, and the broken quarantine within the wider cosmological project."
+    },
+    "markdown/disease-logos-and-care-for-the-long-afflicted.html": {
+      "title": "Disordered Logos and the Long Afflicted",
+      "description": "A pastoral application of the disordered-logos framework to long affliction, care, embodiment, and humility."
+    },
+    "markdown/disease-logos.html": {
+      "title": "Disordered Logos and the Distorted Person",
+      "description": "A framework for embodied disorder, false logos, addiction, hypocrisy, pastoral care, and the distorted person."
+    },
+    "markdown/from-hypocrisy-to-disease-logos.html": {
+      "title": "From Hypocrisy to Disordered Logos",
+      "description": "An essay reframing hypocrisy through embodied disorder, formative practice, false logos, and spiritual deformation."
+    },
+    "markdown/gallery.html": {
+      "title": "Gallery Catalog",
+      "description": "A catalog of public visual-theology images, source notes, descriptions, and companion essay relationships.",
+      "image": "gallery/the-path.png"
+    },
+    "markdown/gettysburg-national-military-park-as-national-temple.html": {
+      "title": "Gettysburg as National Temple",
+      "description": "A symbolic and civic-theological reading of Gettysburg, national memory, sacred space, and public sacrifice."
+    },
+    "markdown/hypocrisy-chapter-draft.html": {
+      "title": "Hypocrisy Chapter Draft",
+      "description": "A chapter-level draft on hypocrisy, embodied disorder, deformation, and the gap between speech and practiced allegiance."
+    },
+    "markdown/introduction-draft.html": {
+      "title": "Introduction Draft",
+      "description": "A draft introduction to the broader cosmological and theological architecture of apostasy, false embodiment, and return."
+    },
+    "markdown/mormonism-and-christianity.html": {
+      "title": "Mormonism and Christianity",
+      "description": "A theological boundary essay distinguishing Christian doctrine, Mormon claims, history, and pastoral posture."
+    },
+    "markdown/pagan-origins-of-christmas.html": {
+      "title": "Pagan Origins of Christmas",
+      "description": "An essay on contested Christmas-origin claims, sacred time, Christian liberty, and theological discernment."
+    },
+    "markdown/protestantism-and-christmas.html": {
+      "title": "Protestantism and Christmas",
+      "description": "A Protestant theological treatment of Christmas, calendar practice, feast traditions, and faithful reception."
+    },
+    "markdown/repentance-the-biblical-mandate-for-radical-reorientation.html": {
+      "title": "Repentance: The Biblical Mandate for Radical Reorientation",
+      "description": "A biblical and linguistic study of repentance through shuv, nacham, metanoia, epistrophe, and reorientation toward God.",
+      "image": "gallery/the-light-breaking-between-the-crowds.jpg"
+    },
+    "markdown/state-dressed-religion.html": {
+      "title": "State-Dressed Religion and the Fallen Church",
+      "description": "A theological warning about incorporation, state recognition, false embodiment, and the fallen church."
+    },
+    "markdown/the-alchemy-of-false-prophecy.html": {
+      "title": "The Alchemy of False Prophecy",
+      "description": "A rebuke of modern Galatian heresy, false prophecy, spiritual manipulation, and teaching tested by Christ and the gospel."
+    },
+    "markdown/the-angel-of-light-and-the-suffering-servant.html": {
+      "title": "The Angel of Light and the Suffering Servant",
+      "description": "A discernment essay contrasting deceptive religious splendor with cruciform glory revealed through weakness and affliction.",
+      "image": "gallery/angel-of-light-and-suffering-servant.jpg"
+    },
+    "markdown/the-architecture-of-apostasy.html": {
+      "title": "The Architecture of Apostasy",
+      "description": "The diagnostic foundation for holy gifts becoming idols when detached from God and embodied as false worship."
+    },
+    "markdown/the-chemical-temple.html": {
+      "title": "The Chemical Temple",
+      "description": "A theological account of addiction, embodiment, suffering, and false temple formation through chemical desire."
+    },
+    "markdown/the-eternal-reality-of-ceaseless-prayer.html": {
+      "title": "The Shape of the Unbroken Soul",
+      "description": "A devotional essay on ceaseless prayer, endurance, shifting contexts, and the soul's continuous orientation toward God.",
+      "image": "gallery/ceaseless-prayer.jpg"
+    },
+    "markdown/the-fallen-liturgies-of-american-politics.html": {
+      "title": "The Fallen Liturgies of American Politics",
+      "description": "A critique of political ritual, speech, sacrifice, and public liturgy in American civic life."
+    },
+    "markdown/the-monumental-cross-and-the-crucified-cross.html": {
+      "title": "The Monumental Cross and the Crucified Cross",
+      "description": "An essay contrasting symbolic monumentality with the exposed, cruciform meaning of Christian witness.",
+      "image": "gallery/monumental-cross.png"
+    },
+    "markdown/the-pastor-inside-the-apostate-architecture.html": {
+      "title": "The Pastor Inside the Apostate Architecture",
+      "description": "A pastoral essay on faithfulness, repentance, and discernment inside compromised institutional church structures."
+    },
+    "markdown/the-true-timeline-of-messiah.html": {
+      "title": "The True Timeline of Messiah",
+      "description": "An essay on messianic chronology, sacred time, interpretive questions, and the timeline of Messiah."
+    },
+    "markdown/the-ungraspable-light.html": {
+      "title": "The Ungraspable Light",
+      "description": "A symbolic theology of Moses, Aquinas, idolatry, representation, and divine light that cannot be grasped.",
+      "image": "gallery/the-ungraspable-light.jpg"
+    },
+    "markdown/the-weight-of-glory-from-shadow-to-substance.html": {
+      "title": "The Weight of Glory: From Shadow to Substance",
+      "description": "A Christological essay on shadow, substance, fulfillment, and the weight of glory in sacred time."
+    },
+    "markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.html": {
+      "title": "The Whitewashed Cathedral and the Hidden Upper Room",
+      "description": "A polemic on religious images, ecclesiastical grandeur, hidden faith, and worship by the Spirit rather than by sight.",
+      "image": "gallery/whitewashed-cathedral-and-hidden-upper-room.jpg"
+    }
+  }
+}

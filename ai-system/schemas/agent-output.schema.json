@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ashitaka-emishi.github.io/the-architecture-of-apostasy/schemas/agent-output.schema.json",
+  "$id": "https://architecture-of-apostasy.faith/schemas/agent-output.schema.json",
   "title": "Grammar of Apostasy Agent Output",
   "type": "object",
   "required": [

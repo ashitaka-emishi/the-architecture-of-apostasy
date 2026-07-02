@@ -3,7 +3,7 @@
 A collective archive of theological discussion, images, songs, and essays, published as a Quarto site.
 
 - Repository: <https://github.com/ashitaka-emishi/the-architecture-of-apostasy>
-- Public site: <https://ashitaka-emishi.github.io/the-architecture-of-apostasy/>
+- Public site: <https://architecture-of-apostasy.faith/>
 
 ## Repository Structure
 
@@ -20,6 +20,7 @@ should remain related but not mixed together casually.
 .
 ├── architecture-of-apostasy/   # Canonical theological workspace
 ├── ai-system/                  # AI prompts, schemas, scripts, and machine-readable files
+├── intake/                     # Staging folder for new docs/images before ingestion
 ├── gallery/                    # Public image assets used by the Quarto site
 ├── markdown/                   # Public Markdown reading copies
 ├── raw/                        # Original source files, PDFs, drafts, OCR, prompts, notes
@@ -29,6 +30,7 @@ should remain related but not mixed together casually.
 ```
 
 - `raw/` contains original source materials, PDFs, drafts, and OCR/text extraction.
+- `intake/` is the staging folder for new files before they are classified, moved, and wired into the site.
 - `markdown/` contains Markdown reading copies of the written documents.
 - `gallery/` contains public image files used by the archive. The theological canon for image use lives in `architecture-of-apostasy/aspects/visual-theology/`.
 - `architecture-of-apostasy/` contains the main theological project workspace, including the Grammar of Apostasy and sub-aspect scaffolds.
@@ -70,6 +72,13 @@ Render the site:
 
 ```bash
 quarto render
+python3 ai-system/scripts/seo_postprocess.py
+```
+
+Check rendered SEO metadata:
+
+```bash
+python3 ai-system/scripts/seo_postprocess.py --check
 ```
 
 Preview the site:

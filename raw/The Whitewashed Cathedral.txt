@@ -1,0 +1,7 @@
+Source note for `The Whitewashed Cathedral.pdf`.
+
+Public reading copy: `../markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md`.
+
+Companion image: `../gallery/whitewashed-cathedral-and-hidden-upper-room.jpg`.
+
+Ingested from `intake/` during the staged intake workflow verification pass.

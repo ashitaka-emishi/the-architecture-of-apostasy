@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Validate front matter on newly added public Markdown files.
+"""Validate front matter on newly added root public Markdown and Quarto files.
 
 The check is mechanical: it requires a YAML front matter block with a title and
 validates optional status metadata fields when they are present.
+
+Public reading copies under markdown/ intentionally use plain H1 headings
+instead of YAML front matter, so they are outside this check.
 """
 
 from __future__ import annotations
@@ -23,6 +26,8 @@ EXCLUDED_PARTS = {
     ".quarto",
     "_site",
     "ai-system",
+    "intake",
+    "markdown",
     "raw",
 }
 

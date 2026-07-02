@@ -45,6 +45,14 @@ Human editorial review
 Publish, revise, canonize, or hold in reserve
 ```
 
+## Staging Folder
+
+The operational landing zone for new batches is `intake/`.
+
+Users may place PDFs, Markdown drafts, images, source notes, or mixed batches in that folder and then ask Codex to run the intake process. The folder is not a permanent home. Intake should inventory the batch, read or inspect every item, classify the material, check theological fit, move accepted files into their proper locations, update the website pages that expose them, validate the site, and then remove the ingested files from `intake/` while leaving `intake/README.md` in place.
+
+If a file cannot be placed safely, it should remain in `intake/` with a clear explanation. Ambiguity is not failure; it is a signal that human editorial judgment is needed.
+
 ## Classification
 
 The first intake question is simple: what kind of document is this?
@@ -78,6 +86,7 @@ Before a document moves forward, it should answer these questions:
 9. Where does it belong in the repository?
 10. Does it clarify the path of return, or merely enlarge the archive?
 11. Does it resolve in Christ, or only diagnose collapse?
+12. If this is an essay with a companion image, has the image been placed near the top of the public Markdown copy and listed in the gallery?
 
 These questions should slow the project down when speed would confuse raw intensity with faithful increase.
 
@@ -90,6 +99,7 @@ After review, a document may be:
 - used to improve a root orientation page;
 - mapped into canonical work under `architecture-of-apostasy/`;
 - routed into `gallery/`, `songs.qmd`, or `discussions.qmd`;
+- paired with a companion image near the top of its public Markdown copy when the relationship is clear;
 - sent back for sourcing, claim classification, rival readings, or pastoral review;
 - held in reserve;
 - declined for publication.
@@ -122,6 +132,7 @@ When tracking new materials, these labels can describe the current intake state:
 
 ## Read Next
 
+- `intake/README.md`
 - [Foundations](foundations.qmd)
 - [Method](method.qmd)
 - [Archive](archive.qmd)

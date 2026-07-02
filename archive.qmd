@@ -44,6 +44,7 @@ Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd)
 | [Pagan Origins of Christmas](markdown/pagan-origins-of-christmas.md) | Supporting Essay | Public Essay, Needs Citation | Examines contested claims about Christmas, sacred time, and Christian liberty. |
 | [Protestantism and Christmas](markdown/protestantism-and-christmas.md) | Supporting Essay | Public Essay, Needs Citation | Considers Protestant critique, calendar practice, and faithful reception of feast traditions. |
 | [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md) | Major Essay | Public Essay | Applies the architecture of apostasy to incorporation, state power, and institutional religion. |
+| [The Angel of Light and the Suffering Servant](markdown/the-angel-of-light-and-the-suffering-servant.md) | Major Essay | Public Essay, Needs Review | Contrasts deceptive religious splendor with the cruciform revelation of glory through weakness and affliction. |
 | [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) | Core Foundation | Foundation, Public Essay | Establishes the diagnostic pattern of holy gifts becoming idols when detached from God. |
 | [The Chemical Temple](markdown/the-chemical-temple.md) | Major Essay | Public Essay, Needs Review | Reads addiction, embodiment, and suffering through a theological account of false temple formation. |
 | [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md) | Major Essay | Public Essay | Addresses pastoral faithfulness within compromised institutional structures. |
@@ -53,6 +54,7 @@ Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd)
 | [The True Timeline of Messiah](markdown/the-true-timeline-of-messiah.md) | Supporting Essay | Public Essay, Needs Citation | Works through messianic chronology, sacred time, and interpretive questions. |
 | [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md) | Major Essay | Public Essay, Needs Review | Develops symbolic theology around representation, idolatry, and divine ungraspability. |
 | [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md) | Supporting Essay | Public Essay | Reads shadow and substance language toward Christological fulfillment. |
+| [The Whitewashed Cathedral and the Hidden Upper Room](markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md) | Major Essay | Public Essay, Needs Review | Critiques religious images, ecclesiastical grandeur, and visible supports in light of hidden faith and worship by the Spirit. |
 | [Gallery Catalog](markdown/gallery.md) | Image | Public Essay, Working Note | Catalogs public images and their visual-theology functions. |
 
 ## Source Collections
@@ -60,5 +62,6 @@ Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd)
 | Entry | Category | Status | Summary |
 |---|---|---|---|
 | `raw/` | Raw Source | Source Material, Needs Review | Preserves original PDFs, drafts, source notes, and held material before public or canonical decisions. |
+| `intake/` | Raw Source | Working Note | Temporary staging folder for new documents and images before classification, placement, and site integration. |
 | `raw/images/` | Raw Source | Source Material, Working Note | Stores image prompts, OCR records, and source notes behind public gallery assets. |
 | `gallery/` | Image | Source Material, Public Essay | Contains public image files used by the Quarto site and gallery pages. |
