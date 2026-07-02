@@ -94,7 +94,7 @@ Read alongside:
 
 - [The Church and False Embodiment](church.qmd)
 - [Faithful Institutions](faithful-institutions.qmd)
-- [State-Dressed Religion](markdown/state-dressed-religion.md)
+- [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
 
 ### Schism, Reformation, And Protestant Fragmentation
 

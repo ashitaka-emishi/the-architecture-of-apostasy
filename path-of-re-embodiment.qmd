@@ -59,4 +59,4 @@ Re-embodiment is the Spirit reforming the whole person and the whole people into
 - [Core Concepts](core-concepts.qmd)
 - [The Church and False Embodiment](church.qmd)
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-- [State-Dressed Religion](markdown/state-dressed-religion.md)
+- [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
