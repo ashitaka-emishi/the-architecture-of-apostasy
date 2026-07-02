@@ -2,14 +2,19 @@ Title: Architecture of Apostasy Logo, Homepage
 
 File: gallery/aoa-logo-home.jpg
 
-Source: cropped derivative of `gallery/aoa-logo.jpg`.
+Source: replaced from `intake/31ed70a3-d1df-4439-9e67-202056759d26.png`.
 
-Asset type: site identity / homepage logo
+Asset type: site identity / homepage logo / social preview source
 
-Description: A moderately cropped Architecture of Apostasy logo for homepage use, with less surrounding black border than the original while retaining a little visual breathing room.
+Description: A black-and-gold symbolic title image contrasting true Logos and false logos around a central divided human figure, temple forms, crown, serpent, lamb, cross, and thorn imagery.
 
-Visible text: "The Architecture of Apostasy."
+Visible text includes "The Architecture of Apostasy," "True Logos," "False Logos," "Created in His Image," "Embodiment of Another Lord," and supporting Scripture references.
 
-Theological use: Homepage identity image for the dark theological-classical visual system.
+Derived assets:
+- `../../gallery/aoa-logo.jpg`
+- `../../gallery/aoa-logo-home.jpg`
+- `../../gallery/aoa-logo-cropped.jpg`
+- `../../gallery/architecture-of-apostasy-favicon.png`
+- `../../gallery/apple-touch-icon.png`
 
-Constraints: Use at a restrained size so the homepage remains a path of return rather than a logo splash page.
+Site use: home page hero image, navbar logo source, favicon source, and default social preview image.

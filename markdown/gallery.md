@@ -9,6 +9,15 @@
 - Notes: Source and inspection notes are available in `../raw/images/the-path.txt`.
 - Comments: Visual companion for the home page and "The Path of Re-Embodiment," presenting the path as a movement from deformation toward restoration in Christ.
 
+## The Architecture of Apostasy Brand Image
+
+![The Architecture of Apostasy Brand Image](../gallery/aoa-logo-home.jpg)
+
+- File: `aoa-logo-home.jpg`
+- Description: A black-and-gold symbolic title image contrasting true Logos and false logos around a central divided human figure, temple forms, crown, serpent, lamb, cross, and thorn imagery.
+- Notes: Source and inspection notes are available in `../raw/images/aoa-logo-home.txt`.
+- Comments: Home page brand image and source for the derived navbar logo, favicon, and social preview image.
+
 ## Starry Road to the Church
 
 ![Starry Road to the Church](../gallery/starry-road-to-the-church.jpg)
