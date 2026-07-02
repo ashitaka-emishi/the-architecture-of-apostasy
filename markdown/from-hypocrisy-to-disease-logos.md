@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # From Hypocrisy to Disordered Logos
 
 Source: `raw/from_hypocrisy_to_disease_logos.pdf`

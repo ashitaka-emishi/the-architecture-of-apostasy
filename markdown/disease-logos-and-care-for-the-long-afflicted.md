@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Disordered Logos and the Long Afflicted
 
 Source: `raw/Disease Logos and Care for the Long Afflicted.pdf`
