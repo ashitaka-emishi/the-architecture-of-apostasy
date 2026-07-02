@@ -1,7 +1,7 @@
 # Fallen Liturgies
 
 Develops the project's account of embodied rituals, habits, technologies,
-institutions, and cultural practices that incarnate a Disease Logos.
+institutions, and cultural practices that incarnate a Disordered Logos.
 
 Initial topics:
 
@@ -15,4 +15,4 @@ Initial topics:
 
 ## Cross-Aspect Drafts
 
-- [Gettysburg National Military Park as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)
+- [Gettysburg as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)

@@ -52,7 +52,7 @@ The project includes:
 1. Apostasy in religious systems.
 2. Symbolic inversion of holy gifts.
 3. Principalities and powers.
-4. Disease Logos and false symbolic order.
+4. Disordered Logos and false symbolic order.
 5. Fallen liturgies and embodied formation.
 6. The Chemical Temple as a theology of the formed body.
 7. Sacrifice, substitution, scapegoating, and political worship.
@@ -98,7 +98,7 @@ Canonical function:
 
 Required distinction:
 
-Use Logos for God's true ordering Word. Use disease logos, false logos, or counterfeit logos for fallen symbolic orders.
+Use Logos for God's true ordering Word. Use disordered logos, false logos, or counterfeit logos for fallen symbolic orders.
 
 ### 5.3 Creation
 
@@ -161,9 +161,9 @@ Diagnostic markers:
 6. Rival eschatology.
 7. Resistance to Christological exposure.
 
-### 5.7 Disease Logos
+### 5.7 Disordered Logos
 
-Disease Logos names the false symbolic narrative proclaimed by fallen powers. It is not merely bad information. It is a formative order of meaning that explains the world, assigns guilt, offers salvation, identifies enemies, demands sacrifice, and trains desire.
+Disordered Logos names the false symbolic narrative proclaimed by fallen powers. It is not merely bad information. It is a formative order of meaning that explains the world, assigns guilt, offers salvation, identifies enemies, demands sacrifice, and trains desire.
 
 Canonical function:
 
@@ -176,11 +176,11 @@ Canonical function:
 
 Required use:
 
-Capitalize Disease Logos when referring to the project concept. Use lowercase when speaking generically of a false logos unless the chapter has defined a named instance.
+Capitalize Disordered Logos when referring to the project concept. Use lowercase when speaking generically of a false logos unless the chapter has defined a named instance.
 
 ### 5.8 Fallen Liturgy
 
-A fallen liturgy is an embodied pattern of ritual, habit, symbol, speech, institution, or technology that incarnates a Disease Logos and forms persons or communities into its order.
+A fallen liturgy is an embodied pattern of ritual, habit, symbol, speech, institution, or technology that incarnates a Disordered Logos and forms persons or communities into its order.
 
 Examples:
 
@@ -283,7 +283,7 @@ Every major chapter should use the canonical method unless a deviation is explic
 3. Identify the governing principality or power.
 4. Distinguish biblical teaching from historical theology and synthesis.
 5. Trace the fall of the power.
-6. Name the Disease Logos.
+6. Name the Disordered Logos.
 7. Identify the fallen liturgies.
 8. Describe formation of the Chemical Temple.
 9. Identify the sacrificial system.
@@ -448,7 +448,7 @@ Major chapters should normally follow this sequence:
 5. Created good.
 6. Governing power.
 7. Fall of the power.
-8. Disease Logos.
+8. Disordered Logos.
 9. Fallen liturgies.
 10. Chemical Temple formation.
 11. Sacrificial system.
@@ -559,7 +559,7 @@ Recommended semantic styling:
 
 1. Created good: green or neutral.
 2. Fallen power: red or dark.
-3. Disease Logos: amber or warning.
+3. Disordered Logos: amber or warning.
 4. Fallen liturgy: orange.
 5. Chemical Temple: blue.
 6. Sacrifice: crimson.
@@ -644,7 +644,7 @@ Core topics:
 
 1. Logos.
 2. Principalities.
-3. Disease Logos.
+3. Disordered Logos.
 4. Fallen Liturgy.
 5. Chemical Temple.
 6. Sacrifice.
@@ -815,9 +815,9 @@ Christological resolution: the final movement of an argument in which Christ exp
 
 Created good: a reality, capacity, institution, symbol, or vocation that is good by origin and divine intention.
 
-Disease Logos: the false symbolic order proclaimed by fallen powers.
+Disordered Logos: the false symbolic order proclaimed by fallen powers.
 
-Fallen liturgy: an embodied pattern that incarnates a Disease Logos and forms people into its worship.
+Fallen liturgy: an embodied pattern that incarnates a Disordered Logos and forms people into its worship.
 
 Fall of the powers: the movement by which created governors become self-referential and demand ultimate loyalty.
 
@@ -843,7 +843,7 @@ Minimum dependency order:
 4. Created Good.
 5. Principalities.
 6. Fall of the Powers.
-7. Disease Logos.
+7. Disordered Logos.
 8. Fallen Liturgy.
 9. Chemical Temple.
 10. Sacrifice.
@@ -861,7 +861,7 @@ Every chapter should be able to answer:
 1. What created good is being examined?
 2. Which principality or governing power orders this domain?
 3. How has that power fallen?
-4. What Disease Logos is proclaimed?
+4. What Disordered Logos is proclaimed?
 5. What fallen liturgies embody it?
 6. How is the Chemical Temple formed?
 7. What sacrificial system emerges?

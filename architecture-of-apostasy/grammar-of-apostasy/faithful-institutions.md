@@ -30,9 +30,9 @@ Common markers include:
 - discipline used for humiliation rather than restoration;
 - hidden dependencies shaping public witness.
 
-## Disease Logos Of Faithless Institution
+## Disordered Logos Of Faithless Institution
 
-A faithless institution often proclaims a Disease Logos such as:
+A faithless institution often proclaims a Disordered Logos such as:
 
 - "Preservation is faithfulness."
 - "Truth is dangerous if it threatens the body."

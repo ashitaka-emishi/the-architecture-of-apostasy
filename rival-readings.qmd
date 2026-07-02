@@ -185,7 +185,7 @@ Read alongside:
 
 ## Psychological And Pastoral Readings
 
-### Disease Logos, Addiction, And Trauma
+### Disordered Logos, Addiction, And Trauma
 
 Project claim: false worship and false embodiment can become formative patterns
 that feel like a lived logic in the body, habits, attention, desire, and
@@ -203,8 +203,8 @@ Rival readings to consider:
 
 Read alongside:
 
-- [Disease Logos](markdown/disease-logos.md)
-- [Disease Logos and Care for the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
+- [Disordered Logos and the Distorted Person](markdown/disease-logos.md)
+- [Disordered Logos and the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
 - [The Chemical Temple](markdown/the-chemical-temple.md)
 
 ## Political And Cultural Readings
@@ -228,7 +228,7 @@ Rival readings to consider:
 Read alongside:
 
 - [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
-- [Gettysburg National Military Park as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
+- [Gettysburg as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
 - [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
 
 ## Editorial Commitments

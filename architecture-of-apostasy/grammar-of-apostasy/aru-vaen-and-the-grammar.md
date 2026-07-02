@@ -6,7 +6,7 @@ It should be read as guidance for posture, tone, and imagination. It should not 
 
 ## Relation To The Grammar
 
-The Grammar of Apostasy gives analytic structure: created good, governing power, fall of the powers, Disease Logos, fallen liturgy, Chemical Temple formation, sacrifice, and Christological restoration.
+The Grammar of Apostasy gives analytic structure: created good, governing power, fall of the powers, Disordered Logos, fallen liturgy, Chemical Temple formation, sacrifice, and Christological restoration.
 
 *Aru vaen* gives embodied discipline: wounded keeping, threshold attention, fear that does not become refusal, and response to the cry before full comprehension.
 
@@ -50,7 +50,7 @@ Safe references include:
 Unsafe references include:
 
 - "Vaelun means the same thing as the Chemical Temple."
-- "The Black Sun is the Disease Logos in all cases."
+- "The Black Sun is the Disordered Logos in all cases."
 - "The wolves are always the Church, and the sheep are always victims."
 - "This myth proves the ontology."
 

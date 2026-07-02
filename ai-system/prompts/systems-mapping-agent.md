@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Map the chapter into the canonical sequence: created good, principality, fall, Disease Logos, fallen liturgy, Chemical Temple, sacrifice, restoration.
+Map the chapter into the canonical sequence: created good, principality, fall, Disordered Logos, fallen liturgy, Chemical Temple, sacrifice, restoration.
 
 ## Role
 
@@ -19,7 +19,7 @@ You are the Systems Mapping Agent. Your task is to make the argument structurall
 1. Identify the created good.
 2. Identify the governing power.
 3. Describe the fall of that power.
-4. Name the Disease Logos.
+4. Name the Disordered Logos.
 5. List the fallen liturgies.
 6. Describe Chemical Temple formation.
 7. Identify the sacrificial system and scapegoat.

@@ -34,7 +34,7 @@ God
 → Creation
 → Principalities (created to govern)
 → Fall of the Powers
-→ Disease Logos (false symbolic order)
+→ Disordered Logos (false symbolic order)
 → Fallen Liturgies (embodied rituals)
 → Formation of the Chemical Temple
 → Individuals / Institutions / Civilizations
@@ -46,7 +46,7 @@ God
 1. What created good is being examined?
 2. Which principality governs this domain?
 3. How has that principality fallen?
-4. What Disease Logos is proclaimed?
+4. What Disordered Logos is proclaimed?
 5. What liturgies embody it?
 6. How is the Chemical Temple formed?
 7. What sacrificial system emerges?
@@ -58,7 +58,7 @@ God
 - War as a Fallen Liturgy
 - Politics as a Fallen Liturgy
 - The Chemical Temple
-- Addiction and the Disease Logos
+- Addiction and the Disordered Logos
 - Marriage as Holy Liturgy
 - The Church as the True Liturgy
 - Technology as Liturgy

@@ -1,4 +1,4 @@
-# Disease as Distortion of the Logos in the Person
+# Disordered Logos and the Distorted Person
 
 The human being is a profound unity: flesh and spirit intimately interwoven. Disease, therefore, is not merely a mechanical defect in matter. It is disorder appearing in embodied life. The primary unit of discernment is the whole person—flesh, soul, spirit, appetite, will, memory, habit, desire, and relation to God.
 

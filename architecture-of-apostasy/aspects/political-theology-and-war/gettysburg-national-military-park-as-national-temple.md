@@ -1,4 +1,4 @@
-# Gettysburg National Military Park as National Temple
+# Gettysburg as National Temple
 
 Status: Draft
 Aspect: Political Theology and War
@@ -80,9 +80,9 @@ the Eucharistic remembrance of the body given and blood poured out, where the
 victim is not hidden beneath the community's meaning but remains the center of
 its worship (1 Corinthians 11:23-26).
 
-## Disease Logos
+## Disordered Logos
 
-The Disease Logos of the national temple is the false story that war's bodily
+The Disordered Logos of the national temple is the false story that war's bodily
 destruction can be made clean by being absorbed into national sacred memory.
 
 Its claims may include:
@@ -95,13 +95,13 @@ Its claims may include:
 5. Beauty, order, and pilgrimage can make war spiritually manageable.
 6. The horror of war can be inherited without being fully faced.
 
-This Disease Logos does not have to be cynical. It can be morally serious,
+This Disordered Logos does not have to be cynical. It can be morally serious,
 historically informed, and genuinely reverent. Its danger is subtler: it
 transforms the body into symbol before the body has finished testifying.
 
 Revelation 13 is the necessary warning here. Beastly power does not only coerce;
 it produces public imagination, loyalty, fear, imitation, and worship. The
-Disease Logos of the national temple becomes beast-like whenever the nation's
+Disordered Logos of the national temple becomes beast-like whenever the nation's
 continuing life is treated as the sacred object that justifies the absorption of
 broken bodies into its story.
 

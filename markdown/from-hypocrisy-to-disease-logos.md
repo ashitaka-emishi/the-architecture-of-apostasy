@@ -1,8 +1,8 @@
-# from hypocrisy to disease logos
+# From Hypocrisy to Disordered Logos
 
 Source: `raw/from_hypocrisy_to_disease_logos.pdf`
 
-From Hypocrisy to Disease Logos
+From Hypocrisy to Disordered Logos
 Why the Apostles Stop Talking About Hypocrisy
 Introduction
 One of the more curious developments in the New Testament is the dramatic
@@ -46,7 +46,7 @@ mode of existence - a life ordered toward appearances rather than truth.
 
                                         1
 
-Disease Logos
+Disordered Logos
 If hypocrisy is the symptom, what is the disease?
 The Gospel of John opens by presenting Christ as the eternal Logos:
      “In the beginning was the Word, and the Word was with God, and
@@ -63,13 +63,13 @@ Romans 1 then describes what happens when humanity rejects that order:
      - Romans 1:21, 25 (ESV)
 This exchange is more than a moral mistake. It is a corruption of the ordering
 principle itself.
-Disease Logos is therefore the internal distortion that reorganizes perception,
+Disordered Logos is therefore the internal distortion that reorganizes perception,
 desire, and judgment around something other than God.
 Paul describes this corruption similarly:
      “Put off your old self, which belongs to your former manner of life
      and is corrupt through deceitful desires.”
      - Ephesians 4:22 (ESV)
-Hypocrisy is simply Disease Logos becoming visible.
+Hypocrisy is simply Disordered Logos becoming visible.
 
 
 
@@ -140,7 +140,7 @@ Hypocrisy remains real, but it is no longer treated as the primary disease.
 
 
 The Cross
-Disease Logos depends upon self-justification.
+Disordered Logos depends upon self-justification.
 The Cross destroys that entire system.
 Paul writes:
      “All have sinned and fall short of the glory of God, and are justified
@@ -189,7 +189,7 @@ The fruit of this renewed order is visible:
      “The fruit of the Spirit is love, joy, peace, patience, kindness, good-
      ness, faithfulness, gentleness, self-control.”
      - Galatians 5:22-23 (ESV)
-The Chemical Temple is reclaimed. The body no longer reinforces Disease Logos
+The Chemical Temple is reclaimed. The body no longer reinforces Disordered Logos
 but increasingly manifests the life of Christ.
 
 
@@ -213,7 +213,7 @@ ceases to matter, but because Christ addresses the deeper pathology beneath it.
 
                                         5
 
-Disease Logos inevitably produces hypocrisy because distorted reality requires
+Disordered Logos inevitably produces hypocrisy because distorted reality requires
 continual performance.
 The Logos of Christ produces authenticity because truth no longer requires a
 mask.
@@ -225,4 +225,3 @@ again becomes a living temple reflecting the truth of God.
 
 
                                        6
-

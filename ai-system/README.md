@@ -103,7 +103,7 @@ constitution.
 ### Graphs
 
 `graphs/concept-dependency-graph.yml` stores the seed dependency map for canonical
-concepts such as God, Logos, Creation, Principalities, Disease Logos, Fallen
+concepts such as God, Logos, Creation, Principalities, Disordered Logos, Fallen
 Liturgy, Chemical Temple, Sacrifice, and Restoration.
 
 ### Roadmap

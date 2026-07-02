@@ -164,9 +164,9 @@ honor precisely because it reveals God's power in the place those systems mark
 as defeat (1 Corinthians 1:18-25). When a culture can display the cross without
 being disturbed by the crucified, the sign has begun to function monumentally.
 
-## Disease Logos
+## Disordered Logos
 
-The Disease Logos of the monumental cross is the false story that sacred violence
+The Disordered Logos of the monumental cross is the false story that sacred violence
 can be made clean if it is assigned sufficient meaning.
 
 Its claims may include:
