@@ -12,4 +12,4 @@ Visible text includes "The Architecture of Apostasy."
 
 Theological use: Site identity asset connected to the public framing around true Logos, false logos, embodiment, apostasy, fracture, and return to Christ.
 
-Constraints: Full logo source for home page, social preview, and larger brand contexts. Use cropped derivatives for compact header and favicon placement.
+Constraints: Full logo source for home page, social preview, and larger brand contexts. Use `aoa-logo-emblem.jpg` for compact header and favicon placement.

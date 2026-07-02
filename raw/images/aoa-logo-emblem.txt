@@ -1,18 +1,20 @@
-Title: Architecture of Apostasy Emblem
+Title: Architecture of Apostasy Compact Logo
 
 File: gallery/aoa-logo-emblem.jpg
 
-Source: `intake/5c3ab775-fe19-42be-a762-c7fcbc3322ab.png` (text-free circular composition), square-cropped tightly around the full laurel-and-thorn ring without cutting into it.
+Source: proportional resize of `../../gallery/aoa-logo.jpg`.
 
-Asset type: site identity / circular emblem
+Asset type: site identity / compact logo
 
-Description: A black-and-gold circular emblem of the central divided Christic figure between temple forms, bordered by a laurel wreath on one side and a crown of thorns on the other, with no title text.
+Description: A smaller proportional copy of the Architecture of Apostasy logo for compact site identity placement.
 
-Visible text: none.
+Visible text includes "The Architecture of Apostasy."
 
-Derived assets:
-- `../../gallery/aoa-logo-cropped.jpg` (navbar logo, resized)
-- `../../gallery/architecture-of-apostasy-favicon.png` (favicon, resized)
-- `../../gallery/apple-touch-icon.png` (apple touch icon, resized)
+Site uses:
+- `../../gallery/aoa-logo-emblem.jpg` (navbar logo)
+- `../../gallery/architecture-of-apostasy-favicon.png` (favicon)
+- `../../gallery/apple-touch-icon.png` (apple touch icon)
 
-Theological use: Site identity asset for the dark theological-classical visual system, used wherever a compact mark is needed without the full title wordmark.
+Theological use: Site identity asset for the dark theological-classical visual system, used wherever a compact mark is needed.
+
+Constraints: Keep this as a proportional resize of `aoa-logo.jpg`. Do not crop, pad, remove text, or otherwise alter the composition.

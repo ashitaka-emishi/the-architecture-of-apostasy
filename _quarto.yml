@@ -20,7 +20,7 @@ website:
   twitter-card: true
   navbar:
     title: false
-    logo: gallery/aoa-logo-cropped.jpg
+    logo: gallery/aoa-logo-emblem.jpg
     logo-alt: "The Architecture of Apostasy"
     left:
       - href: index.qmd

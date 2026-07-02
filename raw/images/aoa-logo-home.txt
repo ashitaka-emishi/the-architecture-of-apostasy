@@ -13,5 +13,6 @@ Visible text includes "The Architecture of Apostasy."
 Derived assets:
 - `../../gallery/aoa-logo.jpg`
 - `../../gallery/aoa-logo-home.jpg`
+- `../../gallery/aoa-social-preview.jpg`
 
-Site use: home page hero image and default social preview image. The compact navbar logo and favicon now derive from the separate circular emblem source; see `aoa-logo-emblem.txt`.
+Site use: home page hero image and source for the social preview image. The compact navbar logo and favicon use the separate circular emblem source; see `aoa-logo-emblem.txt`.

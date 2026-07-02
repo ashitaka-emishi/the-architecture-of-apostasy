@@ -1,10 +1,10 @@
 {
-  "default_image": "gallery/aoa-logo-home.jpg",
+  "default_image": "gallery/aoa-social-preview.jpg",
   "pages": {
     "index.html": {
       "title": "The Architecture of Apostasy",
       "description": "A Christian archive tracing apostasy as false embodiment and the path of return from false logos into Christ.",
-      "image": "gallery/aoa-logo-home.jpg"
+      "image": "gallery/aoa-social-preview.jpg"
     },
     "about.html": {
       "title": "About",

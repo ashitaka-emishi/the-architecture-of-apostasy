@@ -22,11 +22,11 @@ A black-and-gold title-at-top symbolic image contrasting true Logos and false lo
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![The Architecture of Apostasy Emblem](gallery/aoa-logo-emblem.jpg){.gallery-full}
+![The Architecture of Apostasy Compact Logo](gallery/aoa-logo-emblem.jpg){.gallery-full}
 
-### The Architecture of Apostasy Emblem
+### The Architecture of Apostasy Compact Logo
 
-A black-and-gold circular emblem of the central divided Christic figure bordered by a laurel wreath and a crown of thorns, with no title text. Source for the navbar logo and favicon.
+A proportional resize of the full Architecture of Apostasy logo for compact site identity placement.
 :::
 
 ::: {.g-col-12 .g-col-md-6}

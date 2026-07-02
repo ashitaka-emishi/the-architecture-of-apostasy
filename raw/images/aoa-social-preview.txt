@@ -1,0 +1,15 @@
+Title: Architecture of Apostasy Social Preview
+
+File: gallery/aoa-social-preview.jpg
+
+Source: copied from `gallery/aoa-logo-home.jpg` with a distinct filename for Open Graph and Twitter card metadata.
+
+Asset type: site identity / social preview image
+
+Description: A black-and-gold title-at-top symbolic image for link previews, matching the home page brand image.
+
+Visible text includes "The Architecture of Apostasy."
+
+Site use: default `og:image` and `twitter:image` source through `site-assets/seo-metadata.json`.
+
+Notes: The distinct filename prevents social platforms such as Telegram from continuing to serve cached previews for the older `aoa-logo-home.jpg` URL.

@@ -18,14 +18,14 @@
 - Notes: Source and inspection notes are available in `../raw/images/aoa-logo-home.txt`.
 - Comments: Home page brand image and default social preview image.
 
-## The Architecture of Apostasy Emblem
+## The Architecture of Apostasy Compact Logo
 
-![The Architecture of Apostasy Emblem](../gallery/aoa-logo-emblem.jpg)
+![The Architecture of Apostasy Compact Logo](../gallery/aoa-logo-emblem.jpg)
 
 - File: `aoa-logo-emblem.jpg`
-- Description: A black-and-gold circular emblem of the central divided Christic figure between temple forms, bordered by a laurel wreath on one side and a crown of thorns on the other, with no title text.
+- Description: A proportional resize of the full Architecture of Apostasy logo for compact site identity placement.
 - Notes: Source and inspection notes are available in `../raw/images/aoa-logo-emblem.txt`.
-- Comments: Source for the derived navbar logo, favicon, and apple touch icon.
+- Comments: Source for the compact navbar logo.
 
 ## Starry Road to the Church
 

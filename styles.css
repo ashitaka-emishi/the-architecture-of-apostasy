@@ -85,20 +85,21 @@ a:focus {
 }
 
 .navbar {
+  --bs-navbar-padding-y: 0;
   background: rgba(2, 2, 3, 0.94);
   border-bottom: 1px solid var(--aoa-bronze-muted);
-  min-height: 4.65rem;
+  min-height: 3.65rem;
 }
 
 .navbar-brand {
-  padding-bottom: 0.3rem;
-  padding-top: 0.3rem;
+  padding-bottom: 0.12rem;
+  padding-top: 0.12rem;
 }
 
 .navbar-brand img,
 .navbar-logo {
-  height: 3.1rem;
-  max-height: 3.1rem;
+  height: 2.6rem;
+  max-height: 2.6rem;
   object-fit: contain;
   width: auto;
 }
@@ -183,17 +184,29 @@ a:focus {
   color: var(--aoa-marble);
 }
 
+main.content:has(.aoa-hero) #title-block-header {
+  display: none;
+}
+
+#quarto-content:has(.aoa-hero) > * {
+  padding-top: 0;
+}
+
 .aoa-hero {
-  margin: 0 auto 3rem;
+  margin: -0.25rem auto 3rem;
   max-width: 58rem;
-  padding: 1rem 0 2rem;
+  padding: 0 0 2rem;
   text-align: center;
 }
 
 .aoa-hero-logo {
   display: block;
+  filter: drop-shadow(0 0 2rem rgba(126, 108, 80, 0.12));
+  -webkit-mask-image: radial-gradient(ellipse at center, #000 74%, rgba(0, 0, 0, 0.9) 84%, transparent 100%);
+  mask-image: radial-gradient(ellipse at center, #000 74%, rgba(0, 0, 0, 0.9) 84%, transparent 100%);
   margin: 0 auto 1.75rem;
   max-width: min(32rem, 82vw);
+  mix-blend-mode: lighten;
   width: 100%;
 }
 
