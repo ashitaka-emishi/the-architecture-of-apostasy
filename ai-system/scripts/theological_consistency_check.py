@@ -47,7 +47,7 @@ REQUIRED_FILES = [
 
 CANONICAL_TERMS = [
     "Logos",
-    "Disease Logos",
+    "Disordered Logos",
     "Fallen Liturgy",
     "Chemical Temple",
     "Principalities",

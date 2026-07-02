@@ -7,7 +7,7 @@ War is not itself a principality. It is among the highest-order fallen liturgies
 Flow:
 
 Principality
-→ Disease Logos
+→ Disordered Logos
 → Rituals of War
 → Formation of the Chemical Temple
 → Sacrificial System

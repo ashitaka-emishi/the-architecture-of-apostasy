@@ -6,7 +6,7 @@ Use this checklist before a chapter, diagram, prompt, schema, or concept becomes
 
 - [ ] The created good is identified before its corruption is described.
 - [ ] Canonical terms are used consistently.
-- [ ] Logos and Disease Logos are clearly distinguished.
+- [ ] Logos and Disordered Logos are clearly distinguished.
 - [ ] Principalities are not reduced to merely human institutions unless the chapter explicitly limits itself to institutional analysis.
 - [ ] The Chemical Temple is not treated as medical determinism.
 - [ ] Sacrifice is traced to its object of worship.

@@ -2,7 +2,7 @@
 
 Source: `raw/Hypocrisy_Chapter_Draft.pdf`
 
-From Hypocrisy to Disease Logos
+From Hypocrisy to Disordered Logos
 Why the Apostles Stop Talking About Hypocrisy
 This chapter develops the thesis that Jesus emphasizes hypocrisy because His ministry is primarily
 diagnostic, exposing hidden disorder. The apostolic writings shift toward the deeper realities of sin,
@@ -11,7 +11,7 @@ diagnosis.
 ### Major Themes
 - Hypocrisy (*hypokrit■s*) originally referred to an actor wearing a mask.
 - Jesus exposes religious performance rather than merely condemning immoral behavior.
-- Disease Logos is the deeper distortion of humanity's ordering principle.
+- Disordered Logos is the deeper distortion of humanity's ordering principle.
 - The Chemical Temple describes the body's participation in reinforcing either distorted or
 redeemed patterns of worship.
 - The Cross judges the false order.
@@ -24,7 +24,7 @@ redeemed patterns of worship.
 > "Walk by the Spirit, and you will not gratify the desires of the flesh." (Galatians 5:16)
 > "Do you not know that your body is a temple of the Holy Spirit?" (1 Corinthians 6:19)
 The central argument is that hypocrisy is not the disease itself but the outward manifestation of a
-deeper distortion. Disease Logos writes the false pattern of life; the Chemical Temple embodies
+deeper distortion. Disordered Logos writes the false pattern of life; the Chemical Temple embodies
 and reinforces it. Christ restores humanity to participation in the true Logos through His death,
 resurrection, and the indwelling Holy Spirit.
 

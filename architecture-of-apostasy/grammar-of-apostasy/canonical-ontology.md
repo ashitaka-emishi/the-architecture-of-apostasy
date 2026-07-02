@@ -20,7 +20,7 @@ Non-examples:
 - A private ideology that gives a community coherence.
 - A human institution's mission statement, even when the language is religious.
 
-Usage caution: use `Logos` for God's true ordering Word. Use `false logos`, `disease logos`, or `counterfeit logos` for rival symbolic orders.
+Usage caution: use `Logos` for God's true ordering Word. Use `false logos`, `disordered logos`, or `counterfeit logos` for rival symbolic orders.
 
 ## Creation
 
@@ -96,7 +96,7 @@ Non-examples:
 
 Usage caution: diagnose the fall by markers such as self-reference, worship demand, sacrificial demand, immunity from critique, and resistance to Christological exposure.
 
-## Disease Logos
+## Disordered Logos
 
 Definition: the false symbolic order proclaimed by fallen powers. It explains the world, assigns guilt, offers salvation, identifies enemies, demands sacrifice, and trains desire.
 
@@ -112,11 +112,11 @@ Non-examples:
 - A single mistaken statement without formative power.
 - A medical diagnosis or biological disease.
 
-Usage caution: capitalize `Disease Logos` when referring to the project concept. Mark speculative uses clearly.
+Usage caution: capitalize `Disordered Logos` when referring to the project concept. Mark speculative uses clearly.
 
 ## Fallen Liturgy
 
-Definition: an embodied pattern of ritual, habit, speech, policy, technology, economics, or institution that incarnates a Disease Logos and forms people into its worship.
+Definition: an embodied pattern of ritual, habit, speech, policy, technology, economics, or institution that incarnates a Disordered Logos and forms people into its worship.
 
 Examples:
 

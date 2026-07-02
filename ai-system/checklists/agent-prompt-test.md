@@ -32,7 +32,7 @@ outputs.
 ## Systems Mapping Agent
 
 - Test input: `architecture-of-apostasy/aspects/political-theology-and-war/war-as-fallen-liturgy.md`.
-- Expected behavior: map created good, governing power, fall, Disease Logos, fallen liturgies, Chemical Temple formation, sacrificial system, Christological restoration, and missing links.
+- Expected behavior: map created good, governing power, fall, Disordered Logos, fallen liturgies, Chemical Temple formation, sacrificial system, Christological restoration, and missing links.
 
 ## Diagram Agent
 

@@ -12,4 +12,4 @@ Initial questions:
 
 ## Cross-Aspect Drafts
 
-- [Gettysburg National Military Park as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)
+- [Gettysburg as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)

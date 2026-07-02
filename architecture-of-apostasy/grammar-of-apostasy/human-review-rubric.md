@@ -19,7 +19,7 @@ Pass criteria:
 
 - Terms match `canonical-ontology.md` and `constitution.md`.
 - New terms are clearly proposed rather than silently introduced.
-- The work does not redefine Logos, Disease Logos, principality, Chemical Temple, sacrifice, or restoration casually.
+- The work does not redefine Logos, Disordered Logos, principality, Chemical Temple, sacrifice, or restoration casually.
 
 Revision triggers:
 
@@ -59,18 +59,18 @@ Reviewer decision:
 
 Notes:
 
-## 3. Corruption And Disease Logos
+## 3. Corruption And Disordered Logos
 
 Pass criteria:
 
-- The work names the relevant false symbolic order or Disease Logos.
+- The work names the relevant false symbolic order or Disordered Logos.
 - The fall of the governing power is traced with evidence and restraint.
 - The account distinguishes error, weakness, corruption, and apostasy.
 
 Revision triggers:
 
 - Every problem is treated as total apostasy.
-- The Disease Logos is asserted but not described.
+- The Disordered Logos is asserted but not described.
 - The work confuses intensity with proof.
 
 Reviewer decision:

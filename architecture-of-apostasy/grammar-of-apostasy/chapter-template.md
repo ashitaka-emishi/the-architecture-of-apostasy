@@ -29,7 +29,7 @@ List the canonical terms used in the chapter and confirm their meanings remain c
 - Created Good:
 - Principality or governing power:
 - Fall of the Powers:
-- Disease Logos:
+- Disordered Logos:
 - Fallen liturgy:
 - Chemical Temple:
 - Sacrificial system:
@@ -68,7 +68,7 @@ Trace how the governing power becomes self-referential.
 - What symbols, offices, habits, laws, or rituals are captured?
 - What rival eschatology or promise of salvation appears?
 
-## 8. Disease Logos
+## 8. Disordered Logos
 
 Name the false symbolic narrative proclaimed by the fallen power.
 
@@ -79,7 +79,7 @@ Name the false symbolic narrative proclaimed by the fallen power.
 
 ## 9. Fallen Liturgies
 
-Identify the repeated practices that embody the Disease Logos.
+Identify the repeated practices that embody the Disordered Logos.
 
 - Rituals:
 - Habits:

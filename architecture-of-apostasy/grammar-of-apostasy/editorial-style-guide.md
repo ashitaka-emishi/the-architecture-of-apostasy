@@ -5,5 +5,5 @@
 - Cite primary sources whenever possible.
 - Treat the framework as an interpretive model, not as settled doctrine.
 - Maintain consistent terminology:
-  Logos, Principalities, Disease Logos, Fallen Liturgy, Chemical Temple, Restoration.
+  Logos, Principalities, Disordered Logos, Fallen Liturgy, Chemical Temple, Restoration.
 - End each chapter with Christological resolution.

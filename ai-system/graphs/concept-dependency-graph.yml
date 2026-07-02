@@ -19,7 +19,7 @@ nodes:
     label: Fall of the Powers
   - id: disease-logos
     type: concept
-    label: Disease Logos
+    label: Disordered Logos
   - id: fallen-liturgy
     type: concept
     label: Fallen Liturgy

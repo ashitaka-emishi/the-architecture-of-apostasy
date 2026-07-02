@@ -1,9 +1,9 @@
-# Disease Logos and Care for the Long Afflicted
+# Disordered Logos and the Long Afflicted
 
 Source: `raw/Disease Logos and Care for the Long Afflicted.pdf`
 
-Disease Logos and Care for the Long Afflicted
-The doctrine of Disease Logos begins with a Christian confession: the human person is not a soul trapped in
+Disordered Logos and the Long Afflicted
+The doctrine of Disordered Logos begins with a Christian confession: the human person is not a soul trapped in
 a machine, but flesh and spirit mysteriously joined before God. “The Word was made flesh, and dwelt
 among us” (John 1:14). Because the Logos entered flesh, the body cannot be treated as disposable matter,
 and neither can the mind, the will, the memory, or the wounded life of the sufferer.
@@ -46,7 +46,7 @@ and terminally ill, care means honoring the temple even when it can no longer be
 
 
 The law of Christian care is burden-bearing: “Bear ye one another’s burdens, and so fulfil the law of
-Christ” (Galatians 6:2). Disease Logos care is therefore not merely the interpretation of disease. It is the
+Christ” (Galatians 6:2). Disordered Logos care is therefore not merely the interpretation of disease. It is the
 practice of ordered love toward the afflicted body, the afflicted mind, and the afflicted soul. It is the Church
 becoming a sign of Christ in the valley: truthful, merciful, patient, embodied, and faithful unto the end.
 
@@ -54,4 +54,3 @@ becoming a sign of Christ in the valley: truthful, merciful, patient, embodied, 
 
 
                                                         1
-

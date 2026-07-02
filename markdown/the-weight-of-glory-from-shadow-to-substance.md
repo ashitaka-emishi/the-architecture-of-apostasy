@@ -1,4 +1,4 @@
-# The Weight of Glory   From Shadow to Substance
+# The Weight of Glory: From Shadow to Substance
 
 Source: `raw/The Weight of Glory - From Shadow to Substance.pdf`
 
@@ -437,4 +437,3 @@ sacrifice. When the strong believer yields their liberty out of love, and the we
 restrains their judgment out of grace, they arrive at homothumadon ("one accord") and heni
 stomati ("one voice"). The ultimate end of the spirit of the law is a unified, harmonious
 symphony of worship that glorifies God through supernatural unity.
-

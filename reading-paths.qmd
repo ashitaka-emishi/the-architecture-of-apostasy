@@ -27,7 +27,7 @@ This path follows the critique of corrupted worship, institutional religion, and
 2. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 3. [Faithful Institutions](faithful-institutions.qmd)
 4. [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
-5. [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md)
+5. [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
 6. [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
 7. [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
 8. [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
@@ -37,9 +37,9 @@ This path follows the critique of corrupted worship, institutional religion, and
 
 This path follows the archive's embodied theology of disorder, addiction, hypocrisy, care, and restoration.
 
-1. [Disease Logos](markdown/disease-logos.md)
-2. [Disease Logos and Care for the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
-3. [From Hypocrisy to Disease Logos](markdown/from-hypocrisy-to-disease-logos.md)
+1. [Disordered Logos and the Distorted Person](markdown/disease-logos.md)
+2. [Disordered Logos and the Long Afflicted](markdown/disease-logos-and-care-for-the-long-afflicted.md)
+3. [From Hypocrisy to Disordered Logos](markdown/from-hypocrisy-to-disease-logos.md)
 4. [Hypocrisy Chapter Draft](markdown/hypocrisy-chapter-draft.md)
 5. [The Chemical Temple](markdown/the-chemical-temple.md)
 6. [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
@@ -68,8 +68,8 @@ This path reads national polarization, war memory, monuments, and civic sacred s
 
 1. [The Fallen Liturgies of American Politics](markdown/the-fallen-liturgies-of-american-politics.md)
 2. [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
-3. [Gettysburg National Military Park as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
-4. [State-Dressed Religion, the Fallen Church, and the Architecture of Apostasy](markdown/state-dressed-religion.md)
+3. [Gettysburg as National Temple](markdown/gettysburg-national-military-park-as-national-temple.md)
+4. [State-Dressed Religion and the Fallen Church](markdown/state-dressed-religion.md)
 
 ## Literary and Mythopoetic Theology
 

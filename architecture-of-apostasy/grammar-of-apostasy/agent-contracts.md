@@ -28,7 +28,7 @@ Output:
 
 ## Systems Agent
 Map findings into ontology:
-Good Creation → Principality → Fall → Disease Logos → Liturgy → Chemical Temple → Sacrifice → Restoration
+Good Creation → Principality → Fall → Disordered Logos → Liturgy → Chemical Temple → Sacrifice → Restoration
 
 ## Critique Agent
 - Identify weak claims

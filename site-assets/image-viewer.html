@@ -1,1 +1,13 @@
-<script src="site-assets/image-viewer.js"></script>
+<script>
+  (function () {
+    var path = window.location.pathname;
+    var src = path.indexOf('/markdown/') !== -1
+      ? '../site-assets/image-viewer.js'
+      : path.indexOf('/site-assets/') !== -1
+        ? 'image-viewer.js'
+        : 'site-assets/image-viewer.js';
+    var script = document.createElement('script');
+    script.src = src;
+    document.currentScript.after(script);
+  })();
+</script>
