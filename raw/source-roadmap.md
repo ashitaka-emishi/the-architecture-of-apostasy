@@ -261,9 +261,76 @@ Rival-reading notes:
 
 ## Constructive Examples
 
-- Faithful institutional forms across Christian traditions.
-- Pastoral authority with accountability.
-- Sacramental, liturgical, congregational, and missional forms that preserve gifts without idolizing them.
+### Faithful Institutional Forms Across Traditions
+
+Claims to support:
+
+- The project is not anti-institutional by default; Christian form can preserve worship, doctrine, accountability, care, and mission.
+- Faithful institutions are not sinless institutions but ordered, repentant forms that remain accountable to Christ and to the vulnerable.
+- Examples should be drawn from multiple traditions so "faithful institution" is not reduced to one polity, denomination, or temperament.
+
+Candidate sources and examples:
+
+- *The Rule of Saint Benedict*, especially chapters on the abbot, counsel, hospitality, humility, and community order. Saint John's Abbey online text: https://saintjohnsabbey.org/rule
+- Catholic *Code of Canon Law*, canons on diocesan/parish finance councils and pastoral governance; for example canons 492 and 537. Vatican English text: https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib2-cann460-572_en.html
+- United Methodist resources on Wesley's General Rules as accountable communal discipline: https://www.umc.org/en/content/living-faithfully-john-wesleys-three-general-rules
+- Presbyterian Church (U.S.A.), *Book of Order*, for ordered ministry, councils, worship, and discipline: https://pcusa.org/resource/book-order-2025-2027-interactive-version
+- Episcopal / Anglican *Book of Common Prayer*, "An Outline of the Faith," for sacramental and liturgical form ordered to common prayer and formation: https://www.bcponline.org/Misc/catechism.html
+- Mennonite Church USA, *Confession of Faith in a Mennonite Perspective*, especially church discipline as mutual care, restoration, and witness: https://www.mennoniteusa.org/wp-content/uploads/2024/02/Confession-of-Faith-In-a-Mennonite-Perspective.pdf
+- Southern Baptist Convention resolutions on local church autonomy and accountability, for congregational polity and voluntary cooperation: https://www.sbc.net/resource-library/resolutions/on-local-church-autonomy-and-accountability/
+- *The Didache*, for early church-order material around baptism, Eucharist, fasting, prayer, prophets, bishops, and deacons. Use a critical edition or reputable translation before public citation.
+
+Rival-reading notes:
+
+- Sacramental, episcopal, presbyterian, congregational, monastic, Methodist, Anabaptist, and free-church forms preserve different gifts and carry different deformation risks.
+- Do not present one tradition's accountability structure as the universal Christian solution.
+- Concrete examples should include both the gift preserved and the corruption risk: authority/accountability, liturgy/formalism, congregational voice/factionalism, mission/pragmatism, discipline/restoration versus humiliation.
+
+### Pastoral Authority With Accountability
+
+Claims to support:
+
+- Pastoral authority can be a gift when ordered toward teaching, worship, care, discipline, and protection of the vulnerable.
+- Authority becomes dangerous when correction is impossible, money or reputation is protected over truth, or the leader becomes functionally irreplaceable.
+- Faithful forms usually combine office, counsel, discipline, transparency, and review.
+
+Candidate sources:
+
+- 1 Peter 5:1-4, Acts 20:17-38, 1 Timothy 3, Titus 1, Matthew 18:15-20, and James 3:1 for biblical anchors around shepherding, elder qualifications, discipline, and stricter judgment for teachers.
+- *The Rule of Saint Benedict*, chs. 2-3, for abbatial authority constrained by accountability before God and counsel from the community.
+- Catholic canon-law material on diocesan and parish finance councils, including canons 492 and 537, as examples of required consultative/accountability structures.
+- PC(USA) *Book of Order*, for ordered ministry, councils, and church discipline.
+- Mennonite *Confession of Faith in a Mennonite Perspective*, Article 14, for discipline as mutual care and restoration.
+- SBC autonomy/accountability resolutions for congregational responsibility and voluntary interchurch cooperation.
+
+Rival-reading notes:
+
+- "Accountability" may be episcopal, conciliar, congregational, monastic, denominational, covenantal, financial, or legal; define which kind is being discussed.
+- Do not confuse the existence of a board, council, elder body, or polity document with real accountability. Public claims need evidence of how authority can actually be corrected.
+- Avoid using abuse-risk language generically; name the concrete risk: secrecy, self-dealing, reputation defense, lack of financial transparency, ignored complaints, spiritual coercion, or discipline without restoration.
+
+### Sacramental, Liturgical, Congregational, And Missional Forms
+
+Claims to support:
+
+- Sacramental and liturgical forms can preserve memory, common prayer, embodied worship, and participation in the Church's received life.
+- Congregational forms can preserve member responsibility, local discernment, and shared ownership of mission.
+- Missional forms can preserve outward love, evangelism, mercy, and service when they remain subordinate to Christ rather than metrics.
+
+Candidate sources:
+
+- *The Book of Common Prayer* and Anglican catechetical material for sacramental/liturgical formation.
+- Catholic, Orthodox, Anglican, Lutheran, and Reformed confessional/catechetical sources for sacramental/liturgical claims, selected according to the exact public essay claim.
+- Baptist Faith and Message / SBC polity resources for congregational governance and voluntary cooperation.
+- Mennonite confessional resources for mutual discipline, peace witness, congregational life, and service.
+- Wesley's General Rules and Methodist class-meeting history for disciplined communal formation.
+- Acts 2:42-47, Acts 6:1-7, 1 Corinthians 11-14, Ephesians 4:1-16, and James 1-2 for biblical anchors around worship, distribution, gifts, order, and care for the poor.
+
+Rival-reading notes:
+
+- Liturgical traditions may see historic forms as gifts of continuity; free-church traditions may warn that forms can harden into dead ritual.
+- Congregational traditions may emphasize local discernment; episcopal or presbyterian traditions may warn against factionalism or private preference.
+- Missional movements may emphasize adaptation and evangelistic urgency; critics may warn against pragmatism and metric capture.
 
 ## Future Work
 
