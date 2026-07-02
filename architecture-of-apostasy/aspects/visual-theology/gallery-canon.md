@@ -71,6 +71,7 @@ An image is ready for public-canonical use when:
 
 | Image | Type | Aspect | Canonical Terms |
 |---|---|---|---|
+| A Path of Deformation and Return | conceptual-diagram | Restoration | False Logos, Fallen Liturgy, Sacrifice, Repentance, Re-Embodiment in Christ |
 | Starry Road to the Church | devotional-image | Restoration | Restoration, Church, pilgrimage |
 | Ceaseless Prayer | devotional-image | Restoration | Prayer, Communion, Holy Spirit, Restoration |
 | The Trinitarian Structural Model of Creation, Spirit, and Power | conceptual-diagram | Logos and Powers | Logos, Creation, Principalities, Restoration |
