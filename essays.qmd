@@ -36,6 +36,14 @@ These notes help readers approach the archive's more intense essays without trea
   Claim types: biblical, doctrinal, interpretive, pastoral.
   How to read this: receive the rebuke as a call to test teaching by Christ and the gospel, not as a tool for theatrical accusation.
 
+- [The Angel of Light and the Suffering Servant](markdown/the-angel-of-light-and-the-suffering-servant.md)
+  Claim types: biblical, doctrinal, interpretive, pastoral.
+  How to read this: read as a discernment essay about appearances, affliction, and the cross; test its aesthetic judgments by the fruit and cruciformity it names.
+
+- [The Whitewashed Cathedral and the Hidden Upper Room](markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md)
+  Claim types: biblical, historical, interpretive, pastoral.
+  How to read this: read as a polemic against visible religious grandeur; distinguish the scriptural critique of images from broader claims about church history and architecture.
+
 - [Disordered Logos and the Distorted Person](markdown/disease-logos.md)
   Claim types: interpretive, synthetic, pastoral, speculative.
   How to read this: read as a framework for embodied disorder and care; avoid turning the framework into a diagnosis of persons without humility and pastoral judgment.
@@ -69,6 +77,8 @@ These notes help readers approach the archive's more intense essays without trea
 - [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 - [The Alchemy of False Prophecy: A Rebuke of Modern Galatian Heresy](markdown/the-alchemy-of-false-prophecy.md)
+- [The Angel of Light and the Suffering Servant](markdown/the-angel-of-light-and-the-suffering-servant.md)
+- [The Whitewashed Cathedral and the Hidden Upper Room](markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md)
 
 ## Logos, Disease, and Embodied Restoration
 

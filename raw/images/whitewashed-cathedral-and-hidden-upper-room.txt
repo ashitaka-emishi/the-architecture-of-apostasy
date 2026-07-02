@@ -1,0 +1,5 @@
+Source: Ingested from `intake/2026-07-02 09.48.29.jpg`.
+
+Description: A split composition contrasting a bright white cathedral and public crowd with a small hidden gathering outside a weathered house under darker skies.
+
+Companion essay: `markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md`.

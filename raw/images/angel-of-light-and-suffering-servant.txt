@@ -1,0 +1,5 @@
+Source: Ingested from `intake/2026-07-02 09.48.40.jpg`.
+
+Description: An icon-like contrast between a luminous angelic figure and the suffering Christ before the cross, set against a gold-toned background.
+
+Companion essay: `markdown/the-angel-of-light-and-the-suffering-servant.md`.

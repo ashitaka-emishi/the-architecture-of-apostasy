@@ -1,0 +1,7 @@
+Source note for `The Angel of Light and the Suffering Servant.pdf`.
+
+Public reading copy: `../markdown/the-angel-of-light-and-the-suffering-servant.md`.
+
+Companion image: `../gallery/angel-of-light-and-suffering-servant.jpg`.
+
+Ingested from `intake/` during the staged intake workflow verification pass.

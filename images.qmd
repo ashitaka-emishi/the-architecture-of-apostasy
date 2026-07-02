@@ -140,4 +140,20 @@ A rough wooden cross stands on Golgotha under storm-darkened skies, with Christ 
 
 A classical painted scene of radiant light and lightning bursting over a valley and river, with two crowds on opposite banks recoiling and gesturing toward the light.
 :::
+
+::: {.g-col-12 .g-col-md-6}
+![The Angel of Light and the Suffering Servant](gallery/angel-of-light-and-suffering-servant.jpg)
+
+### The Angel of Light and the Suffering Servant
+
+An icon-like contrast between a luminous angelic figure and the suffering Christ before the cross.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![The Whitewashed Cathedral and the Hidden Upper Room](gallery/whitewashed-cathedral-and-hidden-upper-room.jpg)
+
+### The Whitewashed Cathedral and the Hidden Upper Room
+
+A split scene contrasting a bright cathedral crowd with a small hidden gathering outside a weathered house.
+:::
 :::
