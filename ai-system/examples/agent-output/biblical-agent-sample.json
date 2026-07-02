@@ -1,0 +1,43 @@
+{
+  "agent": "biblical",
+  "task": "Test whether a draft claim about false worship is anchored in Scripture.",
+  "inputs": [
+    {
+      "kind": "passage",
+      "reference": "Exodus 32"
+    },
+    {
+      "kind": "concept",
+      "reference": "idolatry as embodied false worship"
+    }
+  ],
+  "summary": "The passage supports a claim that false worship forms communal practice, but it does not by itself settle every later institutional analogy.",
+  "findings": [
+    {
+      "claim": "The golden calf episode joins false image, ritual practice, and disordered desire.",
+      "support": "Exodus 32 connects the made image, feast language, communal action, and judgment.",
+      "confidence": "high"
+    }
+  ],
+  "claim_classifications": [
+    {
+      "claim": "The episode can inform a typology of embodied apostasy.",
+      "classification": "interpretive"
+    }
+  ],
+  "citations": [
+    {
+      "label": "Exodus 32",
+      "locator": "Exodus 32:1-35",
+      "note": "Primary biblical anchor for the test claim."
+    }
+  ],
+  "risks": [
+    "Do not collapse Israel's covenant setting into a generic theory of every institution.",
+    "Name typology as interpretation rather than direct proof."
+  ],
+  "open_questions": [
+    "Which later biblical passages should govern the analogy?"
+  ],
+  "recommended_next_action": "Add cross-references and mark the institutional extension as interpretive."
+}

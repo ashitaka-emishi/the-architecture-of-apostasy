@@ -38,6 +38,9 @@ REQUIRED_FILES = [
     AI_SYSTEM / "graphs" / "concept-dependency-graph.yml",
     AI_SYSTEM / "roadmap" / "volumes.yml",
     AI_SYSTEM / "checklists" / "chapter-front-matter-template.yml",
+    AI_SYSTEM / "checklists" / "agent-prompt-test.md",
+    AI_SYSTEM / "examples" / "agent-output" / "biblical-agent-sample.json",
+    AI_SYSTEM / "examples" / "agent-output" / "image-review-agent-sample.json",
     AI_SYSTEM / "scripts" / "validate_public_front_matter.py",
     AI_SYSTEM / "scripts" / "intake_consistency_check.py",
 ]
@@ -72,6 +75,33 @@ EXPECTED_PROMPTS = [
     "critique-agent.md",
     "editorial-agent.md",
     "canonical-integration-agent.md",
+]
+
+EXPECTED_PROMPT_TEST_SECTIONS = [
+    "## Biblical Agent",
+    "## Historical Theology Agent",
+    "## Philosophy Agent",
+    "## Psychology Agent",
+    "## Anthropology Agent",
+    "## Systems Mapping Agent",
+    "## Diagram Agent",
+    "## Image Review Agent",
+    "## Critique Agent",
+    "## Editorial Agent",
+    "## Canonical Integration Agent",
+]
+
+AGENT_OUTPUT_REQUIRED_KEYS = [
+    "agent",
+    "task",
+    "inputs",
+    "summary",
+    "findings",
+    "claim_classifications",
+    "citations",
+    "risks",
+    "open_questions",
+    "recommended_next_action",
 ]
 
 
@@ -111,6 +141,69 @@ def check_prompts(errors: list[str]) -> None:
         for heading in PROMPT_REQUIRED_HEADINGS:
             if heading not in text:
                 errors.append(f"{path.relative_to(ROOT)} missing heading: {heading}")
+        if "## AI Humility" not in text:
+            errors.append(f"{path.relative_to(ROOT)} missing heading: ## AI Humility")
+        humility_markers = ["uncertainty", "rival readings", "missing sources", "pastoral risks"]
+        for marker in humility_markers:
+            if marker not in text:
+                errors.append(f"{path.relative_to(ROOT)} missing AI humility marker: {marker}")
+
+
+def check_prompt_tests(errors: list[str]) -> None:
+    text = read_text(AI_SYSTEM / "checklists" / "agent-prompt-test.md")
+    for heading in EXPECTED_PROMPT_TEST_SECTIONS:
+        if heading not in text:
+            errors.append(f"agent-prompt-test.md missing section: {heading}")
+
+
+def check_agent_output_examples(errors: list[str]) -> None:
+    schema = json.loads(read_text(AI_SYSTEM / "schemas" / "agent-output.schema.json"))
+    allowed_agents = set(schema["properties"]["agent"]["enum"])
+    allowed_inputs = set(schema["properties"]["inputs"]["items"]["properties"]["kind"]["enum"])
+    allowed_claim_types = set(
+        schema["properties"]["claim_classifications"]["items"]["properties"]["classification"]["enum"]
+    )
+    allowed_confidence = set(schema["properties"]["findings"]["items"]["properties"]["confidence"]["enum"])
+
+    for path in sorted((AI_SYSTEM / "examples" / "agent-output").glob("*.json")):
+        try:
+            data = json.loads(read_text(path))
+        except json.JSONDecodeError as exc:
+            errors.append(f"Invalid agent-output example JSON in {path.relative_to(ROOT)}: {exc}")
+            continue
+        extra = sorted(set(data) - set(AGENT_OUTPUT_REQUIRED_KEYS))
+        missing = [key for key in AGENT_OUTPUT_REQUIRED_KEYS if key not in data]
+        if extra:
+            errors.append(f"{path.relative_to(ROOT)} has unexpected keys: {', '.join(extra)}")
+        if missing:
+            errors.append(f"{path.relative_to(ROOT)} missing keys: {', '.join(missing)}")
+            continue
+        if data["agent"] not in allowed_agents:
+            errors.append(f"{path.relative_to(ROOT)} has invalid agent: {data['agent']}")
+        for key in ["task", "summary", "recommended_next_action"]:
+            if not isinstance(data[key], str) or not data[key].strip():
+                errors.append(f"{path.relative_to(ROOT)} field '{key}' must be a non-empty string")
+        array_keys = ["inputs", "findings", "claim_classifications", "citations", "risks", "open_questions"]
+        for key in array_keys:
+            if not isinstance(data[key], list):
+                errors.append(f"{path.relative_to(ROOT)} field '{key}' must be an array")
+        if any(not isinstance(data[key], list) for key in array_keys):
+            continue
+        for item in data["inputs"]:
+            if item.get("kind") not in allowed_inputs or not item.get("reference"):
+                errors.append(f"{path.relative_to(ROOT)} has invalid input entry")
+        for item in data["findings"]:
+            if not item.get("claim") or not item.get("support") or item.get("confidence") not in allowed_confidence:
+                errors.append(f"{path.relative_to(ROOT)} has invalid finding entry")
+        for item in data["claim_classifications"]:
+            if not item.get("claim") or item.get("classification") not in allowed_claim_types:
+                errors.append(f"{path.relative_to(ROOT)} has invalid claim classification entry")
+        for item in data["citations"]:
+            if not item.get("label") or not item.get("locator"):
+                errors.append(f"{path.relative_to(ROOT)} has invalid citation entry")
+        for key in ["risks", "open_questions"]:
+            if not isinstance(data[key], list) or not all(isinstance(item, str) for item in data[key]):
+                errors.append(f"{path.relative_to(ROOT)} field '{key}' must be a string array")
 
 
 def check_stale_project_paths(errors: list[str]) -> None:
@@ -160,6 +253,8 @@ def main() -> int:
         check_json(errors)
         check_constitution_terms(errors)
         check_prompts(errors)
+        check_prompt_tests(errors)
+        check_agent_output_examples(errors)
         check_stale_project_paths(errors)
         check_restoration_marker(errors)
         check_intake_consistency(errors)
