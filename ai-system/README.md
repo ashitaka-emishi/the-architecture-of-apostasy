@@ -129,11 +129,15 @@ looks for stale project-path references.
 Quarto files for front matter and validates optional status metadata fields when
 they are present.
 
+`scripts/intake_consistency_check.py` reports citation, canonical-resolution,
+archive-listing, and raw-PDF source-note intake gaps.
+
 Run it locally:
 
 ```bash
 python3 ai-system/scripts/theological_consistency_check.py
 python3 ai-system/scripts/validate_public_front_matter.py
+python3 ai-system/scripts/intake_consistency_check.py
 ```
 
 ## How To Use

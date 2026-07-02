@@ -8,6 +8,7 @@ human theological judgment.
 from __future__ import annotations
 
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -37,6 +38,7 @@ REQUIRED_FILES = [
     AI_SYSTEM / "roadmap" / "volumes.yml",
     AI_SYSTEM / "checklists" / "chapter-front-matter-template.yml",
     AI_SYSTEM / "scripts" / "validate_public_front_matter.py",
+    AI_SYSTEM / "scripts" / "intake_consistency_check.py",
 ]
 
 CANONICAL_TERMS = [
@@ -133,6 +135,22 @@ def check_restoration_marker(errors: list[str]) -> None:
             errors.append(f"Constitution missing restoration marker: {marker}")
 
 
+def check_intake_consistency(errors: list[str]) -> None:
+    result = subprocess.run(
+        [sys.executable, str(AI_SYSTEM / "scripts" / "intake_consistency_check.py")],
+        cwd=ROOT,
+        check=False,
+        text=True,
+        capture_output=True,
+    )
+    if result.stdout:
+        print(result.stdout.rstrip())
+    if result.stderr:
+        print(result.stderr.rstrip())
+    if result.returncode != 0:
+        errors.append("Intake consistency check failed")
+
+
 def main() -> int:
     errors: list[str] = []
     check_required_files(errors)
@@ -142,6 +160,7 @@ def main() -> int:
         check_prompts(errors)
         check_stale_project_paths(errors)
         check_restoration_marker(errors)
+        check_intake_consistency(errors)
 
     if errors:
         print("Theological consistency check failed:")
