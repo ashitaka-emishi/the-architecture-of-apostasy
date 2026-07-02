@@ -42,7 +42,7 @@ The project is strongest when it identifies patterns of idolatry that can afflic
 
 Catholic, Orthodox, Protestant, Anabaptist, Pentecostal, and non-denominational readers should bring tradition-specific objections and rival readings. Those objections are not interruptions of the work; they are part of how the work becomes more truthful.
 
-Start with [Method](method.qmd), then read the essays with the distinction between doctrine, exegesis, analogy, historical judgment, and prophetic warning in mind.
+Start with [Method](method.qmd) and [Rival Readings](rival-readings.qmd), then read the essays with the distinction between doctrine, exegesis, analogy, historical judgment, and prophetic warning in mind.
 
 ## Artists And Image Readers
 
@@ -54,7 +54,7 @@ Start with [Images](images.qmd) and [Gallery Catalog](markdown/gallery.md).
 
 The project welcomes hard questions about sourcing, overstatement, historical compression, and rival readings.
 
-Read [Method](method.qmd) first. Then use the public essays as arguments to test, not slogans to consume.
+Read [Method](method.qmd) and [Rival Readings](rival-readings.qmd) first. Then use the public essays as arguments to test, not slogans to consume.
 
 ## Reading Posture
 

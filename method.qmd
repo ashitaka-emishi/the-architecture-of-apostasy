@@ -60,7 +60,7 @@ That means such readings ask, "What does this biblical warning expose in us?" be
 
 Readers from Catholic, Orthodox, Protestant, Anabaptist, Pentecostal, secular historical, or other traditions may contest parts of the interpretation. Those objections matter.
 
-The project is stronger when it faces rival readings rather than treating disagreement as blindness.
+The project is stronger when it faces rival readings rather than treating disagreement as blindness. A general map of major objections and alternative interpretations is gathered in [Rival Readings](rival-readings.qmd).
 
 ## Source Development
 
