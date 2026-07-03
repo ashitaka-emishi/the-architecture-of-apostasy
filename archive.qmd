@@ -30,7 +30,9 @@ Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd)
 | Entry | Category | Status | Summary |
 |---|---|---|---|
 | [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md) | Major Essay | Public Essay, Needs Citation | Compares religious monopoly patterns and warns against institutionalized faithlessness. |
-| [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md) | Core Foundation | Foundation, Devotional/Mythic | Provides the mythic-devotional foundation for faithful keeping before the Shepherd. |
+| [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md) | Core Foundation | Foundation, Devotional/Mythic | Provides the mythopoetic keeping foundation for faithful response before the Shepherd. |
+| [Aru va\`en Reader's Guide](markdown/aru-vaen-readers-guide.md) | Supporting Essay | Public Essay, Devotional/Mythic | Offers a non-revealing orientation for reading the mythic keeping text. |
+| [Aru va\`en: Symbolic Mythology of the Keeping](markdown/aru-vaen-symbolic-mythology.md) | Supporting Essay | Public Essay, Devotional/Mythic | Names the story's symbolic mythology without turning it into a codebook. |
 | [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md) | Supporting Essay | Canonical Draft, Needs Review | Develops early cosmological and antediluvian material for the wider project. |
 | [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md) | Supporting Essay | Canonical Draft, Needs Review | Extends the primordial narrative frame for creation, rebellion, and deformation. |
 | [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md) | Supporting Essay | Canonical Draft, Needs Review | Continues the cosmological draft sequence around corruption and boundary failure. |
