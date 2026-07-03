@@ -20,7 +20,7 @@ Read it as a warning against mastery. The point is not to stand outside apostasy
 
 ## The Embodied Foundation
 
-[*Aru vaen: A Keeping of the Troth*](markdown/aru-vaen-a-keeping-of-the-troth.md) gives the project its embodied counterweight.
+[*Aru va\`en: A Keeping of the Troth*](markdown/aru-vaen-a-keeping-of-the-troth.md) gives the project its embodied counterweight.
 
 Its language is mythic and devotional rather than analytic. It teaches that faithfulness is not purity, conquest, control, or detached comprehension. Faithfulness is wounded keeping before the Shepherd: answering the cry without looking away.
 
@@ -37,7 +37,7 @@ Held together, they order the site toward repentance, discernment, restoration, 
 ## Read Next
 
 1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-2. [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+2. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
 3. [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
 4. [Method](method.qmd)
 5. [Faithful Institutions](faithful-institutions.qmd)

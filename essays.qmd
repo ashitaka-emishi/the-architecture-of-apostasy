@@ -82,4 +82,6 @@ These notes help readers approach the archive's more intense essays without trea
 
 ## Literary and Mythopoetic Theology
 
-- [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+- [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+- [Aru va\`en Reader's Guide](markdown/aru-vaen-readers-guide.md)
+- [Aru va\`en: Symbolic Mythology of the Keeping](markdown/aru-vaen-symbolic-mythology.md)

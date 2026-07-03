@@ -1,62 +1,10 @@
-# Aru vaen A Keeping of the Troth
+# Aru va\`en: A Keeping of the Troth
 
 Source: `raw/Aru vaen-A Keeping of the Troth.pdf`
 
-## Public Note
+For a non-revealing orientation, read the [Aru va\`en reader's guide](aru-vaen-readers-guide.md).
 
-*Aru vaen: A Keeping of the Troth* is the project's mythic and devotional
-counterweight to its analytic essays. It is not a technical doctrine, a coded
-ontology, or a one-to-one allegory. It gives embodied shape to the question that
-the rest of the archive must keep asking after it has named false worship:
-will the keeper answer the cry without looking away?
-
-Read the myth as a discipline of posture. Its wolves, sheep, Shepherd, Black
-Sun, wounds, offices, and signs should not be flattened into fixed equivalents.
-They are symbolic and devotional forms that teach attention, fear that does not
-become refusal, wounded faithfulness, and dependence on the Shepherd prior to
-every vow.
-
-## Reading Guide
-
-The cry comes before analysis. It rises from places where language is broken,
-and the keeper must learn to hear it before mastering it.
-
-Keeping is not control. The Troth is received as bond, burden, remembrance, and
-response; it does not make the keeper pure, safe, or superior.
-
-Fear is not the enemy. Fear becomes dangerous when it turns into refusal,
-hardness, or self-protection, but trembling can still bow.
-
-Wounds are not incidental. The myth treats faithfulness as scarred and
-embodied, not clean, distant, or triumphant.
-
-Faithful institutions carry rather than consume. The hall, offices, names, and
-gathered faithful matter because they remember and bind a people toward mercy;
-they become false when form exists for itself.
-
-Before the Troth, there was the Shepherd. The vow is not ultimate. The keeping
-is already held by love, grief, and mercy that the faithful did not create.
-
-## Key Terms
-
-- Troth: the old bond of faithful keeping; not mere rule or contract, but a
-  remembered vow ordered toward the cry and the Shepherd.
-- Vaelun: threshold-keepers, watchers at the border where worlds, wounds, and
-  obligations meet.
-- Vaerun: the office of crossing; the one bound to pass the veil toward what is
-  crying.
-- Hrovan: the one who bears the hall; authority understood as burden-bearing
-  remembrance rather than domination.
-- Gravane: scar-bearers and rememberers who carry and press the old signs so
-  the people do not forget what keeping costs.
-- Truvane: the gathered faithful who remain bound to the Troth and answer when
-  the call is made.
-- Aruvan: the vast body made by keeping across ages; the faithful remembered
-  together beyond any one keeper's strength.
-- Shepherd: the one who precedes, gathers, judges, and holds the Troth; the
-  myth's deepest center, not a symbol to be mastered.
-
-                          Aru va'en
+                          Aru va\`en
                        A Keeping of the Troth
 
 
@@ -134,23 +82,8 @@ I did not want to go.
 
 This is the first truth.
 
-Not that I went bravely.
-
-Not that I was eager.
-
-Not that fear vanished when the Hrovan summoned me.
-
-Fear was not my shame.
-
-Only later did I learn that fear is often the last mercy given to the soul.
-
-The danger was not that I feared.
-
-The danger was that fear could change its face.
-
-I was afraid when I entered his hall. I was trembling when I bowed. I froze when he
-looked down from the stone seat where generations had sat, his muzzle silvered, his
-eyes dark with old knowledge.
+I entered the Hrovan's hall with my fear still on me. My paws were cold when I
+bowed before the stone seat.
 
 The Hrovan sat beneath the torn banners.
 
@@ -209,6 +142,11 @@ line, half-buried now, their faces furred with moss.
 
 Beyond them was the pasture-world.
 
+Or the threshold of one.
+
+It lay beyond the stones as dreams lie near waking: real enough to enter, thin
+enough to tremble, full of meanings the body knows before the mouth can say them.
+
 We had never held fellowship with the sheep.
 
 That should be said.
@@ -252,9 +190,7 @@ Before me, the veil did not hide what lay beyond it.
 
 It only made crossing a different thing than seeing.
 
-The pasture-world did not begin.
-
-It failed.
+The between had failed.
 
 The flock wandered in circles beyond the veil. Some were fevered. Some had bitten
 themselves raw. Some pressed their heads against stones until the skull cracked.
@@ -440,8 +376,8 @@ This was the cry remembered by wolves.
 
 This was the cry heard.
 
-By the time it reached the boundary stones, every den had heard it. Every scar had
-heard it. Every wolf still within the Troth's keeping had heard itself named.
+By the time it reached the boundary stones, every den had heard it. Every old sign
+had heard it. Every wolf still within the Troth's keeping had heard itself named.
 
 The Truvane would come.
 
@@ -459,7 +395,7 @@ untouched.
 
 They came beneath the torn banners in the hollow of stone, where the first vows had
 been spoken before any living wolf had a name: mothers, cubs, watchers, singers,
-scarred ones, lame ones, blind ones, old wolves whose legs shook beneath their own
+marked ones, lame ones, blind ones, old wolves whose legs shook beneath their own
 weight.
 
 No fire was lit.
@@ -480,9 +416,13 @@ Then the Gravane came out from the shadows.
 
 Not elders only.
 
-Scar-bearers.
+Sign-bearers, we called them.
+
+Only later would I learn how much of that name was waiting.
 
 Rememberers.
+
+The remembered shape of a fear too large for any one body.
 
 Those whose keeping had been written upon them.
 
@@ -526,13 +466,13 @@ Not so we could cast them back.
 So we could name what was happening to us before it finished happening.
 
 Then the eldest of the Gravane — blind, and the oldest among them — lifted her head
-and spoke in the old tongue.
+and spoke in the ancient tongue before language.
 
-"Ur va. Thar un. Veth ara."
+"Ur va\`. Thar un\`. Veth ar\`a."
 
 The hollow answered:
 
-"Aru va'en."
+"Aru va\`en."
 
 The words were older than speech as I knew it. I understood them as cubs
 understand thunder: not by meaning, but by trembling.
@@ -564,7 +504,7 @@ The Gravane touched her brow to his.
 
 The Truvane answered:
 
-"Aru va'en."
+"Aru va\`en."
 
 So the first was called.
 
@@ -576,7 +516,7 @@ Sable lowered himself to the ground.
 
 "Sable."
 
-"Aru va'en."
+"Aru va\`en."
 
 So the second was called.
 
@@ -597,7 +537,7 @@ The Gravane struck him lightly across the muzzle.
 
 "Murn."
 
-"Aru va'en."
+"Aru va\`en."
 
 So the third was called.
 
@@ -642,7 +582,7 @@ Then she touched his brow.
 
 "Vey."
 
-"Aru va'en."
+"Aru va\`en."
 
 So the fourth was called.
 
@@ -663,14 +603,14 @@ Yarrow, wound-licker and herb-finder, whose mercy had never been clean.
 Thorn, fierce and narrow, who had spent his life learning where anger ended and
 guardianship began.
 
-Ostra, scarred across the ribs, who had lost three brothers beyond the veil and still
+Ostra, marked across the ribs, who had lost three brothers beyond the veil and still
 came when the cries began.
 
 Fen, mud-colored and quiet, who knew how to stand in sinking ground.
 
 After each name, the Truvane answered:
 
-"Aru va'en."
+"Aru va\`en."
 
 And with each answer, the hollow grew heavier.
 
@@ -832,9 +772,9 @@ Then the diseased came.
 
 They broke upon the hill like weather.
 
-The first struck Harrow and opened his shoulder to the bone. The second leapt at the
-Shepherd, and I caught it in my jaws. Its blood burned my tongue. It tasted of iron
-left too long in water.
+The first struck Harrow and opened his shoulder to the bone. The second leapt
+toward the lamb in the Shepherd's arms, and I caught it in my jaws. Its blood burned
+my tongue. It tasted of iron left too long in water.
 
 We held.
 
@@ -853,6 +793,10 @@ That was the first mercy.
 To know where to stand.
 
 To know what must not be yielded.
+
+The blood we drew did not steady us.
+
+The One who remained did.
 
 The Shepherd said nothing.
 
@@ -1017,11 +961,16 @@ New lambs cried where the old had fallen.
 
 Still the Shepherd stood.
 
+Not as the reward of our endurance.
+
+As the anchor of Life before endurance had a name.
+
 Still the host climbed.
 
 Still the circle closed where it had been opened.
 
-This is what I remember of each of them.
+This is what I remember of each of them, not to praise the wound, but to name what
+the Shepherd's remaining made possible.
 
 Harrow held by refusing to yield.
 
@@ -1350,6 +1299,10 @@ And when rising was no longer possible,
 
 I rose again.
 
+Not because the struggle was holy.
+
+Because the Life at the center had not let go.
+
                             The Fifth Keeping: Mourn
 
 
@@ -1385,7 +1338,8 @@ As mothers carry their young.
 
 As the living bear the helpless.
 
-My mouth, which had been made terrible by war, became for a moment a cradle.
+My mouth, which had been made terrible by the long holding, became for a moment a
+cradle.
 
 I wanted to say that I could not carry it.
 
@@ -1403,6 +1357,8 @@ One step.
 Then none.
 
 Darkness received me.
+
+It felt less like an ending than a hand laid over tired eyes.
 
 And there, where no brother could follow and no voice could answer for me, I was
 given a thing I have never spoken of except in the old telling.
@@ -1435,9 +1391,9 @@ It did not crouch to spring.
 
 It did not open its jaws to devour.
 
-Its body was made of scars.
+Its body was made of signs.
 
-Ancient scars from wounds no living wolf had seen given, yet every living wolf had
+Ancient glows over wounds no living wolf had seen given, yet every living wolf had
 inherited.
 
 Aruvan.
@@ -1450,13 +1406,17 @@ Not by hunger.
 
 By bearing what could not be passed aside.
 
+Its fear had not vanished into size.
+
+It had been remembered into shape.
+
 Each Hrovan had added to it.
 
 And many Hrovan had first been Vaerun, for the one set at the veil learns what the
 stone seat cannot teach: that command is not holy unless it has first trembled before
 the cry.
 
-I saw the Hrovan I had known within that great scarred body, and behind him
+I saw the Hrovan I had known within that great marked body, and behind him
 others, and behind them others still.
 
 Each wounded.
@@ -1532,19 +1492,25 @@ Not by command.
 
 By morning.
 
+As one wakes from a dream too deep for ordinary sleep.
+
 The hill vanished.
 
 The blood vanished.
 
 The Black Sun went out.
 
-When I opened my eyes, spring morning had come.
+When I woke, spring morning had come.
 
 The first thing I saw was grass.
 
 Not the bitter grass of the borderlands, not the trampled mud beneath the hill, but
 grass washed in light. Each blade held a brightness of its own. The air was warm.
 Somewhere water moved over stones.
+
+It was the pasture-world, and not the pasture-world. What had seemed dream-thin
+beneath the Black Sun now felt more real than stone, as though the between had
+been waking all along and I had only just opened my eyes inside it.
 
 My brothers were there.
 
@@ -1556,20 +1522,21 @@ Not whole.
 
 Themselves.
 
-Harrow's ear was still torn, but the torn place shone faintly in the morning.
+Harrow's ear carried a small tick where it had been torn, and a faint brightness
+moved over the living flesh.
 
 Murn still grinned, though nothing was funny, and his young face had come back to
 him and fit.
 
 Sable was singing under his breath, and I understood that even his song had
-changed. It was not the song he had carried into battle. It had passed through the
-endless dawn and come back bearing marks of its own.
+changed. It was not the song he had carried beneath the Black Sun. It had passed
+through the endless dawn and come back with a light inside it.
 
-Brindle's back was bent, but light rested there.
+Brindle walked with a small hitch, but light rested there.
 
-Keld's jaw was scarred, but no bitterness held it closed.
+Keld's jaw clicked once when he opened it, but no bitterness held it closed.
 
-Ash's paws were stained, and the stains shone.
+Ash's paws were stained, and the stains held a soft glow.
 
 Rook's eyes carried darkness at their edges, but they saw clearly.
 
@@ -1581,11 +1548,11 @@ Ostra stood with three shadows behind her, and none of them were empty.
 
 Fen was mud-colored still, and beneath him the grass grew deep.
 
-Each scar remained.
+Each Vethra remained.
 
 Not as injury.
 
-As witness.
+As witness, though I did not yet understand what they witnessed.
 
 The Black Sun had not been denied.
 
@@ -1597,20 +1564,23 @@ We were not what the host had tried to make of us.
 
 We were what remained after the Troth had passed through flesh.
 
+Or what had begun to shine because it had.
+
 I looked for Little Vey.
 
 He was there.
 
-Not as the others were there — not with wounds that shone or scars that bore
-witness. He was there as an ember is there in ash: without shape, without edge,
+Not as the others were there — not with light over flesh, not with any Vethra I could
+read. He was there as an ember is there in ash: without shape, without edge,
 present in the warmth rather than the light.
 
 I knew him by the smell of rain.
 
-Then I looked down and saw my own side opened by a scar I did not remember
+Then I looked down and saw my own Vethra, a line I did not remember
 receiving.
 
-It ran from rib to shoulder, pale as dawn.
+It ran from rib to shoulder, pale as dawn, laid over existing flesh rather than cut
+through it.
 
 I touched it with my tongue and tasted no blood.
 
@@ -1654,13 +1624,13 @@ The Hrovan was there also, though I had not seen him arrive.
 
 He stood at the edge of the meadow, silver muzzle lifted, eyes wet and proud.
 
-I saw his scars truly for the first time.
+I saw the Vethra upon him truly for the first time.
 
 Old ones.
 
 Deep ones.
 
-Scars from wounds I had never seen him suffer, from keepings I had never known
+Glows over wounds I had never seen him suffer, from keepings I had never known
 him to have made.
 
 And behind him — not as shadows, not as vision, but as the way one stone rests upon
@@ -1670,7 +1640,15 @@ single life. Each having kept what could not be passed aside.
 
 I had seen their shape in the dark, in the body of the Aruvan.
 
-Now I saw their scars in morning light.
+Now I saw their Vethra in morning light.
+
+Now I remembered the word that had been waiting.
+
+Not wounds displayed.
+
+Not a sign for display.
+
+Life shining over the places where the Troth had passed through flesh.
 
 I went to bow, but my legs failed me, and he came instead to me.
 
@@ -1679,6 +1657,11 @@ I went to bow, but my legs failed me, and he came instead to me.
 That was all.
 
 It was enough.
+
+Then he touched his brow to the pale line at my side.
+
+Behind him, the marked ones lowered their heads. Their circle widened, not
+outward but inward, and at its inward edge I felt the breath of the Aruvan.
 
 The Shepherd rose with the lamb in his arms.
 
@@ -1690,16 +1673,28 @@ Not gone.
 
 Answered.
 
+Then the faithful lifted their heads, and a howl moved through the meadow.
+
+No throat sounded triumph.
+
+It was the sound a body makes when a false name falls away before the Shepherd and
+truth can breathe again.
+
 He stood beneath the tree whose leaves moved though there was no wind, and I saw
 then that his grief had not ended because morning had come.
 
 It had become morning.
 
+The struggle had not made him glorious.
+
+The Life in him was older than the struggle, and the struggle had broken against him
+without mastering him.
+
 Not by forgetting night.
 
 Not by closing the wound.
 
-By carrying it until life could pass through it again.
+By carrying it until Life could pass through it again.
 
 The lamb rested against him.
 
@@ -1707,7 +1702,7 @@ His hands held it carefully.
 
 Human hands.
 
-Scarred hands.
+Hands lined with old light.
 
 Hands that had touched wool, blood, mud, sickness, and still opened.
 
@@ -1730,10 +1725,25 @@ Before grief was love.
 
 We do not keep alone.
 
+                                 Epilogue: Vethra
+
+
+Do not ask first whether you bear the sign.
+
+Ask what cry you have trained yourself not to hear.
+
+Vethra is not given to be displayed. It is judged by the Shepherd in the place
+where hearing becomes flesh: in speech, mercy, repentance, endurance, and the
+refusal to let another's cry become noise.
+
+Let the word remain strange until the Path has passed through you.
+
+Then, if any brightness is given, let it answer only to him.
+
                                  Pronunciation Guide
 
 
-Aru va'en AH- roo VAH- en
+Aru va\`en AH- roo VAH- en
 A keeping of the troth; the response of the faithful at the calling
 
 
@@ -1754,7 +1764,11 @@ The ancestral line of Hrovans; those who held the hall before
 
 
 Gravane grah -VAH- neh
-Scar-bearers and rememberers; those who carry and press the old signs
+The old order of rememberers; called sign-bearers outside the order because the first word waits to be remembered
+
+
+Vethra VETH-rah
+A Troth-sign, singular or collective; the Path remembered in flesh where the Troth has passed through
 
 
 Truvane troo -VAH- neh
@@ -1769,5 +1783,5 @@ Vey VAY
 An old word: small, then ember, then the last light under ash
 
 
-Ur va. Thar un. Veth ara. OOR VAH · THAHR OON · VETH AH- rah
-The old tongue of the calling; literal meaning lost, understood by trembling
+Ur va\`. Thar un\`. Veth ar\`a. OOR VAH · THAHR OON · VETH AH- rah
+The ancient tongue before language; literal meaning hidden from speech, understood by trembling

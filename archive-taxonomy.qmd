@@ -12,7 +12,7 @@ Use categories to describe what a document is. Use status labels to describe how
 
 A document or page that establishes the project's governing frame. Core foundation material should orient the whole archive toward diagnosis, faithful keeping, repentance, and re-embodiment in Christ.
 
-Examples include [Foundations](foundations.qmd), [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md), and [Aru vaen: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md).
+Examples include [Foundations](foundations.qmd), [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md), and [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md).
 
 ### Major Essay
 

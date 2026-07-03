@@ -1,6 +1,6 @@
-# Aru Vaen And The Grammar
+# Aru va\`en and the Grammar
 
-This note explains how *Aru vaen: A Keeping of the Troth* relates to the Grammar of Apostasy.
+This note explains how *Aru va\`en: A Keeping of the Troth* relates to the Grammar of Apostasy.
 
 It should be read as guidance for posture, tone, and imagination. It should not be used to turn mythic language into rigid technical ontology.
 
@@ -8,17 +8,17 @@ It should be read as guidance for posture, tone, and imagination. It should not 
 
 The Grammar of Apostasy gives analytic structure: created good, governing power, fall of the powers, Disordered Logos, fallen liturgy, Chemical Temple formation, sacrifice, and Christological restoration.
 
-*Aru vaen* gives embodied discipline: wounded keeping, threshold attention, fear that does not become refusal, and response to the cry before full comprehension.
+*Aru va\`en* gives embodied discipline: wounded keeping, threshold attention, fear that does not become refusal, and response to the cry before full comprehension.
 
 The Grammar asks, "What false order has taken flesh?"
 
-*Aru vaen* asks, "Will the keeper answer the cry without looking away?"
+*Aru va\`en* asks, "Will the keeper answer the cry without looking away?"
 
 Both are needed. Grammar without keeping can harden into mastery. Keeping without grammar can become sentiment without discernment.
 
-## What Aru Vaen May Do
+## What Aru va\`en May Do
 
-*Aru vaen* may:
+*Aru va\`en* may:
 
 - discipline the archive's tone away from triumphalism;
 - remind canonical work that diagnosis must serve faithful response;
@@ -26,9 +26,9 @@ Both are needed. Grammar without keeping can harden into mastery. Keeping withou
 - keep the project attentive to cries that precede analysis;
 - resist treating the archive as a monument to theological control.
 
-## What Aru Vaen Must Not Become
+## What Aru va\`en Must Not Become
 
-*Aru vaen* must not become:
+*Aru va\`en* must not become:
 
 - a coded technical ontology;
 - a one-to-one allegorical map;
@@ -42,7 +42,7 @@ Do not flatten wolves, sheep, the Shepherd, the Black Sun, offices, names, or pl
 
 Safe references include:
 
-- "This chapter should be disciplined by the keeping posture described in *Aru vaen*."
+- "This chapter should be disciplined by the keeping posture described in *Aru va\`en*."
 - "The analysis should answer the cry rather than merely classify the wound."
 - "The tone should remain wounded, dependent, and non-triumphal."
 - "This symbolic echo is suggestive, not a canonical mapping."
@@ -56,7 +56,7 @@ Unsafe references include:
 
 ## Editorial Rule
 
-When *Aru vaen* is referenced in canonical work, the author should identify the kind of use:
+When *Aru va\`en* is referenced in canonical work, the author should identify the kind of use:
 
 - Postural use: it shapes tone, humility, courage, or attention.
 - Symbolic use: it offers an image that may illuminate an argument.
