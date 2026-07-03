@@ -13,7 +13,8 @@ project:
     - "!markdown/hypocrisy-chapter-draft.md"
   resources:
     - "CNAME"
-    - "gallery/**"
+    - "gallery/apple-touch-icon.png"
+    - "gallery/aoa-social-preview.jpg"
     - "raw/**/*.pdf"
     - "raw/images/**/*.txt"
     - "site-assets/**"
@@ -27,7 +28,7 @@ website:
   twitter-card: true
   navbar:
     title: false
-    logo: gallery/aoa-logo-emblem.jpg
+    logo: gallery/aoa-logo-emblem.webp
     logo-alt: "The Architecture of Apostasy"
     left:
       - href: index.qmd

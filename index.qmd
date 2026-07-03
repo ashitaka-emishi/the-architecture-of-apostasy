@@ -1,5 +1,5 @@
 ::: {.aoa-hero}
-![](gallery/aoa-logo-home.jpg){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image"}
+![](gallery/aoa-logo-home.webp){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image"}
 
 ## The Architecture of Apostasy is not a theory to be mastered. It is a path to be walked.
 
@@ -16,7 +16,7 @@ Apostasy becomes visible when a false spirit takes flesh: in the self, the churc
 
 The way back is not detached observation. It is repentance, suffering, death to the false self, and re-embodiment in Christ.
 
-<img class="path-image no-lightbox" src="gallery/the-path.png" alt="A visual diagram titled A Path of Deformation and Return, showing ten stages from false logos through re-embodiment in Christ.">
+<img class="path-image no-lightbox" src="gallery/the-path.webp" alt="A visual diagram titled A Path of Deformation and Return, showing ten stages from false logos through re-embodiment in Christ.">
 
 [Walk the path of re-embodiment](path-of-re-embodiment.qmd)
 

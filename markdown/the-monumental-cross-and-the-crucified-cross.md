@@ -43,12 +43,12 @@ it first.
 
 ## Visual Pair
 
-![Monumental Cross](../gallery/monumental-cross.png)
+![Monumental Cross](../gallery/monumental-cross.webp)
 
 *The monumental cross: the cross as polished civic memorial, with the body hidden
 beneath stone, ceremony, and public honor.*
 
-![Crucified Cross](../gallery/crucified-cross.png)
+![Crucified Cross](../gallery/crucified-cross.webp)
 
 *The crucified cross: the cross returned to the exposed body, public shame, and
 judgment of the powers.*

@@ -2,27 +2,27 @@
 
 ## A Path of Deformation and Return
 
-![A Path of Deformation and Return](../gallery/the-path.png){.path-image .no-lightbox}
+![A Path of Deformation and Return](../gallery/the-path.webp){.path-image .no-lightbox}
 
-- File: `the-path.png`
+- File: `the-path.webp`
 - Description: A two-row visual path diagram tracing false logos, false desire, repeated bodily practice, spiritual deformation, institutional embodiment, sacrifice, suffering, repentance, death to the false self, and re-embodiment in Christ.
 - Notes: Source and inspection notes are available in `../raw/images/the-path.txt`.
 - Comments: Visual companion for the home page and "The Path of Re-Embodiment," presenting the path as a movement from deformation toward restoration in Christ.
 
 ## The Architecture of Apostasy Brand Image
 
-![The Architecture of Apostasy Brand Image](../gallery/aoa-logo-home.jpg)
+![The Architecture of Apostasy Brand Image](../gallery/aoa-logo-home.webp)
 
-- File: `aoa-logo-home.jpg`
+- File: `aoa-logo-home.webp`
 - Description: A black-and-gold title-at-top symbolic image contrasting true Logos and false logos around a central divided Christic figure, temple forms, light, laurel, and thorn imagery.
 - Notes: Source and inspection notes are available in `../raw/images/aoa-logo-home.txt`.
 - Comments: Home page brand image and default social preview image.
 
 ## The Architecture of Apostasy Compact Logo
 
-![The Architecture of Apostasy Compact Logo](../gallery/aoa-logo-emblem.jpg)
+![The Architecture of Apostasy Compact Logo](../gallery/aoa-logo-emblem.webp)
 
-- File: `aoa-logo-emblem.jpg`
+- File: `aoa-logo-emblem.webp`
 - Description: A proportional resize of the full Architecture of Apostasy logo for compact site identity placement.
 - Notes: Source and inspection notes are available in `../raw/images/aoa-logo-emblem.txt`.
 - Comments: Source for the compact navbar logo.
@@ -146,18 +146,18 @@
 
 ## Monumental Cross
 
-![Monumental Cross](../gallery/monumental-cross.png)
+![Monumental Cross](../gallery/monumental-cross.webp)
 
-- File: `monumental-cross.png`
+- File: `monumental-cross.webp`
 - Description: A polished stone cross rises from a civic war memorial in a formal plaza, surrounded by wreaths, soldier reliefs, flags, ceremonial lighting, and monumental architecture.
 - Notes: Source prompt and inspection notes are available in `../raw/images/monumental-cross.txt`.
 - Comments: Chapter illustration for the monumental cross as sanitized public memory and political liturgy.
 
 ## Crucified Cross
 
-![Crucified Cross](../gallery/crucified-cross.png)
+![Crucified Cross](../gallery/crucified-cross.webp)
 
-- File: `crucified-cross.png`
+- File: `crucified-cross.webp`
 - Description: A rough wooden cross stands on Golgotha beneath storm-darkened skies, with Christ exposed on the cross, grieving witnesses nearby, distant soldiers, and scattered tools of execution.
 - Notes: Source prompt and inspection notes are available in `../raw/images/crucified-cross.txt`.
 - Comments: Chapter illustration for the crucified cross as exposed wound, judgment on the powers, and Christological restoration.
