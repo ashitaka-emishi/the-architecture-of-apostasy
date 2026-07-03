@@ -32,8 +32,6 @@ body {
 
 h1,
 h2,
-.site-title,
-.navbar-title,
 .quarto-title h1.title {
   color: var(--aoa-parchment);
   font-family: var(--font-display);
@@ -48,8 +46,7 @@ h1,
 }
 
 .quarto-title,
-.quarto-title .title,
-.quarto-title .subtitle {
+.quarto-title .title {
   text-align: center;
 }
 
@@ -59,9 +56,7 @@ h2 {
 }
 
 h3,
-h4,
-.subtitle,
-.quarto-title .subtitle {
+h4 {
   color: var(--aoa-marble);
   font-family: var(--font-heading);
 }
@@ -140,8 +135,7 @@ a:focus {
   }
 }
 
-.navbar .navbar-nav .nav-link,
-.navbar-title {
+.navbar .navbar-nav .nav-link {
   color: var(--aoa-parchment);
   font-family: var(--font-display);
   letter-spacing: 0.06em;
@@ -170,17 +164,7 @@ a:focus {
   color: var(--aoa-gold-light);
 }
 
-.quarto-title-banner {
-  background:
-    linear-gradient(180deg, rgba(17, 15, 12, 0.94), rgba(2, 2, 3, 0.98)),
-    var(--aoa-charcoal);
-  border-bottom: 1px solid var(--aoa-bronze-muted);
-  color: var(--aoa-parchment);
-}
-
-.quarto-title-meta,
-.description,
-.abstract {
+.quarto-title-meta {
   color: var(--aoa-marble);
 }
 
@@ -229,17 +213,6 @@ main.content:has(.aoa-hero) {
 
 .aoa-hero p {
   font-size: clamp(1.18rem, 2vw, 1.45rem);
-}
-
-.path-line {
-  background: var(--aoa-charcoal);
-  border: 1px solid var(--aoa-bronze-muted);
-  color: var(--aoa-marble);
-  font-family: var(--font-heading);
-  font-size: clamp(1.1rem, 2vw, 1.35rem);
-  line-height: 1.45;
-  margin: 1.75rem 0;
-  padding: 1rem 1.2rem;
 }
 
 .grid > div {
@@ -318,17 +291,6 @@ tr.header {
 }
 
 code {
-  color: var(--aoa-marble);
-}
-
-.callout {
-  background: var(--aoa-charcoal);
-  border-color: var(--aoa-bronze-muted);
-}
-
-.page-footer {
-  background: var(--aoa-black);
-  border-top: 1px solid var(--aoa-bronze-muted);
   color: var(--aoa-marble);
 }
 

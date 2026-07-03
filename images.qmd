@@ -6,7 +6,7 @@ The image collection contains symbolic theology, visual metaphors, and diagramma
 
 ::: {.grid}
 ::: {.g-col-12}
-![A Path of Deformation and Return](gallery/the-path.png){.path-image .no-lightbox}
+![A Path of Deformation and Return](gallery/the-path.webp){.path-image .no-lightbox}
 
 ### A Path of Deformation and Return
 
@@ -14,7 +14,7 @@ A visual path diagram tracing false logos, false desire, bodily practice, deform
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![The Architecture of Apostasy Brand Image](gallery/aoa-logo-home.jpg)
+![The Architecture of Apostasy Brand Image](gallery/aoa-logo-home.webp)
 
 ### The Architecture of Apostasy Brand Image
 
@@ -22,7 +22,7 @@ A black-and-gold title-at-top symbolic image contrasting true Logos and false lo
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![The Architecture of Apostasy Compact Logo](gallery/aoa-logo-emblem.jpg){.gallery-full}
+![The Architecture of Apostasy Compact Logo](gallery/aoa-logo-emblem.webp){.gallery-full}
 
 ### The Architecture of Apostasy Compact Logo
 
@@ -134,7 +134,7 @@ A crown of thorns hangs on a wooden cross in a dark garden-like setting.
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![Monumental Cross](gallery/monumental-cross.png)
+![Monumental Cross](gallery/monumental-cross.webp)
 
 ### Monumental Cross
 
@@ -142,7 +142,7 @@ A polished stone cross rises from a civic war memorial, surrounded by wreaths, s
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![Crucified Cross](gallery/crucified-cross.png)
+![Crucified Cross](gallery/crucified-cross.webp)
 
 ### Crucified Cross
 

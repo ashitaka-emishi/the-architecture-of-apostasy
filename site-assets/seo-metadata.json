@@ -53,7 +53,7 @@
     "images.html": {
       "title": "Images",
       "description": "A public visual-theology image collection for symbolic theology, diagrams, and essay companion images.",
-      "image": "gallery/the-path.png"
+      "image": "gallery/the-path.webp"
     },
     "method.html": {
       "title": "Method",
@@ -62,7 +62,7 @@
     "path-of-re-embodiment.html": {
       "title": "The Path of Re-Embodiment",
       "description": "A path from false logos and false desire through suffering, repentance, death to the false self, and re-embodiment in Christ.",
-      "image": "gallery/the-path.png"
+      "image": "gallery/the-path.webp"
     },
     "readers-guide.html": {
       "title": "Reader's Guide",
@@ -103,7 +103,7 @@
     "markdown/gallery.html": {
       "title": "Gallery Catalog",
       "description": "A catalog of public visual-theology images, source notes, descriptions, and companion essay relationships.",
-      "image": "gallery/the-path.png"
+      "image": "gallery/the-path.webp"
     },
     "markdown/introduction-draft.html": {
       "title": "Introduction Draft",
@@ -151,7 +151,7 @@
     "markdown/the-monumental-cross-and-the-crucified-cross.html": {
       "title": "The Monumental Cross and the Crucified Cross",
       "description": "An essay contrasting symbolic monumentality with the exposed, cruciform meaning of Christian witness.",
-      "image": "gallery/monumental-cross.png"
+      "image": "gallery/monumental-cross.webp"
     },
     "markdown/the-pastor-inside-the-apostate-architecture.html": {
       "title": "The Pastor Inside the Apostate Architecture",
