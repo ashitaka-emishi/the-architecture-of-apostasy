@@ -79,6 +79,10 @@ def public_essay_paths() -> list[Path]:
     return sorted(path for path in MARKDOWN_DIR.glob("*.md") if path.is_file())
 
 
+def is_draft_markdown(text: str) -> bool:
+    return bool(re.match(r"^---\s*\n(?s:.*?)^draft:\s*true\s*$", text, re.MULTILINE))
+
+
 def archive_status_by_path() -> dict[str, str]:
     statuses: dict[str, str] = {}
     row_pattern = re.compile(r"\| \[[^\]]+\]\((markdown/[^)]+\.md)\) \| [^|]+ \| ([^|]+) \|")
@@ -96,7 +100,10 @@ def citation_report() -> list[str]:
     for path in public_essay_paths():
         if path.name == "gallery.md":
             continue
-        if not has_visible_citation(read_text(path)):
+        text = read_text(path)
+        if is_draft_markdown(text):
+            continue
+        if not has_visible_citation(text):
             missing.append(rel(path))
     return missing
 
