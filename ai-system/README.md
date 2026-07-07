@@ -139,7 +139,7 @@ metadata fields when they are present. Public reading copies under `markdown/`
 use plain H1 headings and are skipped.
 
 `scripts/intake_consistency_check.py` reports citation, canonical-resolution,
-archive-listing, and raw-PDF source-note intake gaps.
+and raw-PDF source-note intake gaps.
 
 `scripts/seo_postprocess.py` applies page titles, descriptions, canonical URLs,
 Open Graph tags, and Twitter card tags to the rendered Quarto output using

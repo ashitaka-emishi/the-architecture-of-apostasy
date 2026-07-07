@@ -8,6 +8,14 @@ This site names apostasy as false embodiment. A false logos does not remain an i
 
 Redemption is therefore not merely intellectual correction. Redemption is the painful re-embodiment of the whole person in Christ.
 
+## What This Project Is And Is Not
+
+This project is a Christian theological archive, a diagnostic map, and a path of repentance ordered toward Christ. It gathers essays, images, source material, reading paths, and working tools so that claims can be tested, refined, corrected, and brought back to the living God.
+
+It is not a neutral academic platform, a private canon, a substitute for Scripture or the Church, or a machine for producing settled theological verdicts. Its automated checks and AI-facing tools are servants of editorial judgment, not sources of authority.
+
+The public method for claim types, intake, publication standards, and validation checks is gathered in [Method](method.qmd).
+
 ## The Work
 
 The project diagnoses false embodiment in the person, the church, the institution, and the nation.

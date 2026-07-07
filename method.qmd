@@ -6,6 +6,23 @@ This project reads Scripture, history, institutions, symbols, and contemporary c
 
 The aim is discernment and repentance: to see how holy gifts can become idols, how false embodiment takes shape, and how Christ calls the whole person and the whole body back into truth.
 
+This page gathers the public method for reading, receiving, validating, and publishing material in the archive.
+
+## Governing Distinctions
+
+Raw material is preserved carefully, but preservation is not publication. Publication is not canonization. Canonical development is not automatic authority.
+
+Every document should keep these layers distinct:
+
+- `raw/` preserves source material, drafts, PDFs, notes, and held documents.
+- `markdown/` contains public reading copies of essays and related works.
+- root `.qmd` pages orient readers through the public site.
+- `architecture-of-apostasy/` develops canonical theological grammar and project structure.
+- `gallery/` contains public visual assets.
+- `ai-system/` contains servant tools, schemas, prompts, checks, and implementation support.
+
+The archive must remain a servant of faithful keeping, not a monument to its own growth.
+
 ## Claim Types
 
 The archive uses several kinds of claims. Readers should be able to tell which kind is being made.
@@ -44,6 +61,91 @@ Prophetic warning names the project's strongest register. It is the language of 
 
 That register can be necessary. It can also become careless if it turns every pattern into an absolute verdict. The project should speak urgently without confusing urgency with omniscience.
 
+## Intake Method
+
+New material enters through a deliberate intake process before it becomes public, canonical, or held in reserve.
+
+```text
+Raw source received
+  ->
+Preserve faithfully in raw/
+  ->
+Extract or convert to markdown/ when appropriate
+  ->
+Classify the document
+  ->
+Map it to canonical terms where relevant
+  ->
+Identify source needs and rival readings
+  ->
+Run mechanical checks
+  ->
+Human editorial review
+  ->
+Publish, revise, canonize, or hold in reserve
+```
+
+The operational landing zone for new batches is `intake/`. Files placed there are not published merely because they exist. Intake should inventory the batch, read or inspect every item, classify the material, check theological fit, move accepted files into their proper locations, update the pages that expose them, validate the site, and remove successfully ingested staging files while preserving `intake/README.md`.
+
+If a file cannot be placed safely, it should remain in `intake/` with a clear explanation. Ambiguity is not failure; it is a signal that human editorial judgment is needed.
+
+## Intake Questions
+
+Before a document moves forward, it should answer these questions:
+
+1. What kind of document is this?
+2. What created good is being examined?
+3. What corruption, false logos, or fallen liturgy is being exposed?
+4. What cry is being heard?
+5. What wound does this document carry?
+6. What claim types are present?
+7. What evidence is needed?
+8. What rival reading should be considered?
+9. Where does it belong in the repository?
+10. Does it clarify the path of return, or merely enlarge the archive?
+11. Does it resolve in Christ, or only diagnose collapse?
+12. If this is an essay with a companion image, has the image been placed near the top of the public Markdown copy and listed in the gallery?
+
+These questions slow the project down when speed would confuse raw intensity with faithful increase.
+
+## Publication Standards
+
+Public work should have a clear purpose, belong in the right repository layer, identify its claim type or genre, and avoid confusing raw material with canonical theological development.
+
+It should clarify the path rather than merely expand the site. It should preserve humility where evidence is incomplete, resist contempt, and gesture toward Christ, restoration, repentance, or faithful keeping.
+
+Canonical work carries a higher burden. It should use canonical terms consistently, distinguish doctrine from synthesis, cite sources proportionate to its claims, include objections or cautions, and resolve in Christ.
+
+After review, a document may be:
+
+- preserved only in `raw/`;
+- converted into a public reading copy in `markdown/`;
+- used to improve a root orientation page;
+- mapped into canonical work under `architecture-of-apostasy/`;
+- routed into `gallery/`, `songs.qmd`, or `discussions.qmd`;
+- paired with a companion image near the top of its public Markdown copy when the relationship is clear;
+- sent back for sourcing, claim classification, rival readings, or pastoral review;
+- held in reserve;
+- declined for publication.
+
+Holding a document back is not failure. Sometimes faithful keeping means refusing to turn every source, wound, warning, or image into public material.
+
+## Validation Checks
+
+Mechanical checks serve editorial judgment. They catch drift, missing links, stale references, and publication gaps, but they do not decide theological truth.
+
+Before publication or merge, contributors should run the checks appropriate to the change:
+
+- `quarto render` confirms the site renders.
+- `python3 ai-system/scripts/intake_consistency_check.py` reports public essay citation gaps, canonical-draft Christological resolution gaps, and new raw PDF source-note gaps.
+- `python3 ai-system/scripts/theological_consistency_check.py` runs the broader mechanical consistency check and invokes intake reporting.
+- `python3 ai-system/scripts/validate_public_front_matter.py` checks newly added root public `.qmd` or Markdown pages when front matter is expected.
+- `python3 ai-system/scripts/seo_postprocess.py --check` verifies rendered metadata when SEO metadata has changed.
+
+Warnings should be handled according to their type. Some warnings call for immediate fixes before publication. Others should become follow-up issues when they identify real editorial work that should not be rushed mechanically.
+
+The current validation tooling is implementation support, not theological authority. Human review remains responsible for doctrine, tone, evidence, pastoral risk, and whether a piece should be public at all.
+
 ## Anti-Nehushtan Rule
 
 Tools, symbols, documents, AI systems, and institutions must remain signs and servants. They may help preserve memory, order labor, clarify claims, test consistency, and guide readers, but they must never become sources of ultimate authority.
@@ -64,7 +166,7 @@ The project is stronger when it faces rival readings rather than treating disagr
 
 ## Source Development
 
-The archive preserves PDFs, drafts, prompts, and image notes under `raw/`, but public-facing essays need more visible citations.
+The archive preserves PDFs, drafts, prompts, and image notes under `raw/`, but public-facing essays need visible citations proportionate to their claims.
 
 Priority areas for future annotation are tracked in `raw/source-roadmap.md` and `raw/recommended-improvements.md`.
 
