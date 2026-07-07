@@ -47,8 +47,6 @@ website:
             text: Method
           - href: rival-readings.qmd
             text: Rival Readings
-          - href: document-intake-covenant.qmd
-            text: Document Intake
           - href: faithful-institutions.qmd
             text: Faithful Institutions
           - href: archive.qmd

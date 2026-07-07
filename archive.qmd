@@ -16,8 +16,8 @@ Categories and status labels follow the [Archive Taxonomy](archive-taxonomy.qmd)
 | [The Path of Re-Embodiment](path-of-re-embodiment.qmd) | Core Foundation | Foundation | Orders the archive around return from false embodiment into Christ. |
 | [The Church and False Embodiment](church.qmd) | Major Essay | Public Essay | Frames the church as loved by Christ while still vulnerable to false institutional embodiment. |
 | [Reader's Guide](readers-guide.qmd) | Supporting Essay | Public Essay | Orients different readers toward careful, repentant, non-triumphal engagement. |
-| [Method](method.qmd) | Supporting Essay | Public Essay | Explains the project's claim types, typology, analogies, warnings, and limits. |
-| [Document Intake Covenant](document-intake-covenant.qmd) | Supporting Essay | Public Essay | Describes how raw material becomes public, canonical, or held in reserve. |
+| [Method](method.qmd) | Supporting Essay | Public Essay | Explains the project's claim types, intake method, publication standards, validation checks, warnings, and limits. |
+| [Document Intake Covenant](document-intake-covenant.qmd) | Supporting Essay | Public Essay | Preserves the older intake-covenant link and points readers to Method for the current intake and validation standards. |
 | [Faithful Institutions](faithful-institutions.qmd) | Supporting Essay | Public Essay | Keeps institutional critique ordered toward truthful and restorative forms of common life. |
 | [Reading paths](reading-paths.qmd) | Supporting Essay | Public Essay | Offers routes through the archive by theme and reader need. |
 | [Essays and drafts](essays.qmd) | Supporting Essay | Public Essay | Groups public essays and adds claim-type reading notes for intense works. |
