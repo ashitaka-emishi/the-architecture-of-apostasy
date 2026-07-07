@@ -180,4 +180,12 @@ A split scene contrasting a bright cathedral crowd with a small hidden gathering
 
 A symbolic image of Christ, the cross, the Spirit, broken tablets, chains, collapsing institutions, and gathered believers.
 :::
+
+::: {.g-col-12 .g-col-md-6}
+![The Narrow Path Between the Cliffs](gallery/narrow-path-between-cliffs.jpg)
+
+### The Narrow Path Between the Cliffs
+
+A lone figure walks a narrow illuminated path toward a distant cross, flanked by dark cliff-like forms.
+:::
 :::

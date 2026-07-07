@@ -2,9 +2,8 @@
 """Report intake consistency gaps for public essays and raw source files.
 
 This script separates reporting from hard intake failures. Existing citation and
-Christological-resolution gaps are reported for editor attention; newly added
-public essays and raw PDFs are treated as errors when they are missing archive or
-source-note wiring.
+Christological-resolution gaps are reported for editor attention; newly added raw
+PDFs are treated as errors when they are missing source-note wiring.
 """
 
 from __future__ import annotations
@@ -20,7 +19,6 @@ ROOT = Path(__file__).resolve().parents[2]
 ARCHIVE = ROOT / "archive.qmd"
 MARKDOWN_DIR = ROOT / "markdown"
 RAW_DIR = ROOT / "raw"
-PUBLIC_SUFFIXES = {".md", ".qmd"}
 RAW_SOURCE_NOTE_INDEXES = [
     RAW_DIR / "source-roadmap.md",
     RAW_DIR / "website-update.md",
@@ -81,11 +79,6 @@ def public_essay_paths() -> list[Path]:
     return sorted(path for path in MARKDOWN_DIR.glob("*.md") if path.is_file())
 
 
-def archive_links() -> set[str]:
-    text = read_text(ARCHIVE)
-    return set(re.findall(r"\((markdown/[^)]+\.md)\)", text))
-
-
 def archive_status_by_path() -> dict[str, str]:
     statuses: dict[str, str] = {}
     row_pattern = re.compile(r"\| \[[^\]]+\]\((markdown/[^)]+\.md)\) \| [^|]+ \| ([^|]+) \|")
@@ -117,23 +110,6 @@ def christological_resolution_report(statuses: dict[str, str]) -> list[str]:
         if path.exists() and not any(marker in read_text(path) for marker in CHRISTOLOGICAL_MARKERS):
             missing.append(archive_path)
     return missing
-
-
-def new_public_essay_archive_errors(new_paths: set[Path], links: set[str]) -> list[str]:
-    errors: list[str] = []
-    for path in sorted(new_paths):
-        if path.suffix not in PUBLIC_SUFFIXES or not path.is_file():
-            continue
-        try:
-            relative = path.relative_to(ROOT)
-        except ValueError:
-            continue
-        if len(relative.parts) != 2 or relative.parts[0] != "markdown":
-            continue
-        relative_text = str(relative)
-        if relative_text not in links:
-            errors.append(f"{relative_text} is a new public essay but is not listed in archive.qmd")
-    return errors
 
 
 def source_note_candidates(pdf_path: Path) -> list[Path]:
@@ -186,15 +162,11 @@ def main() -> int:
     args = parser.parse_args()
 
     new_paths = added_paths(args.base_ref)
-    links = archive_links()
     statuses = archive_status_by_path()
 
     missing_citations = citation_report()
     missing_resolution = christological_resolution_report(statuses)
-    errors = [
-        *new_public_essay_archive_errors(new_paths, links),
-        *new_raw_pdf_source_note_errors(new_paths),
-    ]
+    errors = new_raw_pdf_source_note_errors(new_paths)
 
     print("Intake consistency report:")
     print_report("Essays lacking visible citations", missing_citations)

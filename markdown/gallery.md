@@ -197,3 +197,12 @@
 - Description: A luminous Christ stands above a central wooden cross, with a descending dove, gathered believers, broken law-tablets, chains, and collapsing temple forms arranged around the scene.
 - Notes: Source and inspection notes are available in `../raw/images/law-of-liberty-in-love.txt`.
 - Comments: Visual companion for "The Law of Liberty," contrasting external law and institutional captivity with Christ, the Spirit, and the gathered living assembly.
+
+## The Narrow Path Between the Cliffs
+
+![The Narrow Path Between the Cliffs](../gallery/narrow-path-between-cliffs.jpg)
+
+- File: `narrow-path-between-cliffs.jpg`
+- Description: A lone figure walks along a narrow illuminated path toward a distant cross, flanked by dark cliff-like forms with shadowed figures and watchful eyes.
+- Notes: No readable OCR text detected.
+- Comments: Visual companion for "Legalism, License, And The Elite Mediation of Christ," especially its account of the narrow path between legalism and license.

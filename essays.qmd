@@ -55,6 +55,7 @@ These notes help readers approach the archive's more intense essays without trea
 
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 - [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
+- [Legalism, License, And The Elite Mediation of Christ: The Call To Walk The Narrow Path](markdown/legalism-license-and-the-elite-mediation-of-christ.md)
 - [The Law of Liberty: From the Pure Heart to the Living Christ, the Organic Ekklesia, and the Call Out of Institutional Captivity](markdown/the-law-of-liberty-in-love.md)
 - [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
