@@ -172,4 +172,12 @@ An icon-like contrast between a luminous angelic figure and the suffering Christ
 
 A split scene contrasting a bright cathedral crowd with a small hidden gathering outside a weathered house.
 :::
+
+::: {.g-col-12 .g-col-md-6}
+![The Law of Liberty in Love](gallery/law-of-liberty-in-love.jpg)
+
+### The Law of Liberty in Love
+
+A symbolic image of Christ, the cross, the Spirit, broken tablets, chains, collapsing institutions, and gathered believers.
+:::
 :::

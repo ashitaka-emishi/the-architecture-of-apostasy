@@ -16,3 +16,4 @@
 ../../gallery/the-light-breaking-between-the-crowds.jpg	The Light Breaking Between the Crowds
 ../../gallery/angel-of-light-and-suffering-servant.jpg	The Angel of Light and the Suffering Servant
 ../../gallery/whitewashed-cathedral-and-hidden-upper-room.jpg	The Whitewashed Cathedral and the Hidden Upper Room
+../../gallery/law-of-liberty-in-love.jpg	The Law of Liberty in Love

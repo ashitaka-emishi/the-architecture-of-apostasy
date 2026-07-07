@@ -1,0 +1,7 @@
+Source note for `The Law of Liberty In Love.pdf`.
+
+Public reading copy: `../markdown/the-law-of-liberty-in-love.md`.
+
+Companion image: `../gallery/law-of-liberty-in-love.jpg`.
+
+Ingested from `intake/` during the staged intake workflow verification pass.

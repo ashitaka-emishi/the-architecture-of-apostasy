@@ -188,3 +188,12 @@
 - Description: A split composition contrasting a bright white cathedral and public crowd with a small hidden gathering outside a weathered house under darker skies.
 - Notes: Source and inspection notes are available in `../raw/images/whitewashed-cathedral-and-hidden-upper-room.txt`.
 - Comments: Visual companion for "The Whitewashed Cathedral and the Hidden Upper Room," contrasting religious grandeur with scattered hidden faith.
+
+## The Law of Liberty in Love
+
+![The Law of Liberty in Love](../gallery/law-of-liberty-in-love.jpg)
+
+- File: `law-of-liberty-in-love.jpg`
+- Description: A luminous Christ stands above a central wooden cross, with a descending dove, gathered believers, broken law-tablets, chains, and collapsing temple forms arranged around the scene.
+- Notes: Source and inspection notes are available in `../raw/images/law-of-liberty-in-love.txt`.
+- Comments: Visual companion for "The Law of Liberty," contrasting external law and institutional captivity with Christ, the Spirit, and the gathered living assembly.
