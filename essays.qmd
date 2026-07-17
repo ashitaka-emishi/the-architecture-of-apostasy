@@ -50,15 +50,22 @@ These notes help readers approach the archive's more intense essays without trea
 - [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md)
 - [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md)
 - [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md)
+- [Da'at and Ginosko: Experiential Knowledge in Biblical Literature](markdown/daat-and-ginosko.md)
+- [The Ordo Salutis and the Architecture of Cosmic Reconciliation](markdown/the-ordo-salutis-and-the-architecture-of-cosmic-reconciliation.md)
+- [The Metaphysical Warfare of Consciousness: A Philological Restoration of Biblical Soteriology](markdown/the-metaphysical-warfare-of-consciousness.md)
 
 ## Apostasy, Institutions, and Worship
 
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 - [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
+- [The Anatomy of Idolatry: The Static Image vs. The Living Word](markdown/the-anatomy-of-idolatry.md)
+- [The Formation of the Christian Biblical Canon: A Comparative Study](markdown/the-formation-of-the-christian-biblical-canon.md)
+- [The Great Divide: Shadow vs. Substance](markdown/the-great-divide-shadow-vs-substance.md)
 - [Legalism, License, And The Elite Mediation of Christ: The Call To Walk The Narrow Path](markdown/legalism-license-and-the-elite-mediation-of-christ.md)
 - [The Law of Liberty: From the Pure Heart to the Living Christ, the Organic Ekklesia, and the Call Out of Institutional Captivity](markdown/the-law-of-liberty-in-love.md)
 - [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
 - [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
+- [The Cruciform Imperative: Exposing the Consumer Delusion and Recovering Apostolic Intimacy](markdown/the-cruciform-imperative.md)
 - [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 - [The Alchemy of False Prophecy: A Rebuke of Modern Galatian Heresy](markdown/the-alchemy-of-false-prophecy.md)
@@ -68,6 +75,10 @@ These notes help readers approach the archive's more intense essays without trea
 ## Embodied Restoration
 
 - [The Chemical Temple](markdown/the-chemical-temple.md)
+- [The Cruciform Imperative: Exposing the Consumer Delusion and Recovering Apostolic Intimacy](markdown/the-cruciform-imperative.md)
+- [The Cutting of the Flesh and the Heart of Stone: A Comprehensive Theology of Biblical Circumcision](markdown/the-cutting-of-the-flesh-and-the-heart-of-stone.md)
+- [The Metaphysical Warfare of Consciousness: A Philological Restoration of Biblical Soteriology](markdown/the-metaphysical-warfare-of-consciousness.md)
+- [The Ordo Salutis and the Architecture of Cosmic Reconciliation](markdown/the-ordo-salutis-and-the-architecture-of-cosmic-reconciliation.md)
 - [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
 - [Repentance: The Biblical Mandate for Radical Reorientation](markdown/repentance-the-biblical-mandate-for-radical-reorientation.md)
 

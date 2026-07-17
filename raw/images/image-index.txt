@@ -18,3 +18,4 @@
 ../../gallery/whitewashed-cathedral-and-hidden-upper-room.jpg	The Whitewashed Cathedral and the Hidden Upper Room
 ../../gallery/law-of-liberty-in-love.jpg	The Law of Liberty in Love
 ../../gallery/narrow-path-between-cliffs.jpg	The Narrow Path Between the Cliffs
+../../gallery/ordo-salutis-and-cosmic-reconciliation.jpg	The Ordo Salutis and the Architecture of Cosmic Reconciliation

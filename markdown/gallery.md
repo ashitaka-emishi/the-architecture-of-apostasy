@@ -198,6 +198,15 @@
 - Notes: Source and inspection notes are available in `../raw/images/law-of-liberty-in-love.txt`.
 - Comments: Visual companion for "The Law of Liberty," contrasting external law and institutional captivity with Christ, the Spirit, and the gathered living assembly.
 
+## The Ordo Salutis and the Architecture of Cosmic Reconciliation
+
+![The Ordo Salutis and the Architecture of Cosmic Reconciliation](../gallery/ordo-salutis-and-cosmic-reconciliation.jpg)
+
+- File: `ordo-salutis-and-cosmic-reconciliation.jpg`
+- Description: A radiant Christ figure stands above a luminous temple-like threshold amid cosmic clouds, gathered multitudes, flames, water, and a tree of life motif.
+- Notes: Source and inspection notes are available in `../raw/images/ordo-salutis-and-cosmic-reconciliation.txt`.
+- Comments: Visual companion for "The Ordo Salutis and the Architecture of Cosmic Reconciliation," emphasizing Christ's cosmic victory, priestly restoration, and the healing of the nations.
+
 ## The Narrow Path Between the Cliffs
 
 ![The Narrow Path Between the Cliffs](../gallery/narrow-path-between-cliffs.jpg)
