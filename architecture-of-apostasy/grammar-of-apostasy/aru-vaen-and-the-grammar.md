@@ -14,6 +14,9 @@ The Grammar asks, "What false order has taken flesh?"
 
 *Aru va\`en* asks, "Will the keeper answer the cry without looking away?"
 
+The revised ending adds a second corrective question: "Will the keeper remember
+that the Shepherd precedes the Troth?"
+
 Both are needed. Grammar without keeping can harden into mastery. Keeping without grammar can become sentiment without discernment.
 
 ## What Aru va\`en May Do
@@ -24,6 +27,8 @@ Both are needed. Grammar without keeping can harden into mastery. Keeping withou
 - remind canonical work that diagnosis must serve faithful response;
 - form imagination around threshold, burden, wound, fear, and mercy;
 - keep the project attentive to cries that precede analysis;
+- keep Vethra nearly hidden: borne in faithful response, not claimed as rank;
+- remind readers that provision after judgment is promise, not possession;
 - resist treating the archive as a monument to theological control.
 
 ## What Aru va\`en Must Not Become
@@ -46,6 +51,8 @@ Safe references include:
 - "The analysis should answer the cry rather than merely classify the wound."
 - "The tone should remain wounded, dependent, and non-triumphal."
 - "This symbolic echo is suggestive, not a canonical mapping."
+- "The Shepherd is prior to the Troth; the myth's vow-language must remain
+  subordinate to Christ."
 
 Unsafe references include:
 
@@ -70,5 +77,7 @@ Avoid ontological use unless a future amendment explicitly defines a term and pr
 - Does the reference preserve the mystery of the myth?
 - Does it avoid one-to-one allegorical mapping?
 - Does it serve discernment and faithful keeping?
+- Does it keep the Shepherd prior to every vow, sign, office, or collective
+  identity?
 - Does it remain subordinate to Scripture, doctrine, evidence, and the Grammar's review process?
 - Does it keep the archive from becoming merely diagnostic?

@@ -33,6 +33,9 @@ Notice where form serves mercy, and where form begins to exist for itself.
 
 Notice where judgment exposes a false name so that truth can be received.
 
+Notice how the final meal is not the Feast itself, but bread and water received
+in promise: provision shared after judgment, mourning, and return.
+
 ## After Reading
 
 Ask what cry you have trained yourself not to hear.
@@ -41,6 +44,9 @@ Ask what practice would make hearing visible in your body, speech, mercy,
 repentance, and endurance.
 
 Ask what must be judged by Christ before it is displayed.
+
+Ask where you have mistaken the Troth for the beginning, when the story leaves
+the Shepherd before the vow, before grief, and before all keeping.
 
 The story should leave the reader more ready to keep the Troth, not more ready
 to master the symbols.

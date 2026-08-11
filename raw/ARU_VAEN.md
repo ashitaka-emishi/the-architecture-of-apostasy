@@ -1,10 +1,8 @@
-# Aru va\`en: A Keeping of the Troth
+# Aru va'en
 
-Source: `raw/ARU_VAEN.md`
+## A Keeping of the Troth
 
-For a non-revealing orientation, read the [Aru va\`en reader's guide](aru-vaen-readers-guide.md).
-
-Before throne and pasture, before fang and fleece, there was the Troth.
+Before throne and pasture, before fang and fleece, there was the Troth.  
 Before the Troth had a name, it had an ache.
 
 ## The First Keeping: Night
@@ -1348,58 +1346,3 @@ Before the vow was the cry.
 Before grief was love.
 
 We do not keep alone.
-
-## Epilogue: Vethra
-
-Do not ask first whether you bear the sign.
-
-Ask what cry you have trained yourself not to hear.
-
-Vethra is not given to be displayed. It is judged by the Shepherd in the place
-where hearing becomes flesh: in speech, mercy, repentance, endurance, and the
-refusal to let another's cry become noise.
-
-If it is borne, let it remain nearly hidden: bread passing from one creature to
-another, weight shared before it becomes collapse, mercy made ordinary enough to
-be carried.
-
-Let the word remain strange until the Path has passed through you.
-
-Then, if any brightness is given, let it answer only to him.
-
-Before the Troth, there was the Shepherd.
-
-## Pronunciation Guide
-
-Aru va\`en AH-roo VAH-en
-A keeping of the Troth; the response of the faithful at the calling.
-
-Vaelun VAY-loon
-Threshold-keepers; those set at the border between worlds, wounds, and obligations.
-
-Vaerun VAY-roon
-The crossing office; the one bound to pass the veil when the cry enters the Troth.
-
-Hrovan HROH-vahn
-The one who bears the hall; burden-bearing authority charged to answer without presuming its answer faithful.
-
-Hrovane hroh-VAH-neh
-The ancestral line of Hrovans; those who held the hall before.
-
-Gravane grah-VAH-neh
-The order of rememberers; those who carry the warnings of deformation and discern Vethra without claiming its measure.
-
-Vethra VETH-rah
-A Troth-sign, singular or collective; the Path remembered in flesh where the Troth has passed through.
-
-Truvane troo-VAH-neh
-The gathered faithful; those who have not been released from the Troth, including those who serve without crossing.
-
-Aruvan ah-ROO-vahn
-The long wolf made by keeping; the body of the faithful across ages, vast but not ultimate.
-
-Vey VAY
-An old word: small, then ember, then the last light under ash.
-
-Ur va. Thar un. Veth ara. OOR VAH. THAHR OON. VETH AH-rah.
-The ancient tongue before language; literal meaning hidden from speech, understood by trembling.

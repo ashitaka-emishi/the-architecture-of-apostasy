@@ -105,6 +105,10 @@ Vethra is judged by the Shepherd. It is known where hearing becomes flesh: in
 speech, mercy, repentance, endurance, and the refusal to let another's cry become
 noise.
 
+In the revised ending, Vethra remains nearly hidden as bread passes from one
+creature to another. It is borne and left unclaimed, visible enough to summon
+faithfulness but not available as possession.
+
 ## The Black Sun And The Four Curses
 
 The Black Sun is false unveiling: exposure without mercy, visibility without
@@ -130,13 +134,26 @@ away, and where the faithful wake into a truer body.
 The ending is not death as escape. It is waking into Life under the Shepherd's
 judgment and mercy.
 
+## The Morning Meal
+
+The bread and water after the ordeal are not the Feast in fullness. They are
+provision in promise: common sustenance received from the Shepherd and shared
+among wounded wolves, returning sheep, and those who could not cross but still
+served.
+
+No seat, vessel, or portion is set for the Troth because the Troth is not the
+center. The Shepherd precedes the vow, receives the provision, and makes it
+common.
+
 ## The Shape Of The Myth
 
 The mythology moves inward:
 
 The faithful form a circle around the cry. The Gravane remember the fear of the
 Aruvan. The Aruvan gathers the keeping of ages. The Aruvan bows before the
-Shepherd. The Shepherd remains the center.
+Shepherd. The Shepherd remains the center. The final meal turns that center
+outward again as shared provision, so keeping ends not in display, but in
+ordinary dependence.
 
 This is why the story should leave the reader ready to keep, not ready to
 master. The proper response is not to claim the symbols, but to ask where the cry
