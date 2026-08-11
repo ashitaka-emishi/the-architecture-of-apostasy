@@ -108,6 +108,10 @@
       "title": "Chapter 3: The Broken Quarantine",
       "description": "A canonical draft on corruption, boundary failure, and the broken quarantine within the wider cosmological project."
     },
+    "markdown/daat-and-ginosko.html": {
+      "title": "Da'at and Ginosko",
+      "description": "A study of experiential and relational knowledge in Hebrew and Greek biblical vocabulary."
+    },
     "markdown/gallery.html": {
       "title": "Gallery Catalog",
       "description": "A catalog of public visual-theology images, source notes, descriptions, and companion essay relationships.",
@@ -117,6 +121,11 @@
       "title": "Introduction Draft",
       "description": "A draft introduction to the broader cosmological and theological architecture of apostasy, false embodiment, and return."
     },
+    "markdown/legalism-license-and-the-elite-mediation-of-christ.html": {
+      "title": "Legalism, License, And The Elite Mediation of Christ",
+      "description": "An essay contrasting legalism and license as twin forms of mediated religious authority displaced by direct access to Christ.",
+      "image": "gallery/narrow-path-between-cliffs.jpg"
+    },
     "markdown/mormonism-and-christianity.html": {
       "title": "Mormonism and Christianity",
       "description": "A theological boundary essay distinguishing Christian doctrine, Mormon claims, history, and pastoral posture."
@@ -124,11 +133,6 @@
     "markdown/pagan-origins-of-christmas.html": {
       "title": "Pagan Origins of Christmas",
       "description": "An essay on contested Christmas-origin claims, sacred time, Christian liberty, and theological discernment."
-    },
-    "markdown/legalism-license-and-the-elite-mediation-of-christ.html": {
-      "title": "Legalism, License, And The Elite Mediation of Christ",
-      "description": "An essay contrasting legalism and license as twin forms of mediated religious authority displaced by direct access to Christ.",
-      "image": "gallery/narrow-path-between-cliffs.jpg"
     },
     "markdown/protestantism-and-christmas.html": {
       "title": "Protestantism and Christmas",
@@ -143,6 +147,10 @@
       "title": "The Alchemy of False Prophecy",
       "description": "A rebuke of modern Galatian heresy, false prophecy, spiritual manipulation, and teaching tested by Christ and the gospel."
     },
+    "markdown/the-anatomy-of-idolatry.html": {
+      "title": "The Anatomy of Idolatry",
+      "description": "An essay on idolatry as misplaced trust, false mediation, and the reduction of the living God to controllable form."
+    },
     "markdown/the-angel-of-light-and-the-suffering-servant.html": {
       "title": "The Angel of Light and the Suffering Servant",
       "description": "A discernment essay contrasting deceptive religious splendor with cruciform glory revealed through weakness and affliction.",
@@ -156,20 +164,45 @@
       "title": "The Chemical Temple",
       "description": "A theological account of addiction, embodiment, suffering, and false temple formation through chemical desire."
     },
+    "markdown/the-cruciform-imperative.html": {
+      "title": "The Cruciform Imperative",
+      "description": "A call away from consumer religion toward cruciform participation, apostolic intimacy, and conformity to Christ."
+    },
+    "markdown/the-cutting-of-the-flesh-and-the-heart-of-stone.html": {
+      "title": "The Cutting of the Flesh and the Heart of Stone",
+      "description": "A theological study of biblical circumcision as covenant sign, judgment on flesh, and inward transformation."
+    },
     "markdown/the-eternal-reality-of-ceaseless-prayer.html": {
       "title": "The Shape of the Unbroken Soul",
       "description": "A devotional essay on ceaseless prayer, endurance, shifting contexts, and the soul's continuous orientation toward God.",
       "image": "gallery/ceaseless-prayer.jpg"
+    },
+    "markdown/the-formation-of-the-christian-biblical-canon.html": {
+      "title": "The Formation of the Christian Biblical Canon",
+      "description": "A comparative study of Orthodox, Catholic, and Protestant accounts of biblical canon formation."
+    },
+    "markdown/the-great-divide-shadow-vs-substance.html": {
+      "title": "The Great Divide: Shadow vs. Substance",
+      "description": "An essay contrasting old-covenant shadow, paganized religious form, and Christological substance."
     },
     "markdown/the-law-of-liberty-in-love.html": {
       "title": "The Law of Liberty in Love",
       "description": "An essay tracing New Testament liberty from purity of heart through Christ, the Spirit, and the organic ekklesia.",
       "image": "gallery/law-of-liberty-in-love.jpg"
     },
+    "markdown/the-metaphysical-warfare-of-consciousness.html": {
+      "title": "The Metaphysical Warfare of Consciousness",
+      "description": "A speculative philological account of spiritual warfare, consciousness, and biblical soteriology."
+    },
     "markdown/the-monumental-cross-and-the-crucified-cross.html": {
       "title": "The Monumental Cross and the Crucified Cross",
       "description": "An essay contrasting symbolic monumentality with the exposed, cruciform meaning of Christian witness.",
       "image": "gallery/monumental-cross.webp"
+    },
+    "markdown/the-ordo-salutis-and-the-architecture-of-cosmic-reconciliation.html": {
+      "title": "The Ordo Salutis and the Architecture of Cosmic Reconciliation",
+      "description": "An essay on salvation, allegiance, and cosmic reconciliation through the order of salvation.",
+      "image": "gallery/ordo-salutis-and-cosmic-reconciliation.jpg"
     },
     "markdown/the-pastor-inside-the-apostate-architecture.html": {
       "title": "The Pastor Inside the Apostate Architecture",

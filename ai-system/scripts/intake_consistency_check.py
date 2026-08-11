@@ -21,7 +21,6 @@ MARKDOWN_DIR = ROOT / "markdown"
 RAW_DIR = ROOT / "raw"
 RAW_SOURCE_NOTE_INDEXES = [
     RAW_DIR / "source-roadmap.md",
-    RAW_DIR / "website-update.md",
 ]
 
 CITATION_PATTERNS = [
@@ -108,6 +107,15 @@ def citation_report() -> list[str]:
     return missing
 
 
+def archive_completeness_report(statuses: dict[str, str]) -> list[str]:
+    archived = set(statuses)
+    return [
+        rel(path)
+        for path in public_essay_paths()
+        if rel(path) not in archived
+    ]
+
+
 def christological_resolution_report(statuses: dict[str, str]) -> list[str]:
     missing: list[str] = []
     for archive_path, status in statuses.items():
@@ -172,11 +180,14 @@ def main() -> int:
     statuses = archive_status_by_path()
 
     missing_citations = citation_report()
+    missing_archive_entries = archive_completeness_report(statuses)
     missing_resolution = christological_resolution_report(statuses)
     errors = new_raw_pdf_source_note_errors(new_paths)
+    errors.extend(f"{path} is missing from archive.qmd" for path in missing_archive_entries)
 
     print("Intake consistency report:")
     print_report("Essays lacking visible citations", missing_citations)
+    print_report("Markdown reading copies missing archive entries", missing_archive_entries)
     print_report("Canonical-marked essays missing Christological resolution markers", missing_resolution)
     print_report("New intake errors", errors)
 

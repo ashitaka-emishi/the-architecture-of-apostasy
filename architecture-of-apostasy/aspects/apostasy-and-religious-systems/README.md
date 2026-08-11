@@ -16,5 +16,4 @@ Initial questions:
 
 ## Public Reading Copies
 
-- [State-Dressed Religion and the Fallen Church](../../../markdown/state-dressed-religion.md)
 - [The Pastor Inside the Apostate Architecture](../../../markdown/the-pastor-inside-the-apostate-architecture.md)

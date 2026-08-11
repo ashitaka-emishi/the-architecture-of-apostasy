@@ -54,7 +54,10 @@ Discussions should be distinguished from polished essays and canonical grammar.
 
 Original PDFs, drafts, OCR, prompts, notes, or other source material preserved under `raw/`.
 
-Raw source material is preserved faithfully, but preservation is not publication and publication is not canonization.
+Raw source material is preserved faithfully. Some raw source files may be exposed
+as downloadable evidence for public reading copies, but this is source
+transparency rather than publication as a public essay, and publication is not
+canonization.
 
 ## Status Labels
 
