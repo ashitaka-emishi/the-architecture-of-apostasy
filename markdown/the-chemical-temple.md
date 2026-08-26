@@ -27,7 +27,7 @@ living sacrifice we are called to present to God.
 I. The Created Order: Hormones, Homeostasis, and the Sound Mind
 To understand the gravity of substance-induced alteration, we must first look at the precision
 with which God engineered human biology. The brain operates on a delicate baseline, utilizing
-a complex matrix of neurotransmitters—such as dopamine for reward, serotonin for mood,
+a complex matrix of [neurotransmitters](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drugs-brain)—such as dopamine for reward, serotonin for mood,
 GABA for tranquility, and norepinephrine for alertness—to navigate reality. This unique,
 unadulterated chemical blueprint shapes our natural personality, our unseared conscience,
 and our capacity for authentic righteous choices.
@@ -108,19 +108,19 @@ yielding a temporary, counterfeit persona.
                                                     Reality
 
 
- Alcohol /     Floods GABA / Hijacks       False Peace & Escape            Philippians 4:6-7
- Cannabis      Endocannabinoid             (Annihilation of anxiety,       (Peace that passes
+ Alcohol /     Floods [GABA](https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/neuroscience-brain-addiction-and-recovery) / Hijacks       False Peace & Escape            Philippians 4:6-7
+ Cannabis      [Endocannabinoid](https://nida.nih.gov/research-topics/parents-educators/mind-matter-series/cannabis-marijuana)             (Annihilation of anxiety,       (Peace that passes
                receptors                   unearned joy)                   understanding via
                                                                            prayer)
 
 
- Caffeine /    Blocks Adenosine /          False Zeal &                    Isaiah 40:31 (Renewed
- Stimulants    Forces Dopamine &           Omnipotence (Forced             strength by waiting on
-               Adrenaline                  productivity, bypass of rest)   the Lord)
+ Caffeine /    Blocks Adenosine,           False Zeal &                    Isaiah 40:31 (Renewed
+ Stimulants    Indirectly Increasing       Omnipotence (Forced             strength by waiting on
+               Alertness Signals           productivity, bypass of rest)   the Lord)
 
 
  Nicotine      Triggers rapid, transient   False Comfort & Stability       2 Corinthians 1:3-4
-               Dopamine &                  (Instantaneous relief from      (The God of all comfort in
+               [Dopamine](https://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/how-does-tobacco-deliver-its-effects) &                  (Instantaneous relief from      (The God of all comfort in
                Acetylcholine               emotional friction)             affliction)
 
 
@@ -129,7 +129,7 @@ The Counterfeit Peace of Depressants
 
 Alcohol and cannabis directly assault the virtue of self-control. Solomon warns that "Wine is a
 mocker, strong drink a brawler, and whoever is led astray by it is not wise" (Proverbs 20:1).
-Cannabis floods the brain with THC, overwhelming the endocannabinoid system to induce a
+Cannabis floods the brain with THC, overwhelming the [endocannabinoid system](https://nida.nih.gov/research-topics/parents-educators/mind-matter-series/cannabis-marijuana) to induce a
 state of emotional numbness and unearned euphoria.
 
 This is a direct counterfeit of the peace promised by Christ—a peace that "surpasses all
@@ -141,7 +141,7 @@ spiritual endurance with a chemically induced apathy.
 The Counterfeit Zeal of Stimulants
 
 In a parallel manner, routine stimulants like caffeine and nicotine establish a subtle, daily
-reliance on chemical strength rather than divine provision. By blocking adenosine receptors,
+reliance on chemical strength rather than divine provision. By blocking [adenosine receptors](https://www.ncbi.nlm.nih.gov/books/NBK519490/),
 caffeine forces the brain to ignore its natural, God-designed signals for rest, demanding
 artificial output.
 
@@ -168,7 +168,7 @@ Bondage/Craving
 
 
 When a person consistently relies on an external substance to generate dopamine or suppress
-stress hormones like cortisol, the brain undergoes a process of down-regulation. Recognizing
+stress hormones like cortisol, the brain undergoes a process of [down-regulation](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drugs-brain). Recognizing
 the artificial surplus, the brain down-regulates its own natural production of these vital
 neurotransmitters. Consequently, the user’s natural baseline drops precipitously. They no
 longer use the substance to achieve a "high," but merely to stave off a chemical depression
@@ -198,10 +198,12 @@ walked in isolation; it requires the active, hands-on intervention of the body o
 Assembly.
 
 When an individual commits to breaking an addiction loop, they enter a brutal homeostatic
-valley. As the substance is cleared, the brain faces a massive deficit of dopamine, serotonin, or
-GABA. This biological reset produces intense anxiety, profound lethargy, irritability, and
-physical pain. God's Assembly must act as a biological and spiritual sanctuary to safely
-navigate this transition.
+valley. As the substance is cleared, the brain faces a deficit of dopamine, serotonin, or GABA
+relative to what it had adapted to. The severity depends heavily on the substance and the
+depth of dependence: caffeine or nicotine withdrawal is real but usually mild—irritability,
+fatigue, difficulty concentrating—while withdrawal from alcohol or other substances after
+heavy, prolonged use can be far more severe. God's Assembly must act as a biological and
+spiritual sanctuary to safely navigate this transition.
 
                   [ The Restorative Assembly ]
                                 │
@@ -233,12 +235,12 @@ for the nervous system to naturally down-regulate its stress responses.
       may be healed." — James 5:16
 
 Addiction thrives in darkness and isolation. The intense shame of a craving or a relapse spikes
-cortisol levels, which biologically triggers the brain to seek immediate chemical relief.
+[cortisol levels](https://link.springer.com/article/10.1007/s11920-007-0050-6), which biologically triggers the brain to seek immediate chemical relief.
 
 The Congregation defeats this loop by cultivating an environment where confession does not
 invite ostracization or legalistic condemnation, but immediate, intercessory prayer. When a
 struggling believer can openly confess their weakness without fear, the vicious neurochemical
-cycle of shame and self-medication is broken by the soothing, stabilizing impact of
+cycle of shame and self-medication is broken by the [soothing, stabilizing impact](https://pmc.ncbi.nlm.nih.gov/articles/PMC9399871/) of
 unconditional love and communal acceptance.
 
 3. True Physical Stewardship as Spiritual Worship
