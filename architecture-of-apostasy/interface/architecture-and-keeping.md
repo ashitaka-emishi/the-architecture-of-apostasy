@@ -37,4 +37,4 @@ The Troth must not become a second Logos, deity, or autonomous principle alongsi
 
 Import everything internally. Publish selectively.
 
-Material under `keeping-between/` is internal canonical workspace material. It does not appear on the Quarto site unless a root `.qmd` page or public `markdown/` copy intentionally links or renders it.
+Material under `the-keeping-between/` is internal canonical workspace material. It does not appear on the Quarto site unless a root `.qmd` page or public `markdown/` copy intentionally links or renders it.

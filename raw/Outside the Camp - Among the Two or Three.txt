@@ -1,0 +1,7 @@
+Source note for `Outside the Camp - Among the Two or Three.pdf`.
+
+Public reading copy: `../markdown/outside-the-camp-among-the-two-or-three.md`.
+
+Companion image: `../gallery/outside-the-camp.jpg`.
+
+Ingested from `intake/` during the staged intake workflow.

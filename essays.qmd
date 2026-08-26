@@ -6,15 +6,15 @@ The categories below are provisional. Many essays belong in more than one catego
 
 ## Reading Notes And Claim Types
 
-These notes help readers approach the archive's more intense essays without treating prophetic force as the same thing as settled proof. Claim labels are approximate guides, not a substitute for reading the argument carefully.
+These notes help readers approach the library's more intense essays without treating prophetic force as the same thing as settled proof. Claim labels are approximate guides, not a substitute for reading the argument carefully.
 
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
   Claim types: biblical, doctrinal, interpretive, synthetic, pastoral.
   How to read this: begin here for the diagnostic pattern, but test its typological claims through [Method](method.qmd) rather than consuming the essay as a final map of every institution.
 
-- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
-  Claim types: pastoral, doctrinal, interpretive.
-  How to read this: read for repentance and discernment inside compromised institutions, not as permission for contempt toward pastors or churches.
+- [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
+  Claim types: doctrinal, pastoral, institutional, mythopoetic.
+  How to read this: read as the discipline of the keeper, refusing to let courage, suffering, protection, or office become a claim of moral possession.
 
 - [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
   Claim types: historical, interpretive, synthetic.
@@ -64,9 +64,12 @@ These notes help readers approach the archive's more intense essays without trea
 - [Legalism, License, And The Elite Mediation of Christ: The Call To Walk The Narrow Path](markdown/legalism-license-and-the-elite-mediation-of-christ.md)
 - [The Law of Liberty: From the Pure Heart to the Living Christ, the Organic Ekklesia, and the Call Out of Institutional Captivity](markdown/the-law-of-liberty-in-love.md)
 - [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
-- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
+- [Outside the Camp, Among the Two or Three: The Organic Ekklesia, Decentralized Authority, and Prophetic Destiny of the Scattered Remnant](markdown/outside-the-camp-among-the-two-or-three.md)
 - [The Cruciform Imperative: Exposing the Consumer Delusion and Recovering Apostolic Intimacy](markdown/the-cruciform-imperative.md)
+- [The Scattered Flock and the Hidden Remnant: Abiding in the True Vine Outside the Camp](markdown/the-scattered-flock-and-the-hidden-remnant.md)
+- [The Sin Leading to Death: Apostasy, the Blasphemy of the Holy Spirit, and the Final Hardening of the Human Will](markdown/the-sin-leading-to-death.md)
 - [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
+- [When Rule Becomes Devouring: Entrusted Authority and the Morphology of Rebellious Rule](markdown/when-rule-becomes-devouring.md)
 - [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 - [The Alchemy of False Prophecy: A Rebuke of Modern Galatian Heresy](markdown/the-alchemy-of-false-prophecy.md)
 - [The Angel of Light and the Suffering Servant](markdown/the-angel-of-light-and-the-suffering-servant.md)
@@ -92,9 +95,12 @@ These notes help readers approach the archive's more intense essays without trea
 ## Political Theology
 
 - [The Monumental Cross and the Crucified Cross](markdown/the-monumental-cross-and-the-crucified-cross.md)
+- [When Rule Becomes Devouring: Entrusted Authority and the Morphology of Rebellious Rule](markdown/when-rule-becomes-devouring.md)
 
 ## Literary and Mythopoetic Theology
 
 - [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+- [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
+- [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
 - [Aru va\`en Reader's Guide](markdown/aru-vaen-readers-guide.md)
 - [Aru va\`en: Symbolic Mythology of the Keeping](markdown/aru-vaen-symbolic-mythology.md)

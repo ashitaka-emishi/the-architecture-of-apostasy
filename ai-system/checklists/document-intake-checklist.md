@@ -18,8 +18,7 @@ The goal is not to publish more material. The goal is to preserve source materia
   - [ ] Canonical chapter
   - [ ] Raw archive item
   - [ ] Intake batch
-- [ ] Identify the proposed archive category from `archive-taxonomy.qmd`.
-- [ ] Identify the proposed status labels from `archive-taxonomy.qmd`.
+- [ ] Identify the proposed archive category and status labels from the current archive and method conventions.
 - [ ] Identify the intended repository location:
   - [ ] `intake/` staging only
   - [ ] `raw/`

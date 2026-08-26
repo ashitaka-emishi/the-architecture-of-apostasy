@@ -1,0 +1,7 @@
+Source note for `The Scattered Flock and the Hidden Remnant.pdf`.
+
+Public reading copy: `../markdown/the-scattered-flock-and-the-hidden-remnant.md`.
+
+Companion image: `../gallery/the-scattered-flock.jpg`.
+
+Ingested from `intake/` during the staged intake workflow.

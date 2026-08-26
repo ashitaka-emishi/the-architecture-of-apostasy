@@ -13,7 +13,7 @@ mastery, but toward faithful embodiment before the Shepherd.
 Do not use the mythology as a codebook.
 
 The symbols are not private doctrine, and they are not a second theology beside
-Christ. They are imaginative forms ordered by [The Path](../path-of-re-embodiment.qmd):
+Christ. They are imaginative forms ordered by [The Path of Re-Embodiment](../path.qmd):
 falsehood takes flesh, suffering exposes what has been preserved, and faithful
 response must become embodied before Christ.
 

@@ -13,6 +13,30 @@ The image collection contains symbolic theology, visual metaphors, and diagramma
 A visual path diagram tracing false logos, false desire, bodily practice, deformation, institutional embodiment, sacrifice, suffering, repentance, death to the false self, and re-embodiment in Christ.
 :::
 
+::: {.g-col-12}
+![The Path, The Keeping, and The Measure](gallery/pillars.png){.path-image .no-lightbox}
+
+### The Path, The Keeping, and The Measure
+
+A three-pillar map showing the circular relationship between diagnosis, fidelity, and discernment under Christ.
+:::
+
+::: {.g-col-12}
+![The Keeping](gallery/the-keeping.png){.path-image .no-lightbox}
+
+### The Keeping
+
+A six-stage poster tracing how the Troth takes flesh in a faithful life: received life, the Troth, faithful attention, embodied loyalty, costly endurance, and communal witness.
+:::
+
+::: {.g-col-12}
+![The Measure](gallery/the-measure.png){.path-image .no-lightbox}
+
+### The Measure
+
+A six-stage poster for discerning what a life or institution serves: ruling logos, trained desire, embodied practice, asked sacrifice, revealed fruit, and Christic alignment.
+:::
+
 ::: {.g-col-12 .g-col-md-6}
 ![The Architecture of Apostasy Brand Image](gallery/aoa-logo-home.webp)
 
@@ -195,5 +219,29 @@ A radiant Christ figure stands above a luminous threshold with gathered multitud
 ### The Narrow Path Between the Cliffs
 
 A lone figure walks a narrow illuminated path toward a distant cross, flanked by dark cliff-like forms.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Outside the Camp](gallery/outside-the-camp.jpg)
+
+### Outside the Camp
+
+A solitary figure and scattered sheep stand outside a gated church structure, looking toward a luminous distance beyond the camp.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![The Scattered Flock](gallery/the-scattered-flock.jpg)
+
+### The Scattered Flock
+
+A small group prays over Scripture on a hillside outside a large temple-like building, with light breaking beyond the city.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![The Sin Leading to Death](gallery/the-sin-leading-to-death.jpg)
+
+### The Sin Leading to Death
+
+A central cross stands between radiant Christ and Spirit imagery, a gathered crowd, and shattered religious structures under judgment.
 :::
 :::
