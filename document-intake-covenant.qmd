@@ -1,9 +1,0 @@
----
-title: "Document Intake Covenant"
----
-
-This page is retained as a stable reference point for older links. The public method for document intake, publication standards, and validation checks now lives in [Method](method.qmd).
-
-New material should still be handled under the same covenant: raw material is preserved carefully, publication is not canonization, and every document should serve faithful discernment rather than mere accumulation.
-
-Read [Method](method.qmd) for the current intake flow, intake questions, publication standards, validation commands, and review posture.

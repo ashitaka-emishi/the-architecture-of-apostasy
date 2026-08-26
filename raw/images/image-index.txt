@@ -1,4 +1,7 @@
 ../../gallery/starry-road-to-the-church.jpg	Starry Road to the Church
+../../gallery/pillars.png	The Path, The Keeping, and The Measure
+../../gallery/the-keeping.png	The Keeping
+../../gallery/the-measure.png	The Measure
 ../../gallery/aoa-logo-home.jpg	The Architecture of Apostasy Brand Image
 ../../gallery/aoa-logo-emblem.jpg	The Architecture of Apostasy Emblem
 ../../gallery/trinitarian-structural-model-of-creation-spirit-and-power.jpg	The Trinitarian Structural Model of Creation, Spirit, and Power
@@ -19,3 +22,6 @@
 ../../gallery/law-of-liberty-in-love.jpg	The Law of Liberty in Love
 ../../gallery/narrow-path-between-cliffs.jpg	The Narrow Path Between the Cliffs
 ../../gallery/ordo-salutis-and-cosmic-reconciliation.jpg	The Ordo Salutis and the Architecture of Cosmic Reconciliation
+../../gallery/outside-the-camp.jpg	Outside the Camp
+../../gallery/the-scattered-flock.jpg	The Scattered Flock
+../../gallery/the-sin-leading-to-death.jpg	The Sin Leading to Death

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "workstreams": [
+    {
+      "id": "WS-ARU",
+      "name": "Aru Va'en revision",
+      "status": "complete",
+      "next": "The five-Keeping myth is accepted under D-090. Treat future changes as a new reviewed revision cycle; downstream letters, doctrine, liturgy, and provisional Keeping Between work remain separate workstreams."
+    },
+    {
+      "id": "WS-UV",
+      "name": "Doctrine of Unclaimed Virtue",
+      "status": "active",
+      "next": "Stress-test against Scripture, virtue ethics, self-righteousness, moral epistemology, and pastoral misuse."
+    },
+    {
+      "id": "WS-AUTH",
+      "name": "Authority under the Troth",
+      "status": "active",
+      "next": "Develop biblical and ecclesiological model of entrusted fallible authority."
+    },
+    {
+      "id": "WS-LIT",
+      "name": "Liturgy and greetings",
+      "status": "active",
+      "next": "Normalize current apostolic greeting through full liturgy and define rubrics."
+    },
+    {
+      "id": "WS-BOOK",
+      "name": "Book of Wolves",
+      "status": "design",
+      "next": "Develop the Book of Wolves as a prologue by Little Vey, eleven letters from Andren, and a final corrective letter from Little Vey to Andren."
+    },
+    {
+      "id": "WS-BI",
+      "name": "Biblical intelligence",
+      "status": "active",
+      "next": "Build full John 10 and Philippians 2 dossiers with rival readings and claim-level mapping."
+    },
+    {
+      "id": "WS-VIS",
+      "name": "Visual language",
+      "status": "active",
+      "next": "Preserve poster series; regenerate repentance poster if needed and create asset register metadata."
+    },
+    {
+      "id": "WS-INST",
+      "name": "The Keeping Between",
+      "status": "provisional",
+      "next": "Explore The Keeping Between as an emerging vocation and possible provisional order without presuming that an order will be formed."
+    }
+  ]
+}

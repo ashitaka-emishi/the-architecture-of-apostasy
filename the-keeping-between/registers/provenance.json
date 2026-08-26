@@ -1,0 +1,56 @@
+{
+  "project": "The Keeping Between Workbench Scaffold",
+  "created": "2026-08-08",
+  "assumption": "BI = Biblical Intelligence / biblical research workbench context; folder remains usable if BI is named differently.",
+  "source_files": [
+    {
+      "path": "source/aru-vaen/Aru vaen-A Keeping of the Troth.pdf",
+      "origin": "ChatGPT Library recovered source"
+    },
+    {
+      "path": "source/aru-vaen/the_troth_v3_draft.md",
+      "origin": "ChatGPT Library recovered working draft"
+    },
+    {
+      "path": "source/liturgy/The Liturgy of the Troth.md",
+      "origin": "ChatGPT Library recovered source"
+    },
+    {
+      "path": "source/doctrine/The Doctrine of Unclaimed Virtue.md",
+      "origin": "Root-level markdown drop ingested as recovered source on 2026-08-09"
+    },
+    {
+      "path": "source/liturgy/The Greeting of the Troth.md",
+      "origin": "Root-level markdown drop ingested as recovered source on 2026-08-09"
+    },
+    {
+      "path": "source/sermons/The Troth Remains - John 10.md",
+      "origin": "ChatGPT Library recovered source"
+    },
+    {
+      "path": "source/institutional/Constitution of the Order of the Troth.md",
+      "origin": "Intake-folder markdown drop ingested as frozen source on 2026-08-09"
+    },
+    {
+      "path": "source/institutional/The Rule of the Troth.md",
+      "origin": "Intake-folder markdown drop ingested as frozen source on 2026-08-09"
+    },
+    {
+      "path": "source/institutional/The Short Rule of the Troth.md",
+      "origin": "Intake-folder markdown drop ingested as frozen source on 2026-08-09"
+    },
+    {
+      "path": "source/institutional/The Mark of the Troth.md",
+      "origin": "Intake-folder markdown drop ingested as frozen source on 2026-08-09"
+    },
+    {
+      "path": "source/institutional/mark.png",
+      "origin": "Intake-folder PNG drop ingested as frozen source on 2026-08-09"
+    },
+    {
+      "path": "source/book-of-the-troth/The Letter of Little Vey to the Vaerun.md",
+      "origin": "Intake-folder markdown drop ingested as frozen source on 2026-08-09"
+    }
+  ],
+  "notes": "Recent conversation decisions are recorded separately and are not silently merged into frozen source artifacts."
+}

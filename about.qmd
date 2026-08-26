@@ -10,11 +10,31 @@ Redemption is therefore not merely intellectual correction. Redemption is the pa
 
 ## What This Project Is And Is Not
 
-This project is a Christian theological archive, a diagnostic map, and a path of repentance ordered toward Christ. It gathers essays, images, source material, reading paths, and working tools so that claims can be tested, refined, corrected, and brought back to the living God.
+This project is a Christian witness, a diagnostic map, and a path of repentance ordered toward Christ. Its public library gathers essays, images, source material, reading paths, and working tools so that claims can be tested, refined, corrected, and brought back to the living God.
 
 It is not a neutral academic platform, a private canon, a substitute for Scripture or the Church, or a machine for producing settled theological verdicts. Its automated checks and AI-facing tools are servants of editorial judgment, not sources of authority.
 
 The public method for claim types, intake, publication standards, and validation checks is gathered in [Method](method.qmd).
+
+## Christian Landscape
+
+The Architecture of Apostasy is not a denomination, a new church body, a confessional tradition, a sectarian replacement for the Church, or a new source of authority.
+
+It is concerned with a different-order question than most formal theological work. It does not begin by asking which tradition has the most complete doctrinal system. It asks how persons, churches, institutions, symbols, and practices become embodied under another lord, and how they are called back into Christ.
+
+That question cuts across denominational boundaries. Catholic, Orthodox, Protestant, Anabaptist, Pentecostal, charismatic, and non-denominational traditions can all contain faithful witness, and all can also deform gifts into systems of false embodiment.
+
+The project therefore does not ask readers to join a new tradition. It asks readers to test their own tradition, body, practice, and allegiance before Christ.
+
+This also means the project is not anti-institutional. Institutions can corrupt holy gifts, but institutions can also preserve, distribute, and protect them. The question is whether a form remains repentant, accountable to Christ, and attentive to the vulnerable, or whether it begins to preserve itself as if it were the living God.
+
+## Who This Is For
+
+The Architecture of Apostasy is for readers who sense that Christian truth must be examined not only as doctrine confessed, but as life embodied. It is for pastors, lay readers, artists, critics, wounded readers, and traditioned Christians asking what their habits, institutions, symbols, technologies, loyalties, and sacrifices are becoming in the flesh.
+
+The myths gathered under The Keeping of the Troth are for readers who need faithful imagination trained beneath Christ. They are not puzzles to decode or private doctrines to master. They are for those learning faithful keeping: to hear the cry, keep mercy bodily, resist false possession, and remain under the Shepherd when strength, belonging, injury, and self-certainty fail.
+
+They also speak to keepers: people and communities entrusted with real responsibility, authority, skill, memory, protection, or dangerous capacity. The project does not flatter such capacity. It asks how strength remains strength without becoming sovereignty, how guardianship remains service without becoming possession, and how every keeper remembers: I am not the Shepherd.
 
 ## The Work
 
@@ -24,15 +44,12 @@ It asks how holy gifts become tools of pride, how religious bodies receive their
 
 ## The Reader
 
-The archive is for readers seeking the fullness of the Christian walk: not only correct doctrine, but truthful embodiment.
+This library is for readers seeking the fullness of the Christian walk: not only correct doctrine, but truthful embodiment.
 
 The reader is not invited to stand outside the architecture as an observer. The first application is always ourselves: what we love, what we practice, what we protect, what we fear losing, and what our bodies have learned to obey.
 
-## The Archive
+## The Public Library
 
-- `markdown/`: public reading copies.
-- `raw/`: original files, PDFs, drafts, planning notes, and OCR.
-- `gallery/`: image assets used by the site.
-- `architecture-of-apostasy/`: internal theological canon, aspect notes, and project grammar.
+The public library gathers essays, images, reading paths, and orientation pages. It does not expose every draft, source file, register, or internal working document.
 
-See the [GitHub and Publishing](github.qmd) page and the repository README for development commands, publishing notes, and source organization.
+Some material is held back for review, revision, sourcing, pastoral care, or simply because publication would not yet serve the path of return. Holding a document back is part of the library's discipline.

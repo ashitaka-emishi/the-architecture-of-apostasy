@@ -12,6 +12,10 @@ is promoted into public reading paths, essays, diagrams, or volumes.
 
 - `grammar-of-apostasy/` contains the canonical constitution, ontology, method, glossary, and editorial rules.
 - `aspects/` contains brief scaffolds for major sub-aspects that should be developed under the main project.
+- `interface/` contains cross-project orientation documents that describe how the Architecture of Apostasy and The Keeping Between relate without collapsing their genres.
+
+The imported Keeping Between workbench lives at `../the-keeping-between/` as a sibling
+workspace, not as a subfolder of this project.
 
 AI-facing implementation material lives separately in `../ai-system/`.
 

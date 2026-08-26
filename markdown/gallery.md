@@ -7,7 +7,34 @@
 - File: `the-path.webp`
 - Description: A two-row visual path diagram tracing false logos, false desire, repeated bodily practice, spiritual deformation, institutional embodiment, sacrifice, suffering, repentance, death to the false self, and re-embodiment in Christ.
 - Notes: Source and inspection notes are available in `../raw/images/the-path.txt`.
-- Comments: Visual companion for the home page and "The Path of Re-Embodiment," presenting the path as a movement from deformation toward restoration in Christ.
+- Comments: Visual companion for the home page and "The Path," presenting the path as a movement from deformation toward restoration in Christ.
+
+## The Path, The Keeping, and The Measure
+
+![The Path, The Keeping, and The Measure](../gallery/pillars.png){.path-image .no-lightbox}
+
+- File: `pillars.png`
+- Description: A dark gold and black diagram titled The Path, The Keeping, and The Measure, showing a circular movement of diagnosis, fidelity, and discernment under Christ.
+- Notes: Source and inspection notes are available in `../raw/images/pillars.txt`.
+- Comments: Visual companion for the home page, introducing the three public pillars as a mutually correcting cycle under Christ.
+
+## The Keeping
+
+![The Keeping](../gallery/the-keeping.png){.path-image .no-lightbox}
+
+- File: `the-keeping.png`
+- Description: A dark gold and black poster titled The Keeping, showing six stages: received life, the Troth, faithful attention, embodied loyalty, costly endurance, and communal witness.
+- Notes: Source and inspection notes are available in `../raw/images/the-keeping.txt`.
+- Comments: Visual companion for "The Keeping of the Troth," presenting keeping as the embodied response to the Troth rather than possession.
+
+## The Measure
+
+![The Measure](../gallery/the-measure.png){.path-image .no-lightbox}
+
+- File: `the-measure.png`
+- Description: A dark gold and black poster titled The Measure, showing six stages for discerning what a life or institution serves: ruling logos, trained desire, embodied practice, asked sacrifice, revealed fruit, and Christic alignment.
+- Notes: Source and inspection notes are available in `../raw/images/the-measure.txt`.
+- Comments: Visual companion for "The Measure of Christ," presenting Christic alignment as the final test of what a body serves.
 
 ## The Architecture of Apostasy Brand Image
 
@@ -215,3 +242,30 @@
 - Description: A lone figure walks along a narrow illuminated path toward a distant cross, flanked by dark cliff-like forms with shadowed figures and watchful eyes.
 - Notes: No readable OCR text detected.
 - Comments: Visual companion for "Legalism, License, And The Elite Mediation of Christ," especially its account of the narrow path between legalism and license.
+
+## Outside the Camp
+
+![Outside the Camp](../gallery/outside-the-camp.jpg)
+
+- File: `outside-the-camp.jpg`
+- Description: A solitary figure and scattered sheep stand outside a gated church structure, with a large tree and luminous distant city or horizon beyond.
+- Notes: Source and inspection notes are available in `../raw/images/outside-the-camp.txt`.
+- Comments: Visual companion for "Outside the Camp, Among the Two or Three," picturing sheep and witness outside the institutional gate.
+
+## The Scattered Flock
+
+![The Scattered Flock](../gallery/the-scattered-flock.jpg)
+
+- File: `the-scattered-flock.jpg`
+- Description: A small group prays over Scripture on a hillside outside a large temple-like building, with warm light breaking beyond the city.
+- Notes: Source and inspection notes are available in `../raw/images/the-scattered-flock.txt`.
+- Comments: Visual companion for "The Scattered Flock and the Hidden Remnant," picturing hidden prayer and Scripture outside the visible center.
+
+## The Sin Leading to Death
+
+![The Sin Leading to Death](../gallery/the-sin-leading-to-death.jpg)
+
+- File: `the-sin-leading-to-death.jpg`
+- Description: A central cross stands between radiant Christ and Spirit imagery, a gathered crowd, chained figures, and shattered religious structures under judgment.
+- Notes: Source and inspection notes are available in `../raw/images/the-sin-leading-to-death.txt`.
+- Comments: Visual companion for "The Sin Leading to Death," picturing final hardening, judgment, and the witness of Christ.

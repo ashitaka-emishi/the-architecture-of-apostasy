@@ -2,13 +2,13 @@
 title: "Reader's Guide"
 ---
 
-This site is for readers who want to discern how apostasy takes flesh and how Christ calls the whole person back into truthful embodiment.
+This site is for readers who want to discern how apostasy takes flesh, how faithful keeping is embodied, and how Christ remains the measure of every keeper, office, and act of protection.
 
 It is also for readers who may not share every premise of the project but are willing to test its claims carefully.
 
-## What Not To Do With The Archive
+## What Not To Do With The Library
 
-Do not consume the archive as aesthetic doom, theological superiority, or anti-institutional confirmation bias.
+Do not consume the library as aesthetic doom, theological superiority, or anti-institutional confirmation bias.
 
 The project names apostasy so that repentance, discernment, restoration, and Christic re-embodiment can become possible. If a page leaves you feeling merely more certain of other people's corruption, read more slowly.
 
@@ -16,13 +16,13 @@ The project names apostasy so that repentance, discernment, restoration, and Chr
 
 Read for the pastoral questions: What forms of preservation have become fear? Where has the church accepted a body from Caesar, donors, careerism, or respectability? What would repentance look like without theatrical reaction?
 
-Start with [The Church and False Embodiment](church.qmd), then read [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md).
+Start with [Method](method.qmd), then read [Rival Readings](rival-readings.qmd).
 
 ## Lay Readers
 
 Read for self-examination first. The project is not mainly a weapon for diagnosing other people. It asks what our loves, habits, fears, rituals, and loyalties have made visible in the body.
 
-Start with [The Path of Re-Embodiment](path-of-re-embodiment.qmd), then [Core Concepts](core-concepts.qmd).
+Start with [The Path of Re-Embodiment](path.qmd), then [Core Concepts](core-concepts.qmd).
 
 ## Readers Wounded By Institutions
 
@@ -32,7 +32,7 @@ The church can be diseased. The church can also be a place of mercy, sacrament, 
 
 The critique of corrupted systems does not cancel Christ's love for the Church. Institutional wounds should be heard truthfully without making suspicion the final form of faithfulness.
 
-Start with [Faithful Institutions](faithful-institutions.qmd), then [The Church and False Embodiment](church.qmd).
+Start with [The Keeping of the Troth](keeping.qmd), then [The Measure of Christ](measure.qmd).
 
 ## Traditioned Readers
 
@@ -42,7 +42,7 @@ The project is strongest when it identifies patterns of idolatry that can afflic
 
 Catholic, Orthodox, Protestant, Anabaptist, Pentecostal, and non-denominational readers should bring tradition-specific objections and rival readings. Those objections are not interruptions of the work; they are part of how the work becomes more truthful.
 
-Start with [Method](method.qmd) and [Rival Readings](rival-readings.qmd), then read the essays with the distinction between doctrine, exegesis, analogy, historical judgment, and prophetic warning in mind.
+Start with [The Measure of Christ](measure.qmd), [Method](method.qmd), and [Rival Readings](rival-readings.qmd), then read the essays with the distinction between doctrine, exegesis, analogy, historical judgment, and prophetic warning in mind.
 
 ## Artists And Image Readers
 
@@ -54,7 +54,7 @@ Start with [Images](images.qmd) and [Gallery Catalog](markdown/gallery.md).
 
 The project welcomes hard questions about sourcing, overstatement, historical compression, and rival readings.
 
-Read [Method](method.qmd) and [Rival Readings](rival-readings.qmd) first. Then use the public essays as arguments to test, not slogans to consume.
+Read [The Measure of Christ](measure.qmd), [Method](method.qmd), and [Rival Readings](rival-readings.qmd) first. Then use the public essays as arguments to test, not slogans to consume.
 
 ## Reading Posture
 
@@ -64,4 +64,4 @@ Bring three questions to each page:
 2. What evidence supports it?
 3. What would repentance or faithful embodiment look like here?
 
-The goal is not to master the architecture from outside. The goal is to walk the path of return in truth.
+The goal is not to master the architecture from outside. The goal is to keep the path of return in truth, under Christ as the measure.

@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "terms": [
+    {
+      "term": "Troth",
+      "status": "user_established",
+      "definition": "The fidelity of God disclosed and enacted in Jesus Christ, and the creaturely calling to participate in that fidelity by the Spirit.",
+      "note": "This is an accepted constructive theological formulation, not the lexical meaning of a biblical word. The Troth is not a second Logos, an impersonal law above God, or a possession of any person, office, fellowship, myth, or institution."
+    },
+    {
+      "term": "Path",
+      "status": "working_synthesis",
+      "definition": "Movement from false logos / false embodiment toward truthful participation in Christ."
+    },
+    {
+      "term": "Vaelun",
+      "status": "source",
+      "definition": "Threshold-keepers; those set where worlds/conditions meet."
+    },
+    {
+      "term": "Vaerun",
+      "status": "source",
+      "definition": "Office of crossing; one bound to pass the veil.",
+      "note": "Vaerun is an office, not the narrator's personal name, which remains unstated in the myth. The narrator is a Vaerun before the hill. After his keeping becomes widely remembered, the many call him the Vaerun; that singular stature is not a new office or proof of righteousness."
+    },
+    {
+      "term": "Hrovan",
+      "status": "source",
+      "definition": "One who bears the hall or center; authority represented as burden-bearing.",
+      "note": "Hrovann in the recovered institutional documents is a misspelling, not a separate office."
+    },
+    {
+      "term": "Gravane",
+      "status": "source",
+      "definition": "Rememberers / scar-bearers who discern and preserve warnings."
+    },
+    {
+      "term": "Truvane",
+      "status": "source",
+      "definition": "Gathered faithful; those not released from the Troth."
+    },
+    {
+      "term": "Aruvan",
+      "status": "source",
+      "definition": "The long wolf made by keeping; body of faithful across generations.",
+      "note": "Aruvann in earlier active development material was a misspelling, not a separate term or being. Under D-056 and D-057, Aruvan is the keeping-face of one creaturely communion with the Living Lamb. Its closed body ultimately loosens without annihilation, returning accumulated memory and responsibility to distributed, accountable keeping beneath the Shepherd."
+    },
+    {
+      "term": "Living Lamb",
+      "status": "user_established",
+      "definition": "The kept-and-gathered face of the same creaturely communion whose keeping-face is Aruvan; life kept, restored, gathered, and brought into active companionship without being possessed or merely carried.",
+      "note": "The individual lamb remains itself and becomes the first visible participant in the larger gathered pattern without metamorphosis or deification. The Living Lamb is not Christ, Aruvan's spouse, an independent being, or a saving power."
+    },
+    {
+      "term": "Vethra",
+      "status": "user_established",
+      "definition": "Costly first light beneath ash: subtle testimony of the Troth borne upon flesh through which fidelity has passed and creaturely firstfruits of the fuller light to come in Christ.",
+      "note": "Every companion who passed through the Keeping bears Vethra, including Harrow's dead flesh. In the living it may become perceptible through posture, voice, movement, attention, scent, touch, or relation. It is perceived chiefly but fallibly by Gravane and Truvane and belongs to the Shepherd. It is not a scar, wound, halo, payment, curse-mark, institutional Sigil, credential, possession, proof of present righteousness, autonomous flame, or second incarnation. Harrow remains dead; Vethra neither preserves nor raises him before the eschaton."
+    },
+    {
+      "term": "Sigil",
+      "status": "user_established",
+      "definition": "Active name for the unadopted institutional graphic proposed for a hypothetical voluntary undertaking of the Rule; its open enclosure, standing stroke, and empty place signify keeping without possession and refusal of the throne.",
+      "note": "The frozen institutional source calls this graphic the Mark. D-054 renames it the Sigil in active vocabulary. No order exists, the Sigil may never be adopted, and it must not be confused with Vethra or the marks of the curses."
+    },
+    {
+      "term": "Institutional Mark",
+      "status": "deprecated",
+      "definition": "Former active name for the provisional Sigil; retained only when quoting, naming, or discussing the frozen source artifact that uses Mark terminology."
+    },
+    {
+      "term": "Throne",
+      "status": "working_synthesis",
+      "definition": "Authority, rule, office, command; real but not the measure."
+    },
+    {
+      "term": "Pasture",
+      "status": "working_synthesis",
+      "definition": "Belonging, enclosure, fellowship, institution, collective identity; shelter that can become idolatrous."
+    },
+    {
+      "term": "Fang",
+      "status": "working_synthesis",
+      "definition": "Capacity for coercion/predation/aggression and the temptation to make it identity."
+    },
+    {
+      "term": "Fleece",
+      "status": "working_synthesis",
+      "definition": "Vulnerability, innocence, victimhood, or protected identity; not moral sovereignty."
+    },
+    {
+      "term": "Cry",
+      "status": "working_synthesis",
+      "definition": "The interruption made by another's suffering or need; diagnostic of moral closure, requiring discernment."
+    },
+    {
+      "term": "Assailant",
+      "status": "user_established",
+      "definition": "A person presently attacking; a description of current action rather than body, origin, species, or final moral identity."
+    },
+    {
+      "term": "Afflicted",
+      "status": "user_established",
+      "definition": "A person presently wounded, sick, frightened, disoriented, or otherwise suffering; affliction neither certifies innocence nor creates a fixed moral species."
+    },
+    {
+      "term": "Fallen",
+      "status": "user_established",
+      "definition": "An accountable agent in deformed relation who remains capable of refusal, cessation, confession, return, renewed harm, and repair; not an immutable species or bodily class."
+    },
+    {
+      "term": "Black Sun",
+      "status": "user_established",
+      "definition": "Exposure without warmth that may seize true fragments of wound and failure and deform them into a false total and final identity.",
+      "note": "The Black Sun is accusation and deformation, not an infallible revealer or alternate judge. The Shepherd separates truthful exposure from condemnation without denying harm or declaring innocence."
+    },
+    {
+      "term": "Four curses",
+      "status": "user_established",
+      "definition": "Four imposed deformations: the inward fang deforms power, the sealed eye deforms perception, the blood-clean paw deforms responsibility through false innocence, and the mouth closed around the cry deforms witness.",
+      "note": "Their relational, fallible, multisensory manifestations are called the marks of the curses. They may pass over faithful and fallen alike and are neither fixed identities nor divine punishments. These marks are distinct from Vethra and the provisional Sigil."
+    },
+    {
+      "term": "White Moon",
+      "status": "user_established",
+      "definition": "Reflected ordinary creaturely mercy: received tenderness, restraint, recognition, and care that persist during the Black Sun's exposure.",
+      "note": "The White Moon neither saves nor opposes the Black Sun as an equal power. It does not make morning; it remembers the light by which morning may be known, and its pale light is gathered into the Shepherd's true morning."
+    },
+    {
+      "term": "Morning",
+      "status": "user_established",
+      "definition": "An ordinary earthly dawn on the same wounded hill and a firstfruits image of new creation in Christ: this wounded world beginning to bear its promised shape beneath the Shepherd, including a shared meal as a bodily foretaste of the Feast to come.",
+      "note": "Morning is not heaven, literal resurrection, the final eschaton, universal restoration, or an erased history. Its meal is bread eaten in the Feast's promise, not a new sacrament or completed reconciliation. Harrow remains dead, wounds and accountability remain, and his absence points beyond this foretaste toward resurrection still to come."
+    },
+    {
+      "term": "Keeper",
+      "status": "working_synthesis",
+      "definition": "A functional image/task of preserving or bearing; not a superior ontological class."
+    },
+    {
+      "term": "The Keeping Between",
+      "status": "user_established",
+      "definition": "The active project name for the vocation being born in an age of passage, when some are called neither to preserve the old world nor to enthrone the new one, but to keep faith through the passage between them.",
+      "note": "There is no order yet. If an order arises, it will be The Keeping Between, a provisional order if it is an order at all. It claims no permanence, possesses no virtue of its own, does not presume to know what form the world must take, and may pass away when its charge is complete."
+    },
+    {
+      "term": "Order",
+      "status": "deprecated",
+      "definition": "Former active shorthand for a possible institutional body; no active body or canonical order exists.",
+      "note": "Do not use Order of the Troth as active project vocabulary except when discussing frozen source provenance. If an order arises, its name will be The Keeping Between."
+    },
+    {
+      "term": "Hrovann",
+      "status": "deprecated",
+      "definition": "Misspelling of Hrovan found in recovered institutional source documents; not a separate calling or office."
+    }
+  ]
+}

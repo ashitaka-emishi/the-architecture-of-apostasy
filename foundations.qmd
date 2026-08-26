@@ -2,42 +2,56 @@
 title: "Foundations"
 ---
 
-This project rests on two foundation documents. One gives the diagnostic grammar for apostasy. The other gives the embodied posture of faithful keeping.
+This project is organized by three public movements: **The Path of Re-Embodiment**, **The Keeping of the Troth**, and **The Measure of Christ**.
 
 This is a public orientation page, not a new essay or source document.
 
-Together they keep the archive from becoming only an instrument of critique.
+Together they keep the witness from becoming only an instrument of critique.
 
-> The archive must not merely diagnose apostasy; it must practice faithful keeping.
+> The witness must not merely diagnose apostasy; it must practice faithful keeping.
 
-## The Diagnostic Foundation
+## The Path of Re-Embodiment
 
-[*The Architecture of Apostasy*](markdown/the-architecture-of-apostasy.md) names the central pattern: holy gifts, symbols, institutions, rituals, laws, and structures can become idols when detached from living dependence on God.
+[*The Architecture of Apostasy*](markdown/the-architecture-of-apostasy.md) names the spirit taking flesh. It diagnoses how holy gifts, symbols, institutions, rituals, laws, and structures can become idols when detached from living dependence on God.
 
 It asks how a gift meant to turn the heart toward God can become Nehushtan: a preserved object, system, or ritual that receives trust for its own sake. Its work is diagnostic because it exposes false embodiment in persons, churches, institutions, nations, and religious systems.
 
 Read it as a warning against mastery. The point is not to stand outside apostasy as an analyst, but to become truthful before Christ about the forms of worship, protection, and sacrifice that have taken flesh.
 
-## The Embodied Foundation
+## The Keeping of the Troth
 
 [*Aru va\`en: A Keeping of the Troth*](markdown/aru-vaen-a-keeping-of-the-troth.md) gives the project its embodied counterweight.
 
 Its language is mythic and devotional rather than analytic. It teaches that faithfulness is not purity, conquest, control, or detached comprehension. Faithfulness is wounded keeping before the Shepherd: answering the cry without looking away.
 
-Read it as a discipline for the archive's tone. Diagnosis without faithful keeping hardens into superiority. Keeping without diagnosis can become sentimentality. The project needs both.
+Read it as a discipline for the witness's tone. Diagnosis without faithful keeping hardens into superiority. Keeping without diagnosis can become sentimentality. The project needs both.
+
+## The Measure of Christ
+
+[*The Measure of Christ*](measure.qmd) names the Christological guardrail for keeping, judgment, protection, and critique. [*The Doctrine of Unclaimed Virtue*](markdown/the-doctrine-of-unclaimed-virtue.md) gives the keeper's self-understanding its necessary restraint.
+
+It teaches that good action is real, evil can be named, harm can be restrained, and authority can be exercised, but none of these becomes proof that the actor possesses the Good. Courage, suffering, protection, office, and sacrifice cannot be converted into moral title.
+
+Read it as a safeguard for dangerous capacity. The keeper may need strength, judgment, boundary, and endurance, but the keeper is not the Shepherd.
 
 ## How They Belong Together
 
-The diagnostic foundation asks what false lord has taken flesh.
+The Path of Re-Embodiment asks what false lord has taken flesh, and where entrustment has become possession.
 
-The embodied foundation asks what faithful response must be practiced in the body.
+The Keeping of the Troth asks what faithful response must be practiced in the body.
 
-Held together, they order the site toward repentance, discernment, restoration, and re-embodiment in Christ. The archive should therefore serve the path of return, not the enlargement of a theological monument.
+The Measure of Christ asks whether faithful action has been converted into self-claim, and whether the keeper remains answerable to Christ.
+
+Held together, they order the site toward repentance, discernment, restoration, and re-embodiment in Christ. The work should therefore serve the path of return, not the enlargement of a theological monument.
 
 ## Read Next
 
-1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-2. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
-3. [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
-4. [Method](method.qmd)
-5. [Faithful Institutions](faithful-institutions.qmd)
+1. [The Path of Re-Embodiment](path.qmd)
+2. [The Keeping of the Troth](keeping.qmd)
+3. [The Measure of Christ](measure.qmd)
+4. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+5. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+6. [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
+7. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
+8. [Method](method.qmd)
+9. [Rival Readings](rival-readings.qmd)

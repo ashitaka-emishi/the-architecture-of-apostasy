@@ -10,7 +10,7 @@ not share the project's theological premises.
 Rival readings are not interruptions. They are part of faithful testing.
 
 This page gathers major objections and alternative interpretations that should
-remain visible when reading the archive. It does not replace detailed sourcing,
+remain visible when reading the library. It does not replace detailed sourcing,
 footnotes, or essay-level revision. It gives readers a map of where caution,
 charity, and stronger evidence are most needed.
 
@@ -49,7 +49,6 @@ Read alongside:
 
 - [Method](method.qmd)
 - [Core Concepts](core-concepts.qmd)
-- [Faithful Institutions](faithful-institutions.qmd)
 
 ### Revelation, Philadelphia, And Laodicea
 
@@ -68,7 +67,7 @@ Rival readings to consider:
 Read alongside:
 
 - [Method](method.qmd#revelation-and-modern-application)
-- [The Church and False Embodiment](church.qmd)
+- [Method](method.qmd#institutions-and-form)
 
 ## Historical And Institutional Readings
 
@@ -92,8 +91,7 @@ Rival readings to consider:
 
 Read alongside:
 
-- [The Church and False Embodiment](church.qmd)
-- [Faithful Institutions](faithful-institutions.qmd)
+- [Method](method.qmd#institutions-and-form)
 
 ### Schism, Reformation, And Protestant Fragmentation
 
@@ -134,8 +132,7 @@ Rival readings to consider:
 
 Read alongside:
 
-- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
-- [Faithful Institutions](faithful-institutions.qmd)
+- [Method](method.qmd#institutions-and-form)
 
 ## Church Form And Authority
 
@@ -157,7 +154,7 @@ Rival readings to consider:
 
 Read alongside:
 
-- [Faithful Institutions](faithful-institutions.qmd)
+- [Method](method.qmd#institutions-and-form)
 - [Reader's Guide](readers-guide.qmd#readers-wounded-by-institutions)
 
 ### Pastoral Authority And Abuse Risk
@@ -179,8 +176,8 @@ Rival readings to consider:
 
 Read alongside:
 
-- [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
-- [Faithful Institutions](faithful-institutions.qmd)
+- [Method](method.qmd)
+- [Method](method.qmd#institutions-and-form)
 
 ## Psychological And Pastoral Readings
 

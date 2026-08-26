@@ -1,0 +1,156 @@
+{
+  "status": "working_synthesis",
+  "vethra_policy_status": "user_established",
+  "vethra_policy": "Every companion who passed through the Keeping bears Vethra, including Harrow's dead flesh. The company displays it as costly first light beneath ash and creaturely firstfruits of fuller light in Christ, but the myth uses only a few representative glimpses rather than an individual roster.",
+  "vethra_morning_selection_status": "user_established",
+  "vethra_morning_selection": [
+    "Harrow",
+    "Ostra"
+  ],
+  "vethra_morning_note": "D-085 supersedes the earlier four-person narrative selection. Murn and Keld remain bearers, but their separate Vethra portraits are omitted because their relations are already carried by tending and communal action. Vaerun does not certify his own Vethra. Little Vey displays his through embodied presence beside Vaerun. Proposed portrait language remains available for later correspondence or other contexts.",
+  "characters": [
+    {
+      "name": "Vaerun",
+      "kind": "office/narrator/later public title",
+      "source_role": "office of crossing; one bound to pass the veil",
+      "working_theme": "witness, crossing, authority without self-certification",
+      "personal_name_status": "user_established",
+      "personal_name": "unstated in the myth",
+      "title_continuity_status": "user_established",
+      "title_continuity": "before the hill he is a Vaerun among other possible bearers of the crossing vocation; after the hill the many call him the Vaerun, creating singular public stature rather than a new office",
+      "continuity_status": "user_established",
+      "continuity": "survives the Keeping with a serious scar along his side; the wound is not Vethra, a credential, or proof that suffering improved him",
+      "vethra_portrait_status": "proposed",
+      "vethra_portrait": "At a threshold, his weight fell toward the one still behind, as though crossing were a thing borne between them."
+    },
+    {
+      "name": "Hrovan",
+      "kind": "office",
+      "source_role": "one who bears the hall",
+      "working_theme": "authority as burden/accountability"
+    },
+        {
+            "name": "Harrow",
+            "kind": "companion",
+            "source_role": "called Vaelun; torn ear",
+            "working_theme": "refusal to yield / possible authority theme",
+            "continuity_status": "user_established",
+            "continuity": "sole named companion who dies during the Keeping; mortally wounded in the assault, carried inside the circle, tended, and absent from the living company in earthly morning; his dead flesh bears Vethra without animation, preservation, radiance, or resurrection",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "The Gravane covered him last. Their hands lingered at his brow; the first light was borne even there, though no breath returned."
+    },
+        {
+            "name": "Sable",
+            "kind": "companion",
+            "source_role": "sings because silence frightens him",
+            "working_theme": "voice, testimony, silence",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping with a weakened voice that sometimes breaks in song and bears Vethra; the wound is not Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "When his weakened song broke, the silence did not close; it widened enough for another breath."
+    },
+        {
+            "name": "Murn",
+            "kind": "companion",
+            "source_role": "old wolf; laughter under fear",
+            "working_theme": "age, mortality, mourning",
+            "continuity_status": "user_established",
+            "continuity": "survives aged and embodied with damaged ribs and permanently roughened breath; his young face does not return, his humor remains living, he bears Vethra, and the wound is not Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "His breath remained rough; when he laughed, fear beside him was not shamed into silence."
+    },
+    {
+      "name": "Little Vey",
+      "kind": "companion",
+      "source_role": "small / ember / last light under ash",
+      "working_theme": "smallness, vulnerability, true naming",
+      "continuity_status": "user_established",
+            "continuity": "survives the Keeping as a living embodied companion and bears Vethra; his only lasting wound is one torn ear, received after he hears the sheep's soft answer, which leaves him hearing poorly on that side; the wound is not Vethra",
+      "vethra_portrait_status": "proposed",
+      "vethra_portrait": "He stood near without drawing the eye; only when he moved did others see whom he had kept from standing alone.",
+      "epistolary_role": "writes to challenge the movement from a Vaerun to the Vaerun and to summon him back to shared remembrance beneath the Shepherd",
+      "epistolary_source": "source/book-of-the-troth/The Letter of Little Vey to the Vaerun.md",
+      "epistolary_active_revision": "book-of-wolves/letters/LITTLE_VEY_TO_VAERUN.md"
+    },
+        {
+            "name": "Brindle",
+            "kind": "companion",
+            "source_role": "broad-backed and gentle; carried a starving cub",
+            "working_theme": "belonging, body as shelter",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping with a bent and painful back and bears Vethra; the wound is not Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "His bent back made shelter, but none beneath it seemed possessed."
+    },
+        {
+            "name": "Keld",
+            "kind": "companion",
+            "source_role": "hard of jaw, slow to anger, deep silence",
+            "working_theme": "restraint, silence, judgment",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "His silence no longer made a wall; within it another voice could finish."
+    },
+        {
+            "name": "Ash",
+            "kind": "companion",
+            "source_role": "fears blood and comes anyway",
+            "working_theme": "fear, failure, repentance",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "He trembled at blood as before, but his paws turned toward the one who bled."
+    },
+        {
+            "name": "Rook",
+            "kind": "companion",
+            "source_role": "sharp-eyed; sees edge movements",
+            "working_theme": "discernment, certainty, perception",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "His eyes went first to the edge, then rested on the one the hidden movement threatened."
+    },
+        {
+            "name": "Yarrow",
+            "kind": "companion",
+            "source_role": "wound-licker and herb-finder; mercy not clean",
+            "working_theme": "healing, mercy, contaminated care",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "Herbs and blood mingled at his mouth, and no wounded creature seemed made unclean beneath his care."
+    },
+        {
+            "name": "Thorn",
+            "kind": "companion",
+            "source_role": "learned where anger ended and guardianship began",
+            "working_theme": "anger, restraint, authority",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "When anger rose, he set his body across the path of harm and did not follow anger farther."
+    },
+        {
+            "name": "Ostra",
+            "kind": "companion",
+            "source_role": "marked by loss of brothers beyond veil",
+            "working_theme": "grief, estrangement, reconciliation",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra; her pre-existing rib scar remains, and her three brothers remain dead from before the Keeping",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "When the dead were named, grief opened her stance until another mourner could stand beside her."
+    },
+        {
+            "name": "Fen",
+            "kind": "companion",
+            "source_role": "mud-colored; stands in sinking ground",
+            "working_theme": "endurance, rootedness",
+            "continuity_status": "user_established",
+            "continuity": "survives the Keeping without a newly specified lasting physical injury and bears Vethra",
+            "vethra_portrait_status": "proposed",
+            "vethra_portrait": "On sinking ground he leaned before another fell, though afterward none could say when he had moved."
+    }
+  ]
+}
