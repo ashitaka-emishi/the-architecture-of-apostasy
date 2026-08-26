@@ -75,7 +75,7 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] If it is an AI/code support artifact, place it under `ai-system/`.
 - [ ] If it is a public image asset, place it under `gallery/`.
 - [ ] If a public essay has a clear companion image, place the image near the top of the Markdown copy after the title/source block unless already present.
-- [ ] If an image is paired with an essay, add the relationship to `markdown/gallery.md` and include the image in `images.qmd`.
+- [ ] If an image is paired with an essay, add the relationship to `markdown/gallery.md`.
 - [ ] If it is only a working note, do not present it as public or canonical.
 
 ## Mechanical Checks

@@ -180,12 +180,4 @@ Read the theological essays as witnesses along the way, not as material for deta
 [Browse essays](essays.qmd)
 :::
 
-::: {.g-col-12 .g-col-md-6}
-### Images
-
-See the symbolic and devotional images that expose false embodiment and gesture toward Christic restoration.
-
-[Open the gallery](images.qmd)
-:::
-
 :::

@@ -109,14 +109,11 @@ in this repo.
    image: `## Title`, the image embed (relative path `../gallery/...`), then
    `- File:`, `- Description:`, `- Notes:`, `- Comments:` bullets. Leave
    `Comments:` blank unless there's a specific essay tie-in worth noting.
-6. Add a matching grid entry to `images.qmd` following its existing
-   `::: {.grid} ... ::: {.g-col-12 .g-col-md-6} ... :::` pattern: image embed,
-   `### Heading`, one-paragraph description.
-7. If the image is a companion to a specific essay (thematically obvious),
+6. If the image is a companion to a specific essay (thematically obvious),
    say so in the `Comments:` line of `markdown/gallery.md`, mirroring how
    `ceaseless-prayer.jpg` and `the-ungraspable-light.jpg` reference their
    companion essays. Don't force a tie-in that isn't there.
-8. If the companion essay is newly ingested in the same batch, add the image
+7. If the companion essay is newly ingested in the same batch, add the image
    near the top of that essay's public Markdown copy after the title/source
    block unless it is already present.
 

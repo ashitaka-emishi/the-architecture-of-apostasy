@@ -6,7 +6,6 @@ project:
     - "core-concepts.qmd"
     - "essays.qmd"
     - "foundations.qmd"
-    - "images.qmd"
     - "index.qmd"
     - "keeping.qmd"
     - "library.qmd"
@@ -78,8 +77,6 @@ website:
             text: Library Catalog
           - href: method.qmd
             text: Method
-          - href: images.qmd
-            text: Images
       - href: about.qmd
         text: About
     right:
