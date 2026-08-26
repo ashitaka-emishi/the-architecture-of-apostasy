@@ -335,7 +335,7 @@ Add visible citations or bibliography support for claims involving:
 ## New Pages or Documents to Add
 
 * [ ] `foundations.qmd`
-* [ ] `document-intake-covenant.qmd` or `raw/document-intake-covenant.md`
+* [ ] Expand `method.qmd` if intake guidance needs a larger public treatment.
 * [ ] `bibliography.qmd`
 * [ ] `rival-readings.qmd`
 * [ ] `claim-types.qmd` if the method page becomes too crowded

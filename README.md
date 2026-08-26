@@ -19,7 +19,7 @@ should remain related but not mixed together casually.
 ```text
 .
 ├── architecture-of-apostasy/   # Diagnostic theological workspace
-├── keeping-between/            # Embodied, mythic, liturgical, and doctrinal companion workspace
+├── the-keeping-between/            # Embodied, mythic, liturgical, and doctrinal companion workspace
 ├── ai-system/                  # AI prompts, schemas, scripts, and machine-readable files
 ├── intake/                     # Staging folder for new docs/images before ingestion
 ├── gallery/                    # Public image assets used by the Quarto site
@@ -35,20 +35,20 @@ should remain related but not mixed together casually.
 - `markdown/` contains Markdown reading copies of the written documents.
 - `gallery/` contains public image files used by the archive. The theological canon for image use lives in `architecture-of-apostasy/aspects/visual-theology/`.
 - `architecture-of-apostasy/` contains the diagnostic theological project workspace, including the Grammar of Apostasy and sub-aspect scaffolds.
-- `keeping-between/` contains the imported Keeping Between workbench as an equal-weight embodied, mythic, liturgical, and doctrinal companion workspace.
+- `the-keeping-between/` contains the imported Keeping Between workbench as an equal-weight embodied, mythic, liturgical, and doctrinal companion workspace.
 - `ai-system/` contains prompts, schemas, scripts, machine-readable maps, and other AI-facing implementation files.
 - Root-level `.qmd` files define the public Quarto site.
 - `.github/workflows/publish.yml` builds and deploys the site to GitHub Pages.
 
 ## Theological Workspace
 
-The main theological workspaces are `architecture-of-apostasy/` and `keeping-between/`.
+The main theological workspaces are `architecture-of-apostasy/` and `the-keeping-between/`.
 
 Important subfolders:
 
 - `architecture-of-apostasy/grammar-of-apostasy/` contains the constitution, ontology, methodology, glossary, and editorial rules.
 - `architecture-of-apostasy/aspects/` contains major sub-aspects such as Fallen Liturgies, The Chemical Temple, Sacred Time and Shadow, Restoration, and Visual Theology.
-- `keeping-between/` contains Aru Va'en, doctrine, liturgy, biblical review, provisional institutional material, registers, source files, and project prompts for The Keeping Between.
+- `the-keeping-between/` contains Aru Va'en, doctrine, liturgy, biblical review, provisional institutional material, registers, source files, and project prompts for The Keeping Between.
 
 ## AI System
 

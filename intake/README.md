@@ -26,7 +26,7 @@ this folder. Keep this `README.md` in place.
 - Image source notes, prompts, OCR, and inspection notes go in `raw/images/`.
 - Individual essays are listed in `essays.qmd`.
 - Public images are listed in `images.qmd` and `markdown/gallery.md`.
-- Broader editorial placement may also update `archive.qmd` or
+- Broader editorial placement may also update `library.qmd` or
   `reading-paths.qmd` when the new item clearly belongs there.
 
 ## Required Intake Checks

@@ -9,15 +9,30 @@ Use these paths depending on what kind of entry point you want.
 Start here for the broadest introduction to the project.
 
 1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+2. [The Keeping of the Troth](keeping.qmd)
+3. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+4. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
+5. [The Measure of Christ](measure.qmd)
+6. [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
+7. [The Path of Re-Embodiment](path.qmd)
+8. [Method](method.qmd)
+9. [Rival Readings](rival-readings.qmd)
+10. [Foundations](foundations.qmd)
+11. [Reader's Guide](readers-guide.qmd)
+12. [Core Concepts](core-concepts.qmd)
+13. [Gallery Catalog](markdown/gallery.md)
+
+## Keepers and Dangerous Capacity
+
+This path is for readers carrying authority, office, protection, judgment, memory, or force who need those capacities placed under Christ rather than turned into sovereignty.
+
+1. [The Keeping of the Troth](keeping.qmd)
 2. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
-3. [The Path of Re-Embodiment](path-of-re-embodiment.qmd)
-4. [Method](method.qmd)
-5. [Faithful Institutions](faithful-institutions.qmd)
-6. [Foundations](foundations.qmd)
-7. [Reader's Guide](readers-guide.qmd)
-8. [Core Concepts](core-concepts.qmd)
-9. [The Church and False Embodiment](church.qmd)
-10. [Gallery Catalog](markdown/gallery.md)
+3. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
+4. [The Measure of Christ](measure.qmd)
+5. [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
+6. [Method](method.qmd)
+7. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 
 ## Apostasy and Religious Systems
 
@@ -25,16 +40,15 @@ This path follows the critique of corrupted worship, institutional religion, and
 
 1. [Method](method.qmd)
 2. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
-3. [Faithful Institutions](faithful-institutions.qmd)
+3. [Rival Readings](rival-readings.qmd)
 4. [Ancient and Modern Monopolies of Faithless Religion](markdown/ancient-and-modern-monopolies-of-faithless-religion.md)
-5. [The Pastor Inside the Apostate Architecture](markdown/the-pastor-inside-the-apostate-architecture.md)
-6. [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
-7. [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
-8. [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
+5. [Mormonism and Christianity](markdown/mormonism-and-christianity.md)
+6. [The Ungraspable Light: Moses, Aquinas, Idolatry, and the Eclipse of Representation](markdown/the-ungraspable-light.md)
+7. [The Weight of Glory: From Shadow to Substance](markdown/the-weight-of-glory-from-shadow-to-substance.md)
 
 ## Embodied Restoration
 
-This path follows the archive's embodied theology of addiction, prayer, care, and restoration.
+This path follows the library's embodied theology of addiction, prayer, care, and restoration.
 
 1. [The Chemical Temple](markdown/the-chemical-temple.md)
 2. [The Shape of the Unbroken Soul: The Eternal Reality of Ceaseless Prayer](markdown/the-eternal-reality-of-ceaseless-prayer.md)
@@ -50,7 +64,7 @@ This path focuses on Christmas, biblical feasts, Protestant critique, and the pa
 
 ## Cosmology and the Antediluvian Frame
 
-This path follows the archive's most mythic and cosmological material.
+This path follows the library's most mythic and cosmological material.
 
 1. [Introduction Draft](markdown/introduction-draft.md)
 2. [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md)
@@ -67,6 +81,9 @@ This path reads monuments and public sacred space through the language of fallen
 
 This path gathers story-shaped theological work and mythopoetic explorations.
 
-1. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
-2. [Aru va\`en Reader's Guide](markdown/aru-vaen-readers-guide.md)
-3. [Aru va\`en: Symbolic Mythology of the Keeping](markdown/aru-vaen-symbolic-mythology.md)
+1. [The Keeping of the Troth](keeping.qmd)
+2. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+3. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
+4. [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
+5. [Aru va\`en Reader's Guide](markdown/aru-vaen-readers-guide.md)
+6. [Aru va\`en: Symbolic Mythology of the Keeping](markdown/aru-vaen-symbolic-mythology.md)

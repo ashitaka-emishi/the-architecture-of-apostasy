@@ -1,0 +1,7 @@
+Source note for `The Sin Leading to Death.pdf`.
+
+Public reading copy: `../markdown/the-sin-leading-to-death.md`.
+
+Companion image: `../gallery/the-sin-leading-to-death.jpg`.
+
+Ingested from `intake/` during the staged intake workflow.

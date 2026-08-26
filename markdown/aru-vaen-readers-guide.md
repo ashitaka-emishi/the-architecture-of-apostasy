@@ -19,7 +19,7 @@ memory, and embodied response.
 The story belongs under Christ-centered theology. It is not a second doctrine
 beside Christ, but a body of images ordered toward him.
 
-The governing frame is [The Path](../path-of-re-embodiment.qmd): falsehood takes
+The governing frame is [The Path of Re-Embodiment](../path.qmd): falsehood takes
 flesh, suffering exposes what has been preserved, and faithful response must
 become embodied before Christ.
 

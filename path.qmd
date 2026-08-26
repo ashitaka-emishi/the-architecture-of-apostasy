@@ -2,7 +2,11 @@
 title: "The Path of Re-Embodiment"
 ---
 
-The Architecture of Apostasy is a path of return.
+The Path of Re-Embodiment names the movement of return from false embodiment into Christ.
+
+It asks how spirit takes flesh, how entrusted good becomes possessed, and how persons, churches, institutions, and nations become embodied under another lord.
+
+The Path is held together with [The Keeping of the Troth](keeping.qmd) and [The Measure of Christ](measure.qmd). The Keeping asks what faithful response must become in the body; The Measure asks whether every act of diagnosis, protection, and repair remains answerable to Christ.
 
 It begins with a simple confession: every spirit seeks flesh. Every flesh reveals a spirit. What we love becomes visible in what we repeatedly do, protect, fund, excuse, ritualize, and sacrifice for.
 
@@ -54,8 +58,9 @@ The end is not accusation. The end is Christ.
 
 Re-embodiment is the Spirit reforming the whole person and the whole people into the life of the Logos: truthful, sacrificial, merciful, disciplined, repentant, and alive.
 
-## Read Next
+## Read First
 
 - [Core Concepts](core-concepts.qmd)
-- [The Church and False Embodiment](church.qmd)
+- [The Keeping of the Troth](keeping.qmd)
+- [The Measure of Christ](measure.qmd)
 - [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)

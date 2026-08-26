@@ -1,0 +1,5 @@
+Source note for `When_Rule_Becomes_Devouring_Submission.pdf`.
+
+Public reading copy: `../markdown/when-rule-becomes-devouring.md`.
+
+Ingested from `intake/` during the staged intake workflow.

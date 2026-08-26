@@ -2,13 +2,45 @@ project:
   type: website
   output-dir: _site
   render:
-    - "*.qmd"
+    - "about.qmd"
+    - "core-concepts.qmd"
+    - "essays.qmd"
+    - "foundations.qmd"
+    - "images.qmd"
+    - "index.qmd"
+    - "keeping.qmd"
+    - "library.qmd"
+    - "measure.qmd"
+    - "method.qmd"
+    - "path.qmd"
+    - "readers-guide.qmd"
+    - "reading-paths.qmd"
+    - "rival-readings.qmd"
     - "markdown/*.md"
   resources:
     - "CNAME"
     - "gallery/apple-touch-icon.png"
     - "gallery/aoa-social-preview.jpg"
-    - "raw/**/*.pdf"
+    - "raw/Ancient and Modern Monopolies of Faithless Religion.pdf"
+    - "raw/Legalism, License, And The Elite Mediation of Christ.pdf"
+    - "raw/Mormonism And Christianity.pdf"
+    - "raw/Outside the Camp - Among the Two or Three.pdf"
+    - "raw/Pagan Origins of Christmas.pdf"
+    - "raw/Protestantism and Christmas.pdf"
+    - "raw/Repentance_ The Biblical Mandate for Radical Reorientation.pdf"
+    - "raw/The Angel of Light and the Suffering Servant.pdf"
+    - "raw/The Chemical Temple.pdf"
+    - "raw/The Cutting Of The Flesh And The Heart Of Stone.pdf"
+    - "raw/The Eternal Reality of Ceaseless Prayer.pdf"
+    - "raw/The Law of Liberty In Love.pdf"
+    - "raw/The Scattered Flock and the Hidden Remnant.pdf"
+    - "raw/The Sin Leading to Death.pdf"
+    - "raw/The True Timeline of Messiah.pdf"
+    - "raw/The Ungraspable Light.pdf"
+    - "raw/The Weight of Glory - From Shadow to Substance.pdf"
+    - "raw/The Whitewashed Cathedral.pdf"
+    - "raw/The_Ordo_Salutis_and_the_Architecture_of_Cosmic_Reconciliation.pdf"
+    - "raw/When_Rule_Becomes_Devouring_Submission.pdf"
     - "raw/images/**/*.txt"
     - "site-assets/**"
 
@@ -26,36 +58,26 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: path-of-re-embodiment.qmd
+      - href: path.qmd
         text: The Path
-      - href: church.qmd
-        text: The Church
+      - href: keeping.qmd
+        text: The Keeping
+      - href: measure.qmd
+        text: The Measure
       - text: Library
         menu:
+          - href: library.qmd
+            text: Library Catalog
           - href: foundations.qmd
             text: Foundations
           - href: readers-guide.qmd
             text: Reader's Guide
           - href: method.qmd
             text: Method
-          - href: rival-readings.qmd
-            text: Rival Readings
-          - href: faithful-institutions.qmd
-            text: Faithful Institutions
-          - href: archive.qmd
-            text: Archive
-          - href: core-concepts.qmd
-            text: Core Concepts
-          - href: reading-paths.qmd
-            text: Reading Paths
           - href: essays.qmd
             text: Essays
           - href: images.qmd
             text: Images
-          - href: songs.qmd
-            text: Songs
-          - href: discussions.qmd
-            text: Discussions
       - href: about.qmd
         text: About
     right:
@@ -63,8 +85,7 @@ website:
         href: https://github.com/ashitaka-emishi/the-architecture-of-apostasy
         aria-label: GitHub repository
   page-footer:
-    left: "The Architecture of Apostasy"
-    right: "A path of return from false embodiment into Christ."
+    center: "The Architecture of Apostasy - A path to be kept. A keeping under Christ. A measure not our own."
   search: true
 
 format:

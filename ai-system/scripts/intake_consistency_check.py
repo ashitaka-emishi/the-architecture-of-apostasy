@@ -16,7 +16,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[2]
-ARCHIVE = ROOT / "archive.qmd"
+LIBRARY = ROOT / "library.qmd"
 MARKDOWN_DIR = ROOT / "markdown"
 RAW_DIR = ROOT / "raw"
 RAW_SOURCE_NOTE_INDEXES = [
@@ -85,7 +85,7 @@ def is_draft_markdown(text: str) -> bool:
 def archive_status_by_path() -> dict[str, str]:
     statuses: dict[str, str] = {}
     row_pattern = re.compile(r"\| \[[^\]]+\]\((markdown/[^)]+\.md)\) \| [^|]+ \| ([^|]+) \|")
-    for match in row_pattern.finditer(read_text(ARCHIVE)):
+    for match in row_pattern.finditer(read_text(LIBRARY)):
         statuses[match.group(1)] = match.group(2).strip()
     return statuses
 
@@ -183,7 +183,7 @@ def main() -> int:
     missing_archive_entries = archive_completeness_report(statuses)
     missing_resolution = christological_resolution_report(statuses)
     errors = new_raw_pdf_source_note_errors(new_paths)
-    errors.extend(f"{path} is missing from archive.qmd" for path in missing_archive_entries)
+    errors.extend(f"{path} is missing from library.qmd" for path in missing_archive_entries)
 
     print("Intake consistency report:")
     print_report("Essays lacking visible citations", missing_citations)

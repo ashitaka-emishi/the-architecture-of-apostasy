@@ -1,24 +1,117 @@
 ::: {.aoa-hero}
 ![](gallery/aoa-logo-home.webp){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image"}
 
-## The Architecture of Apostasy is not a theory to be mastered. It is a path to be walked.
+## A path to be kept. A keeping under Christ. A measure not our own.
 
-Every human life gives flesh to a spirit. Every habit embodies a logos. Every institution incarnates a way of being. No one stands outside this architecture. We are all becoming the embodiment of something.
+Our Christian witness does not ask "What is the correct form?" Instead, we ask how spirit takes flesh, how entrusted good becomes possessed, how faithful forms become apostate bodies, and how keepers remain under Christ rather than becoming the measure themselves.
 
-The question is not whether we believe correctly in abstraction. The question is whether our spirit and flesh are being conformed to Christ or to a false logos.
-
-**Apostasy is not merely the abandonment of doctrine. It is the embodiment of another lord.**
+Within this witness, apostasy is not merely the abandonment of doctrine. It is the condition The Path diagnoses, The Keeping resists, and The Measure returns to Christ.
 :::
 
-## The Path
+::: {.troth-litany}
+<div class="troth-litany-title">What Is The Troth?</div>
 
-Apostasy becomes visible when a false spirit takes flesh: in the self, the church, the institution, the nation, the crowd, the ideology, the ritual, and the sacrifice.
+**The Troth remains.**
 
-The way back is not detached observation. It is repentance, suffering, death to the false self, and re-embodiment in Christ.
+When strength fails?
+**The Troth remains.**
 
-<img class="path-image no-lightbox" src="gallery/the-path.webp" alt="A visual diagram titled A Path of Deformation and Return, showing ten stages from false logos through re-embodiment in Christ.">
+When courage fails?
+**The Troth remains.**
 
-[Walk the path of re-embodiment](path-of-re-embodiment.qmd)
+When wisdom fails?
+**The Troth remains.**
+
+When virtue fails?
+**The Troth remains.**
+
+When faithfulness fails?
+**The Troth remains.**
+
+When the community fails?
+**The Troth remains.**
+
+When institutions fail?
+**The Troth remains.**
+
+When rulers fail?
+**The Troth remains.**
+
+When the body fails?
+**The Troth remains.**
+
+And when I fail the Troth?
+**The Troth remains.**
+
+How can the Troth remain when I do not?
+Because the Troth does not depend upon my keeping it.
+**I am kept by the Troth.**
+
+Where is this revealed?
+**In Christ.**
+
+When Peter denies?
+**The Troth remains.**
+
+When Judas betrays?
+**The Troth remains.**
+
+When the disciples flee?
+**The Troth remains.**
+
+When the authorities condemn?
+**The Troth remains.**
+
+When the crowd mocks?
+**The Troth remains.**
+
+When the body is broken?
+**The Troth remains.**
+
+When the tomb is sealed?
+**The Troth remains.**
+
+What does the Resurrection proclaim?
+**The Troth never failed.**
+
+What, then, do we confess when all else has failed?
+
+<div class="troth-final-confession">The Troth remains.</div>
+:::
+
+## Diagnosis, Fidelity, And Discernment
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+### The Path
+
+[The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) names the spirit taking flesh. It diagnoses how received gifts, institutions, symbols, and practices become embodied under another lord.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### The Keeping
+
+[Aru va`en](markdown/aru-vaen-a-keeping-of-the-troth.md) shows how keeping becomes embodied: cry, wound, remaining, fang, fleece, pasture, throne, and the Shepherd.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### The Measure
+
+[The Measure of Christ](measure.qmd) keeps the keeper under Christ. It refuses to let courage, suffering, protection, office, or sacrifice become moral title.
+:::
+:::
+
+::: {.pillar-map}
+![](gallery/pillars.png){.path-image .no-lightbox fig-alt="A dark gold and black diagram titled The Path, The Keeping, and The Measure, showing a circular movement of diagnosis, fidelity, and discernment under Christ."}
+:::
+
+## First Readings
+
+1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
+2. [Aru va`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+3. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
+4. [The Measure of Christ](measure.qmd)
+5. [Foundations](foundations.qmd)
 
 ## Entry Points
 
@@ -26,7 +119,7 @@ The way back is not detached observation. It is repentance, suffering, death to 
 ::: {.g-col-12 .g-col-md-6}
 ### Foundations
 
-Begin with the project's diagnostic and embodied foundations: the architecture that exposes false worship, and the keeping that answers the cry before the Shepherd.
+Begin with The Path of Re-Embodiment, The Keeping of the Troth, and The Measure of Christ: the three movements that order the public library.
 
 [Read the foundations](foundations.qmd)
 :::
@@ -40,17 +133,33 @@ Discern the vocabulary of spirit, flesh, false logos, apostasy, suffering, repen
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### The Church
+### The Path
 
-Face the church as an embodied institution that is loved by Christ, fallen in history, and called to repentance.
+Walk the path from false logos through suffering, repentance, death to the false self, and re-embodiment in Christ.
 
-[Read the church page](church.qmd)
+[Walk the path](path.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### The Keeping
+
+Read the Troth as the embodied guard rail: faithfulness under the Shepherd when throne, pasture, fang, and fleece all fail.
+
+[Read the Keeping page](keeping.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### The Measure
+
+Keep judgment, strength, office, and protection answerable to Christ through the doctrine of unclaimed virtue.
+
+[Read The Measure of Christ](measure.qmd)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### Reading Paths
 
-Follow curated routes through the archive, beginning with diagnosis and moving toward return.
+Follow curated routes through the library, beginning with diagnosis and moving toward return.
 
 [Choose a reading path](reading-paths.qmd)
 :::
@@ -71,18 +180,4 @@ See the symbolic and devotional images that expose false embodiment and gesture 
 [Open the gallery](images.qmd)
 :::
 
-::: {.g-col-12 .g-col-md-6}
-### Archive
-
-Find every public reading copy, image catalog, and source collection.
-
-[Open the full archive](archive.qmd)
 :::
-:::
-
-## First Readings
-
-- Begin with [Foundations](foundations.qmd) to see how the diagnostic and embodied foundations belong together.
-- Continue with [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md) for the title essay.
-- Read [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md) as the archive's mythic and devotional discipline of faithful keeping.
-- Use [The Path of Re-Embodiment](path-of-re-embodiment.qmd) to keep the archive ordered toward return.

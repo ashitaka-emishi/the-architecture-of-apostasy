@@ -215,6 +215,51 @@ main.content:has(.aoa-hero) {
   font-size: clamp(1.18rem, 2vw, 1.45rem);
 }
 
+.troth-litany {
+  margin: 0 auto 3rem;
+  max-width: 42rem;
+  text-align: center;
+}
+
+.troth-litany-title {
+  color: var(--aoa-parchment);
+  font-family: var(--font-display);
+  font-size: clamp(1.65rem, 3vw, 2.4rem);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+}
+
+.troth-litany p {
+  color: var(--aoa-marble);
+  font-family: var(--font-heading);
+  font-size: clamp(1.2rem, 2vw, 1.55rem);
+  line-height: 1.45;
+  margin: 0 auto 1.15rem;
+}
+
+.troth-litany strong {
+  color: var(--aoa-parchment);
+  font-family: var(--font-display);
+  font-size: 0.95em;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.troth-final-confession {
+  color: var(--aoa-gold-light);
+  font-family: var(--font-display);
+  font-size: clamp(1.45rem, 2.4vw, 1.9rem);
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  line-height: 1.15;
+  margin: 0.75rem auto 0;
+  text-transform: uppercase;
+}
+
 .grid > div {
   background: rgba(17, 15, 12, 0.78);
   border: 1px solid rgba(84, 72, 52, 0.72);
@@ -258,6 +303,25 @@ main.content:has(.aoa-hero) {
   cursor: zoom-out;
   box-shadow: 0 0 58px rgba(203, 185, 156, 0.22);
   transform: translateX(-50%);
+}
+
+.troth-poster {
+  border: 1px solid var(--aoa-bronze-muted);
+  box-shadow: 0 0 58px rgba(126, 108, 80, 0.2);
+  margin: 0 auto 2.75rem;
+  max-width: min(100%, 46rem);
+  overflow: hidden;
+  position: relative;
+}
+
+.troth-poster-bg {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.troth-poster > p {
+  margin: 0;
 }
 
 .grid img.path-image {

@@ -13,7 +13,3 @@ Initial questions:
 ## Cross-Aspect Drafts
 
 - [Gettysburg as National Temple](../political-theology-and-war/gettysburg-national-military-park-as-national-temple.md)
-
-## Public Reading Copies
-
-- [The Pastor Inside the Apostate Architecture](../../../markdown/the-pastor-inside-the-apostate-architecture.md)

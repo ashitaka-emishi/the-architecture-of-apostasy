@@ -3,82 +3,64 @@
   "pages": {
     "index.html": {
       "title": "The Architecture of Apostasy",
-      "description": "A Christian archive tracing apostasy as false embodiment and the path of return from false logos into Christ.",
-      "image": "gallery/aoa-social-preview.jpg"
+      "description": "A Christian witness tracing apostasy as false embodiment and the path of return from false logos into Christ.",
+      "image": "gallery/pillars.png"
     },
     "about.html": {
       "title": "About",
       "description": "About The Architecture of Apostasy, a Christian project on false embodiment, apostasy, repentance, and re-embodiment in Christ."
     },
-    "archive-taxonomy.html": {
-      "title": "Archive Taxonomy",
-      "description": "Definitions for the archive categories and status labels used across the Architecture of Apostasy site."
-    },
-    "archive.html": {
-      "title": "Archive",
-      "description": "The public index of reading copies, source collections, image resources, and supporting pages in The Architecture of Apostasy."
-    },
-    "church.html": {
-      "title": "The Church and False Embodiment",
-      "description": "A Christian account of the church as loved by Christ while vulnerable to false institutional embodiment and worldly capture."
-    },
     "core-concepts.html": {
       "title": "Core Concepts",
-      "description": "Key terms for logos, false logos, embodiment, apostasy, repentance, suffering, and re-embodiment in Christ."
-    },
-    "discussions.html": {
-      "title": "Discussions",
-      "description": "A reserved section for theological conversations, responses, disputes, and collective commentary around the archive."
-    },
-    "document-intake-covenant.html": {
-      "title": "Document Intake Covenant",
-      "description": "The public process for moving new documents from raw preservation into public reading, canonical review, or held reserve."
+      "description": "Key terms for The Path of Re-Embodiment, The Keeping of the Troth, and The Measure of Christ."
     },
     "essays.html": {
       "title": "Essays",
       "description": "A categorized index of public essays with reading notes for claim types, interpretive care, and theological emphasis."
     },
-    "faithful-institutions.html": {
-      "title": "Faithful Institutions",
-      "description": "A constructive account of repentant institutions, faithful form, pruning, and common life ordered toward Christ."
-    },
     "foundations.html": {
       "title": "Foundations",
-      "description": "The diagnostic and devotional foundation documents that order the archive toward discernment, repentance, and faithful keeping."
-    },
-    "github.html": {
-      "title": "GitHub and Publishing",
-      "description": "Repository, publishing, and local development notes for the Quarto site behind The Architecture of Apostasy."
+      "description": "The public orientation to The Path of Re-Embodiment, The Keeping of the Troth, and The Measure of Christ."
     },
     "images.html": {
       "title": "Images",
       "description": "A public visual-theology image collection for symbolic theology, diagrams, and essay companion images.",
       "image": "gallery/the-path.webp"
     },
+    "keeping.html": {
+      "title": "The Keeping of the Troth",
+      "description": "A public entry to The Keeping of the Troth and the embodied guard rail within The Architecture of Apostasy.",
+      "image": "gallery/the-keeping.png"
+    },
+    "library.html": {
+      "title": "Library Catalog",
+      "description": "A catalog of public reading copies, source collections, and orientation pages in the public library."
+    },
+    "measure.html": {
+      "title": "The Measure of Christ",
+      "description": "The Christological guardrail for Unclaimed Virtue, dangerous capacity, and keeping under Christ.",
+      "image": "gallery/the-measure.png"
+    },
     "method.html": {
       "title": "Method",
       "description": "The project's method for reading Scripture, history, institutions, symbols, and culture through Christian theological discernment."
     },
-    "path-of-re-embodiment.html": {
+    "path.html": {
       "title": "The Path of Re-Embodiment",
       "description": "A path from false logos and false desire through suffering, repentance, death to the false self, and re-embodiment in Christ.",
       "image": "gallery/the-path.webp"
     },
     "readers-guide.html": {
       "title": "Reader's Guide",
-      "description": "Guidance for pastors, lay readers, wounded readers, and critics approaching the archive with care and self-examination."
+      "description": "Guidance for pastors, lay readers, wounded readers, and critics approaching the public library with care and self-examination."
     },
     "reading-paths.html": {
       "title": "Reading Paths",
-      "description": "Curated reading paths through the archive by theme, reader need, and theological entry point."
+      "description": "Curated reading paths through the public library by theme, reader need, and theological entry point."
     },
     "rival-readings.html": {
       "title": "Rival Readings",
-      "description": "Major objections, alternative readings, and cautions for testing the archive's theological and historical claims."
-    },
-    "songs.html": {
-      "title": "Songs",
-      "description": "A reserved section for songs, hymns, chants, lyrics, and other musical or liturgical materials."
+      "description": "Major objections, alternative readings, and cautions for testing the library's theological and historical claims."
     },
     "markdown/ancient-and-modern-monopolies-of-faithless-religion.html": {
       "title": "Ancient and Modern Monopolies of Faithless Religion",
@@ -130,6 +112,11 @@
       "title": "Mormonism and Christianity",
       "description": "A theological boundary essay distinguishing Christian doctrine, Mormon claims, history, and pastoral posture."
     },
+    "markdown/outside-the-camp-among-the-two-or-three.html": {
+      "title": "Outside the Camp, Among the Two or Three",
+      "description": "An essay on organic ekklesia, decentralized authority, and the prophetic destiny of the scattered remnant.",
+      "image": "gallery/outside-the-camp.jpg"
+    },
     "markdown/pagan-origins-of-christmas.html": {
       "title": "Pagan Origins of Christmas",
       "description": "An essay on contested Christmas-origin claims, sacred time, Christian liberty, and theological discernment."
@@ -164,6 +151,10 @@
       "title": "The Chemical Temple",
       "description": "A theological account of addiction, embodiment, suffering, and false temple formation through chemical desire."
     },
+    "markdown/the-doctrine-of-unclaimed-virtue.html": {
+      "title": "The Doctrine of Unclaimed Virtue",
+      "description": "A public doctrine of the keeper that refuses to turn courage, suffering, protection, office, or sacrifice into moral title."
+    },
     "markdown/the-cruciform-imperative.html": {
       "title": "The Cruciform Imperative",
       "description": "A call away from consumer religion toward cruciform participation, apostolic intimacy, and conformity to Christ."
@@ -176,6 +167,10 @@
       "title": "The Shape of the Unbroken Soul",
       "description": "A devotional essay on ceaseless prayer, endurance, shifting contexts, and the soul's continuous orientation toward God.",
       "image": "gallery/ceaseless-prayer.jpg"
+    },
+    "markdown/the-troth-remains-john-10.html": {
+      "title": "The Troth Remains: An Essay on John 10",
+      "description": "An essay grounding the Troth, the Shepherd, sheep, wolves, pasture, voice, and remaining in John 10."
     },
     "markdown/the-formation-of-the-christian-biblical-canon.html": {
       "title": "The Formation of the Christian Biblical Canon",
@@ -190,6 +185,16 @@
       "description": "An essay tracing New Testament liberty from purity of heart through Christ, the Spirit, and the organic ekklesia.",
       "image": "gallery/law-of-liberty-in-love.jpg"
     },
+    "markdown/the-scattered-flock-and-the-hidden-remnant.html": {
+      "title": "The Scattered Flock and the Hidden Remnant",
+      "description": "An essay on abiding in the True Vine outside the camp, failed shepherds, institutional degradation, and the hidden remnant.",
+      "image": "gallery/the-scattered-flock.jpg"
+    },
+    "markdown/the-sin-leading-to-death.html": {
+      "title": "The Sin Leading to Death",
+      "description": "An essay on apostasy, blasphemy against the Holy Spirit, final hardening, and the limits of intercessory prayer.",
+      "image": "gallery/the-sin-leading-to-death.jpg"
+    },
     "markdown/the-metaphysical-warfare-of-consciousness.html": {
       "title": "The Metaphysical Warfare of Consciousness",
       "description": "A speculative philological account of spiritual warfare, consciousness, and biblical soteriology."
@@ -203,10 +208,6 @@
       "title": "The Ordo Salutis and the Architecture of Cosmic Reconciliation",
       "description": "An essay on salvation, allegiance, and cosmic reconciliation through the order of salvation.",
       "image": "gallery/ordo-salutis-and-cosmic-reconciliation.jpg"
-    },
-    "markdown/the-pastor-inside-the-apostate-architecture.html": {
-      "title": "The Pastor Inside the Apostate Architecture",
-      "description": "A pastoral essay on faithfulness, repentance, and discernment inside compromised institutional church structures."
     },
     "markdown/the-true-timeline-of-messiah.html": {
       "title": "The True Timeline of Messiah",
@@ -225,6 +226,10 @@
       "title": "The Whitewashed Cathedral and the Hidden Upper Room",
       "description": "A polemic on religious images, ecclesiastical grandeur, hidden faith, and worship by the Spirit rather than by sight.",
       "image": "gallery/whitewashed-cathedral-and-hidden-upper-room.jpg"
+    },
+    "markdown/when-rule-becomes-devouring.html": {
+      "title": "When Rule Becomes Devouring",
+      "description": "A biblical-theological morphology of entrusted authority, rebellious rule, predatory power, and Christic correction."
     }
   }
 }
