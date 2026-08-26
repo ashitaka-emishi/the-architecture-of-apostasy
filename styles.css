@@ -477,3 +477,57 @@ code {
     flex-wrap: wrap;
   }
 }
+
+.aoa-status-banner {
+  margin-bottom: 1.5rem;
+  padding: 0.85rem 1.1rem;
+  background: var(--aoa-charcoal);
+  border: 1px solid var(--aoa-bronze-muted);
+  border-left: 3px solid var(--aoa-gold);
+  border-radius: 0.25rem;
+}
+
+.aoa-status-banner-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.aoa-status-badge {
+  display: inline-block;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  border: 1px solid var(--aoa-bronze-muted);
+  color: var(--aoa-marble);
+}
+
+.aoa-status-badge--accent {
+  border-color: var(--aoa-gold);
+  color: var(--aoa-gold-light);
+}
+
+.aoa-status-badge--warning {
+  border-color: var(--aoa-gold-light);
+  border-style: dashed;
+  color: var(--aoa-parchment);
+  background: var(--aoa-stone-dark);
+}
+
+.aoa-status-badge--muted {
+  color: var(--aoa-bronze-muted);
+}
+
+.aoa-status-banner-summary {
+  margin: 0 0 0.35rem;
+  color: var(--aoa-parchment);
+}
+
+.aoa-status-banner-links {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--aoa-marble);
+}
