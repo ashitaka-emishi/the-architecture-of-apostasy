@@ -6,13 +6,18 @@ Use these paths depending on what kind of entry point you want.
 
 ## Public Orientation
 
-Start here for the broadest introduction to the project.
+Start here for the broadest introduction to the project: the three pillars the whole library is organized around.
 
 1. [The Architecture of Apostasy](markdown/the-architecture-of-apostasy.md)
 2. [The Keeping of the Troth](keeping.qmd)
-3. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
-4. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
-5. [The Measure of Christ](measure.qmd)
+3. [The Measure of Christ](measure.qmd)
+
+### Full Program
+
+Once you have the three pillars, these fill out the same orientation in more depth.
+
+4. [Aru va\`en: A Keeping of the Troth](markdown/aru-vaen-a-keeping-of-the-troth.md)
+5. [The Troth Remains: An Essay on John 10](markdown/the-troth-remains-john-10.md)
 6. [The Doctrine of Unclaimed Virtue](markdown/the-doctrine-of-unclaimed-virtue.md)
 7. [The Path of Re-Embodiment](path.qmd)
 8. [Method](method.qmd)
