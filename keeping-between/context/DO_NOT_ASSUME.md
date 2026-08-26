@@ -1,0 +1,29 @@
+# Do Not Assume
+
+- Do not assume an order exists.
+- Do not use **Order of the Troth** as active project vocabulary except when discussing frozen source provenance.
+- Do not assume **The Keeping Between** has been formed as an order, institution, church, or permanent religious body.
+- Do not assume the provisional constitutional, Rule, or Sigil materials mean that The Keeping Between has been formed or will be formed.
+- Do not treat The Keeping Between as permanent; if it becomes an order at all, it remains provisional and may pass away when its charge is complete.
+- Do not import the recovered institutional package's Vaerun definition or `Hrovann` misspelling; D-024 controls the distinct callings.
+- Do not confuse the proposed institutional Sigil with Vethra. Frozen source material calls the Sigil a Mark, but active vocabulary does not.
+- Do not turn Vethra's first-light imagery into visible halos, earned spiritual rank, payment for suffering, an autonomous flame beside Christ, or resurrection before the eschaton.
+- Do not assume the Host possesses the Troth.
+- Do not assume Vaerun is infallible or uniquely virtuous.
+- Do not assume sheep are always innocent or wolves always irredeemable.
+- Do not assume the existing violent passages of the frozen myth are the intended final form.
+- Do not modernize away the old liturgical register of the myth or flatten its imagery into explanatory doctrine.
+- Do not treat the myth's vocation as a keeper of the Troth as a claim that it possesses the Troth, is Scripture or revelation, or stands as a measure beside Christ.
+- Do not treat any material myth revision as finally accepted before its Scriptural and Christological review is documented and approved by the user.
+- Do not assume a proposed liturgical formula is historically apostolic; “apostolic” here is a project-theological form unless separately argued historically.
+- Do not assume Troth terminology is a biblical lexical category.
+- Do not assume a sermon proves an exegetical claim.
+- Do not assume a mythic symbol identifies a literal spiritual species.
+- Do not assume peaceful resistance means passivity, denial of danger, or refusal to restrain harm.
+- Do not let the resisting wolves draw an attacker's blood; they may hold, shield, interpose, carry, open escape, and throw an attacker back only when holding is insufficient.
+- Do not reduce the Living Lamb to an unnamed passive animal or separate it from the one creaturely communion whose keeping-face is Aruvan.
+- Do not identify the Living Lamb with Christ or treat Aruvan and the Living Lamb as independent beings, spouses, or complementary saving powers.
+- Do not assume mercy requires continuity of office, trust, or relationship after serious wrongdoing.
+- Do not assume repentance eliminates restitution.
+- Do not assume authority and righteousness are the same thing.
+- Do not treat a change of guardian calling as promotion, demotion, or an ascent toward Hrovan.

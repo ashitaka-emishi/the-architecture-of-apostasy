@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0",
+  "artifacts": [
+    {
+      "id": "SRC-ARU-PDF",
+      "path": "source/aru-vaen/Aru vaen-A Keeping of the Troth.pdf",
+      "status": "source",
+      "role": "frozen primary myth source",
+      "sha256": "902c6b7fe7d75211953fd0cdadc84282365bf2fca813dd6424828a71b4a4aa4c"
+    },
+    {
+      "id": "SRC-ARU-V3",
+      "path": "source/aru-vaen/the_troth_v3_draft.md",
+      "status": "source",
+      "role": "recovered alternative working draft",
+      "sha256": "451ff7f802d6d708a3b69ac79b7695d713616d9d45d3770fd76f570ef359abff"
+    },
+    {
+      "id": "SRC-LIT",
+      "path": "source/liturgy/The Liturgy of the Troth.md",
+      "status": "source",
+      "role": "recovered liturgy source",
+      "sha256": "996f33af63dcb0b8166b5c0f65efcd6c0d7cc7e7501f3279f7cd21ee3b0f5582"
+    },
+    {
+      "id": "SRC-DOCTRINE-UV",
+      "path": "source/doctrine/The Doctrine of Unclaimed Virtue.md",
+      "status": "source",
+      "role": "recovered Unclaimed Virtue doctrine source",
+      "sha256": "5ab4d20109d47635da2501628d22d477be590769df929031a9f1e4328ac59701"
+    },
+    {
+      "id": "SRC-LIT-GREETING",
+      "path": "source/liturgy/The Greeting of the Troth.md",
+      "status": "source",
+      "role": "recovered greeting liturgy source",
+      "sha256": "c5750a2eaeda0e5b1f9371a4c0b9fcb02463afdf03a2e90f915d5468075c93f0"
+    },
+    {
+      "id": "SRC-SER-J10",
+      "path": "source/sermons/The Troth Remains - John 10.md",
+      "status": "source",
+      "role": "recovered John 10 sermon",
+      "sha256": "ef027175b7bee8132c4d1815eca355cb3d2e89d84992951387b713abdb23b4f8"
+    },
+    {
+      "id": "SRC-INST-CONSTITUTION",
+      "path": "source/institutional/Constitution of the Order of the Troth.md",
+      "status": "source",
+      "role": "recovered draft institutional constitution; conflicts with current D-002",
+      "sha256": "0bd43ad310868e3a3647c5f1a1aa6bd47b0e669437b7a348d0aaa27807060e2c"
+    },
+    {
+      "id": "SRC-INST-RULE",
+      "path": "source/institutional/The Rule of the Troth.md",
+      "status": "source",
+      "role": "recovered full institutional rule",
+      "sha256": "9429985563fede47e0343f9ef3d9ef8f8a2fc4faedd8d18abd253dc2a40dea2b"
+    },
+    {
+      "id": "SRC-INST-SHORT-RULE",
+      "path": "source/institutional/The Short Rule of the Troth.md",
+      "status": "source",
+      "role": "recovered short institutional rule",
+      "sha256": "0643d4dc1e21840f629237422f7cc1a43b679772a18ba8d6ecfbcb0e1f6262d0"
+    },
+    {
+      "id": "SRC-INST-MARK-DOC",
+      "path": "source/institutional/The Mark of the Troth.md",
+      "status": "source",
+      "role": "recovered explanation of the institutional Mark and its distinction from Vethra",
+      "sha256": "1d38cce1b31c1fee65e98a4286c0ae099ec7b9e38507161d464225e42405a625"
+    },
+    {
+      "id": "SRC-INST-MARK-PNG",
+      "path": "source/institutional/mark.png",
+      "status": "source",
+      "role": "recovered Mark image; open enclosure with central standing stroke",
+      "sha256": "2cac55ce0bd4b159d176121cf845a3df38c3feeffc037c4b1c2a6daae9db41b0"
+    },
+    {
+      "id": "SRC-BOOK-VEY-LETTER",
+      "path": "source/book-of-the-troth/The Letter of Little Vey to the Vaerun.md",
+      "status": "source",
+      "role": "recovered post-Keeping letter from Little Vey to Vaerun",
+      "sha256": "10407578e77124b4d2bfd972163115c6a98cced040fde7caf5d877f9c23bc2f5"
+    },
+    {
+      "id": "BOOK-VEY-LETTER-ACTIVE",
+      "path": "book-of-wolves/letters/LITTLE_VEY_TO_VAERUN.md",
+      "status": "working_synthesis",
+      "role": "active Little Vey letter revision challenging the movement from a Vaerun to the Vaerun",
+      "sha256": "1d6ffb4806174ff19ed7be7b2cbbc5a1a54d84c6b9a02b3f6fba8562e719cb06"
+    },
+    {
+      "id": "DOC-UV",
+      "path": "doctrine/Doctrine_of_Unclaimed_Virtue.md",
+      "status": "working_synthesis",
+      "role": "doctrinal consolidation",
+      "sha256": "baf12c337501db72cb9c0cf17407b5d6bbf969cf52f3a01808a0bde9061aafc8"
+    },
+    {
+      "id": "DOC-AUTH",
+      "path": "doctrine/Authority_Under_the_Troth.md",
+      "status": "working_synthesis",
+      "role": "authority doctrine",
+      "sha256": "d582c62514338989f1c3a352aac880842d0e1929af42a9152ebb42e2fe559bac"
+    },
+    {
+      "id": "CONTEXT-ACCEPTED-INDEX",
+      "path": "context/ACCEPTED_ARTIFACTS.md",
+      "status": "working_synthesis",
+      "role": "human-readable index of user-established project artifacts",
+      "sha256": "3d93acea8caa3386e5ddd86a30cf94fd52e8c02c103ccc323aa72991990464fd"
+    },
+    {
+      "id": "ARU-REV",
+      "path": "aru-vaen/REVISION_BRIEF.md",
+      "status": "user_established",
+      "role": "accepted revision mandate governing the myth revision completed under D-090",
+      "sha256": "7e0ce61a60b045e35eb8fafc96f35c29dd0ae0af0563dca83263c6d80444762e"
+    },
+    {
+      "id": "ARU-CHANGE-MAP",
+      "path": "aru-vaen/PASSAGE_CHANGE_MAP.md",
+      "status": "working_synthesis",
+      "role": "passage-level myth revision map and acceptance gates",
+      "sha256": "f01f007723710bf6d926ad7e07f428cf7fa54a7d99ee93a054a103526197267e"
+    },
+    {
+      "id": "ARU-VAEN",
+      "path": "aru-vaen/ARU_VAEN.md",
+      "status": "user_established",
+      "role": "accepted five-Keeping project myth revised from the definitive PDF under the accepted passage map, D-090, and D-094",
+      "sha256": "6b4cfd82a3b644bef1aef2b35fc2680f2b47ee5db5c5c4fb4f78d42fe734c7a3"
+    },
+    {
+      "id": "ARU-REVIEW-INDEX",
+      "path": "aru-vaen/reviews/README.md",
+      "status": "working_synthesis",
+      "role": "index and commenting protocol for the five Keeping reviews and final whole-myth audit",
+      "sha256": "3146acdc6568b13197cd2e7aa3ea3568899de4dc5ec19a32ae0c55ab0dc266ad"
+    },
+    {
+      "id": "ARU-REVIEW-NIGHT",
+      "path": "aru-vaen/reviews/01_NIGHT_REVIEW.md",
+      "status": "working_synthesis",
+      "role": "human-review packet for the invocation and First Keeping",
+      "sha256": "57ff75f14e118883d314e742cf3fe98a2eb352f82f35cfd39001b460469fc28e"
+    },
+    {
+      "id": "ARU-REVIEW-PRE-DAWN",
+      "path": "aru-vaen/reviews/02_PRE_DAWN_REVIEW.md",
+      "status": "working_synthesis",
+      "role": "human-review packet for the Second Keeping",
+      "sha256": "099350bb9ad126d2bfbdc938e46fa4913623386843b031ba5d0b56fe0e62397a"
+    },
+    {
+      "id": "ARU-REVIEW-CALLING",
+      "path": "aru-vaen/reviews/03_CALLING_REVIEW.md",
+      "status": "working_synthesis",
+      "role": "human-review packet for the Third Keeping",
+      "sha256": "c000417c355e3d32190ad39abd9cfaf61ce34d1b74cba1008cb1f938bb432124"
+    },
+    {
+      "id": "ARU-REVIEW-ETERNAL-DAWN",
+      "path": "aru-vaen/reviews/04_ETERNAL_DAWN_REVIEW.md",
+      "status": "working_synthesis",
+      "role": "human-review packet for the Fourth Keeping",
+      "sha256": "b8f4dbbbf7623d17f770686911c814ac0196964079754ada46ae32934c8139ae"
+    },
+    {
+      "id": "ARU-REVIEW-MOURN",
+      "path": "aru-vaen/reviews/05_MOURN_REVIEW.md",
+      "status": "working_synthesis",
+      "role": "human-review packet for the Fifth Keeping",
+      "sha256": "9d7d4d7ccb26c9ac46d7b8b56e003c0d3cd94d9572844b12b36df9b99b4dd590"
+    },
+    {
+      "id": "ARU-FINAL-AUDIT",
+      "path": "aru-vaen/reviews/06_FINAL_CROSS_KEEPING_AUDIT.md",
+      "status": "research",
+      "role": "final Scriptural, Christological, literary, and continuity audit of the accepted five-Keeping candidate",
+      "sha256": "f81b862ae443c1a0347e141160143677a3c2654879838203cbffe001571fa793"
+    },
+    {
+      "id": "ARU-SCRIPTURAL-REVIEW",
+      "path": "biblical/ARU_VAEN_SCRIPTURAL_REVIEW.md",
+      "status": "research",
+      "role": "biblical, Christological, symbolic, continuity, and liturgical review dossier for the active myth revision",
+      "sha256": "103f6458437e2350ae509216e669eeb76db19b6b186ab884485e164bdf01f27a"
+    },
+    {
+      "id": "LIT-GREET",
+      "path": "liturgy/Apostolic_and_Companion_Greetings.md",
+      "status": "working_synthesis",
+      "role": "greeting register; mixed per-section status",
+      "sha256": "08c479d97aae2c86b3c9cb861775aa0c7879f6ae88ea38537aeb09e153a1c357"
+    },
+    {
+      "id": "BOOK-DESIGN",
+      "path": "book-of-wolves/BOOK_DESIGN.md",
+      "status": "proposed",
+      "role": "active proposed Book of Wolves architecture for the epistolary workstream",
+      "sha256": "8d2a72ebf63653a1cf9b11124685b270aadb4e6e3912696d2f6f46d75cfb9b05"
+    },
+    {
+      "id": "SER-PHIL2",
+      "path": "sermons/Philippians_2_1-11_The_Troth_Does_Not_Grasp.md",
+      "status": "working_synthesis",
+      "role": "Troth-contextualized sermon",
+      "sha256": "c83e98b4dbe60bbe6b2835060bb233efa317f5a493cf6233d9fff24fa7732a2c"
+    },
+    {
+      "id": "SER-RUTH-REMAINING",
+      "path": "sermons/ruth-and-remaining.md",
+      "status": "working_synthesis",
+      "role": "Troth-contextualized sermon on Ruth, remaining, keeping, and Unclaimed Virtue",
+      "sha256": "dc9cb9a0b8164a0e21fdc6b237e4c3d374f9982aa7776b2c545d6bfe8a99576f"
+    },
+    {
+      "id": "SER-JOJO-LAMENT",
+      "path": "sermons/jojo-lament-keeping-and-remaining.md",
+      "status": "working_synthesis",
+      "role": "Troth-contextualized lament for JoJo on keeping, remaining, release, and creaturely grief",
+      "sha256": "5094da839b36b93005acd892b4befd6d05da76005c114c01c6557ae9a7443501"
+    },
+    {
+      "id": "POSTER-TROTH-REMAINS-RESURRECTION",
+      "path": "assets/posters/troth-remains-resurrection.png",
+      "status": "working_synthesis",
+      "role": "poster image; resurrection-themed The Troth Remains acclamation",
+      "sha256": "e2c3f92f3404c92f8b9a6787bb77cbd46e59223c27c7009651d5a1d9fe8209f1"
+    },
+    {
+      "id": "artifact.guardian-annals",
+      "path": "doctrine/annals-of-the-guardians.md",
+      "status": "working_synthesis",
+      "role": "doctrinal essay; guardian offices working synthesis",
+      "sha256": "a3f0303c1dc8e983e6195700c834503213866f10b4f2cbab5c102fb030b89cbb"
+    },
+    {
+      "id": "artifact.shepherd-paper",
+      "path": "doctrine/the-shepherd-who-keeps.md",
+      "status": "working_synthesis",
+      "role": "doctrinal essay; Christological Shepherd and redeemed guardianship",
+      "sha256": "38680c6a4b5bd5a1b2667d9a1a9642185ee51bbbdb719dbf601e6f3e24b6ec36"
+    },
+    {
+      "id": "artifact.troth-paper",
+      "path": "doctrine/the-troth-remains.md",
+      "status": "working_synthesis",
+      "role": "doctrinal essay; Troth before throne, pasture, fang, and fleece",
+      "sha256": "5b85add17471c0eb6df712671c3b9f70d41c392828139853aeb9eb6d094d9fa9"
+    },
+    {
+      "id": "artifact.aruvan-notes",
+      "path": "aru-vaen/aruvan-long-wolf-paper-notes.md",
+      "status": "working_synthesis",
+      "role": "mythopoetic theology notes; Aruvan as accumulated keeping",
+      "sha256": "507b2f86dc25c1e5f8addfb70980829632d83c8a4fa9d8d5bc77541a73101f71"
+    },
+    {
+      "id": "artifact.lamb-notes",
+      "path": "aru-vaen/lamb-companion-paper-notes.md",
+      "status": "working_synthesis",
+      "role": "mythopoetic notes on the Living Lamb as the kept-and-gathered face of the same creaturely communion whose keeping-face is Aruvan",
+      "sha256": "b006a87a77e2942f7156c1b55b8ca074d6035de2b63e8bb06f8bea9e86a44430"
+    },
+    {
+      "id": "artifact.letters-framework",
+      "path": "book-of-wolves/letters-framework.md",
+      "status": "proposed",
+      "role": "epistolary design framework for the Book of Wolves",
+      "sha256": "26f59c666d331158847a4fa1ff0178ea82285d292fbdbbf1f6a0441b3c85cab2"
+    },
+    {
+      "id": "artifact.letters-andren",
+      "path": "book-of-wolves/LETTERS_OF_ANDREN.md",
+      "status": "proposed",
+      "role": "Book of Wolves letter-design constraints centered on Andren's correspondence and correction",
+      "sha256": "817272d8f83b69386c2a9dbe210b324ebbdea14876820f2d6350bbafaa7e61c9"
+    },
+    {
+      "id": "artifact.book-wolves-recipient-register",
+      "path": "book-of-wolves/recipient-register.json",
+      "status": "proposed",
+      "role": "Book of Wolves recipient, title, theme, and chiastic structure register",
+      "sha256": "2a3ee05bf07c4fa2954565d4a148302be91b52d30c08b82976378113a3fb76bb"
+    },
+    {
+      "id": "INST-DRAFT-README",
+      "path": "institutional/README.md",
+      "status": "proposed",
+      "role": "status and vocabulary controls for provisional Keeping Between design",
+      "sha256": "d3f719c532cb386f1ff6a539c3c096f7843723dde1fb723d0b18d71a77705156"
+    },
+    {
+      "id": "INST-KEEPING-BETWEEN",
+      "path": "institutional/KEEPING_BETWEEN.md",
+      "status": "proposed",
+      "role": "concise embodied-vocation statement for The Keeping Between as provisional practice",
+      "sha256": "12fd71b9f382709c5ade0774c47edab390c24733721d1fd5e8991faf9057f791"
+    },
+    {
+      "id": "INST-DRAFT-CONSTITUTION",
+      "path": "institutional/CONSTITUTION_DRAFT.md",
+      "status": "proposed",
+      "role": "conditional constitutional design for The Keeping Between if the vocation becomes a provisional order",
+      "sha256": "e306731b68c832d0974a0f5ea6f7014df6b9d6846d7a65bf8b67fca4c1f4ca31"
+    },
+    {
+      "id": "INST-DRAFT-RULE",
+      "path": "institutional/RULE_DRAFT.md",
+      "status": "proposed",
+      "role": "conditional full Rule for The Keeping Between aligned with the mythic guardian callings",
+      "sha256": "c4d1aefbf724335ec53cf726eb3ead1ebc6c36b247536958ef6395e4e7a30ae8"
+    },
+    {
+      "id": "INST-DRAFT-SHORT-RULE",
+      "path": "institutional/SHORT_RULE_DRAFT.md",
+      "status": "proposed",
+      "role": "conditional short Rule for The Keeping Between",
+      "sha256": "5b24d981145d5402d9568ade3e2bae4e81169e7f22e9e82c06c7bff8dacfacf3"
+    },
+    {
+      "id": "INST-DRAFT-SIGIL",
+      "path": "institutional/SIGIL_DRAFT.md",
+      "status": "proposed",
+      "role": "unadopted Sigil proposal for The Keeping Between kept distinct from Vethra; frozen source calls it the Mark",
+      "sha256": "b6e7bb700cb585040052195f7482d85b3d25efa1c2437fa0600b72233d31277b"
+    }
+  ]
+}

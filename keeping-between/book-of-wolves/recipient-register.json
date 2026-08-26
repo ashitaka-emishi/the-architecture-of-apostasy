@@ -1,0 +1,136 @@
+{
+  "note": "Recipient themes remain proposed except where stated. This register follows the active Book of Wolves design in book-of-wolves/BOOK_DESIGN.md. Little Vey's survival and later corrective letter are user-established; the Andren naming decision applies to the Book of Wolves workstream and does not change the accepted Aru Va'en narration, where the narrator's personal name remains unstated.",
+  "title": "The Book of Wolves",
+  "subtitle": "Letters Concerning the Keeping of the Troth",
+  "frame": {
+    "prologue_author": "Little Vey",
+    "prologue_status": "proposed",
+    "role": "near-end-of-life editorial preservation of Andren's letters"
+  },
+  "recipients": [
+    {
+      "sequence": 1,
+      "recipient": "Harrow",
+      "letter_title": "The Vow",
+      "theme": "oaths and the Troth; the danger of identifying the vow with the thing it was meant to serve",
+      "status": "proposed"
+    },
+    {
+      "sequence": 2,
+      "recipient": "Sable",
+      "letter_title": "The Song",
+      "theme": "gift and identity; gift must pass through a wolf without becoming possession",
+      "status": "proposed"
+    },
+    {
+      "sequence": 3,
+      "recipient": "Murn",
+      "letter_title": "The Last Winter",
+      "theme": "mortality, diminishing strength, relinquishment, and the passage of keeping into other paws",
+      "status": "proposed"
+    },
+    {
+      "sequence": 4,
+      "recipient": "Brindle",
+      "letter_title": "The Hidden Good",
+      "theme": "Unclaimed Virtue; goodness performed through a wolf does not prove that the wolf possesses goodness",
+      "status": "proposed"
+    },
+    {
+      "sequence": 5,
+      "recipient": "Keld",
+      "letter_title": "The Silence",
+      "theme": "presence and withdrawal; when silence serves attention and when it becomes abandonment",
+      "status": "proposed"
+    },
+    {
+      "sequence": 6,
+      "recipient": "Ash",
+      "letter_title": "The Fear",
+      "theme": "courage without fearlessness; answering while fear remains",
+      "status": "proposed"
+    },
+    {
+      "sequence": 7,
+      "recipient": "Rook",
+      "letter_title": "The Watch",
+      "theme": "discernment and suspicion; when vigilance hardens and fear mistakes itself for sight",
+      "status": "proposed"
+    },
+    {
+      "sequence": 8,
+      "recipient": "Yarrow",
+      "letter_title": "The Mercy",
+      "theme": "the fallen and their return; mercy without denial of wound or guilt",
+      "status": "proposed"
+    },
+    {
+      "sequence": 9,
+      "recipient": "Thorn",
+      "letter_title": "The Fang",
+      "theme": "strength and guardianship; the fang may guard but cannot enthrone itself",
+      "status": "proposed"
+    },
+    {
+      "sequence": 10,
+      "recipient": "Ostra",
+      "letter_title": "The Wound",
+      "theme": "grief and authority; the wound may teach but cannot crown",
+      "status": "proposed"
+    },
+    {
+      "sequence": 11,
+      "recipient": "Fen",
+      "letter_title": "The Sinking Ground",
+      "theme": "remaining without absolutizing preservation; the Troth may remain when structures do not",
+      "status": "proposed"
+    },
+    {
+      "sequence": 12,
+      "recipient": "Andren",
+      "letter_title": "The Office",
+      "theme": "the Vaerun; Little Vey gives Andren his name back and corrects identification with office",
+      "status": "working_synthesis",
+      "correspondence_role": "written by Little Vey to Andren as the sole reversal of direction",
+      "source": "source/book-of-the-troth/The Letter of Little Vey to the Vaerun.md"
+    }
+  ],
+  "chiasm": [
+    {
+      "pair": "A",
+      "letters": "Harrow / Andren",
+      "distinction": "Vow / Office",
+      "correction": "Do not become the thing entrusted to you."
+    },
+    {
+      "pair": "B",
+      "letters": "Sable / Fen",
+      "distinction": "Gift / Remaining",
+      "correction": "What must actually remain when gifts, forms, traditions, and structures change?"
+    },
+    {
+      "pair": "C",
+      "letters": "Murn / Ostra",
+      "distinction": "Mortality / Wound",
+      "correction": "Neither death nor suffering confers possession of virtue."
+    },
+    {
+      "pair": "D",
+      "letters": "Brindle / Thorn",
+      "distinction": "Hidden Good / Fang",
+      "correction": "Neither goodness nor power becomes righteousness because a wolf bears it."
+    },
+    {
+      "pair": "E",
+      "letters": "Keld / Yarrow",
+      "distinction": "Silence / Mercy",
+      "correction": "Keeping requires discerning when not to act and when another's cry cannot be left unanswered."
+    },
+    {
+      "pair": "F",
+      "letters": "Ash / Rook",
+      "distinction": "Fear / Sight",
+      "correction": "What do we fear, and what do we truly see?"
+    }
+  ]
+}

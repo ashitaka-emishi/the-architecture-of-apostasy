@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Troth Proposition Register",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "propositions"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "propositions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "status",
+          "claim",
+          "layer",
+          "confidence"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "source",
+              "user_established",
+              "working_synthesis",
+              "proposed",
+              "research",
+              "deprecated"
+            ]
+          },
+          "claim": {
+            "type": "string"
+          },
+          "layer": {
+            "type": "string"
+          },
+          "confidence": {
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

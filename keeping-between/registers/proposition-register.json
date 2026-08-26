@@ -1,0 +1,937 @@
+{
+  "schema_version": "1.0",
+  "propositions": [
+    {
+      "id": "TROTH-001",
+      "status": "user_established",
+      "claim": "Christ is the measure; the Troth must not become a second Logos or autonomous deity.",
+      "layer": "constructive_theology",
+      "confidence": "high"
+    },
+    {
+      "id": "TROTH-002",
+      "status": "working_synthesis",
+      "claim": "The Troth names enduring fidelity to the Good as revealed and judged in Christ.",
+      "layer": "constructive_theology",
+      "confidence": "medium",
+      "note": "Exact formulation remains open."
+    },
+    {
+      "id": "TROTH-003",
+      "status": "user_established",
+      "claim": "The Troth remains when persons, institutions, identities, or offices fail.",
+      "layer": "constructive_theology",
+      "confidence": "high"
+    },
+    {
+      "id": "TROTH-004",
+      "status": "user_established",
+      "claim": "The apostolic acclamation is: Speaker 1 'Before throne and pasture'; Speaker 2 'Before fang and fleece'; Both 'The Troth remains!'.",
+      "layer": "liturgy",
+      "confidence": "high"
+    },
+    {
+      "id": "troth.greeting.aru-vaen-departure",
+      "status": "user_established",
+      "claim": "Before the called leave in Aru Va'en, Hrovan and the gathered Truvane say 'Though the road divide us'; Vaerun and the twelve named Vaelun called to cross answer 'Though the night conceal us'; and the whole hall says 'The Troth remains!'. This Greeting of Departure replaces rather than supplements the prior departure enactment of the Apostolic Greeting.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-036--departure-greeting-in-the-hall"
+    },
+    {
+      "id": "troth.cry.binds-without-specifying-force",
+      "status": "user_established",
+      "claim": "Before the calling, the Hrovan publicly admits that the cry binds the community to answer without specifying what answer will keep faith, and a gathered Gravane objects that the cry names whom not to abandon but not whom to strike; the objection redirects the commission toward witness, protection, and discernment.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-037--hrovans-uncertainty-and-the-communal-objection"
+    },
+    {
+      "id": "UV-001",
+      "status": "user_established",
+      "claim": "Unclaimed Virtue denies human self-certification of possessed virtue; it does not deny objective Good.",
+      "layer": "doctrine",
+      "confidence": "high"
+    },
+    {
+      "id": "UV-002",
+      "status": "user_established",
+      "claim": "Christ has morally pure positions and functions as the Christian measure of virtue.",
+      "layer": "doctrine",
+      "confidence": "high"
+    },
+    {
+      "id": "UV-003",
+      "status": "working_synthesis",
+      "claim": "A person may name an act evil without inferring that correctly naming it makes the judge righteous.",
+      "layer": "doctrine",
+      "confidence": "high"
+    },
+    {
+      "id": "UV-004",
+      "status": "user_established",
+      "claim": "Unclaimed Virtue does not require pretending violence or evil do not exist.",
+      "layer": "doctrine",
+      "confidence": "high"
+    },
+    {
+      "id": "UV-005",
+      "status": "working_synthesis",
+      "claim": "Victimhood requires hearing and justice but does not confer moral sovereignty or infallibility.",
+      "layer": "doctrine",
+      "confidence": "high"
+    },
+    {
+      "id": "AUTH-001",
+      "status": "user_established",
+      "claim": "Authority is entrusted, not possessed.",
+      "layer": "authority",
+      "confidence": "high"
+    },
+    {
+      "id": "AUTH-002",
+      "status": "working_synthesis",
+      "claim": "Authority may determine who must decide without determining who is right.",
+      "layer": "authority",
+      "confidence": "high"
+    },
+    {
+      "id": "AUTH-003",
+      "status": "working_synthesis",
+      "claim": "Greater authority implies greater accountability rather than greater moral worth.",
+      "layer": "authority",
+      "confidence": "high"
+    },
+    {
+      "id": "AUTH-004",
+      "status": "working_synthesis",
+      "claim": "Legitimate authority can arise from office, competence, experience, calling, witness, relationship, or necessity.",
+      "layer": "authority",
+      "confidence": "medium"
+    },
+    {
+      "id": "CRY-001",
+      "status": "user_established",
+      "claim": "A central diagnostic is: 'What cry have I trained myself not to hear?'.",
+      "layer": "spiritual_discipline",
+      "confidence": "high"
+    },
+    {
+      "id": "CRY-002",
+      "status": "working_synthesis",
+      "claim": "Hearing the cry must remain joined to truth and discernment; the cry is not an autonomous infallible oracle.",
+      "layer": "spiritual_discipline",
+      "confidence": "medium"
+    },
+    {
+      "id": "ARU-001",
+      "status": "source",
+      "claim": "Vaerun is the office of crossing / one bound to pass the veil.",
+      "layer": "myth",
+      "confidence": "high"
+    },
+    {
+      "id": "ARU-002",
+      "status": "user_established",
+      "claim": "There is no order in the current system, and Order of the Troth is deprecated as active project vocabulary except when discussing frozen source provenance.",
+      "layer": "ecclesiology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-002--no-order-of-the-troth"
+    },
+    {
+      "id": "ARU-003",
+      "status": "user_established",
+      "claim": "The active revision direction replaces violence-as-resolution with intense peaceful resistance to physical and spiritual violence.",
+      "layer": "myth_revision",
+      "confidence": "high"
+    },
+    {
+      "id": "ARU-004",
+      "status": "user_established",
+      "claim": "Redemption remains open to the fallen.",
+      "layer": "myth_revision",
+      "confidence": "high"
+    },
+    {
+      "id": "ARU-005",
+      "status": "user_established",
+      "claim": "Even the keeper must be kept; nothing faithful keeps alone.",
+      "layer": "myth_revision",
+      "confidence": "high"
+    },
+    {
+      "id": "ARU-006",
+      "status": "user_established",
+      "claim": "The frozen Aru Va'en PDF is definitive over the recovered V3 draft; any V3 adoption must be an explicit revision of the PDF baseline.",
+      "layer": "source_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-020--aru-vaen-source-priority"
+    },
+    {
+      "id": "ARU-007",
+      "status": "user_established",
+      "claim": "Little Vey survives the Keeping as a living embodied companion and later writes to Vaerun.",
+      "layer": "myth_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-021--little-vey-survives-and-writes-to-vaerun"
+    },
+    {
+      "id": "ARU-008",
+      "status": "source",
+      "claim": "Where force is unavoidable it remains morally dangerous and accountable; a faithful purpose does not sanctify every means.",
+      "layer": "myth_revision",
+      "confidence": "high",
+      "source": "source/institutional/The Rule of the Troth.md#xi-violence-and-resistance"
+    },
+    {
+      "id": "ARU-009",
+      "status": "source",
+      "claim": "Little Vey's smallness lets him see from below, enter places where greater strength cannot stand, hear quiet cries, and warn Vaerun against stature and indispensability.",
+      "layer": "myth_continuity",
+      "confidence": "high",
+      "source": "source/book-of-the-troth/The Letter of Little Vey to the Vaerun.md"
+    },
+    {
+      "id": "ARU-010",
+      "status": "source",
+      "claim": "The proposed institutional Mark and Vethra are distinct: the Mark belongs to voluntary institutional practice while Vethra belongs to the Shepherd.",
+      "layer": "symbolic_architecture",
+      "confidence": "high",
+      "source": "source/institutional/The Mark of the Troth.md"
+    },
+    {
+      "id": "aru.vethra.subtle-flesh-testimony",
+      "status": "user_established",
+      "claim": "Vethra consists in subtle marks and testimony of the Troth borne upon flesh through which fidelity has passed; every companion who passed through the Keeping bears it distinctly, including Harrow's dead flesh. It is perceived chiefly but fallibly by Gravane and Truvane, and its almost-off quality bears received relation in contrast to fallen near-likenesses whose relation is imitated, displaced, or missing.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-060--vethra-is-costly-first-light-beneath-the-ash"
+    },
+    {
+      "id": "aru.vethra.costly-eschatological-first-light",
+      "status": "user_established",
+      "claim": "Vethra shares the coal-under-ash and last-light-under-ash symbolic grammar of Vaelun and Vey: it is hidden first light of eschatological fullness in Christ and testifies to costly fidelity considered and borne through restraint, remaining, relinquishment, grief, correction, responsibility, and vulnerability. It is not visible glory, an autonomous flame, payment for suffering, or proof of righteousness.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-060--vethra-is-costly-first-light-beneath-the-ash"
+    },
+    {
+      "id": "aru.vethra.morning-display-selection",
+      "status": "user_established",
+      "claim": "Morning establishes Vethra across the whole company through a communal coal-under-ash frame, then pauses only over Harrow and Ostra. Murn and Keld remain bearers without separate Vethra portraits because their relations are already carried by tending and communal action; Vaerun does not certify his own Vethra, and Little Vey displays his through embodied presence beside Vaerun.",
+      "layer": "narrative_architecture",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-085--compress-mourn-through-action-single-images-and-silence"
+    },
+    {
+      "id": "aru.mourn.compression",
+      "status": "user_established",
+      "claim": "Mourn should carry its theology through action, single images, and silence: the callings act rather than explain themselves, Aruvan opens once, Vethra is established communally with only Harrow and Ostra receiving separate pauses, the meal enacts proper ordering, and the accepted Christological close remains exact.",
+      "layer": "editorial_status",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-085--compress-mourn-through-action-single-images-and-silence"
+    },
+    {
+      "id": "aru.mourn.accepted",
+      "status": "user_established",
+      "claim": "The revised Fifth Keeping, Mourn, is accepted and its human-review gate is closed as of 2026-08-11. The source line that describes what remained after the Troth passed through flesh stays omitted from the active draft to preserve the Christological order.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-086--mourn-human-review-is-accepted-and-closed"
+    },
+    {
+      "id": "aru.audit.final-cross-keeping",
+      "status": "research",
+      "claim": "The final cross-Keeping Scriptural, Christological, literary, and continuity audits find no blocking contradiction in the accepted five-Keeping candidate. The sole literary referent finding at Eternal Dawn's final crossing was resolved by D-087 and accepted under D-088; final audit and whole-myth acceptance remain the user's judgment.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "aru-vaen/reviews/06_FINAL_CROSS_KEEPING_AUDIT.md"
+    },
+    {
+      "id": "aru.shepherd.final-crossing-nonviolence",
+      "status": "user_established",
+      "claim": "At Eternal Dawn's final crossing, one of the host strikes the Shepherd with its mouth closed around its own cry. The Shepherd lowers the lamb without relinquishing care, opens both hands, gives ground beneath the blow, and does not throw the assailing figure back. Naming it as one of the host preserves personhood while present action identifies the assault.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-087--the-shepherd-receives-an-assailing-member-of-the-host-without-throwing-it-back"
+    },
+    {
+      "id": "aru.eternal-dawn.final-crossing-clarification-accepted",
+      "status": "user_established",
+      "claim": "The D-087 final-crossing wording is accepted: one of the host strikes the Shepherd, who opens both hands, gives ground, and does not throw it back; the lamb and Shepherd are then explicitly named as the pair separated by the press.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-088--the-d-087-final-crossing-wording-is-accepted"
+    },
+    {
+      "id": "aru.audit.final-cross-keeping-accepted",
+      "status": "user_established",
+      "claim": "The final Scriptural, Christological, literary, and continuity audits are accepted and closed as of 2026-08-11. They identify no blocking contradiction, unresolved finding, or further required revision; complete-myth acceptance remains a separate final decision.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-089--all-four-final-cross-keeping-audits-are-accepted"
+    },
+    {
+      "id": "aru.myth.complete-candidate-accepted",
+      "status": "user_established",
+      "claim": "The complete five-Keeping Aru Va'en text at SHA-256 051b856e79f0bc7548fa598ec75d3fb4a1b265c62bb186a717876b58522d4ed3 is accepted as the project myth as of 2026-08-11. This status does not make it Scripture, revelation, infallible doctrine, or an institutional charter.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-090--the-complete-five-keeping-aru-vaen-candidate-is-accepted"
+    },
+    {
+      "id": "aru.myth.epilogue-spelling-guide-restored",
+      "status": "user_established",
+      "claim": "The accepted Aru Va'en text restores an Epilogue marker at the return-to-morning section and appends a spelling and pronunciation guide adjusted to the D-090 revisions; the updated accepted artifact SHA-256 is 6b4cfd82a3b644bef1aef2b35fc2680f2b47ee5db5c5c4fb4f78d42fe734c7a3.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-094--aru-vaen-epilogue-and-spelling-guide-are-restored"
+    },
+    {
+      "id": "troth.institutional.sigil-vocabulary",
+      "status": "user_established",
+      "claim": "Active vocabulary calls the unadopted institutional graphic the Sigil, reserving Mark for frozen source provenance and for non-institutional marks such as Vethra and the marks of the curses; the Sigil has no spiritual efficacy and is distinct from Vethra, which marks and is borne upon flesh through which fidelity has passed.",
+      "layer": "institutional_design",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-054--the-provisional-institutional-symbol-is-the-sigil"
+    },
+    {
+      "id": "INST-001",
+      "status": "source",
+      "claim": "The recovered Constitution and Rules propose a capital-O institution, in conflict with current decision D-002.",
+      "layer": "ecclesiology",
+      "confidence": "high",
+      "source": "source/institutional/Constitution of the Order of the Troth.md",
+      "note": "Source claim only; D-002 remains controlling until explicitly superseded."
+    },
+    {
+      "id": "INST-002",
+      "status": "source",
+      "claim": "The recovered institutional texts define Vaerun as sustained keeper and Hrovann as guardian near concentrated authority, conflicting with the definitive myth and D-014.",
+      "layer": "ecclesiology",
+      "confidence": "high",
+      "source": "source/institutional/The Rule of the Troth.md#viii-the-three-guardianships",
+      "note": "Historical source conflict retained for traceability; D-024 now controls active drafts."
+    },
+    {
+      "id": "INST-003",
+      "status": "user_established",
+      "claim": "No order has been formed; active institutional materials may explore The Keeping Between as a provisional order only if that is what the vocation's birthing requires.",
+      "layer": "ecclesiology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-022--the-keeping-between-is-provisional-if-it-becomes-an-order-at-all"
+    },
+    {
+      "id": "INST-004",
+      "status": "user_established",
+      "claim": "The Keeping Between names a vocation produced by a particular historical condition: an age in which some are called neither to preserve the old world nor to enthrone the new one, but to keep faith through the passage between them. If an order arises, it will be The Keeping Between, provisional if it is an order at all, and able to pass away when its charge is complete.",
+      "layer": "ecclesiology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-092--the-keeping-between"
+    },
+    {
+      "id": "ARU-011",
+      "status": "user_established",
+      "claim": "Vaelun, Vaerun, and Hrovan are distinct callings rather than a ladder; Hrovann is a misspelling of Hrovan, and the myth must not foreshadow Vaerun as a future Hrovan.",
+      "layer": "myth_revision",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-024--guardian-offices-are-distinct-callings"
+    },
+    {
+      "id": "ARU-012",
+      "status": "user_established",
+      "claim": "The revised Aru Va'en must preserve its old liturgical register and itself serve as a keeper of the Troth without possessing the Troth or claiming Scriptural, revelatory, or Christological authority.",
+      "layer": "myth_revision",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-025--the-myths-form-vocation-and-final-review"
+    },
+    {
+      "id": "ARU-013",
+      "status": "user_established",
+      "claim": "No material Aru Va'en revision receives final acceptance until thorough documented Scriptural review has tested its major claims and symbols and maintained a strong Christological center under the user's final authority.",
+      "layer": "biblical_review",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-025--the-myths-form-vocation-and-final-review"
+    },
+    {
+      "id": "REP-001",
+      "status": "user_established",
+      "claim": "Repentance greeting: 'I did not remain' / 'You are not the measure' / 'The Troth remains'.",
+      "layer": "liturgy",
+      "confidence": "high"
+    },
+    {
+      "id": "troth.calling.declining-candidate-response",
+      "status": "user_established",
+      "claim": "After Murn's calling, one frightened unnamed candidate who is not ready for this crossing says 'Not this crossing'; the Gravane retains the brow-to-brow touch and answers 'None of us is the measure' without speaking his name for the crossing. He remains among the Truvane and participates in their answers and departure greeting without the decline being treated as failure, sin, or moral superiority.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-035--response-to-the-candidate-who-declines"
+    },
+    {
+      "id": "troth.calling.embodied-assent",
+      "status": "user_established",
+      "claim": "The twelve companions assent through differentiated source gestures and brief character beats rather than twelve separate speeches; the communal 'Aru va'en' remains, and the calling portraits of Harrow, Murn, and Little Vey must be preserved.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-038--assent-through-character-not-twelve-speeches"
+    },
+    {
+      "id": "BOOK-001",
+      "status": "deprecated",
+      "claim": "Earlier preferred Book of the Troth architecture centered letters from Vaerun to companions; this is superseded by D-095, which establishes the active design as The Book of Wolves.",
+      "layer": "literary_architecture",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-095--book-of-wolves-architecture"
+    },
+    {
+      "id": "BOOK-002",
+      "status": "working_synthesis",
+      "claim": "Andren's epistolary authority as the wolf bearing the office of Vaerun should be rooted in witness and responsibility rather than claimed holiness.",
+      "layer": "literary_architecture",
+      "confidence": "high"
+    },
+    {
+      "id": "BOOK-003",
+      "status": "proposed",
+      "claim": "At least one companion should correct Vaerun and the correction should be preserved in the collection.",
+      "layer": "literary_architecture",
+      "confidence": "medium"
+    },
+    {
+      "id": "BOOK-004",
+      "status": "proposed",
+      "claim": "The final communal acclamation may complete the collection so Vaerun does not receive the last word.",
+      "layer": "literary_architecture",
+      "confidence": "medium"
+    },
+    {
+      "id": "troth.guardians.vaelun.threshold",
+      "status": "user_established",
+      "claim": "Vaelun is primarily the guardian of the threshold or boundary; its faithful task includes discernment of both exclusion and passage.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-024--guardian-offices-are-distinct-callings"
+    },
+    {
+      "id": "troth.guardians.vaerun.crossing",
+      "status": "user_established",
+      "claim": "Vaerun guards the veil yet may be required to cross it when fidelity demands movement beyond the guarded boundary.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-024--guardian-offices-are-distinct-callings"
+    },
+    {
+      "id": "troth.guardians.hrovan.center",
+      "status": "user_established",
+      "claim": "Hrovan bears the hall or center and is the office closest to the throne-guardian archetype, while remaining subordinate to the Troth.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-024--guardian-offices-are-distinct-callings"
+    },
+    {
+      "id": "troth.hrovan.morning-confession",
+      "status": "user_established",
+      "claim": "Before the Morning meal, the Hrovan confesses publicly and exactly: 'I sent you beneath a charge I had not understood. The stone seat entrusted me to answer. It did not make my answer faithful.' The confession owns his decision, preserves entrusted responsibility, and denies that office certifies righteousness without renouncing the Hrovan calling or declaring the obligation to answer the cry mistaken.",
+      "layer": "mythopoetic_authority",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-067--the-hrovan-confesses-the-limit-of-his-entrusted-answer"
+    },
+    {
+      "id": "aru.morning-meal.images-proper-ordering",
+      "status": "user_established",
+      "claim": "The Morning meal is the culminating image of Hrovan, Vaelun, Vaerun, Gravane, Truvane, Lamb and flock, Vethra, and Troth in proper relational order beneath the Shepherd. It is not ranked seating: offices serve through distinct callings, Lamb and flock participate actively, Vethra is borne subtly in flesh, and the Troth remains through enacted fidelity rather than appearing as a guest, vessel, food, or power beside the Shepherd.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-068--the-morning-meal-images-the-myths-proper-ordering-beneath-the-shepherd"
+    },
+    {
+      "id": "aru.morning-meal.open-ring-staging",
+      "status": "user_established",
+      "claim": "The Morning meal forms an open ring around the Shepherd with several passages and no head table. The Hrovan's confession receives silence; the Shepherd receives, gives unquoted thanks, breaks, and shares the bread; each office serves according to its calling; Lamb and flock approach freely; Vethra is perceived relationally; the Troth receives no object; and Harrow's absence remains unfilled without food for the dead.",
+      "layer": "mythopoetic_liturgy",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-069--the-open-ring-meal-passes-into-the-shepherd-prior-close"
+    },
+    {
+      "id": "aru.close.vey-and-vaerun-speakers",
+      "status": "user_established",
+      "claim": "As the meal quiets, living Little Vey sits beside and quietly steadies Vaerun, then says, 'Before the Troth, there was the Shepherd.' Vaerun completes the close in narration: 'Before the vow was the cry. Before grief was love. We do not keep alone.' Vey names the Shepherd's priority rather than revealing a hidden identity.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-069--the-open-ring-meal-passes-into-the-shepherd-prior-close"
+    },
+    {
+      "id": "troth.aruvan.accumulated-keeping",
+      "status": "working_synthesis",
+      "claim": "Aruvan is not a fourth guardian rank but the diachronic accumulation of keeping into memory, form, identity, and corporate guardianship.",
+      "layer": "mythopoetic_theology",
+      "confidence": "medium",
+      "source": "aru-vaen/aruvan-long-wolf-paper-notes.md"
+    },
+    {
+      "id": "troth.fang-fleece.no-role-virtue",
+      "status": "user_established",
+      "claim": "Fang does not confer guilt and fleece does not confer virtue; both guardian and guarded remain under the Shepherd's judgment.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-016--fang-and-fleece-symmetry"
+    },
+    {
+      "id": "troth.troth.prior-fidelity",
+      "status": "working_synthesis",
+      "claim": "The Troth names the fidelity of God disclosed in Christ and the right relation into which creatures are called; that fidelity is prior to throne, pasture, fang, fleece, institution, office, and inherited form.",
+      "layer": "constructive_theology",
+      "confidence": "medium",
+      "source": "doctrine/the-troth-remains.md"
+    },
+    {
+      "id": "troth.apostasy.fidelity-to-form",
+      "status": "working_synthesis",
+      "claim": "Apostasy may occur through continued fidelity to a historical form after that form has ceased to serve the relation it was meant to embody.",
+      "layer": "constructive_theology",
+      "confidence": "medium",
+      "source": "doctrine/the-troth-remains.md"
+    },
+    {
+      "id": "troth.shepherd.not-super-guardian",
+      "status": "user_established",
+      "claim": "The Shepherd is not the strongest guardian or highest throne but a categorically different Christological form of keeping.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-018--the-shepherd"
+    },
+    {
+      "id": "troth.shepherd.continual-call-begins-return",
+      "status": "user_established",
+      "claim": "Throughout the struggle, the Shepherd continually calls his flock; one lost sheep begins to remember and answers with a cry too soft for the other wolves; Little Vey hears the cry, smells remembrance, articulates nothing, and seeks Vaerun, alerting Vaerun first and then the others.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-033--the-shepherds-continual-call-begins-return"
+    },
+    {
+      "id": "troth.vey.faithfulness-to-vaerun-witness",
+      "status": "user_established",
+      "claim": "Little Vey's faithfulness to Vaerun and trust in his calling bear witness to the Troth without certifying Vaerun as righteous or measure; Vey seeks him bodily during the ordeal and later seeks him through corrective remembrance.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-041--veys-faithfulness-to-vaerun-is-witness"
+    },
+    {
+      "id": "troth.return.first-visible-movement",
+      "status": "user_established",
+      "claim": "The lost sheep hears the Shepherd, begins to remember, and moves ever so subtly toward him; this is the first visible act of return but not by itself completed repentance, restored trust, or repair.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-042--the-first-visible-act-of-return"
+    },
+    {
+      "id": "troth.return.vey-smells-remembrance",
+      "status": "user_established",
+      "claim": "As the lost sheep begins to remember under the Shepherd's call, its scent changes and Little Vey smells remembrance; he does not explain the perception but seeks Vaerun.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-043--vey-smells-remembrance"
+    },
+    {
+      "id": "troth.vey.quiet-support-not-hidden-engine",
+      "status": "user_established",
+      "claim": "Little Vey acts chiefly as quiet support that steadies Vaerun; his established perception, seeking, and later correction must not be expanded until he becomes the hidden engine, universal interpreter, or center of the myth.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-044--do-not-overuse-little-vey"
+    },
+    {
+      "id": "troth.vey.single-torn-ear",
+      "status": "user_established",
+      "claim": "Little Vey's only lasting wound is one torn ear, received after he hears the returning sheep's soft answer and leaving him hearing poorly on that side; the wound limits rather than authorizes his perception and supports his later refusal to be trusted as though he hears every cry.",
+      "layer": "narrative_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-052--little-veys-torn-ear-is-his-only-lasting-wound"
+    },
+    {
+      "id": "troth.shepherd.heals-lamb-during-assault",
+      "status": "user_established",
+      "claim": "The Shepherd progressively heals the creaturely lamb while assault continues through recognizable bodily care with quiet miraculous efficacy beyond ordinary first aid. His scarred hands and strips from his torn robe support, clean, bind, and steady the lamb; bleeding stops, breathing steadies, flesh begins to close, and strength returns without spectacle or instant restoration. The wounds neither transfer to him nor purchase healing; receiving their reality deepens his grief, which strengthens the circle as room rather than healing mechanism or combat power.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-062--the-shepherd-heals-through-embodied-care-with-quiet-miraculous-efficacy"
+    },
+    {
+      "id": "troth.lamb.healing-manifests-restored-relation",
+      "status": "user_established",
+      "claim": "The lamb's bodily healing gives creaturely form to renewed relation and proper ordering beneath the Shepherd. His prior call, presence, and care begin and sustain restoration; the lamb's remembered response does not earn healing, and injury, disability, deformity, or incomplete cure never signifies sin, failed faith, lesser worth, or disordered relation.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-063--the-lambs-healing-manifests-restored-relation-beneath-the-shepherd"
+    },
+    {
+      "id": "troth.lamb.remembers-what-it-is",
+      "status": "user_established",
+      "claim": "As the Shepherd heals the lamb during the assault, the lamb begins to remember what it is; while it remains wounded in his hands, its ear and then its head turn toward his voice. It does not yet stand, speak, bleat an answer, or display sudden strength. This recovered creaturely identity remains distinct from the lost sheep remembering the Shepherd whom it hears beyond the circle and from Little Vey hearing and smelling that sheep's remembrance.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-064--the-lamb-first-shows-remembrance-by-turning-toward-the-shepherds-voice"
+    },
+    {
+      "id": "troth.salvation.participation-in-shepherds-ordering",
+      "status": "user_established",
+      "claim": "In the myth's constructive grammar, salvation is allowing oneself to participate in the proper ordering of the Shepherd; the Shepherd's prior call, judgment, mercy, healing, and opened room make yielded participation possible, and participation does not originate salvation or imply institutional submission, innocence, completed repair, restored trust, or restored office.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-047--salvation-as-participation-in-the-shepherds-proper-ordering"
+    },
+    {
+      "id": "troth.return.first-sequence",
+      "status": "user_established",
+      "claim": "The first returning sheep stops participating in the assault, refuses the next impulse or command to harm, opens an escape for a smaller or injured creature, and enters the bounded circle before morning; the circle receives it without attack, innocence, or office, and confession begins in action before brief later words and unfinished repair.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-047--salvation-as-participation-in-the-shepherds-proper-ordering"
+    },
+    {
+      "id": "aru.return.first-sequence-compressed",
+      "status": "user_established",
+      "claim": "The approved E-06 passage renders the first returning sheep's settled sequence as one shorter remembered movement rather than a diagrammed checklist, reducing repeated labels, procedural choreography, and separate explanatory guardrails without removing its Christological, relational, or accountability controls.",
+      "layer": "literary_form",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-080--compress-the-first-return-into-one-remembered-movement"
+    },
+    {
+      "id": "aru.eternal-dawn.image-bearing-compression",
+      "status": "user_established",
+      "claim": "Eternal Dawn should remove explicit ethical and theological explanation wherever remembered action, sensory image, bodily relation, or silence already preserves the meaning, symbolism, and Christological center; the Shepherd's call, wounded humanity, healing, grief, judgment, and keeping remain load-bearing.",
+      "layer": "literary_form",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-081--let-eternal-dawns-images-bear-their-meaning"
+    },
+    {
+      "id": "aru.eternal-dawn.final-review-refinements",
+      "status": "user_established",
+      "claim": "Eternal Dawn places twilight's transformation after the Black Sun rises, restores the source image that the first mercy was knowing where to stand, names the beloved wrong-voiced persons as the fallen, lets their likeness cause the blood to hesitate, and opens the returning sheep's ash-covered eye only once as the completion of the fourfold reordering.",
+      "layer": "narrative_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-082--eternal-dawn-receives-final-whole-keeping-refinements"
+    },
+    {
+      "id": "aru.eternal-dawn.accepted",
+      "status": "user_established",
+      "claim": "The revised Fourth Keeping, Eternal Dawn, is accepted and its human-review gate is closed as of 2026-08-11; this acceptance does not promote the full five-Keeping candidate beyond working synthesis.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-083--eternal-dawn-human-review-is-accepted-and-closed"
+    },
+    {
+      "id": "troth.return.recognizes-wolves-as-sign",
+      "status": "user_established",
+      "claim": "After following a smaller creature through the opened circle without attack, the returning sheep has the ash- or wax-like film drawn from its curse-sealed eye by the Shepherd without removal of the eye. It first sees the wolves holding the passage without biting and recognizes them as a sign of its correctly ordered position beneath the Shepherd, then looks to the Shepherd for whom they hold it; the wolves do not cause, certify, or measure salvation.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-066--the-opened-eye-makes-the-shepherds-room-publicly-recognizable"
+    },
+    {
+      "id": "troth.circle.mirrors-shepherd",
+      "status": "user_established",
+      "claim": "The Shepherd works within the circle during the struggle, and the wolves' work at its circumference mirrors his prior and continuing work without equaling or enabling his keeping. The Shepherd makes room within bodies by reordering members caught in the four curses, while the wolves make room between bodies through least-harm restraint and opened paths; the returning sheep's single opened-eye healing makes this relation publicly recognizable.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-034--the-wolves-circle-mirrors-the-shepherds-work"
+    },
+    {
+      "id": "troth.shepherd.keeper-kept",
+      "status": "user_established",
+      "claim": "Created guardians remain objects of divine keeping: even the keeper must be kept, and nothing faithful keeps alone.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-009--aruvan--keeping"
+    },
+    {
+      "id": "troth.unclaimed-virtue.no-moral-sovereignty",
+      "status": "working_synthesis",
+      "claim": "Unclaimed Virtue rejects the conversion of keeping, suffering, office, courage, sacrifice, or repentance into owned proof of righteousness.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "doctrine/the-troth-remains.md"
+    },
+    {
+      "id": "troth.letters.epistolary-situations",
+      "status": "working_synthesis",
+      "claim": "The Book of Wolves letters should disclose theology through concrete epistolary situations rather than miniature doctrinal essays.",
+      "layer": "epistolary_design",
+      "confidence": "high",
+      "source": "book-of-wolves/letters-framework.md"
+    },
+    {
+      "id": "troth.letters.vaerun-relinquishment",
+      "status": "proposed",
+      "claim": "The letter collection should culminate in Vaerun relinquishing his own accumulated authority, followed by communal or multiple voices.",
+      "layer": "epistolary_design",
+      "confidence": "medium",
+      "source": "book-of-wolves/letters-framework.md"
+    },
+    {
+      "id": "aru.review.troth-christ.layered",
+      "status": "user_established",
+      "claim": "The Troth names the fidelity of God disclosed and enacted in Jesus Christ, and the creaturely calling to participate in that fidelity by the Spirit; this is constructive theology rather than biblical lexicography and never a second Logos or standard above Christ.",
+      "layer": "constructive_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-073--accept-the-layered-christological-formulation-of-the-troth"
+    },
+    {
+      "id": "aru.review.accusation-return",
+      "status": "research",
+      "claim": "The Scriptural review distinguishes truthful exposure from totalizing accusation and distinguishes reception, forgiveness, reconciliation, trust, restitution, safety, and restored office in any account of return.",
+      "layer": "biblical_intelligence",
+      "confidence": "high",
+      "source": "biblical/ARU_VAEN_SCRIPTURAL_REVIEW.md#iii-sin-deformation-accusation-and-moral-agency"
+    },
+    {
+      "id": "aru.revision.peaceful-resistance-boundary",
+      "status": "user_established",
+      "claim": "The wolves follow a least-harm resistance ladder: hold before hitting; if holding fails, they may throw immediate attackers back without fang or claw drawing blood; they may not maim, kill, punish, pursue, or take vengeance, and the Shepherd's grief visibly grows when they falter in restraint.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-030--least-harm-resistance-and-the-shepherds-grief"
+    },
+    {
+      "id": "aru.revision.permeable-circle-choreography",
+      "status": "user_established",
+      "claim": "The wolves form a permeable circle that opens inward for wounded and returning persons, uses bodily containment and controlled space-restoring throws without puncture or pursuit, mirrors the Shepherd's inward work, and first exposes Vaerun's fallibility when another wolf restrains his attempted pursuit.",
+      "layer": "mythopoetic",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-039--physical-grammar-of-the-circle"
+    },
+    {
+      "id": "aru.revision.continuity-model",
+      "status": "user_established",
+      "claim": "Harrow is the sole named companion who dies during the Keeping and remains absent from the living company in earthly morning, although his body remains to be covered and mourned and bears Vethra without animation or resurrection; the other named companions survive embodied. Lasting wounds are restricted to Vaerun's serious side scar, Murn's damaged ribs and roughened breath, Sable's weakened and sometimes-breaking voice, Little Vey's torn ear, and Brindle's bent painful back; the other survivors receive no new specified lasting injury. Wounds and death remain distinct from Vethra.",
+      "layer": "narrative_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-055--the-restrained-post-keeping-wound-roster"
+    },
+    {
+      "id": "aru.revision.symbolic-resolution",
+      "status": "user_established",
+      "claim": "The settled symbolic resolution retains the White Moon as reflected mercy, discloses the creaturely lamb as the first visible participant in the Living Lamb, uses Aruvan as the single name for the keeping-face of their one creaturely communion, and makes Morning an earthly firstfruits of new creation in Christ without erased history or literal resurrection.",
+      "layer": "symbolic_architecture",
+      "confidence": "medium",
+      "source": "context/CURRENT_DECISIONS.md"
+    },
+    {
+      "id": "aru.four-curses.embodied-marks",
+      "status": "user_established",
+      "claim": "The four curses deform power, perception, responsibility, and witness through the inward fang, sealed eye, blood-clean paw, and mouth closed around the cry; their relational, fallible, multisensory manifestations are called the marks of the curses and may pass over faithful and fallen alike without becoming identity, divine punishment, or infallible evidence of guilt.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-049--the-four-curses-and-their-embodied-marks"
+    },
+    {
+      "id": "aru.shepherd.separates-without-severing",
+      "status": "user_established",
+      "claim": "The Shepherd sorts within bodies rather than between persons. He separates without severing and restores members caught in the four curses to proper relation within the whole body beneath him: fang away from throat, eye opened to depth, paw restored from false cleanliness to responsibility, and mouth loosened around the cry. No member is discarded, and curse-marks remain distinct from wounds, disability, bodily difference, and incomplete healing.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-065--the-shepherd-separates-without-severing-and-reorders-the-deformed-member"
+    },
+    {
+      "id": "aru.room.inward-outward-mirror",
+      "status": "user_established",
+      "claim": "The Shepherd makes room within bodies by reordering members caught in imposed deformation; the wolves make room between bodies through least-harm restraint, separation from immediate assault, and opened paths. The wolves imitate but do not cause or complete the Shepherd's reordering.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-065--the-shepherd-separates-without-severing-and-reorders-the-deformed-member"
+    },
+    {
+      "id": "aru.room.public-recognition-opened-eye",
+      "status": "user_established",
+      "claim": "Host and flock publicly recognize the Shepherd's room when a smaller creature passes first through the opened circle, the returning sheep follows without attack, and the Shepherd opens rather than removes its curse-sealed eye. The sheep first sees wolves holding the passage and then the Shepherd for whom they hold it; some return, some withdraw, and some continue the assault.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-066--the-opened-eye-makes-the-shepherds-room-publicly-recognizable"
+    },
+    {
+      "id": "aru.white-moon.reflected-mercy",
+      "status": "user_established",
+      "claim": "The White Moon is reflected ordinary creaturely mercy that persists during the Black Sun's exposure without saving, judging, or opposing it as an equal cosmic power; it does not make morning but remembers the light by which morning may be known, and its pale light is gathered into the Shepherd's true morning.",
+      "layer": "symbolic_architecture",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-050--the-white-moon-remembers-received-light"
+    },
+    {
+      "id": "aru.shepherd.no-staff",
+      "status": "user_established",
+      "claim": "The active myth gives the Shepherd no staff; his keeping is shown through embodied presence, scarred hands, voice, movement, judgment, protection, gathering, and the room he makes.",
+      "layer": "symbolic_architecture",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-026--the-shepherd-has-no-staff"
+    },
+    {
+      "id": "aru.name.aruvan-spelling",
+      "status": "user_established",
+      "claim": "Aruvann is a misspelling of Aruvan and does not name a separate being, office, or commentary category.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-027--aruvan-spelling-and-opening-prose"
+    },
+    {
+      "id": "aru.revision.opening-hesitation",
+      "status": "user_established",
+      "claim": "The revised opening should reduce repeated uses of old and fear, and portray Vaerun as hesitant because he anticipates the Troth's costly demand and fears being found wanting before the crossing office and the hall's trust. This indirectly foreshadows his mistaken measure-error, which he understands only later beneath the Shepherd.",
+      "layer": "narrative_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-075--night-review-keeps-the-person-distinct-from-the-office"
+    },
+    {
+      "id": "aru.opening.ache-preserved",
+      "status": "user_established",
+      "claim": "The definitive PDF's two-line opening invocation is preserved exactly. Its ache is old mythic personification for creaturely apprehension of torn relation, not an autonomous force, moral law, or being prior to Christ; the Shepherd-prior and love-prior close supplies its final Christological order.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-070--preserve-the-opening-ache-under-the-shepherd-prior-close"
+    },
+    {
+      "id": "aru.language.action-and-condition",
+      "status": "user_established",
+      "claim": "The active myth distinguishes assailants, afflicted persons, fallen persons, and Black Sun manifestations by present action and condition rather than body or permanent moral species, and its language changes when action or condition changes.",
+      "layer": "narrative_ethics",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-071--narrative-categories-follow-present-action-and-condition"
+    },
+    {
+      "id": "aru.formula.departure-reserved",
+      "status": "user_established",
+      "claim": "The Hrovan does not repeat the older full opening formula privately with Vaerun in AV-07; the exact three-part saying is reserved for the communal departure, where Hrovan and Truvane, the called, and the whole hall each bear a distinct part.",
+      "layer": "liturgical_narrative",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-072--reserve-the-three-part-saying-for-departure"
+    },
+    {
+      "id": "aru.black-sun.true-fragment-false-totality",
+      "status": "user_established",
+      "claim": "The Black Sun may expose true wounds and failures but deforms them into a false total and final identity by isolating them from relation, proportion, mercy, correction, and return; the Shepherd separates truthful exposure from condemnation without declaring innocence.",
+      "layer": "mythopoetic_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-074--the-black-sun-turns-true-fragments-into-a-false-total-verdict"
+    },
+    {
+      "id": "book.vey.remembrance-stature",
+      "status": "user_established",
+      "claim": "Little Vey's letter calls Vaerun, as a shared crossing vocation becomes singular public stature, to remember where the companions stood, when only they knew his name, where the Shepherd stood, and the Troth that kept none of them alone.",
+      "layer": "epistolary_design",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-028--little-veys-summons-to-remembrance"
+    },
+    {
+      "id": "aru.vaerun.public-title",
+      "status": "user_established",
+      "claim": "Before the hill the narrator is a Vaerun, one bearer of the crossing vocation; after the hill the many call him the Vaerun, a singular public stature that is neither a new office nor proof of righteousness.",
+      "layer": "narrative_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-029--a-vaerun-and-the-vaerun"
+    },
+    {
+      "id": "aru.vaerun.personal-name-withheld",
+      "status": "user_established",
+      "claim": "The narrator's personal name remains unstated in the myth. Vaelun identifies his threshold calling and Vaerun the crossing office he bears; Little Vey's later remembrance of when only the companions knew his name refers to an undisclosed personal name rather than to either office term.",
+      "layer": "narrative_continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-075--night-review-keeps-the-person-distinct-from-the-office"
+    },
+    {
+      "id": "aru.review.night-accepted",
+      "status": "user_established",
+      "claim": "The revised invocation and First Keeping, Night, passed human review and were accepted on 2026-08-10. Its stone-seat ending remains subject to a cross-Keeping continuity check against Mourn without leaving the Night review open.",
+      "layer": "editorial_status",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-076--night-human-review-is-accepted-and-closed"
+    },
+    {
+      "id": "aru.review.calling-accepted",
+      "status": "user_established",
+      "claim": "The revised Third Keeping, The Calling of the Truvane, passed human review and was accepted on 2026-08-10, including its refined refusal and exact Greeting of Departure.",
+      "layer": "editorial_status",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-079--calling-human-review-is-accepted-and-closed"
+    },
+    {
+      "id": "aru.shepherd.grief-black-sun-placement",
+      "status": "user_established",
+      "claim": "The first sight of the Shepherd in Pre-Dawn remains recognizably Christological without yet declaring the universal reach of his grief. The statement that his grief has room for every creature without calling harm good belongs under the Black Sun, immediately after his grief grows in response to Vaerun's pursuit.",
+      "layer": "narrative_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-077--the-reach-of-the-shepherds-grief-is-disclosed-under-the-black-sun"
+    },
+    {
+      "id": "aru.pre-dawn.accepted",
+      "status": "user_established",
+      "claim": "The revised Second Keeping, Pre-Dawn, including the confirmed relocation of the Shepherd's fuller grief statement to Eternal Dawn, is accepted and its human-review gate is closed as of 2026-08-11.",
+      "layer": "artifact_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-084--pre-dawn-human-review-is-accepted-and-closed"
+    },
+    {
+      "id": "aru.living-lamb.twofold-communion",
+      "status": "user_established",
+      "claim": "Aruvan and the Living Lamb are two faces of one creaturely communion beneath the Shepherd: Aruvan presents accumulated keeping, while the Living Lamb presents life kept, restored, gathered, and becoming active companion. The hill-lamb remains itself and first manifests the larger pattern by accompanying the returning sheep toward the Shepherd; neither face is Christ, an independent being, or a saving power.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-056--aruvan-and-the-living-lamb-are-two-faces-of-one-communion"
+    },
+    {
+      "id": "aru.aruvan.relinquishment-without-annihilation",
+      "status": "user_established",
+      "claim": "Aruvan is redeemed neither by preservation intact nor destruction: its closed body loosens beneath the Shepherd, while accumulated memory, responsibility, practice, and capacity to keep return to the living as distributed and accountable callings. Breath and warmth do not become operative ancestral power or an invisible institution, and this mythic resolution does not prescribe dissolution for every institution.",
+      "layer": "mythopoetic_theology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-057--aruvan-relinquishes-closed-form-without-annihilation"
+    },
+    {
+      "id": "aru.morning.new-creation-firstfruits",
+      "status": "user_established",
+      "claim": "Morning is an ordinary earthly dawn on the same wounded hill and a genuine firstfruits image of new creation in Christ: the wounded world begins to bear its promised shape beneath the Shepherd while death, wounds, grief, accountability, unfinished repair, and those who do not return remain. Harrow's absence prevents the scene from claiming consummation and points toward resurrection still to come.",
+      "layer": "narrative_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-058--morning-is-an-earthly-firstfruits-of-new-creation-in-christ"
+    },
+    {
+      "id": "aru.morning.shared-meal-firstfruits",
+      "status": "user_established",
+      "claim": "Morning's foretaste takes bodily form in a shared meal after the wounded and dead are tended. The Shepherd gives thanks and orders the sharing of provision brought ordinarily by the Hrovan and Truvane; fang, fleece, and those beginning accountable return eat as creatures beneath him. The meal neither saves nor completes reconciliation, sacrifices no creature or lamb, leaves Harrow's absence perceptible, and bears Eucharistic and eschatological resonance without instituting a sacrament.",
+      "layer": "narrative_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-059--mornings-foretaste-takes-bodily-form-in-a-shared-meal"
+    },
+    {
+      "id": "aru.shepherd.recognizable-not-announced",
+      "status": "user_established",
+      "claim": "The Shepherd is recognizably Christological from his first appearance through image and action, but the myth uses no opening superscription and does not treat his identity as a hidden twist; Vey's ending names his priority rather than unmasking him.",
+      "layer": "narrative_christology",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-032--the-shepherd-is-recognizable-not-announced-or-hidden"
+    },
+    {
+      "id": "project.vocation.aru-vaen-vision",
+      "status": "user_established",
+      "claim": "The project tracks the user's vision of the myth that is Aru Va'en: to understand it, place it in its proper place, and embody it faithfully, even if The Keeping Between becomes an order of one.",
+      "layer": "project_governance",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-093--the-project-tracks-places-and-embodies-the-vision-of-aru-vaen"
+    },
+    {
+      "id": "book.wolves.architecture",
+      "status": "user_established",
+      "claim": "The active proposed design for the epistolary workstream is The Book of Wolves: Letters Concerning the Keeping of the Troth, a mythopoetic corpus of letters among wolves beneath the Shepherd, structured as a prologue by Little Vey, eleven letters from Andren, and a final corrective letter from Little Vey to Andren.",
+      "layer": "epistolary_design",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-095--book-of-wolves-architecture"
+    },
+    {
+      "id": "book.andren.name-guardrail",
+      "status": "user_established",
+      "claim": "Andren is the Book-of-Wolves personal name for the wolf who bears the office of Vaerun; this naming belongs to the Book of Wolves correspondence workstream and does not revise the accepted Aru Va'en narration, where the narrator's personal name remains unstated.",
+      "layer": "continuity",
+      "confidence": "high",
+      "source": "context/CURRENT_DECISIONS.md#d-095--book-of-wolves-architecture"
+    }
+  ]
+}
