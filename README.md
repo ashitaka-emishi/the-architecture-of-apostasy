@@ -75,13 +75,16 @@ Render the site:
 
 ```bash
 quarto render
+python3 ai-system/scripts/generate_publication_status.py
+python3 ai-system/scripts/publication_status_postprocess.py
 python3 ai-system/scripts/seo_postprocess.py
 ```
 
-Check rendered SEO metadata:
+Check rendered SEO metadata and publication-status banners:
 
 ```bash
 python3 ai-system/scripts/seo_postprocess.py --check
+python3 ai-system/scripts/publication_status_postprocess.py --check
 ```
 
 Preview the site:

@@ -27,6 +27,9 @@ jobs:
       - name: Render site
         run: |
           quarto render
+          python3 ai-system/scripts/generate_publication_status.py
+          python3 ai-system/scripts/publication_status_postprocess.py
+          python3 ai-system/scripts/publication_status_postprocess.py --check
           python3 ai-system/scripts/seo_postprocess.py
           python3 ai-system/scripts/seo_postprocess.py --check
 

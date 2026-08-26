@@ -22,6 +22,9 @@ temp/
 _site/
 .quarto/
 
+# Generated from library.qmd by generate_publication_status.py
+ai-system/data/publication-status.json
+
 # Python/cache artifacts from local tooling
 __pycache__/
 *.py[cod]

@@ -145,6 +145,16 @@ and raw-PDF source-note intake gaps.
 Open Graph tags, and Twitter card tags to the rendered Quarto output using
 `site-assets/seo-metadata.json`, then can verify those tags with `--check`.
 
+`scripts/generate_publication_status.py` parses `library.qmd`'s catalog
+tables (the single source of truth for each page's Status/Category) into
+`ai-system/data/publication-status.json`.
+
+`scripts/publication_status_postprocess.py` injects a status/category/summary
+banner into each rendered page's content, using that registry, so a reader
+sees a page's publication status on the page itself, not only in the
+catalog. Like `seo_postprocess.py`, it edits the rendered `_site/` output
+only, never `markdown/` or `raw/`, and can verify with `--check`.
+
 Run it locally:
 
 ```bash
@@ -152,6 +162,9 @@ python3 ai-system/scripts/theological_consistency_check.py
 python3 ai-system/scripts/validate_public_front_matter.py
 python3 ai-system/scripts/intake_consistency_check.py
 quarto render
+python3 ai-system/scripts/generate_publication_status.py
+python3 ai-system/scripts/publication_status_postprocess.py
+python3 ai-system/scripts/publication_status_postprocess.py --check
 python3 ai-system/scripts/seo_postprocess.py
 python3 ai-system/scripts/seo_postprocess.py --check
 ```
