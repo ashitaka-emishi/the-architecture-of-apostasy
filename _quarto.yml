@@ -66,16 +66,18 @@ website:
         text: The Measure
       - text: Library
         menu:
-          - href: library.qmd
-            text: Library Catalog
           - href: foundations.qmd
             text: Foundations
-          - href: readers-guide.qmd
-            text: Reader's Guide
-          - href: method.qmd
-            text: Method
           - href: essays.qmd
             text: Essays
+          - href: reading-paths.qmd
+            text: Reading Paths
+          - href: readers-guide.qmd
+            text: Reader's Guide
+          - href: library.qmd
+            text: Library Catalog
+          - href: method.qmd
+            text: Method
           - href: images.qmd
             text: Images
       - href: about.qmd
