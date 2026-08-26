@@ -1,7 +1,13 @@
+---
+title: "The Architecture of Apostasy"
+---
+
 ::: {.aoa-hero}
 ![](gallery/aoa-logo-home.webp){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image"}
 
 ## A path to be kept. A keeping under Christ. A measure not our own.
+
+A Christian theological library examining how good gifts, practices, and institutions become idols, and how they are returned to Christ.
 
 Our Christian witness does not ask "What is the correct form?" Instead, we ask how spirit takes flesh, how entrusted good becomes possessed, how faithful forms become apostate bodies, and how keepers remain under Christ rather than becoming the measure themselves.
 
@@ -10,6 +16,8 @@ Within this witness, apostasy is not merely the abandonment of doctrine. It is t
 
 ::: {.troth-litany}
 <div class="troth-litany-title">What Is The Troth?</div>
+
+The Troth is the fidelity of God disclosed and enacted in Jesus Christ: the faithfulness that remains when keepers fail, institutions fail, and vows fail, and return still remains possible.
 
 **The Troth remains.**
 
