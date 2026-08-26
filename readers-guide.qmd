@@ -48,7 +48,7 @@ Start with [The Measure of Christ](measure.qmd), [Method](method.qmd), and [Riva
 
 The gallery is not decoration. It is a visual theology lab for symbols, wounds, warning images, devotional images, and chapter illustrations.
 
-Start with [Images](images.qmd) and [Gallery Catalog](markdown/gallery.md).
+Start with the [Gallery Catalog](markdown/gallery.md).
 
 ## Theological Critics
 

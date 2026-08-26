@@ -7,11 +7,10 @@ This canon governs how images fit within The Architecture of Apostasy.
 The gallery exists across four layers:
 
 1. `gallery/`: public image assets used by the Quarto website.
-2. `images.qmd`: public visual gallery page.
-3. `markdown/gallery.md`: canonical public catalog of image descriptions and source notes.
-4. `raw/images/`: source prompt text, OCR notes, and image metadata.
-5. `architecture-of-apostasy/aspects/visual-theology/`: theological interpretation, classification, and validation.
-6. `ai-system/`: image-related schemas, prompts, generation workflows, and validation tooling when those are added.
+2. `markdown/gallery.md`: canonical public catalog of image descriptions and source notes.
+3. `raw/images/`: source prompt text, OCR notes, and image metadata.
+4. `architecture-of-apostasy/aspects/visual-theology/`: theological interpretation, classification, and validation.
+5. `ai-system/`: image-related schemas, prompts, generation workflows, and validation tooling when those are added.
 
 The image files should stay in `gallery/` unless the publication system changes.
 

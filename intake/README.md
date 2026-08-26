@@ -25,7 +25,7 @@ this folder. Keep this `README.md` in place.
 - Public image assets go in `gallery/` with descriptive kebab-case filenames.
 - Image source notes, prompts, OCR, and inspection notes go in `raw/images/`.
 - Individual essays are listed in `essays.qmd`.
-- Public images are listed in `images.qmd` and `markdown/gallery.md`.
+- Public images are listed in `markdown/gallery.md`.
 - Broader editorial placement may also update `library.qmd` or
   `reading-paths.qmd` when the new item clearly belongs there.
 
@@ -60,7 +60,6 @@ For each accepted public image:
 - move it to `gallery/`;
 - add or update inspection/source notes in `raw/images/` when useful;
 - add an entry to `markdown/gallery.md`;
-- add a matching entry to `images.qmd`;
 - connect it to a companion essay when the relationship is clear.
 
 ## Essays With Companion Images

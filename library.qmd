@@ -17,7 +17,6 @@ This page is the catalog of available reading copies.
 | [Method](method.qmd) | Supporting Essay | Public Essay | Explains the project's claim types, intake method, publication standards, validation checks, warnings, and limits. |
 | [Reading paths](reading-paths.qmd) | Supporting Essay | Public Essay | Offers routes through the library by theme and reader need. |
 | [Essays and drafts](essays.qmd) | Supporting Essay | Public Essay | Groups public essays and adds claim-type reading notes for intense works. |
-| [Images and visual theology](images.qmd) | Image | Public Essay | Indexes the public visual-theology gallery and image resources. |
 
 ## All Markdown Reading Copies
 
