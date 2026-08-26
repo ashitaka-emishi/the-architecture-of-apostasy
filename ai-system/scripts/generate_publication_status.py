@@ -60,6 +60,7 @@ def main() -> int:
     if not registry:
         print("No catalog rows parsed from library.qmd; refusing to write an empty registry.", file=sys.stderr)
         return 1
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(registry, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     print(f"Wrote {len(registry)} entries to {OUTPUT_PATH.relative_to(ROOT)}")
     return 0
