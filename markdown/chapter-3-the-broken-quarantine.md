@@ -223,3 +223,12 @@ As humanity surrenders its agency to centralized, techno-bureaucratic entities i
 
 The human race ceases to be the stewards of a divine sanctuary. Instead, it is transformed into a global, interconnected neural network that grounds, broadcasts, and physically manifests the lawless, Luciferic kingdom upon the face of the earth. The broken quarantine is complete; the Abyss is no longer a place beneath our feet, but the very reality we are forced to inhabit.
 
+---
+
+VI. Christological Resolution: Mercy Beyond Containment
+
+The broken quarantine is not the final word over creation. If quarantine names the mercy of restraint, Christ reveals a deeper mercy: not only the binding of destructive powers, but the redemption of the creatures those powers seek to possess. The Gospel does not leave humanity trapped between naive technological surrender and anxious metaphysical vigilance. It calls the whole person back to Christ, the true Lord of visible and invisible things.
+
+Christ exposes the counterfeit liturgies of safety, control, enhancement, and collective panic. Christ judges every system that asks human beings to surrender truth, embodiment, conscience, or worship in exchange for managed survival. Christ disarms the powers by refusing their economy of domination and by gathering the scattered, frightened, and compromised back into His own crucified and risen life.
+
+Restoration therefore cannot mean a nostalgic return to an earlier consensus or a private escape from history. It means faithful re-embodiment under Christ: bodies received as gifts, minds renewed in truth, communities ordered by repentance and love, and technologies judged by whether they serve creaturely life before God rather than counterfeit sovereignty.
