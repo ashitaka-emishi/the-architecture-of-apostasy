@@ -34,9 +34,9 @@ This book documents three vectors of that breach: the ancient architecture of in
 
 ---
 
-## III. The Resolution
+## III. Christological Resolution
 
-A cosmology of pure darkness is not a cosmology at all. It is a horror story. And while the pages that follow will not shrink from describing a genuinely horrifying set of realities, this book is not finally a work of despair.
+A cosmology of pure darkness is not a cosmology at all. It is a horror story. And while the pages that follow will not shrink from describing a genuinely horrifying set of realities, this book is not finally a work of despair. Its Christological resolution must govern the descent from the beginning, even when the argument has not yet arrived there in sequence.
 
 The quarantine was not merely an act of cosmic hygiene. It was an act of *mercy*, enacted by a God whose response to the corruption of His creation is not abandonment but rescue. The same divine intelligence that sealed the primordial abyss and cleansed the earth with the waters of judgment did not leave the human vessel without a future. He entered it.
 
