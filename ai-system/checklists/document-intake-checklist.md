@@ -19,6 +19,11 @@ The goal is not to publish more material. The goal is to preserve source materia
   - [ ] Raw archive item
   - [ ] Intake batch
 - [ ] Identify the proposed archive category and status labels from the current archive and method conventions.
+- [ ] For public reading copies, assign one or more initial review needs when applicable:
+  - [ ] Needs Source Strengthening
+  - [ ] Needs Rival Readings
+  - [ ] Needs Claim Narrowing
+  - [ ] Needs Pastoral Review
 - [ ] Identify the intended repository location:
   - [ ] `intake/` staging only
   - [ ] `raw/`
@@ -54,6 +59,7 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] Distinguish what the document proves from what it proposes.
 - [ ] Mark any strong claims that need visible citations.
 - [ ] Mark any contested claims that need rival readings.
+- [ ] Mark any overbroad claims that need claim narrowing.
 - [ ] Mark any psychological, medical, trauma-related, addiction-related, or abuse-related material that needs `ai-system/checklists/pastoral-risk-review.md`.
 
 ## Source And Evidence Review
@@ -95,6 +101,7 @@ The goal is not to publish more material. The goal is to preserve source materia
 - [ ] Revise before publication.
 - [ ] Convert or extract to another format.
 - [ ] Route to canonical review.
+- [ ] Route to initial AI status review using `ai-system/reviewers/essay-status-reviewers.yml`.
 - [ ] Hold in `raw/`.
 - [ ] Decline public use.
 

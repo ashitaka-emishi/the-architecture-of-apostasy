@@ -1,0 +1,93 @@
+# Initial AI reviewer routing for public essay status labels.
+#
+# These routes organize first-pass AI review only. Human editorial judgment remains
+# responsible for final doctrine, tone, publication, and canonical status.
+
+status_labels:
+  Needs Source Strengthening:
+    initial_reviewers:
+      - historical_theology
+      - biblical
+      - critique
+    prompt_files:
+      - ai-system/prompts/historical-theology-agent.md
+      - ai-system/prompts/biblical-agent.md
+      - ai-system/prompts/critique-agent.md
+    review_focus:
+      - Locate visible support for historical, doctrinal, biblical, or contemporary claims.
+      - Prefer primary sources and serious tradition-specific sources where possible.
+      - Identify claims that should be narrowed or held until evidence is stronger.
+    expected_output:
+      - source gaps
+      - candidate citations
+      - claim confidence
+      - recommended source-development action
+
+  Needs Rival Readings:
+    initial_reviewers:
+      - historical_theology
+      - philosophy
+      - critique
+    prompt_files:
+      - ai-system/prompts/historical-theology-agent.md
+      - ai-system/prompts/philosophy-agent.md
+      - ai-system/prompts/critique-agent.md
+    review_focus:
+      - Identify serious Christian, historical, philosophical, or secular objections.
+      - State rival readings charitably before responding.
+      - Distinguish disagreement from blindness, corruption, or bad faith.
+    expected_output:
+      - strongest objections
+      - affected claims
+      - caveats or rival-reading notes
+      - recommended revision targets
+
+  Needs Claim Narrowing:
+    initial_reviewers:
+      - critique
+      - editorial
+      - canonical_integration
+    prompt_files:
+      - ai-system/prompts/critique-agent.md
+      - ai-system/prompts/editorial-agent.md
+      - ai-system/prompts/canonical-integration-agent.md
+    review_focus:
+      - Find overbroad, totalizing, speculative, or insufficiently qualified claims.
+      - Separate doctrine, exegesis, analogy, historical judgment, prophetic warning, and speculative synthesis.
+      - Preserve force while making claims testable and proportionate.
+    expected_output:
+      - overreach findings
+      - proposed claim classifications
+      - status-safe wording targets
+      - canonical-risk notes
+
+  Needs Pastoral Review:
+    initial_reviewers:
+      - psychology
+      - critique
+      - editorial
+    prompt_files:
+      - ai-system/prompts/psychology-agent.md
+      - ai-system/prompts/critique-agent.md
+      - ai-system/prompts/editorial-agent.md
+      - ai-system/checklists/pastoral-risk-review.md
+    review_focus:
+      - Check for trauma, addiction, abuse, despair, institutional-wound, and authority-risk issues.
+      - Distinguish sin, suffering, sickness, coercion, culpability, and formation.
+      - Ensure the essay resolves toward Christ, repentance, protection, healing, or faithful return.
+    expected_output:
+      - pastoral-risk findings
+      - clinical/legal/emergency-boundary cautions
+      - reader-safety recommendations
+      - human consultation needs
+
+baseline_initial_review:
+  prompt_file: ai-system/prompts/essay-status-review-agent.md
+  applies_to:
+    - Public Essay
+    - Canonical Draft
+    - Foundation
+  review_focus:
+    - Confirm current catalog status labels.
+    - Decide which status-specific reviewers should run first.
+    - Recommend the smallest next editorial action.

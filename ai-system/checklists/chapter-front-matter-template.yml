@@ -1,5 +1,8 @@
 title: ""
 status: draft
+review_state: unreviewed
+review_needs:
+  - source-strengthening
 volume: ""
 canonical_terms:
   - Logos

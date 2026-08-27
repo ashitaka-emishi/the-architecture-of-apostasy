@@ -3,7 +3,7 @@ title: "The Architecture of Apostasy"
 ---
 
 ::: {.aoa-hero}
-![](gallery/aoa-logo-home.webp){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image"}
+![](gallery/aoa-logo-home.webp){.aoa-hero-logo fig-alt="The Architecture of Apostasy brand image, carrying the site's title treatment."}
 
 ## A path to be kept. A keeping under Christ. A measure not our own.
 

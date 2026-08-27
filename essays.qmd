@@ -71,7 +71,7 @@ These pieces are useful, but more specialized. They should support particular re
 
 These texts are preserved as public reading copies, but they are not the best first doorway into the project. Read them as draft or exploratory material that needs stronger review before it carries public weight.
 
-- [Introduction Draft](markdown/introduction-draft.md)
+- [Introduction](markdown/introduction.md)
 - [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md)
 - [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md)
 - [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md)
