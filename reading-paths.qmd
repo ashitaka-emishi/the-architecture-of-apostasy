@@ -71,7 +71,7 @@ This path focuses on Christmas, biblical feasts, Protestant critique, and the pa
 
 This path follows the library's most mythic and cosmological material.
 
-1. [Introduction Draft](markdown/introduction-draft.md)
+1. [Introduction](markdown/introduction.md)
 2. [Chapter 1: The Architecture of Pandemonium](markdown/chapter-1-the-architecture-of-pandemonium.md)
 3. [Chapter 2: The Primordial Narrative](markdown/chapter-2-the-primordial-narrative.md)
 4. [Chapter 3: The Broken Quarantine](markdown/chapter-3-the-broken-quarantine.md)

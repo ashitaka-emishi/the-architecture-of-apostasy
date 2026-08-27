@@ -17,6 +17,7 @@ The governing theological authority for this folder is:
 - `prompts/` contains reusable prompt templates for the canonical AI agents.
 - `schemas/` contains JSON schemas for agent output, chapter metadata, and the knowledge graph.
 - `graphs/` contains machine-readable concept maps.
+- `reviewers/` contains routing contracts for first-pass AI review workflows.
 - `roadmap/` contains machine-readable volume and chapter planning.
 - `checklists/` contains agent-facing tests and machine-readable templates.
 - `examples/` contains schema-valid examples for agent outputs and similar contracts.
@@ -42,6 +43,7 @@ ai-system/
 ├── prompts/      # Agent role prompts and workflows
 ├── schemas/      # JSON contracts for agent/chapter/graph data
 ├── graphs/       # Machine-readable concept dependency maps
+├── reviewers/    # Initial AI reviewer routing maps
 ├── roadmap/      # Machine-readable volume and chapter plans
 ├── checklists/   # Agent tests and templates
 ├── examples/     # Schema-valid example artifacts
@@ -74,6 +76,7 @@ Constitution
 - Systems Mapping Agent
 - Diagram Agent
 - Image Review Agent
+- Essay Status Review Agent
 - Critique Agent
 - Editorial Agent
 - Canonical Integration Agent
@@ -105,6 +108,23 @@ constitution.
 `graphs/concept-dependency-graph.yml` stores the seed dependency map for canonical
 concepts such as God, Logos, Creation, Principalities, Disordered Logos, Fallen
 Liturgy, Chemical Temple, Sacrifice, and Restoration.
+
+### Reviewers
+
+`reviewers/essay-status-reviewers.yml` maps public catalog status labels to the
+initial AI reviewers that should run before human editorial judgment.
+`reviewers/essay-initial-review-queue.yml` applies those routes to the current
+public essay catalog. Use these files when an essay carries any of these labels:
+
+- `Needs Source Strengthening`
+- `Needs Rival Readings`
+- `Needs Claim Narrowing`
+- `Needs Pastoral Review`
+
+The baseline first pass is `prompts/essay-status-review-agent.md`. That agent
+checks the current `library.qmd` status labels, identifies the concrete risks,
+and routes the piece to the right specialist prompts. It does not approve
+publication or canonical status.
 
 ### Roadmap
 
@@ -150,10 +170,11 @@ tables (the single source of truth for each page's Status/Category) into
 `ai-system/data/publication-status.json`.
 
 `scripts/publication_status_postprocess.py` injects a status/category/summary
-banner into each rendered page's content, using that registry, so a reader
-sees a page's publication status on the page itself, not only in the
+banner into rendered essay reading-copy pages, using that registry, so a
+reader sees an essay's publication status on the page itself, not only in the
 catalog. Like `seo_postprocess.py`, it edits the rendered `_site/` output
-only, never `markdown/` or `raw/`, and can verify with `--check`.
+only, never `markdown/` or `raw/`, removes stale banners from non-essay pages,
+and can verify with `--check`.
 
 Run it locally:
 
@@ -180,6 +201,17 @@ For a new chapter or concept:
 5. Validate chapter metadata against `schemas/chapter.schema.json` when structured metadata is added.
 6. Run the theological consistency check.
 7. Send the result through human editorial review before treating it as canonical.
+
+For an initial essay status review:
+
+1. Read the public Markdown reading copy and its `library.qmd` catalog row.
+2. Use `prompts/essay-status-review-agent.md`.
+3. Route status-specific work through `reviewers/essay-status-reviewers.yml`;
+   use `reviewers/essay-initial-review-queue.yml` for the current queue.
+4. Capture findings with `schemas/agent-output.schema.json` when structured
+   output is useful.
+5. Treat AI output as first-pass triage only; a human editor remains responsible
+   for final publication status, theological judgment, and public wording.
 
 For a new diagram:
 

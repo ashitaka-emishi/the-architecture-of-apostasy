@@ -172,6 +172,10 @@ a:focus {
   display: none;
 }
 
+main.content:has(.aoa-hero) #title-block-header {
+  display: none;
+}
+
 #quarto-content:has(.aoa-hero) {
   padding-top: 0;
 }

@@ -1,0 +1,111 @@
+# Current initial AI review queue for public essay status labels.
+#
+# Generated from the current `library.qmd` status model by editorial judgment.
+# This is first-pass triage only; human review remains responsible for final
+# publication status, theological judgment, and public wording.
+
+review_queue:
+  - file: markdown/ancient-and-modern-monopolies-of-faithless-religion.md
+    status_labels: [Needs Source Strengthening, Needs Rival Readings]
+    initial_reviewers: [historical_theology, biblical, philosophy, critique]
+
+  - file: markdown/chapter-1-the-architecture-of-pandemonium.md
+    status_labels: [Canonical Draft, Needs Claim Narrowing, Needs Source Strengthening]
+    initial_reviewers: [essay_status_review, critique, editorial, canonical_integration, historical_theology, biblical]
+
+  - file: markdown/chapter-2-the-primordial-narrative.md
+    status_labels: [Canonical Draft, Needs Claim Narrowing, Needs Source Strengthening]
+    initial_reviewers: [essay_status_review, critique, editorial, canonical_integration, historical_theology, biblical]
+
+  - file: markdown/chapter-3-the-broken-quarantine.md
+    status_labels: [Canonical Draft, Needs Claim Narrowing, Needs Pastoral Review]
+    initial_reviewers: [essay_status_review, critique, editorial, canonical_integration, psychology]
+
+  - file: markdown/introduction.md
+    status_labels: [Canonical Draft, Needs Claim Narrowing, Needs Source Strengthening]
+    initial_reviewers: [essay_status_review, critique, editorial, canonical_integration, historical_theology, biblical]
+
+  - file: markdown/legalism-license-and-the-elite-mediation-of-christ.md
+    status_labels: [Needs Claim Narrowing, Needs Rival Readings]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, philosophy]
+
+  - file: markdown/mormonism-and-christianity.md
+    status_labels: [Needs Source Strengthening, Needs Pastoral Review]
+    initial_reviewers: [historical_theology, biblical, critique, psychology, editorial]
+
+  - file: markdown/outside-the-camp-among-the-two-or-three.md
+    status_labels: [Needs Pastoral Review, Needs Rival Readings]
+    initial_reviewers: [psychology, critique, editorial, historical_theology, philosophy]
+
+  - file: markdown/pagan-origins-of-christmas.md
+    status_labels: [Needs Source Strengthening, Needs Rival Readings]
+    initial_reviewers: [historical_theology, biblical, critique, philosophy]
+
+  - file: markdown/protestantism-and-christmas.md
+    status_labels: [Needs Source Strengthening, Needs Rival Readings]
+    initial_reviewers: [historical_theology, biblical, critique, philosophy]
+
+  - file: markdown/the-anatomy-of-idolatry.md
+    status_labels: [Needs Rival Readings]
+    initial_reviewers: [historical_theology, philosophy, critique]
+
+  - file: markdown/the-angel-of-light-and-the-suffering-servant.md
+    status_labels: [Needs Pastoral Review, Needs Claim Narrowing]
+    initial_reviewers: [psychology, critique, editorial, canonical_integration]
+
+  - file: markdown/the-chemical-temple.md
+    status_labels: [Needs Pastoral Review, Needs Source Strengthening]
+    initial_reviewers: [psychology, critique, editorial, historical_theology, biblical]
+    note: Open PR 97 already addresses part of this source-strengthening work.
+
+  - file: markdown/the-cruciform-imperative.md
+    status_labels: [Needs Pastoral Review, Needs Claim Narrowing]
+    initial_reviewers: [psychology, critique, editorial, canonical_integration]
+
+  - file: markdown/the-cutting-of-the-flesh-and-the-heart-of-stone.md
+    status_labels: [Needs Source Strengthening]
+    initial_reviewers: [historical_theology, biblical, critique]
+
+  - file: markdown/the-formation-of-the-christian-biblical-canon.md
+    status_labels: [Needs Source Strengthening, Needs Rival Readings]
+    initial_reviewers: [historical_theology, biblical, critique, philosophy]
+
+  - file: markdown/the-great-divide-shadow-vs-substance.md
+    status_labels: [Needs Claim Narrowing, Needs Rival Readings]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, philosophy]
+
+  - file: markdown/the-law-of-liberty-in-love.md
+    status_labels: [Needs Claim Narrowing, Needs Rival Readings]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, philosophy]
+
+  - file: markdown/the-metaphysical-warfare-of-consciousness.md
+    status_labels: [Needs Claim Narrowing, Needs Source Strengthening]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, biblical]
+
+  - file: markdown/the-ordo-salutis-and-the-architecture-of-cosmic-reconciliation.md
+    status_labels: [Needs Claim Narrowing, Needs Rival Readings]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, philosophy]
+
+  - file: markdown/the-scattered-flock-and-the-hidden-remnant.md
+    status_labels: [Needs Pastoral Review, Needs Rival Readings]
+    initial_reviewers: [psychology, critique, editorial, historical_theology, philosophy]
+
+  - file: markdown/the-sin-leading-to-death.md
+    status_labels: [Needs Pastoral Review, Needs Claim Narrowing]
+    initial_reviewers: [psychology, critique, editorial, canonical_integration]
+
+  - file: markdown/the-true-timeline-of-messiah.md
+    status_labels: [Needs Source Strengthening, Needs Rival Readings]
+    initial_reviewers: [historical_theology, biblical, critique, philosophy]
+
+  - file: markdown/the-ungraspable-light.md
+    status_labels: [Needs Rival Readings, Needs Claim Narrowing]
+    initial_reviewers: [historical_theology, philosophy, critique, editorial, canonical_integration]
+
+  - file: markdown/the-whitewashed-cathedral-and-the-hidden-upper-room.md
+    status_labels: [Needs Claim Narrowing, Needs Rival Readings]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, philosophy]
+
+  - file: markdown/when-rule-becomes-devouring.md
+    status_labels: [Needs Claim Narrowing, Needs Rival Readings]
+    initial_reviewers: [critique, editorial, canonical_integration, historical_theology, philosophy]

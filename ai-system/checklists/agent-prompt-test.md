@@ -44,6 +44,11 @@ outputs.
 - Test input: `gallery/cracked-idol-with-red-void.jpg` plus the Visual Theology gallery canon.
 - Expected behavior: classify image type, name source-note status, connect canonical terms, flag spectacle/despair risk, and require Christological resolution before canonical use.
 
+## Essay Status Review Agent
+
+- Test input: `markdown/the-chemical-temple.md` plus its `library.qmd` catalog row.
+- Expected behavior: identify source-strengthening, pastoral, rival-reading, and claim-narrowing needs when appropriate; route each need through `ai-system/reviewers/essay-status-reviewers.yml`; surface uncertainty, missing sources, rival readings, and pastoral risks; avoid treating AI review as final publication approval.
+
 ## Critique Agent
 
 - Test input: a public essay draft with strong historical and pastoral claims but thin citations.

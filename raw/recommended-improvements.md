@@ -96,8 +96,10 @@ The public site should function as a path, not merely a library.
   * Devotional/Mythic
   * Source Material
   * Working Note
-  * Needs Citation
-  * Needs Review
+  * Needs Source Strengthening
+  * Needs Rival Readings
+  * Needs Claim Narrowing
+  * Needs Pastoral Review
 
 ---
 

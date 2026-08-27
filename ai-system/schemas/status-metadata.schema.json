@@ -54,7 +54,29 @@
     },
     "review_state": {
       "type": "string",
-      "enum": ["unreviewed", "needs-review", "reviewed", "owner-approved"]
+      "enum": [
+        "unreviewed",
+        "needs-source-strengthening",
+        "needs-rival-readings",
+        "needs-claim-narrowing",
+        "needs-pastoral-review",
+        "reviewed",
+        "owner-approved"
+      ]
+    },
+    "review_needs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "source-strengthening",
+          "rival-readings",
+          "claim-narrowing",
+          "pastoral-review"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
     },
     "christological_resolution": {
       "type": "string",

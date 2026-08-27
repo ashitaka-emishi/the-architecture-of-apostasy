@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Inject a publication-status banner into the rendered Quarto site.
+"""Inject publication-status banners into rendered essay pages.
 
 Mirrors seo_postprocess.py's approach: quarto render produces static HTML,
 and this script edits that rendered output in place using the registry from
@@ -13,6 +13,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -21,12 +22,18 @@ OUTPUT_DIR = ROOT / "_site"
 REGISTRY_PATH = ROOT / "ai-system" / "data" / "publication-status.json"
 INSERT_AFTER = '<main class="content" id="quarto-document-content">'
 BANNER_MARKER = "aoa-status-banner"
+BANNER_PATTERN = re.compile(
+    r'<div class="aoa-status-banner">.*?<p class="aoa-status-banner-links">.*?</p></div>',
+    re.DOTALL,
+)
 
 STATUS_STYLES = {
     "foundation": "accent",
     "canonical draft": "warning",
-    "needs citation": "warning",
-    "needs review": "warning",
+    "needs source strengthening": "warning",
+    "needs rival readings": "warning",
+    "needs claim narrowing": "warning",
+    "needs pastoral review": "warning",
     "devotional/mythic": "muted",
     "working note": "muted",
     "source material": "muted",
@@ -69,6 +76,10 @@ def render_banner(rel_path: str, entry: dict[str, object]) -> str:
     )
 
 
+def is_essay_page(rel_path: str, entry: dict[str, object]) -> bool:
+    return rel_path.startswith("markdown/") and str(entry.get("category")) != "Image"
+
+
 def rendered_pages(output_dir: Path) -> list[Path]:
     return sorted(
         path
@@ -88,6 +99,12 @@ def apply_banners() -> list[str]:
             continue
 
         text = path.read_text(encoding="utf-8")
+        if not is_essay_page(rel_path, entry):
+            if BANNER_MARKER in text:
+                text = BANNER_PATTERN.sub("", text, count=1)
+                path.write_text(text, encoding="utf-8")
+            continue
+
         if BANNER_MARKER in text:
             continue
         if INSERT_AFTER not in text:
@@ -111,8 +128,11 @@ def check_banners() -> list[str]:
         if entry is None:
             continue
         text = path.read_text(encoding="utf-8")
-        if BANNER_MARKER not in text:
-            errors.append(f"{rel_path} is missing the publication-status banner")
+        if is_essay_page(rel_path, entry):
+            if BANNER_MARKER not in text:
+                errors.append(f"{rel_path} is missing the publication-status banner")
+        elif BANNER_MARKER in text:
+            errors.append(f"{rel_path} has a publication-status banner but is not an essay page")
 
     return errors
 

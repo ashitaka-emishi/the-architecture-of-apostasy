@@ -1,4 +1,4 @@
-# INTRODUCTION: THE TERMS OF THE INQUIRY
+# Introduction
 
 ---
 

@@ -80,7 +80,7 @@ python3 ai-system/scripts/publication_status_postprocess.py
 python3 ai-system/scripts/seo_postprocess.py
 ```
 
-Check rendered SEO metadata and publication-status banners:
+Check rendered SEO metadata and essay publication-status banners:
 
 ```bash
 python3 ai-system/scripts/seo_postprocess.py --check
