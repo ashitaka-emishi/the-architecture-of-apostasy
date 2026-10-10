@@ -269,3 +269,12 @@
 - Description: A central cross stands between radiant Christ and Spirit imagery, a gathered crowd, chained figures, and shattered religious structures under judgment.
 - Notes: Source and inspection notes are available in `../raw/images/the-sin-leading-to-death.txt`.
 - Comments: Visual companion for "The Sin Leading to Death," picturing final hardening, judgment, and the witness of Christ.
+
+## One Gospel, Two Offices
+
+![One Gospel, Two Offices](../gallery/one-gospel-two-offices-james-and-paul.jpg)
+
+- File: `one-gospel-two-offices-james-and-paul.jpg`
+- Description: Two bearded men stand on either side of a doorway; an open scroll lies between them as a beam of light descends.
+- Notes: No readable OCR text detected.
+- Comments: Visual companion for "One Gospel, Two Offices," illustrating the essay's focus on James and Paul.

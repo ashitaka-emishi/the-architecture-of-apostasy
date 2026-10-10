@@ -33,6 +33,7 @@ These essays extend the core witness into institutions, worship, authority, embo
 - [The Alchemy of False Prophecy: A Rebuke of Modern Galatian Heresy](markdown/the-alchemy-of-false-prophecy.md)
 - [The Ordo Salutis and the Architecture of Cosmic Reconciliation](markdown/the-ordo-salutis-and-the-architecture-of-cosmic-reconciliation.md)
 - [The Metaphysical Warfare of Consciousness: A Philological Restoration of Biblical Soteriology](markdown/the-metaphysical-warfare-of-consciousness.md)
+- [One Gospel, Two Offices: James and Paul on Grace, Faith, and Works](markdown/one-gospel-two-offices-james-and-paul.md)
 
 ## Specialized Paths
 
