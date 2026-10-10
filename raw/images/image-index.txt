@@ -25,3 +25,4 @@
 ../../gallery/outside-the-camp.jpg	Outside the Camp
 ../../gallery/the-scattered-flock.jpg	The Scattered Flock
 ../../gallery/the-sin-leading-to-death.jpg	The Sin Leading to Death
+../../gallery/one-gospel-two-offices-james-and-paul.jpg	One Gospel, Two Offices

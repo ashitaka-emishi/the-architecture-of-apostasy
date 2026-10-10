@@ -36,3 +36,6 @@ build/
 
 /.quarto/
 **/*.quarto_ipynb
+
+/intake
+!/intake/README.md
