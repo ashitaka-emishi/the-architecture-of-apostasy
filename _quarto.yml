@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  post-render: scripts/optimize-site-output.sh
   render:
     - "about.qmd"
     - "core-concepts.qmd"
@@ -85,7 +86,7 @@ website:
         aria-label: GitHub repository
   page-footer:
     center: "The Architecture of Apostasy - A path to be kept. A keeping under Christ. A measure not our own."
-  search: true
+  search: false
 
 format:
   html:
